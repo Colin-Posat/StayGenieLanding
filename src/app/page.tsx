@@ -2,6 +2,7 @@
 
 import type React from "react"
 import { useState, useEffect } from "react"
+import Image from "next/image"
 
 export default function Home() {
   const [email, setEmail] = useState("")
@@ -299,20 +300,20 @@ export default function Home() {
         `}
       </style>
       
-      <div className="min-h-screen bg-white text-black overflow-hidden relative">
+      <div className={`min-h-screen bg-white text-black overflow-hidden relative ${isScrolled ? 'scrolled' : ''}`}>
         {/* Animated Stars */}
-        <img src="star.png" alt="" className="star star-1 animate-float-slow animate-twinkle" />
-        <img src="star.png" alt="" className="star star-2 animate-float-fast" />
-        <img src="star.png" alt="" className="star star-3 animate-float-gentle animate-twinkle" />
-        <img src="star.png" alt="" className="star star-4 animate-float" />
-        <img src="star.png" alt="" className="star star-5 animate-float-slow" />
-        <img src="star.png" alt="" className="star star-6 animate-float-fast animate-twinkle" />
-        <img src="star.png" alt="" className="star star-7 animate-float-gentle" />
-        <img src="star.png" alt="" className="star star-8 animate-float animate-twinkle" />
-        <img src="star.png" alt="" className="star star-9 animate-float-slow" />
-        <img src="star.png" alt="" className="star star-10 animate-float-fast" />
-        <img src="star.png" alt="" className="star star-11 animate-float-gentle animate-twinkle" />
-        <img src="star.png" alt="" className="star star-12 animate-float" />
+        <Image src="/star.png" alt="Decorative star" width={40} height={40} className="star star-1 animate-float-slow animate-twinkle" />
+        <Image src="/star.png" alt="Decorative star" width={32} height={32} className="star star-2 animate-float-fast" />
+        <Image src="/star.png" alt="Decorative star" width={48} height={48} className="star star-3 animate-float-gentle animate-twinkle" />
+        <Image src="/star.png" alt="Decorative star" width={36} height={36} className="star star-4 animate-float" />
+        <Image src="/star.png" alt="Decorative star" width={44} height={44} className="star star-5 animate-float-slow" />
+        <Image src="/star.png" alt="Decorative star" width={38} height={38} className="star star-6 animate-float-fast animate-twinkle" />
+        <Image src="/star.png" alt="Decorative star" width={34} height={34} className="star star-7 animate-float-gentle" />
+        <Image src="/star.png" alt="Decorative star" width={28} height={28} className="star star-8 animate-float animate-twinkle" />
+        <Image src="/star.png" alt="Decorative star" width={36} height={36} className="star star-9 animate-float-slow" />
+        <Image src="/star.png" alt="Decorative star" width={32} height={32} className="star star-10 animate-float-fast" />
+        <Image src="/star.png" alt="Decorative star" width={40} height={40} className="star star-11 animate-float-gentle animate-twinkle" />
+        <Image src="/star.png" alt="Decorative star" width={36} height={36} className="star star-12 animate-float" />
 
         {/* Modal */}
         {showModal && (
@@ -326,7 +327,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-2xl font-semibold mb-4 text-gray-900">Welcome to the family! ✨</h3>
                 <p className="text-gray-600 mb-8 leading-relaxed">
-                  Thanks for joining our waitlist! We'll notify you the moment StayGenie is ready to make your hotel search magical.
+                  Thanks for joining our waitlist! We&apos;ll notify you the moment StayGenie is ready to make your hotel search magical.
                 </p>
                 <button
                   onClick={closeModal}
@@ -345,7 +346,7 @@ export default function Home() {
             {/* Main brand */}
             <div className="mb-12 animate-fadeInUp">
               <div className="flex items-center justify-center mb-6">
-                <img src="images/staygenie.png" alt="Staygenie Logo" className="w-16 h-16 md:w-24 md:h-24 mr-6 animate-float" />
+                <Image src="/images/staygenie.png" alt="Staygenie Logo" width={96} height={96} className="w-16 h-16 md:w-24 md:h-24 mr-6 animate-float" />
                 <div>
                   <h1 className="text-5xl md:text-8xl font-bold tracking-tight bg-gradient-to-r from-black to-gray-600 bg-clip-text">
                     StayGenie
@@ -361,7 +362,7 @@ export default function Home() {
                 Your <span className="font-semibold italic">magical</span> hotel search assistant
               </h2>
               <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                Just tell us what you want in plain English, and we'll find the perfect stay for you. 
+                Just tell us what you want in plain English, and we&apos;ll find the perfect stay for you. 
                 <span className="block mt-2 font-medium">No endless filters. No headaches. Just magic.</span>
               </p>
             </div>
@@ -433,7 +434,7 @@ export default function Home() {
                 <div className="text-center feature-card">
                   <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
                     <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <img src="images/search-screenshot.png" alt="StayGenie search and results" className="max-w-full h-auto rounded-xl" />
+                      <Image src="/images/search-screenshot.png" alt="StayGenie search and results" width={400} height={300} className="max-w-full h-auto rounded-xl" />
                     </div>
                   </div>
                   <h4 className="font-semibold text-lg mb-2">🔍 Smart Search</h4>
@@ -444,7 +445,7 @@ export default function Home() {
                 <div className="text-center feature-card">
                   <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
                     <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <img src="images/refine-screenshot.png" alt="AI refine suggestions" className="max-w-full h-auto rounded-xl" />
+                      <Image src="/images/refine-screenshot.png" alt="AI refine suggestions" width={400} height={300} className="max-w-full h-auto rounded-xl" />
                     </div>
                   </div>
                   <h4 className="font-semibold text-lg mb-2">🎯 AI Refine</h4>
@@ -455,7 +456,7 @@ export default function Home() {
                 <div className="text-center feature-card">
                   <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
                     <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <img src="images/favorites-screenshot.png" alt="Favorites organized into trips" className="max-w-full h-auto rounded-xl" />
+                      <Image src="/images/favorites-screenshot.png" alt="Favorites organized into trips" width={400} height={300} className="max-w-full h-auto rounded-xl" />
                     </div>
                   </div>
                   <h4 className="font-semibold text-lg mb-2">❤️ Smart Trips</h4>
@@ -473,15 +474,11 @@ export default function Home() {
             </div>
           </div>
 
-
-
-
-
           {/* Footer */}
           <footer className="text-center border-t border-gray-100 pt-12">
             <div className="mb-8">
               <div className="flex items-center justify-center mb-4">
-                <img src="images/staygenie.png" alt="Staygenie Logo" className="w-8 h-8 mr-3" />
+                <Image src="/images/staygenie.png" alt="Staygenie Logo" width={32} height={32} className="w-8 h-8 mr-3" />
                 <span className="font-semibold text-lg">StayGenie</span>
               </div>
               <p className="text-gray-500 max-w-md mx-auto">
