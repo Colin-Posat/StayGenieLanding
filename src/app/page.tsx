@@ -359,7 +359,7 @@ export default function Home() {
             {/* Hero message */}
             <div className="mb-12 space-y-6 animate-fadeInUp" style={{animationDelay: '0.2s'}}>
               <h2 className="text-2xl md:text-4xl font-light text-gray-800 leading-relaxed">
-                Your <span className="font-semibold italic">magical</span> hotel search assistant
+                Your <span className="font-semibold italic">Magical</span> Hotel Search Assistant
               </h2>
               <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
                 Just tell us what you want in plain English, and we&apos;ll find the perfect stay for you. 
