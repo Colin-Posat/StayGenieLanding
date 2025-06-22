@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "StayGenie",
   description: "StayGenie - Your Ultimate Travel Companion",
+  other: {
+    'agd-partner-manual-verification': '',
+  },
 };
 
 export default function RootLayout({
