@@ -346,7 +346,7 @@ export default function Home() {
             {/* Main brand */}
             <div className="mb-12 animate-fadeInUp">
               <div className="flex items-center justify-center mb-6">
-                <Image src="/images/StayGenie.png" alt="Staygenie Logo" width={96} height={96} className="w-16 h-16 md:w-24 md:h-24 mr-6 animate-float" />
+                <Image src="/images/staygenielogo.png" alt="Staygenie Logo" width={96} height={96} className="w-16 h-16 md:w-24 md:h-24 mr-6 animate-float" />
                 <div>
                   <h1 className="text-5xl md:text-8xl font-bold tracking-tight bg-gradient-to-r from-black to-gray-600 bg-clip-text">
                     StayGenie
@@ -478,7 +478,7 @@ export default function Home() {
           <footer className="text-center border-t border-gray-100 pt-12">
             <div className="mb-8">
               <div className="flex items-center justify-center mb-4">
-                <Image src="/images/StayGenie.png" alt="Staygenie Logo" width={32} height={32} className="w-8 h-8 mr-3" />
+                <Image src="/images/staygenielogo.png" alt="Staygenie Logo" width={32} height={32} className="w-8 h-8 mr-3" />
                 <span className="font-semibold text-lg">StayGenie</span>
               </div>
               <p className="text-gray-500 max-w-md mx-auto">
