@@ -356,18 +356,58 @@ export default function Home() {
               </div>
             </div>
 
-            {/* Hero message */}
-            <div className="mb-12 space-y-6 animate-fadeInUp" style={{animationDelay: '0.2s'}}>
-              <h2 className="text-2xl md:text-4xl font-light text-gray-800 leading-relaxed">
-                Your <span className="font-semibold italic">Magical</span> Hotel Search Assistant
-              </h2>
-              <p className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-                Just tell us what you want in plain English, and we&apos;ll find the perfect stay for you. 
-                <span className="block mt-2 font-medium">No endless filters. No headaches. Just magic.</span>
-              </p>
-            </div>
 
+
+
+{/* App Preview Section */}
+<div className="mb-20 animate-fadeInUp" style={{animationDelay: '0.4s'}}>
+<h3 className="text-2xl md:text-3xl font-bold mb-12 bg-gradient-to-r from-black via-gray-700 to-black bg-clip-text text-transparent">
+  ✨ Your Magical Hotel Search Assistant ✨
+</h3>
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+                {/* Search & Results */}
+                <div className="text-center feature-card">
+                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
+                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
+                      <Image src="/images/search-screenshot.png" alt="StayGenie search and results" width={400} height={300} className="max-w-full h-auto rounded-xl" />
+                    </div>
+                  </div>
+                  <h4 className="font-semibold text-lg mb-2">🔍 Smart Search</h4>
+                  <p className="text-gray-600 text-sm">Tell us what you want in plain English and get perfect matches instantly</p>
+                </div>
+
+                {/* AI Refine */}
+                <div className="text-center feature-card">
+                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
+                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
+                      <Image src="/images/refine-screenshot.png" alt="AI refine suggestions" width={400} height={300} className="max-w-full h-auto rounded-xl" />
+                    </div>
+                  </div>
+                  <h4 className="font-semibold text-lg mb-2">🎯 AI Refine</h4>
+                  <p className="text-gray-600 text-sm">Get smart suggestions to narrow down your perfect stay</p>
+                </div>
+
+                {/* Favorites & Trips */}
+                <div className="text-center feature-card">
+                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
+                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
+                      <Image src="/images/favorites-screenshot.png" alt="Favorites organized into trips" width={400} height={300} className="max-w-full h-auto rounded-xl" />
+                    </div>
+                  </div>
+                  <h4 className="font-semibold text-lg mb-2">❤️ Smart Trips</h4>
+                  <p className="text-gray-600 text-sm">Your favorite hotels automatically organized into intuitive trips</p>
+                </div>
+              </div>
+            </div>
 {/* Waitlist Section */}
+
+            {/* Coming Soon Badge */}
+            <div className="mb-12 animate-fadeInUp" style={{animationDelay: '0.6s'}}>
+              <div className="inline-flex items-center px-8 py-4 border-2 border-black bg-white hover:bg-black hover:text-white transition-all duration-300 font-semibold tracking-wide uppercase text-sm rounded-full cursor-pointer hover-lift">
+                <div className="w-2 h-2 bg-green-500 rounded-full mr-3 animate-pulse-slow"></div>
+                Coming Soon
+              </div>
+            </div>
 <div className="max-w-2xl mx-auto mb-20 animate-fadeInUp" style={{animationDelay: '0.6s'}}>
   <div className="bg-gradient-to-br from-white to-gray-50 border-2 border-gray-200 rounded-2xl p-8 hover:shadow-xl hover:border-black/20 transition-all duration-500 transform hover:scale-[1.02]">
     <div className="text-center mb-8">
@@ -425,53 +465,6 @@ export default function Home() {
             </div>
           </div>
 
-
-{/* App Preview Section */}
-<div className="mb-20 animate-fadeInUp" style={{animationDelay: '0.4s'}}>
-              <h3 className="text-2xl md:text-3xl font-semibold mb-12 text-gray-800">See StayGenie in Action</h3>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-5xl mx-auto">
-                {/* Search & Results */}
-                <div className="text-center feature-card">
-                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
-                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <Image src="/images/search-screenshot.png" alt="StayGenie search and results" width={400} height={300} className="max-w-full h-auto rounded-xl" />
-                    </div>
-                  </div>
-                  <h4 className="font-semibold text-lg mb-2">🔍 Smart Search</h4>
-                  <p className="text-gray-600 text-sm">Tell us what you want in plain English and get perfect matches instantly</p>
-                </div>
-
-                {/* AI Refine */}
-                <div className="text-center feature-card">
-                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
-                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <Image src="/images/refine-screenshot.png" alt="AI refine suggestions" width={400} height={300} className="max-w-full h-auto rounded-xl" />
-                    </div>
-                  </div>
-                  <h4 className="font-semibold text-lg mb-2">🎯 AI Refine</h4>
-                  <p className="text-gray-600 text-sm">Get smart suggestions to narrow down your perfect stay</p>
-                </div>
-
-                {/* Favorites & Trips */}
-                <div className="text-center feature-card">
-                  <div className="bg-gray-50 rounded-2xl p-6 mb-6 hover-lift">
-                    <div className="bg-white rounded-xl shadow-lg p-4 flex items-center justify-center">
-                      <Image src="/images/favorites-screenshot.png" alt="Favorites organized into trips" width={400} height={300} className="max-w-full h-auto rounded-xl" />
-                    </div>
-                  </div>
-                  <h4 className="font-semibold text-lg mb-2">❤️ Smart Trips</h4>
-                  <p className="text-gray-600 text-sm">Your favorite hotels automatically organized into intuitive trips</p>
-                </div>
-              </div>
-            </div>
-
-            {/* Coming Soon Badge */}
-            <div className="mb-12 animate-fadeInUp" style={{animationDelay: '0.6s'}}>
-              <div className="inline-flex items-center px-8 py-4 border-2 border-black bg-white hover:bg-black hover:text-white transition-all duration-300 font-semibold tracking-wide uppercase text-sm rounded-full cursor-pointer hover-lift">
-                <div className="w-2 h-2 bg-green-500 rounded-full mr-3 animate-pulse-slow"></div>
-                Coming Soon
-              </div>
-            </div>
           </div>
 
           {/* Footer */}
