@@ -3,6 +3,7 @@
 import type React from "react"
 import { useState, useEffect } from "react"
 import Image from "next/image"
+import Head from "next/head"
 
 export default function Home() {
   const [email, setEmail] = useState("")
@@ -32,6 +33,10 @@ export default function Home() {
 
   return (
     <>
+      <Head>
+        <meta name="agd-partner-manual-verification" />
+      </Head>
+      
       <style>
         {`
           @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
