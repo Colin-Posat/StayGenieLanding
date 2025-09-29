@@ -2,7 +2,6 @@
 
 import type React from "react"
 import { useState, useEffect } from "react"
-import Image from "next/image"
 import Head from "next/head"
 
 export default function Home() {
@@ -49,7 +48,7 @@ export default function Home() {
     }, typingSpeed)
 
     return () => clearTimeout(timer)
-  }, [typedText, isDeleting, loopNum])
+  }, [typedText, isDeleting, loopNum, searchExamples])
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault()
@@ -218,7 +217,7 @@ export default function Home() {
                 </div>
                 <h3 className="text-3xl font-bold mb-4 text-gray-900">Welcome aboard!</h3>
                 <p className="text-gray-600 mb-10 leading-relaxed text-lg">
-                  You'll be the first to know when StayGenie launches.
+                  You&apos;ll be the first to know when StayGenie launches.
                 </p>
                 <button
                   onClick={closeModal}
@@ -252,7 +251,7 @@ export default function Home() {
             </h2>
             
             <p className="text-xl md:text-2xl text-gray-600 mb-16 max-w-2xl mx-auto font-light leading-relaxed">
-              AI that understands exactly what you're looking for
+              AI that understands exactly what you&apos;re looking for
             </p>
 
             {/* Typing Demo - Display Only Box */}
