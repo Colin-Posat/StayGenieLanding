@@ -33,7 +33,6 @@ function generateHotelDeepLink(
   if (checkInDate) params.append('checkin', checkInDate.toISOString().split('T')[0])
   if (checkOutDate) params.append('checkout', checkOutDate.toISOString().split('T')[0])
 
-  // Node-safe Base64:
   const occupancy = [{ adults, children: children > 0 ? [children] : [] }]
   try {
     const occupanciesString = Buffer.from(JSON.stringify(occupancy)).toString('base64')
@@ -57,13 +56,11 @@ function generateHotelDeepLink(
   return queryString ? `${url}?${queryString}` : url
 }
 
-// FIXED: params is now a Promise in Next.js 15+
 export default async function BlogPostPage({
   params,
 }: {
   params: Promise<{ city: string; slug: string }>
 }) {
-  // Await params before destructuring
   const { city, slug } = await params
 
   const post = getPost(city, slug)
@@ -149,6 +146,9 @@ function HotelCard({ index, hotel }: HotelCardProps) {
       )
     : `${DEEP_LINK_BASE_URL}`
 
+  // Priority loading for first 2 images, lazy for the rest
+  const shouldPriorityLoad = index < 2
+
   return (
     <article className="group">
       <div className="mb-3 flex items-center gap-3">
@@ -179,6 +179,8 @@ function HotelCard({ index, hotel }: HotelCardProps) {
             height={500}
             className="h-auto w-full transition-transform duration-500 group-hover:scale-[1.02]"
             unoptimized
+            loading={shouldPriorityLoad ? 'eager' : 'lazy'}
+            priority={shouldPriorityLoad}
             style={{ maxHeight: '280px', objectFit: 'cover' }}
           />
         ) : (
@@ -188,6 +190,9 @@ function HotelCard({ index, hotel }: HotelCardProps) {
               alt={hotel.name}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-[1.02]"
+              loading={shouldPriorityLoad ? 'eager' : 'lazy'}
+              priority={shouldPriorityLoad}
+              sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 800px"
             />
           </div>
         )}
