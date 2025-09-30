@@ -2,6 +2,7 @@
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { getAllCities, getCityPosts, getPost } from '@/lib/blog'
+import { Analytics } from '@vercel/analytics/next'
 
 export const dynamic = 'force-static'
 
@@ -57,13 +58,11 @@ function generateHotelDeepLink(
   return queryString ? `${url}?${queryString}` : url
 }
 
-// FIXED: params is now a Promise in Next.js 15+
 export default async function BlogPostPage({
   params,
 }: {
   params: Promise<{ city: string; slug: string }>
 }) {
-  // Await params before destructuring
   const { city, slug } = await params
 
   const post = getPost(city, slug)
@@ -111,6 +110,9 @@ export default async function BlogPostPage({
           </p>
         </footer>
       </main>
+      
+      {/* Vercel Analytics */}
+      <Analytics />
     </div>
   )
 }
