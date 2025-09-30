@@ -1,0 +1,79 @@
+[
+  {
+    "city": "new-york",
+    "query": "hotels in new york with rooftop bars",
+    "title": "10 Best Hotels in New York with Rooftop Bars",
+    "intro": "Discover the ultimate New York experience with stunning skyline views and craft cocktails at these hotels featuring exceptional rooftop bars.",
+    "hotels": [
+      {
+        "name": "The StandardHigh Line",
+        "image": "/images/hotels/standard-highline.jpg",
+        "description": "Le Bain rooftop bar offers 360-degree views of the Hudson River and Manhattan skyline with a plunge pool and dance floor.",
+        "highlight": "Rooftop plunge pool with DJ nights"
+      },
+      {
+        "name": "1 Hotel Brooklyn Bridge",
+        "image": "/images/hotels/1-hotel-brooklyn.jpg",
+        "description": "Rooftop bar with unobstructed views of the Brooklyn Bridge and Manhattan skyline, featuring sustainable cocktails and local ingredients.",
+        "highlight": "Brooklyn Bridge views with eco-friendly dining"
+      },
+      {
+        "name": "The William Vale",
+        "image": "/images/hotels/william-vale.jpg",
+        "description": "Westlight rooftop bar sits 22 floors up with panoramic views from the Empire State Building to the Statue of Liberty.",
+        "highlight": "One of NYC's highest rooftop bars"
+      },
+      {
+        "name": "The Knickerbocker",
+        "image": "/images/hotels/knickerbocker.jpg",
+        "description": "Times Square rooftop bar St. Cloud offers intimate seating with direct views of the New Year's Eve ball drop location.",
+        "highlight": "Times Square views year-round"
+      },
+      {
+        "name": "Mr. C Seaport",
+        "image": "/images/hotels/mr-c-seaport.jpg",
+        "description": "Bellini Bar rooftop features classic Italian cocktails with sweeping views of the Brooklyn Bridge and East River.",
+        "highlight": "Waterfront views with Italian flair"
+      }
+    ]
+  },
+  {
+    "city": "miami",
+    "query": "pet friendly hotels in miami beach",
+    "title": "10 Best Pet-Friendly Hotels in Miami Beach",
+    "intro": "Travel with your furry friend in style at these Miami Beach hotels that welcome pets with open arms and premium amenities.",
+    "hotels": [
+      {
+        "name": "Loews Miami Beach Hotel",
+        "image": "/images/hotels/loews-miami.jpg",
+        "description": "Loews Loves Pets program includes welcome gifts, pet room service menu, and no additional fees or weight limits.",
+        "highlight": "No pet fees or size restrictions"
+      },
+      {
+        "name": "The Setai Miami Beach",
+        "image": "/images/hotels/setai-miami.jpg",
+        "description": "Luxury oceanfront resort welcoming pets up to 25 lbs with premium pet beds and bowls provided.",
+        "highlight": "5-star luxury with pet amenities"
+      },
+      {
+        "name": "1 Hotel South Beach",
+        "image": "/images/hotels/1-hotel-south-beach.jpg",
+        "description": "Eco-luxury hotel welcomes two pets per room with organic pet treats and beach-friendly accommodations.",
+        "highlight": "Eco-friendly with beachfront access"
+      },
+      {
+        "name": "Kimpton Surfcomber Hotel",
+        "image": "/images/hotels/surfcomber.jpg",
+        "description": "No pet fees or size limits, plus hosted evening wine hour where pets are welcome guests.",
+        "highlight": "Unlimited pets, no fees"
+      },
+      {
+        "name": "W South Beach",
+        "image": "/images/hotels/w-south-beach.jpg",
+        "description": "P.A.W. program includes pet beds, toys, and treats with access to pet-friendly pool areas.",
+        "highlight": "Pets allowed at pool deck"
+      }
+   
+    ]
+  }
+]

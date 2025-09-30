@@ -34,3 +34,24 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Blog Content Structure
+
+Add markdown posts under `content/blog/{city}/{slug}.md` with frontmatter:
+
+```
+---
+title: "Best Boutique Hotels in Paris"
+date: "2025-09-01"
+city: "paris"
+excerpt: "Explore top boutique stays with Eiffel views."
+coverImage: "/images/paris-cover.jpg"
+---
+
+Markdown body here...
+```
+
+Routes:
+- `/blog` – list cities
+- `/blog/[city]` – list posts for a city
+- `/blog/[city]/[slug]` – post detail
