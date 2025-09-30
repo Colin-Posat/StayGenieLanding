@@ -8,6 +8,9 @@ export type Hotel = {
   image: string
   description: string
   highlight: string
+  price?: number
+  rating?: number
+  location?: string
 }
 
 export type BlogPost = {
@@ -21,33 +24,51 @@ export type BlogPost = {
   intro: string
   hotels: Hotel[]
   dateAdded?: string
+  excerpt?: string
 }
 
-const DATA_FILE = path.join(process.cwd(), 'content', 'blog-posts.json')
+const GENERATED_ARTICLES_DIR = path.join(process.cwd(), 'src', 'Generator', 'generated-articles')
 
-function loadPosts(): BlogPost[] {
-  if (!fs.existsSync(DATA_FILE)) {
-    fs.mkdirSync(path.dirname(DATA_FILE), { recursive: true })
-    fs.writeFileSync(DATA_FILE, JSON.stringify([], null, 2))
-    return []
-  }
-
-  const raw = fs.readFileSync(DATA_FILE, 'utf8')
-  const data = JSON.parse(raw)
-  
-  return data.map((item: any) => ({
-    ...item,
-    slug: item.slug || createSlug(item.query),
-    city: item.city.toLowerCase().trim(),
-    dateAdded: item.dateAdded || new Date().toISOString(),
-  }))
-}
-
-function createSlug(query: string): string {
-  return query
+function createSlug(title: string): string {
+  return title
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-|-$/g, '')
+}
+
+function loadPosts(): BlogPost[] {
+  if (!fs.existsSync(GENERATED_ARTICLES_DIR)) {
+    return []
+  }
+
+  const posts: BlogPost[] = []
+
+  // Read all city folders
+  const cityFolders = fs.readdirSync(GENERATED_ARTICLES_DIR).filter(item => {
+    const itemPath = path.join(GENERATED_ARTICLES_DIR, item)
+    return fs.statSync(itemPath).isDirectory()
+  })
+
+  // Read JSON files from each city folder
+  for (const city of cityFolders) {
+    const cityPath = path.join(GENERATED_ARTICLES_DIR, city)
+    const files = fs.readdirSync(cityPath).filter(file => file.endsWith('.json'))
+
+    for (const file of files) {
+      const filePath = path.join(cityPath, file)
+      const content = fs.readFileSync(filePath, 'utf8')
+      const data = JSON.parse(content)
+
+      posts.push({
+        ...data,
+        slug: data.slug || createSlug(data.title),
+        city: city.toLowerCase().trim(),
+        dateAdded: data.dateAdded || new Date().toISOString(),
+      })
+    }
+  }
+
+  return posts
 }
 
 export function getAllCities(): string[] {

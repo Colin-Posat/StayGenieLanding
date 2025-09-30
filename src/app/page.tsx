@@ -73,12 +73,7 @@ export default function Home() {
     <>
       <style dangerouslySetInnerHTML={{ __html: customStyles }} />
       <div className="min-h-screen bg-white relative overflow-hidden">
-      {/* Magical floating orbs */}
-      <div className="pointer-events-none fixed inset-0">
-        <div className="absolute top-20 left-10 w-64 h-64 bg-[#1df9ff]/10 rounded-full blur-3xl animate-float" />
-        <div className="absolute top-40 right-20 w-96 h-96 bg-[#5dfbff]/8 rounded-full blur-3xl animate-float-delayed" />
-        <div className="absolute bottom-32 left-1/4 w-80 h-80 bg-[#00d4e6]/10 rounded-full blur-3xl animate-float-slow" />
-      </div>
+
       {/* Modal */}
       {showModal && (
         <Modal onClose={() => setShowModal(false)}>
@@ -118,7 +113,7 @@ export default function Home() {
   alt="StayGenie Logo" 
   width={140} 
   height={140} 
-  className="inline-block w-20 h-20 sm:w-28 sm:h-28 lg:w-36 lg:h-36 drop-shadow-[0_0_15px_rgba(29,249,255,0.3)] -mt-0 sm:-mt-1 lg:-mt-2"
+  className="inline-block w-20 h-20 sm:w-28 sm:h-28 lg:w-36 lg:h-36 drop-shadow-[0_0_15px_rgba(29,249,255,0.3)] -mt-3 sm:-mt-4 lg:-mt-5"
 />
           </div>
           

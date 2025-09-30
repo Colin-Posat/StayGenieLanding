@@ -73,16 +73,7 @@ export default function RootLayout({
                 >
                   Blog
                 </Link>
-                <a 
-                  href="#waitlist" 
-                  className="px-3 sm:px-4 md:px-6 py-1.5 sm:py-2 md:py-2.5 font-semibold rounded-lg sm:rounded-xl transition-all duration-300 shadow-md hover:shadow-lg text-white text-xs sm:text-sm md:text-base hover:scale-105 active:scale-95 whitespace-nowrap" 
-                  style={{ 
-                    background: 'linear-gradient(to right, #1df9ff, #00d4e6)',
-                    boxShadow: '0 4px 6px -1px rgba(29, 249, 255, 0.2), 0 2px 4px -1px rgba(29, 249, 255, 0.1)' 
-                  }}
-                >
-                  Join Waitlist
-                </a>
+
               </div>
             </div>
           </div>

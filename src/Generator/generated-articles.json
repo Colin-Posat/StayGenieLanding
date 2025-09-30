@@ -1,0 +1,53 @@
+[
+  {
+    "city": "miami",
+    "query": "hotels in Miami that are pet friendly with spas",
+    "title": "6 Best Miami Hotels for Pet Owners with Spas",
+    "excerpt": "Finding hotels in Miami that cater to both pet lovers and spa enthusiasts can be quite a challenge. Many travelers struggle to locate accommodations that provide a welcoming atmosphere for their furry companions while also offering luxurious wellness options. This curated list not only simplifies your search but also ensures you and your pet can enjoy a relaxing getaway together.",
+    "intro": "Discover the top six Miami hotels that perfectly blend pet-friendly amenities with rejuvenating spa experiences.",
+    "hotels": [
+      {
+        "name": "SLS LUX Brickell",
+        "image": "https://static.cupid.travel/hotels/ex_a3022946_z.jpg",
+        "description": "Experience unparalleled luxury at SLS LUX Brickell, situated in the vibrant heart of Miami. Indulge in rejuvenating spa treatments, relax by the outdoor pool, or enjoy a match on the tennis court. With an exquisite restaurant, lively bar options, and beautifully appointed rooms featuring private balconies, your stay promises both comfort and sophistication.",
+        "highlight": "SLS LUX Brickell features a full spa and private balconies, ensuring relaxation and luxury for both you and your pet.",
+        "price": "$413/night"
+      },
+      {
+        "name": "Four Seasons Hotel Miami",
+        "image": "https://static.cupid.travel/hotels/ex_w7612h4301x0y0-3e82d136_z.jpg",
+        "description": "Experience unparalleled luxury at the Four Seasons Hotel Miami, where sophistication meets the vibrant energy of the city. Unwind at the full-service spa, indulge in exquisite dining at EDGE Brasserie with garden views, and enjoy exceptional amenities including two outdoor pools and a state-of-the-art health club. Make your Miami getaway unforgettable by reserving your stay today.",
+        "highlight": "Features a full-service spa and a state-of-the-art health club, complemented by two outdoor pools for relaxation.",
+        "price": "$675/night"
+      },
+      {
+        "name": "JW Marriott Miami",
+        "image": "https://static.cupid.travel/hotels/489586308.jpg",
+        "description": "Experience luxury at the JW Marriott Hotel Miami, located conveniently near the airport. Enjoy elegantly appointed rooms with 24-hour room service, indulge in rejuvenating treatments at the Salus Spa, and savor diverse dining options including American breakfast at Isabela's. With attractions like the Miami Beach Convention Center and Crandon Golf Course nearby, your stay promises relaxation and adventure.",
+        "highlight": "Includes a luxurious spa and 24-hour room service for a relaxing stay near Miami's attractions.",
+        "price": "$388/night"
+      },
+      {
+        "name": "The Ritz-Carlton Coconut Grove, Miami",
+        "image": "https://static.cupid.travel/hotels/ex_969591ef_z.jpg",
+        "description": "Discover unparalleled luxury at The Ritz-Carlton Coconut Grove, Miami, where indulgence meets comfort. Relax in elegantly designed rooms with private balconies and plush bedding, while rejuvenating at the full-service spa and enjoying delightful dining options. With an outdoor pool, sauna, and a 24-hour fitness center, your Miami getaway promises both relaxation and recreation.",
+        "highlight": "Features a full-service spa and sauna, complemented by elegantly designed rooms with private balconies for ultimate relaxation.",
+        "price": "$701/night"
+      },
+      {
+        "name": "Kimpton EPIC Hotel, an IHG Hotel",
+        "image": "https://static.cupid.travel/hotels/242170411.jpg",
+        "description": "Experience the luxurious comfort of Kimpton EPIC Hotel, where stunning floor-to-ceiling windows and private balconies offer breathtaking views of the Miami skyline. Enjoy top-notch amenities including a rejuvenating spa, fitness classes, and a rooftop pool, all while indulging in eco-friendly luxury. Perfectly situated in the heart of Miami's financial district, this pet-friendly hotel is your gateway to unforgettable adventures and waterfront dining.",
+        "highlight": "Includes a rejuvenating spa and pet-friendly accommodations with stunning skyline views from private balconies.",
+        "price": "$367/night"
+      },
+      {
+        "name": "The Grayson Hotel Miami Downtown",
+        "image": "https://static.cupid.travel/hotels/600837110.jpg",
+        "description": "Discover modern luxury at The Gabriel Miami Downtown, Curio Collection by Hilton, where guests are greeted with a complimentary drink and stunning views of the Miami skyline and Biscayne Bay from floor-to-ceiling windows. Indulge in a unique culinary experience at CVLTVRA, featuring tapas-style dishes with Latin and Mediterranean flair, and unwind at the DERMANOVA Med Spa and Salon after a workout in the state-of-the-art fitness center. Elevate your Miami getaway with an unforgettable stay at this exceptional hotel.",
+        "highlight": "Includes a rooftop garden and DERMANOVA Med Spa, offering relaxation alongside pet-friendly accommodations.",
+        "price": "$257/night"
+      }
+    ]
+  }
+]
