@@ -75,8 +75,16 @@ function generateHotelDeepLink(
   return queryString ? `${url}?${queryString}` : url
 }
 
-export default function BlogPostPage({ params }: { params: { city: string; slug: string } }) {
-  const post = getPost(params.city, params.slug)
+// Updated function signature to accept async params
+export default async function BlogPostPage({ 
+  params 
+}: { 
+  params: Promise<{ city: string; slug: string }> 
+}) {
+  // Await the params
+  const { city, slug } = await params
+  
+  const post = getPost(city, slug)
   if (!post) return notFound()
 
   return (
@@ -101,7 +109,7 @@ export default function BlogPostPage({ params }: { params: { city: string; slug:
           {/* Hotels List */}
           <div className="space-y-12">
             {post.hotels.map((hotel, index: number) => (
-              <HotelCard key={index} index={index} hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }} city={params.city} />
+              <HotelCard key={index} index={index} hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }} city={city} />
             ))}
           </div>
         </article>
