@@ -5,7 +5,7 @@ import { getAllCities, getCityPosts, getPost } from '@/lib/blog'
 
 export const dynamic = 'force-static'
 
-export function generateStaticParams() {
+export async function generateStaticParams() {
   const params: { city: string; slug: string }[] = []
   for (const city of getAllCities()) {
     for (const post of getCityPosts(city)) {
@@ -15,7 +15,6 @@ export function generateStaticParams() {
   return params
 }
 
-// Deep link generation function matching the working URL format
 const DEEP_LINK_BASE_URL = 'https://staygenie.nuitee.link'
 
 function generateHotelDeepLink(
@@ -26,44 +25,27 @@ function generateHotelDeepLink(
   checkInDate?: Date,
   checkOutDate?: Date,
   adults: number = 2,
-  children: number = 0,
-
+  children: number = 0
 ): string {
-  // CRITICAL: Must use the actual hotel system ID (like 'lp6fa17'), not a slug
   const url = `${DEEP_LINK_BASE_URL}/hotels/${hotelId}`
   const params = new URLSearchParams()
 
-  // Add check-in/check-out dates
-  if (checkInDate) {
-    params.append('checkin', checkInDate.toISOString().split('T')[0])
-  }
-  if (checkOutDate) {
-    params.append('checkout', checkOutDate.toISOString().split('T')[0])
-  }
+  if (checkInDate) params.append('checkin', checkInDate.toISOString().split('T')[0])
+  if (checkOutDate) params.append('checkout', checkOutDate.toISOString().split('T')[0])
 
-  // Add occupancy (encoded as base64)
+  // Node-safe Base64:
   const occupancy = [{ adults, children: children > 0 ? [children] : [] }]
   try {
-    const occupanciesString = btoa(JSON.stringify(occupancy))
+    const occupanciesString = Buffer.from(JSON.stringify(occupancy)).toString('base64')
     params.append('occupancies', occupanciesString)
   } catch (error) {
     console.warn('Failed to encode occupancy:', error)
   }
 
-  // Add refundable/cancellation if needed
-  if (isRefundable || tags?.includes('Free Cancellation')) {
-    params.append('needFreeCancellation', '1')
-  }
+  if (isRefundable || tags?.includes('Free Cancellation')) params.append('needFreeCancellation', '1')
+  if (tags?.includes('All Inclusive')) params.append('needAllInclusive', '1')
+  if (tags?.includes('Breakfast Included')) params.append('needBreakfast', '1')
 
-  // Handle other tags
-  if (tags?.includes('All Inclusive')) {
-    params.append('needAllInclusive', '1')
-  }
-  if (tags?.includes('Breakfast Included')) {
-    params.append('needBreakfast', '1')
-  }
-
-  // Add standard parameters that appear in working links
   params.append('language', 'en')
   params.append('currency', 'USD')
   params.append('source', 'direct')
@@ -75,15 +57,15 @@ function generateHotelDeepLink(
   return queryString ? `${url}?${queryString}` : url
 }
 
-// Updated function signature to accept async params
-export default async function BlogPostPage({ 
-  params 
-}: { 
-  params: Promise<{ city: string; slug: string }> 
+// FIXED: params is now a Promise in Next.js 15+
+export default async function BlogPostPage({
+  params,
+}: {
+  params: Promise<{ city: string; slug: string }>
 }) {
-  // Await the params
+  // Await params before destructuring
   const { city, slug } = await params
-  
+
   const post = getPost(city, slug)
   if (!post) return notFound()
 
@@ -91,7 +73,6 @@ export default async function BlogPostPage({
     <div className="min-h-screen bg-[#fefdfb]">
       <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
         <article className="prose prose-lg max-w-none">
-          {/* Header Section */}
           <header className="mb-12 border-b border-neutral-200 pb-8">
             <h1 className="mb-3 font-serif text-3xl leading-snug text-neutral-800 sm:text-4xl lg:text-5xl">
               {post.title}
@@ -102,23 +83,31 @@ export default async function BlogPostPage({
               </p>
             )}
             <div className="flex items-center gap-2 text-sm text-neutral-500">
-              <time>{new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+              <time>
+                {new Date().toLocaleDateString('en-US', {
+                  year: 'numeric',
+                  month: 'long',
+                  day: 'numeric',
+                })}
+              </time>
             </div>
           </header>
 
-          {/* Hotels List */}
           <div className="space-y-12">
             {post.hotels.map((hotel, index: number) => (
-              <HotelCard key={index} index={index} hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }} city={city} />
+              <HotelCard
+                key={index}
+                index={index}
+                hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }}
+                city={city}
+              />
             ))}
           </div>
         </article>
 
-        {/* Footer */}
         <footer className="mt-16 border-t border-neutral-200 pt-8">
           <p className="text-sm text-neutral-500">
-            Thanks for reading! I hope this helps with your trip planning. 
-            <span className="ml-1"></span>
+            Thanks for reading! I hope this helps with your trip planning.
           </p>
         </footer>
       </main>
@@ -127,43 +116,41 @@ export default async function BlogPostPage({
 }
 
 interface HotelCardProps {
-  index: number;
+  index: number
   hotel: {
-    image: string;
-    name: string;
-    highlight: string;
-    description: string;
-    price?: string;
-    rating?: number;
-    location?: string;
-    id?: string;
-    tags?: string[];
-    placeId?: string;
-    isRefundable?: boolean;
-  };
-  city: string;
+    image: string
+    name: string
+    highlight: string
+    description: string
+    price?: string
+    rating?: number
+    location?: string
+    id?: string
+    tags?: string[]
+    placeId?: string
+    isRefundable?: boolean
+  }
+  city: string
 }
 
-function HotelCard({ index, hotel}: HotelCardProps) {
+function HotelCard({ index, hotel }: HotelCardProps) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
-  
-  // Generate deep link for this hotel using the actual hotel ID
-  const hotelDeepLink = hotel.id 
+
+  const hotelDeepLink = hotel.id
     ? generateHotelDeepLink(
-        hotel.id, // Use the actual system hotel ID
+        hotel.id,
         hotel.name,
         hotel.tags,
         hotel.isRefundable,
-        undefined, // checkInDate - defaults to 30 days from now
-        undefined, // checkOutDate - defaults to 33 days from now
-        2, // adults
-        0, // children
+        undefined,
+        undefined,
+        2,
+        0
       )
-    : `${DEEP_LINK_BASE_URL}` // Fallback if no ID
+    : `${DEEP_LINK_BASE_URL}`
 
   return (
     <article className="group">
-      {/* Number Badge */}
       <div className="mb-3 flex items-center gap-3">
         <span className="flex h-8 w-8 items-center justify-center rounded-full bg-neutral-900 text-sm font-medium text-white">
           {index + 1}
@@ -171,7 +158,6 @@ function HotelCard({ index, hotel}: HotelCardProps) {
         <h2 className="font-serif text-2xl font-semibold text-neutral-900">{hotel.name}</h2>
       </div>
 
-      {/* Location */}
       {hotel.location && (
         <p className="mb-4 flex items-center gap-1.5 text-sm text-neutral-600">
           <MarkerIcon className="h-4 w-4" />
@@ -179,17 +165,16 @@ function HotelCard({ index, hotel}: HotelCardProps) {
         </p>
       )}
 
-     {/* Image - Now clickable with deep link */}
-      <a 
+      <a
         href={hotelDeepLink}
         target="_blank"
         rel="noopener noreferrer"
         className="relative mb-5 block cursor-pointer overflow-hidden rounded-lg"
       >
         {isExternalUrl ? (
-          <Image 
-            src={hotel.image} 
-            alt={hotel.name} 
+          <Image
+            src={hotel.image}
+            alt={hotel.name}
             width={800}
             height={500}
             className="h-auto w-full transition-transform duration-500 group-hover:scale-[1.02]"
@@ -198,16 +183,15 @@ function HotelCard({ index, hotel}: HotelCardProps) {
           />
         ) : (
           <div className="relative aspect-[16/9] w-full" style={{ maxHeight: '280px' }}>
-            <Image 
-              src={hotel.image} 
-              alt={hotel.name} 
+            <Image
+              src={hotel.image}
+              alt={hotel.name}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-[1.02]"
             />
           </div>
         )}
 
-        {/* Rating Badge */}
         {hotel.rating && (
           <div className="absolute left-3 top-3 rounded-md bg-white/95 px-2.5 py-1.5 backdrop-blur-sm">
             <div className="flex items-center gap-1">
@@ -217,7 +201,6 @@ function HotelCard({ index, hotel}: HotelCardProps) {
           </div>
         )}
 
-        {/* Price Badge */}
         {hotel.price && (
           <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
             <div className="text-right">
@@ -228,14 +211,12 @@ function HotelCard({ index, hotel}: HotelCardProps) {
         )}
       </a>
 
-      {/* Personal Note - Merged Highlight & Description */}
       <div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">
         <p className="text-base leading-relaxed text-neutral-700">
           <span className="font-semibold">{hotel.highlight}</span> {hotel.description}
         </p>
       </div>
 
-      {/* Price & CTA - Now using deep link */}
       <div className="flex items-center justify-between gap-4">
         <a
           href={hotelDeepLink}

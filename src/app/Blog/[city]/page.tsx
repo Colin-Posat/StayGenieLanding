@@ -8,8 +8,8 @@ export function generateStaticParams() {
   return getAllCities().map((city) => ({ city }))
 }
 
-export default function CityPage({ params }: { params: { city: string } }) {
-  const { city } = params
+export default async function CityPage({ params }: { params: Promise<{ city: string }> }) {
+  const { city } = await params
   const posts = getCityPosts(city)
   const cityName = city.replace(/-/g, ' ')
 
