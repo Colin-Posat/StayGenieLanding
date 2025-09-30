@@ -3,8 +3,43 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 
+// Add custom animations via style tag
+const customStyles = `
+  @keyframes shimmer {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+  
+  .animate-float {
+    animation: float 8s ease-in-out infinite;
+  }
+  
+  .animate-float-delayed {
+    animation: float-delayed 10s ease-in-out infinite;
+    animation-delay: 2s;
+  }
+  
+  .animate-float-slow {
+    animation: float-slow 12s ease-in-out infinite;
+    animation-delay: 4s;
+  }
+  
+  .animate-shimmer {
+    animation: shimmer 3s ease-in-out infinite;
+  }
+  
+  .animation-delay-300 {
+    animation-delay: 300ms;
+  }
+  
+  .animation-delay-700 {
+    animation-delay: 700ms;
+  }
+`;
+
 /**
- * Refined StayGenie landing page with improved spacing and professional formatting
+ * Sleek and polished StayGenie landing page
  */
 export default function Home() {
   const [email, setEmail] = useState("");
@@ -35,22 +70,26 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen relative overflow-hidden bg-gradient-to-br from-slate-50 via-white to-cyan-50/30">
-      {/* Refined decorative elements */}
-      <div className="pointer-events-none absolute right-0 top-0 h-[500px] w-[500px] rounded-full bg-cyan-400/10 blur-3xl" />
-      <div className="pointer-events-none absolute left-0 bottom-0 h-[600px] w-[600px] rounded-full bg-cyan-300/8 blur-3xl" />
-
+    <>
+      <style dangerouslySetInnerHTML={{ __html: customStyles }} />
+      <div className="min-h-screen bg-white relative overflow-hidden">
+      {/* Magical floating orbs */}
+      <div className="pointer-events-none fixed inset-0">
+        <div className="absolute top-20 left-10 w-64 h-64 bg-[#1df9ff]/10 rounded-full blur-3xl animate-float" />
+        <div className="absolute top-40 right-20 w-96 h-96 bg-[#5dfbff]/8 rounded-full blur-3xl animate-float-delayed" />
+        <div className="absolute bottom-32 left-1/4 w-80 h-80 bg-[#00d4e6]/10 rounded-full blur-3xl animate-float-slow" />
+      </div>
       {/* Modal */}
       {showModal && (
         <Modal onClose={() => setShowModal(false)}>
-          <div className="mx-auto w-full max-w-md rounded-3xl bg-white p-8 sm:p-10 shadow-2xl">
-            <div className="mx-auto mb-6 flex h-20 w-20 items-center justify-center rounded-full bg-gradient-to-br from-cyan-400 to-cyan-500 text-white shadow-lg">
-              <CheckIcon className="h-10 w-10" />
+          <div className="mx-auto w-full max-w-md rounded-2xl bg-white p-8 sm:p-10 shadow-2xl border border-gray-100">
+            <div className="mx-auto mb-6 flex h-16 w-16 items-center justify-center rounded-full bg-[#1df9ff] text-gray-900">
+              <CheckIcon className="h-8 w-8" />
             </div>
-            <h3 className="mb-3 text-center text-3xl font-bold tracking-tight text-gray-900">
+            <h3 className="mb-3 text-center text-2xl font-bold text-gray-900">
               Welcome aboard!
             </h3>
-            <p className="mb-8 text-center text-lg text-gray-600">
+            <p className="mb-8 text-center text-gray-600">
               You'll be the first to know when StayGenie launches.
             </p>
             <button
@@ -58,7 +97,7 @@ export default function Home() {
                 setShowModal(false);
                 setEmail("");
               }}
-              className="inline-flex w-full items-center justify-center rounded-2xl bg-gradient-to-r from-cyan-400 to-cyan-500 px-6 py-4 font-semibold text-white shadow-lg transition hover:shadow-xl hover:scale-[1.02] active:scale-[0.98] focus:outline-none focus:ring-4 focus:ring-cyan-200"
+              className="inline-flex w-full items-center justify-center rounded-xl bg-[#1df9ff] px-6 py-3 font-semibold text-gray-900 transition hover:bg-[#5dfbff] active:scale-[0.98] focus:outline-none focus:ring-2 focus:ring-[#1df9ff] focus:ring-offset-2"
             >
               Got it!
             </button>
@@ -66,35 +105,39 @@ export default function Home() {
         </Modal>
       )}
 
-      <main className="relative z-10 mx-auto max-w-7xl px-6 sm:px-8 lg:px-12">
-        {/* Hero Section - Refined Spacing */}
-        <section className="flex flex-col items-center justify-center text-center pt-24 sm:pt-32 lg:pt-40 pb-20 sm:pb-28">
-          <div className="mb-8 flex items-center justify-center">
-            <h1 className="text-6xl sm:text-7xl lg:text-8xl font-bold leading-none tracking-tight -mr-6 sm:-mr-10">
+      <main className="relative mx-auto max-w-6xl px-6 sm:px-8 lg:px-12">
+        {/* Hero Section */}
+      <section className="flex flex-col items-center justify-center text-center pt-12 sm:pt-16 lg:pt-20 pb-16 sm:pb-24">
+          <div className="mb-6 flex items-center justify-center">
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold leading-none tracking-tight -mr-4 sm:-mr-8">
               <span className="text-gray-900">Stay</span>
-              <span className="bg-gradient-to-r from-cyan-400 via-cyan-300 to-cyan-500 bg-clip-text text-transparent">
-                Genie
-              </span>
+              <span className="bg-gradient-to-r from-[#1df9ff] via-[#5dfbff] to-[#00d4e6] bg-clip-text text-transparent animate-shimmer bg-[length:200%_100%]">Genie</span>
             </h1>
             <img 
-              src="/images/staygenielogo.png" 
-              alt="StayGenie Logo" 
-              width={160} 
-              height={160} 
-              className="inline-block w-24 h-24 sm:w-32 sm:h-32 lg:w-40 lg:h-40 drop-shadow-2xl"
-            />
+  src="/images/staygenielogo.png" 
+  alt="StayGenie Logo" 
+  width={140} 
+  height={140} 
+  className="inline-block w-20 h-20 sm:w-28 sm:h-28 lg:w-36 lg:h-36 drop-shadow-[0_0_15px_rgba(29,249,255,0.3)] -mt-0 sm:-mt-1 lg:-mt-2"
+/>
           </div>
           
-          <p className="mx-auto mb-16 max-w-3xl text-xl sm:text-2xl lg:text-3xl text-gray-600 font-light leading-relaxed px-4">
+          <p className="mx-auto mb-12 max-w-2xl text-lg sm:text-xl lg:text-2xl text-gray-600 leading-relaxed px-4">
             The hotel search app that actually gets you. 
             <br className="hidden sm:block" />
-             Just describe what you want in plain English.
+            Just describe what you want in plain English.
           </p>
 
-          {/* Refined Typing Demo */}
-          <div className="mx-auto w-full max-w-4xl px-4">
-            <div className="rounded-3xl border border-cyan-200/50 bg-white/80 p-8 sm:p-10 shadow-xl backdrop-blur-sm">
-              <div className="min-h-[60px] flex items-center text-left text-lg sm:text-xl lg:text-2xl font-medium text-gray-800">
+          {/* Typing Demo */}
+                      <div className="mx-auto w-full max-w-3xl px-4">
+            <div className="rounded-2xl border-2 border-[#1df9ff]/30 bg-gray-50 p-4 sm:p-5 relative overflow-hidden group">
+              {/* Magical sparkle effect */}
+              <div className="absolute inset-0 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
+                <div className="absolute top-4 right-4 w-2 h-2 bg-[#1df9ff] rounded-full animate-ping" />
+                <div className="absolute bottom-6 left-8 w-1.5 h-1.5 bg-[#5dfbff] rounded-full animate-ping animation-delay-300" />
+                <div className="absolute top-1/2 right-12 w-1 h-1 bg-[#00d4e6] rounded-full animate-ping animation-delay-700" />
+              </div>
+              <div className="min-h-[32px] flex items-center text-left text-sm sm:text-base font-medium text-gray-900 relative z-10">
                 <TypingText
                   items={[
                     "Beachfront resorts in Maldives with private pools",
@@ -109,44 +152,44 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Features - Refined Grid */}
-        <section className="mx-auto mb-32 grid max-w-6xl gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-4">
+        {/* Features */}
+        <section className="mx-auto mb-24 grid max-w-5xl gap-6 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 px-4">
           <FeatureCard
             title="Instant Results"
             desc="Natural language search that understands exactly what you mean."
           >
-            <BoltIcon className="h-6 w-6" />
+            <BoltIcon className="h-5 w-5" />
           </FeatureCard>
 
           <FeatureCard
             title="Perfect Matches"
             desc="AI learns your preferences to deliver personalized recommendations."
           >
-            <BadgeCheckIcon className="h-6 w-6" />
+            <BadgeCheckIcon className="h-5 w-5" />
           </FeatureCard>
 
           <FeatureCard
             title="Always Free"
             desc="No hidden fees, no premium tiers. StayGenie is free forever."
           >
-            <CoinIcon className="h-6 w-6" />
+            <CoinIcon className="h-5 w-5" />
           </FeatureCard>
         </section>
 
-        {/* Waitlist - Refined Spacing */}
-        <section id="waitlist" className="mx-auto mb-32 max-w-2xl px-4">
-          <div className="rounded-3xl border border-cyan-200/40 bg-white/80 p-10 sm:p-12 shadow-2xl backdrop-blur-sm">
-            <div className="mb-10 text-center">
-              <h2 className="text-4xl sm:text-5xl font-bold tracking-tight text-gray-900 mb-4">
+        {/* Waitlist */}
+        <section id="waitlist" className="mx-auto mb-24 max-w-xl px-4">
+          <div className="rounded-2xl border-2 border-gray-200 bg-white p-8 sm:p-10">
+            <div className="mb-8 text-center">
+              <h2 className="text-3xl sm:text-4xl font-bold text-gray-900 mb-3">
                 Join the waitlist
               </h2>
-              <p className="text-lg sm:text-xl text-gray-600">Get notified when we launch</p>
+              <p className="text-lg text-gray-600">Get notified when we launch</p>
             </div>
 
-            <form onSubmit={onSubmit} className="space-y-5" noValidate>
-              <label className="group flex items-center gap-4 rounded-2xl border-2 border-gray-200 bg-white px-6 py-5 shadow-sm transition focus-within:border-cyan-400 focus-within:shadow-md">
-                <span className="text-gray-400 group-focus-within:text-cyan-500 flex-shrink-0">
-                  <AtIcon className="h-6 w-6" />
+            <form onSubmit={onSubmit} className="space-y-4" noValidate>
+              <label className="group flex items-center gap-3 rounded-xl border-2 border-gray-200 bg-white px-4 py-3.5 transition focus-within:border-[#1df9ff]">
+                <span className="text-gray-400 group-focus-within:text-[#1df9ff] flex-shrink-0">
+                  <AtIcon className="h-5 w-5" />
                 </span>
                 <input
                   type="email"
@@ -154,7 +197,7 @@ export default function Home() {
                   placeholder="your@email.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
-                  className="flex-1 bg-transparent text-lg text-gray-900 placeholder-gray-400 outline-none min-w-0"
+                  className="flex-1 bg-transparent text-base text-gray-900 placeholder-gray-400 outline-none min-w-0"
                   aria-label="Email address"
                   required
                 />
@@ -163,36 +206,37 @@ export default function Home() {
               <button
                 type="submit"
                 disabled={!email}
-                className="w-full rounded-2xl bg-gradient-to-r from-cyan-400 to-cyan-500 px-6 py-5 text-lg font-semibold text-white shadow-lg transition enabled:hover:shadow-xl enabled:hover:scale-[1.02] enabled:active:scale-[0.98] disabled:opacity-50 disabled:grayscale focus:outline-none focus:ring-4 focus:ring-cyan-200"
+                className="w-full rounded-xl bg-[#1df9ff] px-6 py-3.5 text-base font-semibold text-gray-900 transition-all duration-300 enabled:hover:bg-[#5dfbff] enabled:hover:shadow-[0_0_30px_rgba(29,249,255,0.4)] enabled:active:scale-[0.98] disabled:opacity-40 focus:outline-none focus:ring-2 focus:ring-[#1df9ff] focus:ring-offset-2"
               >
                 Secure your spot →
               </button>
             </form>
 
-            <ul className="mt-10 grid grid-cols-3 gap-6 text-center text-sm text-gray-600">
-              <li className="flex flex-col items-center gap-3">
-                <ShieldCheckIcon className="h-6 w-6 text-cyan-400" />
+            <ul className="mt-8 grid grid-cols-3 gap-4 text-center text-xs text-gray-600">
+              <li className="flex flex-col items-center gap-2">
+                <ShieldCheckIcon className="h-5 w-5 text-[#1df9ff]" />
                 <span className="font-medium">No spam ever</span>
               </li>
-              <li className="flex flex-col items-center gap-3">
-                <ClockIcon className="h-6 w-6 text-cyan-400" />
+              <li className="flex flex-col items-center gap-2">
+                <ClockIcon className="h-5 w-5 text-[#1df9ff]" />
                 <span className="font-medium">Early access</span>
               </li>
-              <li className="flex flex-col items-center gap-3">
-                <InfinityIcon className="h-6 w-6 text-cyan-400" />
+              <li className="flex flex-col items-center gap-2">
+                <InfinityIcon className="h-5 w-5 text-[#1df9ff]" />
                 <span className="font-medium">Free forever</span>
               </li>
             </ul>
           </div>
         </section>
 
-        {/* Footer - Refined */}
-        <footer className="border-t border-gray-200/50 py-12 text-center">
-          <p className="mb-2 text-base text-gray-600 font-medium">Making hotel search magical</p>
-          <p className="text-sm text-gray-400">© {new Date().getFullYear()} StayGenie. All rights reserved.</p>
+        {/* Footer */}
+        <footer className="border-t border-gray-200 py-10 text-center">
+          <p className="mb-1 text-sm text-gray-600">Making hotel search magical</p>
+          <p className="text-xs text-gray-400">© {new Date().getFullYear()} StayGenie. All rights reserved.</p>
         </footer>
       </main>
     </div>
+    </>
   );
 }
 
@@ -252,7 +296,7 @@ function TypingText({ items, pause = 2000, typeMs = 50, deleteMs = 30 }: {
   return (
     <span className="inline-block">
       {display}
-      <span className="ml-1 inline-block h-6 w-0.5 animate-pulse bg-cyan-500 align-middle" aria-hidden />
+      <span className="ml-1 inline-block h-5 w-0.5 animate-pulse bg-[#1df9ff] align-middle" aria-hidden />
     </span>
   );
 }
@@ -275,7 +319,7 @@ function Modal({ children, onClose }: { children: React.ReactNode; onClose: () =
 
   return (
     <div
-      className="fixed inset-0 z-50 grid place-items-center bg-black/60 p-4 backdrop-blur-md"
+      className="fixed inset-0 z-50 grid place-items-center bg-black/40 p-4 backdrop-blur-sm"
       role="dialog"
       aria-modal="true"
       onClick={onClose}
@@ -295,12 +339,12 @@ function Modal({ children, onClose }: { children: React.ReactNode; onClose: () =
 /** ---------------------- FeatureCard ---------------------- */
 function FeatureCard({ title, desc, children }: { title: string; desc: string; children: React.ReactNode }) {
   return (
-    <article className="rounded-3xl border border-cyan-200/30 bg-white/70 p-8 shadow-md backdrop-blur-sm transition hover:shadow-xl hover:scale-[1.02]">
-      <div className="mb-5 inline-flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-cyan-100 to-cyan-50 text-cyan-500">
+    <article className="rounded-xl border border-[#1df9ff]/30 bg-gradient-to-br from-[#1df9ff]/5 via-white to-[#5dfbff]/5 p-6 transition-all duration-300 hover:shadow-[0_0_30px_rgba(29,249,255,0.15)] hover:border-[#1df9ff]/50 hover:-translate-y-1 group">
+      <div className="mb-4 inline-flex h-10 w-10 items-center justify-center rounded-lg bg-gradient-to-br from-[#1df9ff] to-[#00d4e6] text-white shadow-sm group-hover:shadow-[0_0_20px_rgba(29,249,255,0.4)] transition-shadow duration-300">
         {children}
       </div>
-      <h3 className="mb-3 text-xl font-bold text-gray-900">{title}</h3>
-      <p className="text-base text-gray-600 leading-relaxed">{desc}</p>
+      <h3 className="mb-2 text-lg font-bold text-gray-900">{title}</h3>
+      <p className="text-sm text-gray-600 leading-relaxed">{desc}</p>
     </article>
   );
 }
