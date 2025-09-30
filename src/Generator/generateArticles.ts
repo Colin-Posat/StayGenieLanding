@@ -50,8 +50,8 @@ interface GenerateResponse {
 const ARTICLE_QUERIES: ArticleQuery[] = [
       {
     city: "london",
-    query: "family-friendly hotels in London with connecting rooms and kid activities",
-    title: "Best Family Hotels in London with Kids Activities"
+    query: "hotels with rooftop pools in miami",
+    title: "Best Hotels with Rooftop Pools in Miami"
   },
 
   // Add more queries here

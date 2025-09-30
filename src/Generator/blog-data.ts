@@ -1,5 +1,5 @@
 // Auto-generated blog data - DO NOT EDIT MANUALLY
-// Generated: 2025-09-30T21:32:15.232Z
+// Generated: 2025-09-30T23:02:51.377Z
 
 export interface BlogHotel {
   id: string; // System hotel ID for deep linking
@@ -26,75 +26,75 @@ export const blogPosts: Record<string, BlogPost[]> = {
   "london": [
     {
       "city": "london",
-      "slug": "best-family-hotels-in-london-with-kids-activities",
-      "title": "Best Family Hotels in London with Kids Activities",
-      "excerpt": "Finding the right family hotel in London can be quite the challenge, especially when you're looking for accommodations that offer connecting rooms and engaging activities for kids. This curated list not only highlights family-friendly hotels but also ensures that both parents and children can enjoy their stay, making it easier to create lasting memories. With the right information, you can focus on exploring the city's wonders without the stress of logistics.",
+      "slug": "best-hotels-with-rooftop-pools-in-miami",
+      "title": "Best Hotels with Rooftop Pools in Miami",
+      "excerpt": "Finding hotels with rooftop pools in Miami can be a daunting task, as the city is filled with numerous options that vary in style and amenities. This curated list not only highlights the best places to soak up the sun and enjoy stunning skyline views but also helps travelers make informed choices for a memorable stay. With our recommendations, you can easily find the perfect rooftop oasis to enhance your Miami experience.",
       "hotels": [
         {
-          "id": "lp2ca11",
-          "name": "The Kensington Hotel",
-          "image": "https://static.cupid.travel/hotels/56135227.jpg",
-          "description": "Experience the elegance of The Kensington Hotel, ideally situated in the heart of South Kensington, just steps away from renowned attractions like Harrods and The Royal Albert Hall. Guests can maintain their fitness routine in a state-of-the-art gym and savor exquisite cuisine at the stylish Town House Bar & Restaurant, perfect for any meal from afternoon tea to dinner. Book your stay today to indulge in luxurious accommodations and exceptional service.",
-          "highlight": "Offers connecting rooms, a state-of-the-art gym, and an on-site restaurant serving exquisite cuisine.",
-          "price": "$380/night",
-          "location": "109-113 Queens Gate",
-          "tags": [],
-          "isRefundable": false
-        },
-        {
-          "id": "lp1bfdf",
-          "name": "Hilton London Olympia",
-          "image": "https://static.cupid.travel/hotels/483770902.jpg",
-          "description": "Experience luxury at Hilton London Olympia, where spacious, air-conditioned rooms and stylish bathrooms create an elegant retreat in Kensington. Delight your palate at the Society Restaurant with its exquisite British cuisine, and unwind at the chic Society Bar or café. Perfectly located on Kensington High Street, the hotel offers easy access to the Olympia Exhibition Centre and the best of central London, making it an ideal choice for both relaxation and exploration.",
-          "highlight": "Offers family rooms, kids meals, and a concierge service for enhanced family-friendly experiences in London.",
-          "price": "$165/night",
-          "location": "380 Kensington High Street",
+          "id": "lp19c0d",
+          "name": "Mayfair House Hotel & Garden",
+          "image": "https://static.cupid.travel/hotels/502849201.jpg",
+          "description": "Experience unparalleled luxury at our boutique hotel in Coconut Grove, featuring a stunning rooftop pool, a stylish bar, and exquisite gourmet dining. Enjoy spacious accommodations equipped with advanced technology, including 65-inch flat-screen TVs and options for private outdoor showers. Stay fit at our state-of-the-art 24-hour fitness center, ensuring your every need is met for a memorable stay.",
+          "highlight": "Boasts a stunning rooftop pool, stylish bar, and spacious accommodations with advanced technology in a luxurious boutique setting.",
+          "price": "$340/night",
+          "location": "3000 Florida Avenue",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp1bf57",
-          "name": "The Waldorf Hilton, London",
-          "image": "https://static.cupid.travel/hotels/ex_c46594db_z.jpg",
-          "description": "Experience timeless elegance at The Waldorf Hilton, a historic hotel in London's West End that boasts spacious rooms featuring modern amenities and luxurious rain shower bathrooms. Delight your palate at the chandelier-lit Homage Grand Salon, offering a refined menu of modern European and British dishes, along with exquisite afternoon tea. For a chic retreat, head to Good Godfrey’s Bar, where you can enjoy classic cocktails in a stylish atmosphere adorned with beautiful columns.",
-          "highlight": "Offers spacious connecting rooms, a health club, and a concierge service for family convenience and enjoyment.",
-          "price": "$406/night",
-          "location": "Aldwych",
+          "id": "lp8a284",
+          "name": "Novotel Miami Brickell",
+          "image": "https://static.cupid.travel/hotels/294498726.jpg",
+          "description": "Discover the Novotel Miami Brickell, where a stunning rooftop pool awaits for ultimate relaxation under the Miami sun. Each modern room is thoughtfully equipped with air conditioning, a flat-screen TV, and a private bathroom with complimentary toiletries for your comfort. With convenient facilities including 7 meeting rooms, a business center, an on-site bar, and a welcoming restaurant, this hotel perfectly caters to both business and leisure travelers.",
+          "highlight": "Offers a stunning rooftop pool with outdoor furniture and a heated swimming area for relaxation under the Miami sun.",
+          "price": "$228/night",
+          "location": "1500 SW 1st Avenue",
+          "tags": [],
+          "isRefundable": false
+        },
+        {
+          "id": "lp65555d0e",
+          "name": "Private Oasis at Arya",
+          "image": "https://static.cupid.travel/hotels/317890860.jpg",
+          "description": "Experience luxury at Private Oasis at Arya, where a stunning rooftop pool offers breathtaking sea views, creating the perfect atmosphere for relaxation in Miami. This sustainable hotel features modern amenities, including free WiFi, private parking, and air-conditioned units equipped with flat-screen TVs and kitchens. Families will love the indoor play area and the hotel's proximity to local attractions, ensuring a memorable stay for guests of all ages.",
+          "highlight": "Boasts a stunning rooftop pool with breathtaking sea views and offers family rooms along with modern amenities.",
+          "price": "$207/night",
+          "location": "2889 McFarlane Rd",
+          "tags": [],
+          "isRefundable": false
+        },
+        {
+          "id": "lp4b5f5",
+          "name": "W Miami",
+          "image": "https://static.cupid.travel/hotels/ex_w3997h2661x3y6-d6181390_z.jpg",
+          "description": "Experience the luxurious allure of W Miami, perfectly situated for easy access to shopping and nightlife. Enjoy rejuvenating moments at the stunning outdoor pool or the rooftop terrace with panoramic views of the skyline. Indulge in culinary delights at Panther Coffee and unwind in elegantly designed guest rooms equipped with modern amenities for a stylish and comfortable stay.",
+          "highlight": "Boasts a stunning rooftop terrace offering panoramic skyline views and a rejuvenating outdoor pool for a luxurious retreat.",
+          "price": "$411/night",
+          "location": "485 Brickell Avenue",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp1a252",
-          "name": "Doubletree By Hilton London Kensington",
-          "image": "https://static.cupid.travel/hotels/484061283.jpg",
-          "description": "Discover a serene retreat at DoubleTree By Hilton London Kensington, where a beautifully landscaped private garden offers a perfect escape from city life. Guests in Executive rooms can enjoy exclusive access to the Club Lounge, featuring complimentary snacks and drinks. Savor delectable cuisine at Ken's Restaurant & Bar, making your stay both relaxing and indulgent in the heart of Kensington.",
-          "highlight": "DoubleTree By Hilton London Kensington offers family rooms, kids meals, and a private garden retreat for enjoyable family stays.",
-          "price": "$316/night",
-          "location": "100 Cromwell Road",
+          "id": "lp42e7e",
+          "name": "Kimpton EPIC Hotel, an IHG Hotel",
+          "image": "https://static.cupid.travel/hotels/242170411.jpg",
+          "description": "Experience the breathtaking views and eco-friendly luxury at Kimpton EPIC Hotel, where each guestroom features floor-to-ceiling windows and a private balcony. Enjoy relaxation at the spa, stay active with fitness classes, and take a refreshing dip in the rooftop pool while soaking in the stunning Miami skyline. Conveniently located in the heart of Miami's financial district, this pet-friendly hotel also offers easy access to major attractions and a full-service marina for a truly unforgettable stay.",
+          "highlight": "Boasts a stunning rooftop pool with breathtaking views of the Miami skyline and eco-friendly luxury amenities.",
+          "price": "$411/night",
+          "location": "270 Biscayne Blvd Way",
           "tags": [],
-          "isRefundable": false
+          "isRefundable": true
         },
         {
-          "id": "lp1be07",
-          "name": "The Mayfair Townhouse – an Iconic Luxury Hotel",
-          "image": "https://static.cupid.travel/hotels/ex_1fbbbb7d_z.jpg",
-          "description": "Discover the elegance of The Mayfair Townhouse, a luxurious hotel in the heart of London that perfectly blends sophistication with comfort. Guests can enjoy modern air-conditioned rooms featuring free minibars and designer toiletries, alongside a fitness center and serene garden for relaxation. With attentive multilingual staff and convenient amenities like a 24-hour front desk and concierge services, every aspect of your stay is designed for your utmost convenience.",
-          "highlight": "Offers connecting rooms and a serene garden, along with a fitness center for family-friendly activities.",
-          "price": "$464/night",
-          "location": "Half Moon Street",
+          "id": "lp84ad1",
+          "name": "EAST Miami",
+          "image": "https://static.cupid.travel/hotels/493547913.jpg",
+          "description": "EAST Miami redefines luxury with its four exquisite pools, a 24-hour fitness center, and an on-site restaurant serving diverse culinary delights. Guests can savor authentic Uruguayan cuisine at Quinto or unwind at the rooftop bar, Sugar, on the 40th level, where stunning city views await. Nestled in Brickell City Centre, the hotel offers easy access to upscale shopping, dining, and nearby attractions, making it the perfect choice for an unforgettable getaway.",
+          "highlight": "Provides a stunning rooftop bar on the 40th level with breathtaking city views and multiple exquisite pools.",
+          "price": "$401/night",
+          "location": "788 Brickell Plaza",
           "tags": [],
-          "isRefundable": false
-        },
-        {
-          "id": "lp2a32d",
-          "name": "The Berkeley, Maybourne Hotel Collection",
-          "image": "https://static.cupid.travel/hotels/539860678.jpg",
-          "description": "Experience unparalleled luxury at The Berkeley, a 5-star hotel nestled in the heart of Knightsbridge. Delight your palate at the Michelin-starred Marcus Wareing restaurant and indulge in the award-winning afternoon tea at The Collins Room. With elegant accommodations featuring fine Italian marble bathrooms and a prime location near Hyde Park and Harrods, this hotel offers the perfect blend of comfort and convenience for an unforgettable stay.",
-          "highlight": "Offers kids meals, a heated pool, and spa services for a family-friendly experience in luxury accommodations.",
-          "price": "$1164/night",
-          "location": "Wilton Place",
-          "tags": [],
-          "isRefundable": false
+          "isRefundable": true
         }
       ]
     }
