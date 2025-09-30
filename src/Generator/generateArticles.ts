@@ -13,6 +13,39 @@ interface ArticleQuery {
   title: string;
 }
 
+interface Hotel {
+  id?: string;
+  name: string;
+  image: string;
+  highlight: string;
+  description: string;
+  price?: string;
+  rating?: number;
+  location?: string;
+  tags?: string[];
+  isRefundable?: boolean;
+}
+
+interface Article {
+  city: string;
+  title: string;
+  excerpt: string;
+  hotels: Hotel[];
+}
+
+interface ErrorResult {
+  query: ArticleQuery;
+  error: string;
+}
+
+interface GenerateResponse {
+  totalRequested: number;
+  totalGenerated: number;
+  totalFailed: number;
+  articles: Article[];
+  errors?: ErrorResult[];
+}
+
 // Define your article queries here
 const ARTICLE_QUERIES: ArticleQuery[] = [
   {
@@ -59,7 +92,7 @@ async function generateArticles() {
       throw new Error(`HTTP error! status: ${response.status}, body: ${errorText}`);
     }
 
-    const data = await response.json();
+    const data = await response.json() as GenerateResponse;
     
     console.log(`\n${'='.repeat(60)}`);
     console.log(`✅ Generation Complete!`);
@@ -70,15 +103,15 @@ async function generateArticles() {
     
     if (data.errors && data.errors.length > 0) {
       console.log(`\n❌ Errors:`);
-      data.errors.forEach((err: any) => {
+      data.errors.forEach((err: ErrorResult) => {
         console.log(`  - ${err.query.title}: ${err.error}`);
       });
     }
 
     // Validate that hotel IDs are present
     let missingIds = 0;
-    data.articles.forEach((article: any) => {
-      article.hotels.forEach((hotel: any) => {
+    data.articles.forEach((article: Article) => {
+      article.hotels.forEach((hotel: Hotel) => {
         if (!hotel.id) {
           console.warn(`⚠️  Missing hotel ID for: ${hotel.name} in ${article.city}`);
           missingIds++;
@@ -110,7 +143,7 @@ async function generateArticles() {
       fs.mkdirSync(articlesBaseDir, { recursive: true });
     }
 
-    data.articles.forEach((article: any) => {
+    data.articles.forEach((article: Article) => {
       // Create city folder if it doesn't exist
       const cityDir = path.join(articlesBaseDir, article.city);
       if (!fs.existsSync(cityDir)) {
@@ -130,7 +163,7 @@ async function generateArticles() {
         generatedAt: new Date().toISOString(),
         hotelCount: article.hotels.length,
         // Validate hotel IDs
-        hotelsWithIds: article.hotels.filter((h: any) => h.id).length,
+        hotelsWithIds: article.hotels.filter((h: Hotel) => h.id).length,
         // Deep link format example
         deepLinkExample: article.hotels[0]?.id 
           ? `https://staygenie.nuitee.link/hotels/${article.hotels[0].id}`
@@ -143,7 +176,7 @@ async function generateArticles() {
       
       // Print hotel IDs for verification
       console.log(`   Hotels (${article.hotels.length}):`);
-      article.hotels.forEach((hotel: any, idx: number) => {
+      article.hotels.forEach((hotel: Hotel, idx: number) => {
         console.log(`     ${idx + 1}. ${hotel.name} - ID: ${hotel.id || '❌ MISSING'}`);
       });
       console.log('');
@@ -171,7 +204,22 @@ async function generateArticles() {
 }
 
 // Generate a Next.js compatible TypeScript file for blog data
-function generateBlogDataFile(articles: any[], outputPath: string) {
+function generateBlogDataFile(articles: Article[], outputPath: string) {
+  type ArticleWithSlug = Article & { slug: string };
+  const groupedArticles = articles.reduce((acc: Record<string, ArticleWithSlug[]>, article: Article) => {
+    if (!acc[article.city]) {
+      acc[article.city] = [];
+    }
+    acc[article.city].push({
+      city: article.city,
+      slug: createSlug(article.title),
+      title: article.title,
+      excerpt: article.excerpt,
+      hotels: article.hotels
+    });
+    return acc;
+  }, {} as Record<string, ArticleWithSlug[]>);
+
   const blogData = `// Auto-generated blog data - DO NOT EDIT MANUALLY
 // Generated: ${new Date().toISOString()}
 
@@ -197,19 +245,7 @@ export interface BlogPost {
 }
 
 export const blogPosts: Record<string, BlogPost[]> = ${JSON.stringify(
-  articles.reduce((acc: any, article: any) => {
-    if (!acc[article.city]) {
-      acc[article.city] = [];
-    }
-    acc[article.city].push({
-      city: article.city,
-      slug: createSlug(article.title),
-      title: article.title,
-      excerpt: article.excerpt,
-      hotels: article.hotels
-    });
-    return acc;
-  }, {}),
+  groupedArticles,
   null,
   2
 )};

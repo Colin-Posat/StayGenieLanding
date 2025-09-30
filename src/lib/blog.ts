@@ -14,14 +14,14 @@ export type Hotel = {
 }
 
 export type BlogPost = {
-  aiInsight: any
-  hotelName: string
-  hotelImage: string | StaticImport
+  aiInsight?: unknown
+  hotelName?: string
+  hotelImage?: string | StaticImport
   slug: string
   city: string
-  query: string
+  query?: string
   title: string
-  intro: string
+  intro?: string
   hotels: Hotel[]
   dateAdded?: string
   excerpt?: string
@@ -57,12 +57,14 @@ function loadPosts(): BlogPost[] {
     for (const file of files) {
       const filePath = path.join(cityPath, file)
       const content = fs.readFileSync(filePath, 'utf8')
-      const data = JSON.parse(content)
+      const data = JSON.parse(content) as Partial<BlogPost>
 
       posts.push({
         ...data,
-        slug: data.slug || createSlug(data.title),
+        slug: data.slug || createSlug(data.title || ''),
         city: city.toLowerCase().trim(),
+        title: data.title || '',
+        hotels: data.hotels || [],
         dateAdded: data.dateAdded || new Date().toISOString(),
       })
     }

@@ -2,6 +2,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
+import Image from 'next/image';
 
 // Add custom animations via style tag
 const customStyles = `
@@ -85,7 +86,7 @@ export default function Home() {
               Welcome aboard!
             </h3>
             <p className="mb-8 text-center text-gray-600">
-              You'll be the first to know when StayGenie launches.
+              You&apos;ll be the first to know when StayGenie launches.
             </p>
             <button
               onClick={() => {
@@ -108,13 +109,13 @@ export default function Home() {
               <span className="text-gray-900">Stay</span>
               <span className="bg-gradient-to-r from-[#1df9ff] via-[#5dfbff] to-[#00d4e6] bg-clip-text text-transparent animate-shimmer bg-[length:200%_100%]">Genie</span>
             </h1>
-            <img 
-  src="/images/staygenielogo.png" 
-  alt="StayGenie Logo" 
-  width={140} 
-  height={140} 
-  className="inline-block w-20 h-20 sm:w-28 sm:h-28 lg:w-36 lg:h-36 drop-shadow-[0_0_15px_rgba(29,249,255,0.3)] -mt-3 sm:-mt-4 lg:-mt-5"
-/>
+            <Image 
+              src="/images/staygenielogo.png" 
+              alt="StayGenie Logo" 
+              width={140} 
+              height={140} 
+              className="inline-block w-20 h-20 sm:w-28 sm:h-28 lg:w-36 lg:h-36 drop-shadow-[0_0_15px_rgba(29,249,255,0.3)] -mt-3 sm:-mt-4 lg:-mt-5"
+            />
           </div>
           
           <p className="mx-auto mb-12 max-w-2xl text-lg sm:text-xl lg:text-2xl text-gray-600 leading-relaxed px-4">

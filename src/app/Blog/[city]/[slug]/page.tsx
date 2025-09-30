@@ -100,8 +100,8 @@ export default function BlogPostPage({ params }: { params: { city: string; slug:
 
           {/* Hotels List */}
           <div className="space-y-12">
-            {post.hotels.map((hotel: any, index: number) => (
-              <HotelCard key={index} index={index} hotel={hotel} city={params.city} />
+            {post.hotels.map((hotel, index: number) => (
+              <HotelCard key={index} index={index} hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }} city={params.city} />
             ))}
           </div>
         </article>
@@ -118,27 +118,25 @@ export default function BlogPostPage({ params }: { params: { city: string; slug:
   )
 }
 
-function HotelCard({
-  index,
-  hotel,
-  city,
-}: {
-  index: number
-  hotel: { 
-    image: string
-    name: string
-    highlight: string
-    description: string
-    price?: string
-    rating?: number
-    location?: string
-    id?: string
-    tags?: string[]
-    placeId?: string
-    isRefundable?: boolean
-  }
-  city: string
-}) {
+interface HotelCardProps {
+  index: number;
+  hotel: {
+    image: string;
+    name: string;
+    highlight: string;
+    description: string;
+    price?: string;
+    rating?: number;
+    location?: string;
+    id?: string;
+    tags?: string[];
+    placeId?: string;
+    isRefundable?: boolean;
+  };
+  city: string;
+}
+
+function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
   
   // Generate deep link for this hotel using the actual hotel ID
