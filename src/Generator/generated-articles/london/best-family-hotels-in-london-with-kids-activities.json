@@ -1,0 +1,80 @@
+{
+  "city": "london",
+  "query": "family-friendly hotels in London with connecting rooms and kid activities",
+  "title": "Best Family Hotels in London with Kids Activities",
+  "excerpt": "Finding the right family hotel in London can be quite the challenge, especially when you're looking for accommodations that offer connecting rooms and engaging activities for kids. This curated list not only highlights family-friendly hotels but also ensures that both parents and children can enjoy their stay, making it easier to create lasting memories. With the right information, you can focus on exploring the city's wonders without the stress of logistics.",
+  "intro": "Discover the best family hotels in London that offer connecting rooms and exciting kids' activities for an unforgettable family getaway.",
+  "hotels": [
+    {
+      "id": "lp2ca11",
+      "name": "The Kensington Hotel",
+      "image": "https://static.cupid.travel/hotels/56135227.jpg",
+      "description": "Experience the elegance of The Kensington Hotel, ideally situated in the heart of South Kensington, just steps away from renowned attractions like Harrods and The Royal Albert Hall. Guests can maintain their fitness routine in a state-of-the-art gym and savor exquisite cuisine at the stylish Town House Bar & Restaurant, perfect for any meal from afternoon tea to dinner. Book your stay today to indulge in luxurious accommodations and exceptional service.",
+      "highlight": "Offers connecting rooms, a state-of-the-art gym, and an on-site restaurant serving exquisite cuisine.",
+      "price": "$380/night",
+      "location": "109-113 Queens Gate",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1bfdf",
+      "name": "Hilton London Olympia",
+      "image": "https://static.cupid.travel/hotels/483770902.jpg",
+      "description": "Experience luxury at Hilton London Olympia, where spacious, air-conditioned rooms and stylish bathrooms create an elegant retreat in Kensington. Delight your palate at the Society Restaurant with its exquisite British cuisine, and unwind at the chic Society Bar or café. Perfectly located on Kensington High Street, the hotel offers easy access to the Olympia Exhibition Centre and the best of central London, making it an ideal choice for both relaxation and exploration.",
+      "highlight": "Offers family rooms, kids meals, and a concierge service for enhanced family-friendly experiences in London.",
+      "price": "$165/night",
+      "location": "380 Kensington High Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1bf57",
+      "name": "The Waldorf Hilton, London",
+      "image": "https://static.cupid.travel/hotels/ex_c46594db_z.jpg",
+      "description": "Experience timeless elegance at The Waldorf Hilton, a historic hotel in London's West End that boasts spacious rooms featuring modern amenities and luxurious rain shower bathrooms. Delight your palate at the chandelier-lit Homage Grand Salon, offering a refined menu of modern European and British dishes, along with exquisite afternoon tea. For a chic retreat, head to Good Godfrey’s Bar, where you can enjoy classic cocktails in a stylish atmosphere adorned with beautiful columns.",
+      "highlight": "Offers spacious connecting rooms, a health club, and a concierge service for family convenience and enjoyment.",
+      "price": "$406/night",
+      "location": "Aldwych",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1a252",
+      "name": "Doubletree By Hilton London Kensington",
+      "image": "https://static.cupid.travel/hotels/484061283.jpg",
+      "description": "Discover a serene retreat at DoubleTree By Hilton London Kensington, where a beautifully landscaped private garden offers a perfect escape from city life. Guests in Executive rooms can enjoy exclusive access to the Club Lounge, featuring complimentary snacks and drinks. Savor delectable cuisine at Ken's Restaurant & Bar, making your stay both relaxing and indulgent in the heart of Kensington.",
+      "highlight": "DoubleTree By Hilton London Kensington offers family rooms, kids meals, and a private garden retreat for enjoyable family stays.",
+      "price": "$316/night",
+      "location": "100 Cromwell Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1be07",
+      "name": "The Mayfair Townhouse – an Iconic Luxury Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_1fbbbb7d_z.jpg",
+      "description": "Discover the elegance of The Mayfair Townhouse, a luxurious hotel in the heart of London that perfectly blends sophistication with comfort. Guests can enjoy modern air-conditioned rooms featuring free minibars and designer toiletries, alongside a fitness center and serene garden for relaxation. With attentive multilingual staff and convenient amenities like a 24-hour front desk and concierge services, every aspect of your stay is designed for your utmost convenience.",
+      "highlight": "Offers connecting rooms and a serene garden, along with a fitness center for family-friendly activities.",
+      "price": "$464/night",
+      "location": "Half Moon Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2a32d",
+      "name": "The Berkeley, Maybourne Hotel Collection",
+      "image": "https://static.cupid.travel/hotels/539860678.jpg",
+      "description": "Experience unparalleled luxury at The Berkeley, a 5-star hotel nestled in the heart of Knightsbridge. Delight your palate at the Michelin-starred Marcus Wareing restaurant and indulge in the award-winning afternoon tea at The Collins Room. With elegant accommodations featuring fine Italian marble bathrooms and a prime location near Hyde Park and Harrods, this hotel offers the perfect blend of comfort and convenience for an unforgettable stay.",
+      "highlight": "Offers kids meals, a heated pool, and spa services for a family-friendly experience in luxury accommodations.",
+      "price": "$1164/night",
+      "location": "Wilton Place",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-family-hotels-in-london-with-kids-activities",
+  "generatedAt": "2025-09-30T21:32:15.230Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp2ca11"
+}

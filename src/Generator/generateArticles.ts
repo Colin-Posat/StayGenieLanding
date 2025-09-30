@@ -48,10 +48,10 @@ interface GenerateResponse {
 
 // Define your article queries here
 const ARTICLE_QUERIES: ArticleQuery[] = [
-  {
-    city: "miami",
-    query: "hotels in Miami that are pet friendly with spas",
-    title: "The 6 Best Beachfront Miami Hotels"
+      {
+    city: "london",
+    query: "family-friendly hotels in London with connecting rooms and kid activities",
+    title: "Best Family Hotels in London with Kids Activities"
   },
 
   // Add more queries here

@@ -1,0 +1,80 @@
+{
+  "city": "los-angeles",
+  "query": "luxury hotels in Los Angeles with rooftop pools and bars",
+  "title": "Top LA Hotels with Rooftop Pools",
+  "excerpt": "Finding luxury hotels in Los Angeles with stunning rooftop pools and bars can be quite a challenge amidst the city's vast array of accommodations. This list is valuable because it highlights the best options that not only offer breathtaking views but also provide an exclusive atmosphere for relaxation and entertainment. With these recommendations, travelers can easily elevate their LA experience while enjoying the sun and skyline from above.",
+  "intro": "Discover the ultimate guide to Los Angeles' top luxury hotels featuring breathtaking rooftop pools and vibrant bars.",
+  "hotels": [
+    {
+      "id": "lp51dc1",
+      "name": "W Hollywood",
+      "image": "https://static.cupid.travel/hotels/493586674.jpg",
+      "description": "Experience the allure of Hollywood at W Hollywood, where a stunning rooftop pool and Delphine restaurant serve up unforgettable views and fresh, organic California cuisine. Enjoy modern luxuries like 42-inch plasma-screen TVs, designer bath amenities, and round-the-clock service to cater to your every need. Ideally situated near the Hollywood Walk of Fame and Dolby Theatre, this hotel places you right in the midst of iconic attractions for a truly star-studded getaway.",
+      "highlight": "Offers a stunning rooftop pool with breathtaking views and luxurious amenities, including a vibrant nightclub and outdoor furniture.",
+      "price": "$332/night",
+      "location": "6250 Hollywood Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1db2ba",
+      "name": "The Godfrey Hotel Hollywood",
+      "image": "https://static.cupid.travel/hotels/496968162.jpg",
+      "description": "The Godfrey Hotel Hollywood offers a luxurious escape with its stunning rooftop pool and the exceptional on-site restaurant, About Last Knife, providing a memorable dining experience. Each guestroom is equipped with modern amenities such as free WiFi, HDTV, and upscale bath products to ensure your comfort. Conveniently located near iconic attractions like the Capitol Records building and the Hollywood Walk of Fame, this hotel serves as the ideal base for exploring Los Angeles.",
+      "highlight": "Boasts a stunning rooftop pool, an on-site restaurant, and modern guest amenities for a luxurious stay.",
+      "price": "$267/night",
+      "location": "1400 Cahuenga Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5027b",
+      "name": "JW Marriott Los Angeles L.A. LIVE",
+      "image": "https://static.cupid.travel/hotels/461634601.jpg",
+      "description": "Discover unparalleled luxury at JW Marriott Los Angeles L.A. Live, where spacious rooms come equipped with modern amenities, including a 42-inch flat-screen TV and 24/7 room service. Enjoy stunning city views from the outdoor rooftop pool and indulge in rejuvenating treatments at the spa. Satisfy your culinary cravings at four diverse dining venues, each featuring fresh, locally sourced ingredients for a memorable gastronomic experience.",
+      "highlight": "Boasts a stunning rooftop pool offering breathtaking city views and luxurious spa services for ultimate relaxation.",
+      "price": "$349/night",
+      "location": "900 W Olympic Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp913cb",
+      "name": "Dream Hollywood, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/568783347.jpg",
+      "description": "Discover luxury at Dream Hollywood with its stunning rooftop pool and sun terrace that offer sweeping views of the iconic Hollywood sign. Savor a culinary adventure with gourmet options like California cuisine at The Highlight Room and Asian-inspired dishes at TAO Asian Bistro. With modern amenities, pet-friendly accommodations, and proximity to attractions like the Capitol Records Building and Dolby Theater, your stay promises both convenience and comfort in the heart of Los Angeles.",
+      "highlight": "Boasts a stunning rooftop pool and sun terrace with sweeping views of the Hollywood sign and modern amenities.",
+      "price": "$292/night",
+      "location": "6417 Selma Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b628",
+      "name": "Hotel Bel-Air - Dorchester Collection",
+      "image": "https://static.cupid.travel/hotels/183715157.jpg",
+      "description": "Experience unparalleled elegance at Hotel Bel-Air, where each luxurious room boasts breathtaking garden views, plush bedding, and spa-style bathrooms. Enjoy a range of amenities including a serene outdoor pool, a full-service spa, and a cozy Bar & Lounge with a fireplace and grand piano. Savor Mediterranean-inspired cuisine at the on-site restaurant and take advantage of the nearby upscale shopping on North Rodeo Drive for a truly lavish getaway.",
+      "highlight": "Features a stunning rooftop pool with outdoor furniture, offering breathtaking views and a luxurious atmosphere.",
+      "price": "$1435/night",
+      "location": "701 Stone Canyon Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b619",
+      "name": "Viceroy Santa Monica",
+      "image": "https://static.cupid.travel/hotels/265651201.jpg",
+      "description": "Experience the elegance of Viceroy Santa Monica, a luxurious oceanfront property just 25 km from Los Angeles, boasting breathtaking views of the Pacific Ocean. Indulge in relaxation at our two outdoor pools and private cabanas, while enjoying easy access to local attractions like Santa Monica Place and The Getty Museum. Book your stay for an unforgettable getaway filled with sun-soaked fun and cultural exploration.",
+      "highlight": "Boasts a stunning rooftop pool with panoramic ocean views and private cabanas for ultimate relaxation.",
+      "price": "$382/night",
+      "location": "1819 Ocean Avenue",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "top-la-hotels-with-rooftop-pools",
+  "generatedAt": "2025-09-30T21:26:32.070Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp51dc1"
+}
