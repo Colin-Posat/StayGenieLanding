@@ -15,6 +15,66 @@ export function generateStaticParams() {
   return params
 }
 
+// Deep link generation function matching the working URL format
+const DEEP_LINK_BASE_URL = 'https://staygenie.nuitee.link'
+
+function generateHotelDeepLink(
+  hotelId: string,
+  hotelName: string,
+  tags?: string[],
+  isRefundable?: boolean,
+  checkInDate?: Date,
+  checkOutDate?: Date,
+  adults: number = 2,
+  children: number = 0,
+  placeId?: string
+): string {
+  // CRITICAL: Must use the actual hotel system ID (like 'lp6fa17'), not a slug
+  let url = `${DEEP_LINK_BASE_URL}/hotels/${hotelId}`
+  const params = new URLSearchParams()
+
+  // Add check-in/check-out dates
+  if (checkInDate) {
+    params.append('checkin', checkInDate.toISOString().split('T')[0])
+  }
+  if (checkOutDate) {
+    params.append('checkout', checkOutDate.toISOString().split('T')[0])
+  }
+
+  // Add occupancy (encoded as base64)
+  const occupancy = [{ adults, children: children > 0 ? [children] : [] }]
+  try {
+    const occupanciesString = btoa(JSON.stringify(occupancy))
+    params.append('occupancies', occupanciesString)
+  } catch (error) {
+    console.warn('Failed to encode occupancy:', error)
+  }
+
+  // Add refundable/cancellation if needed
+  if (isRefundable || tags?.includes('Free Cancellation')) {
+    params.append('needFreeCancellation', '1')
+  }
+
+  // Handle other tags
+  if (tags?.includes('All Inclusive')) {
+    params.append('needAllInclusive', '1')
+  }
+  if (tags?.includes('Breakfast Included')) {
+    params.append('needBreakfast', '1')
+  }
+
+  // Add standard parameters that appear in working links
+  params.append('language', 'en')
+  params.append('currency', 'USD')
+  params.append('source', 'direct')
+  params.append('rooms', '1')
+  params.append('adults', adults.toString())
+  params.append('children', children.toString())
+
+  const queryString = params.toString()
+  return queryString ? `${url}?${queryString}` : url
+}
+
 export default function BlogPostPage({ params }: { params: { city: string; slug: string } }) {
   const post = getPost(params.city, params.slug)
   if (!post) return notFound()
@@ -41,7 +101,7 @@ export default function BlogPostPage({ params }: { params: { city: string; slug:
           {/* Hotels List */}
           <div className="space-y-12">
             {post.hotels.map((hotel: any, index: number) => (
-              <HotelCard key={index} index={index} hotel={hotel} />
+              <HotelCard key={index} index={index} hotel={hotel} city={params.city} />
             ))}
           </div>
         </article>
@@ -61,6 +121,7 @@ export default function BlogPostPage({ params }: { params: { city: string; slug:
 function HotelCard({
   index,
   hotel,
+  city,
 }: {
   index: number
   hotel: { 
@@ -68,12 +129,32 @@ function HotelCard({
     name: string
     highlight: string
     description: string
-    price?: number
+    price?: string
     rating?: number
     location?: string
+    id?: string
+    tags?: string[]
+    placeId?: string
+    isRefundable?: boolean
   }
+  city: string
 }) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
+  
+  // Generate deep link for this hotel using the actual hotel ID
+  const hotelDeepLink = hotel.id 
+    ? generateHotelDeepLink(
+        hotel.id, // Use the actual system hotel ID
+        hotel.name,
+        hotel.tags,
+        hotel.isRefundable,
+        undefined, // checkInDate - defaults to 30 days from now
+        undefined, // checkOutDate - defaults to 33 days from now
+        2, // adults
+        0, // children
+        hotel.placeId
+      )
+    : `${DEEP_LINK_BASE_URL}` // Fallback if no ID
 
   return (
     <article className="group">
@@ -93,9 +174,11 @@ function HotelCard({
         </p>
       )}
 
-     {/* Image */}
+     {/* Image - Now clickable with deep link */}
       <a 
-        href="#"
+        href={hotelDeepLink}
+        target="_blank"
+        rel="noopener noreferrer"
         className="relative mb-5 block cursor-pointer overflow-hidden rounded-lg"
       >
         {isExternalUrl ? (
@@ -141,22 +224,24 @@ function HotelCard({
       </a>
 
       {/* Personal Note - Merged Highlight & Description */}
-<div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">
-  <p className="text-base leading-relaxed text-neutral-700">
-    <span className="font-semibold">{hotel.highlight}</span> {hotel.description}
-  </p>
-</div>
+      <div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">
+        <p className="text-base leading-relaxed text-neutral-700">
+          <span className="font-semibold">{hotel.highlight}</span> {hotel.description}
+        </p>
+      </div>
 
-      {/* Price & CTA */}
-<div className="flex items-center justify-between gap-4">
-  <a
-    href="#"
-    className="inline-flex items-center gap-2 rounded-lg bg-neutral-900 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:bg-neutral-800 hover:shadow-lg hover:scale-[1.03]"
-  >
-    View Details
-    <ArrowIcon className="h-5 w-5" />
-  </a>
-</div>
+      {/* Price & CTA - Now using deep link */}
+      <div className="flex items-center justify-between gap-4">
+        <a
+          href={hotelDeepLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2 rounded-lg bg-neutral-900 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:bg-neutral-800 hover:shadow-lg hover:scale-[1.03]"
+        >
+          View Details
+          <ArrowIcon className="h-5 w-5" />
+        </a>
+      </div>
     </article>
   )
 }

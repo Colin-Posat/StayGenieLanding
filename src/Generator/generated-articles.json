@@ -2,51 +2,81 @@
   {
     "city": "miami",
     "query": "hotels in Miami that are pet friendly with spas",
-    "title": "6 Best Miami Hotels for Pet Owners with Spas",
-    "excerpt": "Finding hotels in Miami that cater to both pet lovers and spa enthusiasts can be quite a challenge. Many travelers struggle to locate accommodations that provide a welcoming atmosphere for their furry companions while also offering luxurious wellness options. This curated list not only simplifies your search but also ensures you and your pet can enjoy a relaxing getaway together.",
-    "intro": "Discover the top six Miami hotels that perfectly blend pet-friendly amenities with rejuvenating spa experiences.",
+    "title": "The 6 Best Beachfront Miami Hotels",
+    "excerpt": "Finding the perfect hotel that combines pet-friendly accommodations with luxurious spa amenities can be a daunting task, especially in a vibrant destination like Miami. This curated list saves you time and effort by highlighting the best beachfront hotels that welcome both you and your furry friend, ensuring a relaxing getaway for everyone. With stunning views and top-notch services, these properties offer a unique blend of comfort and indulgence.",
+    "intro": "Discover the six best beachfront hotels in Miami that cater to both you and your pet while featuring rejuvenating spa experiences.",
     "hotels": [
       {
-        "name": "SLS LUX Brickell",
-        "image": "https://static.cupid.travel/hotels/ex_a3022946_z.jpg",
-        "description": "Experience unparalleled luxury at SLS LUX Brickell, situated in the vibrant heart of Miami. Indulge in rejuvenating spa treatments, relax by the outdoor pool, or enjoy a match on the tennis court. With an exquisite restaurant, lively bar options, and beautifully appointed rooms featuring private balconies, your stay promises both comfort and sophistication.",
-        "highlight": "SLS LUX Brickell features a full spa and private balconies, ensuring relaxation and luxury for both you and your pet.",
-        "price": "$413/night"
-      },
-      {
-        "name": "Four Seasons Hotel Miami",
-        "image": "https://static.cupid.travel/hotels/ex_w7612h4301x0y0-3e82d136_z.jpg",
-        "description": "Experience unparalleled luxury at the Four Seasons Hotel Miami, where sophistication meets the vibrant energy of the city. Unwind at the full-service spa, indulge in exquisite dining at EDGE Brasserie with garden views, and enjoy exceptional amenities including two outdoor pools and a state-of-the-art health club. Make your Miami getaway unforgettable by reserving your stay today.",
-        "highlight": "Features a full-service spa and a state-of-the-art health club, complemented by two outdoor pools for relaxation.",
-        "price": "$675/night"
-      },
-      {
+        "id": "lp29c7d",
         "name": "JW Marriott Miami",
         "image": "https://static.cupid.travel/hotels/489586308.jpg",
-        "description": "Experience luxury at the JW Marriott Hotel Miami, located conveniently near the airport. Enjoy elegantly appointed rooms with 24-hour room service, indulge in rejuvenating treatments at the Salus Spa, and savor diverse dining options including American breakfast at Isabela's. With attractions like the Miami Beach Convention Center and Crandon Golf Course nearby, your stay promises relaxation and adventure.",
-        "highlight": "Includes a luxurious spa and 24-hour room service for a relaxing stay near Miami's attractions.",
-        "price": "$388/night"
+        "description": "Experience unparalleled luxury at JW Marriott Hotel Miami, conveniently located near Miami International Airport. Enjoy elegantly appointed rooms with flat-screen TVs and 24-hour room service, along with rejuvenating wellness amenities at Salus Spa. Savor diverse dining options and take advantage of nearby attractions, including the Miami Beach Convention Center and Crandon Golf Course, for an unforgettable getaway.",
+        "highlight": "Includes elegantly appointed rooms with 24-hour room service and access to rejuvenating wellness amenities at Salus Spa.",
+        "price": "$386/night",
+        "rating": 7.5,
+        "location": "1109 Brickell Ave",
+        "tags": [],
+        "isRefundable": false
       },
       {
-        "name": "The Ritz-Carlton Coconut Grove, Miami",
-        "image": "https://static.cupid.travel/hotels/ex_969591ef_z.jpg",
-        "description": "Discover unparalleled luxury at The Ritz-Carlton Coconut Grove, Miami, where indulgence meets comfort. Relax in elegantly designed rooms with private balconies and plush bedding, while rejuvenating at the full-service spa and enjoying delightful dining options. With an outdoor pool, sauna, and a 24-hour fitness center, your Miami getaway promises both relaxation and recreation.",
-        "highlight": "Features a full-service spa and sauna, complemented by elegantly designed rooms with private balconies for ultimate relaxation.",
-        "price": "$701/night"
-      },
-      {
-        "name": "Kimpton EPIC Hotel, an IHG Hotel",
-        "image": "https://static.cupid.travel/hotels/242170411.jpg",
-        "description": "Experience the luxurious comfort of Kimpton EPIC Hotel, where stunning floor-to-ceiling windows and private balconies offer breathtaking views of the Miami skyline. Enjoy top-notch amenities including a rejuvenating spa, fitness classes, and a rooftop pool, all while indulging in eco-friendly luxury. Perfectly situated in the heart of Miami's financial district, this pet-friendly hotel is your gateway to unforgettable adventures and waterfront dining.",
-        "highlight": "Includes a rejuvenating spa and pet-friendly accommodations with stunning skyline views from private balconies.",
-        "price": "$367/night"
-      },
-      {
+        "id": "lp1a9df",
         "name": "The Grayson Hotel Miami Downtown",
         "image": "https://static.cupid.travel/hotels/600837110.jpg",
-        "description": "Discover modern luxury at The Gabriel Miami Downtown, Curio Collection by Hilton, where guests are greeted with a complimentary drink and stunning views of the Miami skyline and Biscayne Bay from floor-to-ceiling windows. Indulge in a unique culinary experience at CVLTVRA, featuring tapas-style dishes with Latin and Mediterranean flair, and unwind at the DERMANOVA Med Spa and Salon after a workout in the state-of-the-art fitness center. Elevate your Miami getaway with an unforgettable stay at this exceptional hotel.",
-        "highlight": "Includes a rooftop garden and DERMANOVA Med Spa, offering relaxation alongside pet-friendly accommodations.",
-        "price": "$257/night"
+        "description": "Discover modern luxury at The Gabriel Miami Downtown, Curio Collection by Hilton, where guests enjoy a complimentary drink upon arrival. With stunning floor-to-ceiling windows offering panoramic views of the Miami skyline and Biscayne Bay, your stay is bound to be unforgettable. Indulge in exquisite tapas at CVLTVRA and unwind at the DERMANOVA Med Spa after a workout in the state-of-the-art fitness center for the ultimate Miami experience.",
+        "highlight": "Includes a rooftop garden and a world-class spa, along with stunning skyline views from floor-to-ceiling windows.",
+        "price": "$321/night",
+        "rating": 7.5,
+        "location": "1100 Biscayne Blvd",
+        "tags": [],
+        "isRefundable": false
+      },
+      {
+        "id": "lp4b5f5",
+        "name": "W Miami",
+        "image": "https://static.cupid.travel/hotels/ex_w3997h2661x3y6-d6181390_z.jpg",
+        "description": "Experience the luxurious allure of W Miami, perfectly situated for easy access to shopping and nightlife. Enjoy refreshing dips in the stunning outdoor pool or take in panoramic views from the rooftop terrace. Delight your taste buds with gourmet meals at Panther Coffee and unwind in elegantly designed guest rooms equipped with modern amenities for the ultimate comfort.",
+        "highlight": "W Miami includes a rooftop terrace with panoramic views and a luxurious spa for ultimate relaxation and enjoyment.",
+        "price": "$544/night",
+        "rating": 7.5,
+        "location": "485 Brickell Avenue",
+        "tags": [],
+        "isRefundable": true
+      },
+      {
+        "id": "lp30c6d",
+        "name": "The Mutiny Hotel",
+        "image": "https://static.cupid.travel/hotels/ex_981ec8be_z.jpg",
+        "description": "Experience luxury and relaxation at The Mutiny Hotel, nestled in the lively Coconut Grove of Miami. Enjoy indulgent spa treatments, a refreshing outdoor pool, and delectable dining at Table 14 Bar & Restaurant, all while staying in one of our uniquely designed guestrooms equipped with kitchens and modern amenities. Whether you're here for business or leisure, The Mutiny Hotel offers the perfect blend of comfort and convenience for an unforgettable getaway.",
+        "highlight": "Includes spacious guestrooms with kitchens, a full spa, and an outdoor pool for a luxurious beachfront experience.",
+        "price": "$227/night",
+        "rating": 7.5,
+        "location": "2951 S Bayshore Dr",
+        "tags": [],
+        "isRefundable": true
+      },
+      {
+        "id": "lp243c1",
+        "name": "Biltmore Hotel Miami Coral Gables",
+        "image": "https://static.cupid.travel/hotels/168307400.jpg",
+        "description": "Experience unparalleled luxury at the Biltmore Hotel, where you can enjoy an 18-hole golf course, a rejuvenating spa, and modern comforts like 65-inch flat-screen TVs in every room. With 10 tennis courts, a large swimming pool, and a state-of-the-art fitness center set within 150 acres of lush landscapes, leisure is truly at your fingertips. Delight in a diverse culinary journey featuring French and Italian cuisine, alongside a relaxed pub atmosphere and a lavish Sunday Champagne Brunch—book your unforgettable stay in Coral Gables today.",
+        "highlight": "Includes an 18-hole golf course and a rejuvenating spa within 150 acres of lush landscapes.",
+        "price": "$439/night",
+        "rating": 7.5,
+        "location": "1200 Anastasia Ave",
+        "tags": [],
+        "isRefundable": false
+      },
+      {
+        "id": "lp42e7e",
+        "name": "Kimpton EPIC Hotel, an IHG Hotel",
+        "image": "https://static.cupid.travel/hotels/242170411.jpg",
+        "description": "Experience luxury at Kimpton EPIC Hotel, where stunning floor-to-ceiling windows and private balconies in each room offer breathtaking views. Indulge in relaxation at the spa or stay active with fitness classes, and unwind at the rooftop pool while soaking in the Miami skyline. Conveniently located in the financial district, this pet-friendly hotel features a full-service marina and waterfront dining for an unforgettable stay.",
+        "highlight": "Includes stunning floor-to-ceiling windows and a rooftop pool overlooking the Miami skyline, along with a full-service marina.",
+        "price": "$367/night",
+        "rating": 7.5,
+        "location": "270 Biscayne Blvd Way",
+        "tags": [],
+        "isRefundable": true
       }
     ]
   }
