@@ -27,10 +27,10 @@ function generateHotelDeepLink(
   checkOutDate?: Date,
   adults: number = 2,
   children: number = 0,
-  placeId?: string
+
 ): string {
   // CRITICAL: Must use the actual hotel system ID (like 'lp6fa17'), not a slug
-  let url = `${DEEP_LINK_BASE_URL}/hotels/${hotelId}`
+  const url = `${DEEP_LINK_BASE_URL}/hotels/${hotelId}`
   const params = new URLSearchParams()
 
   // Add check-in/check-out dates
@@ -136,7 +136,7 @@ interface HotelCardProps {
   city: string;
 }
 
-function HotelCard({ index, hotel, city }: HotelCardProps) {
+function HotelCard({ index, hotel}: HotelCardProps) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
   
   // Generate deep link for this hotel using the actual hotel ID
@@ -150,7 +150,6 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
         undefined, // checkOutDate - defaults to 33 days from now
         2, // adults
         0, // children
-        hotel.placeId
       )
     : `${DEEP_LINK_BASE_URL}` // Fallback if no ID
 

@@ -56,15 +56,6 @@ const ARTICLE_QUERIES: ArticleQuery[] = [
 
   // Add more queries here
 ];
-
-// Helper function to create a safe filename from title
-function createSafeFilename(title: string): string {
-  return title
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-}
-
 // Helper function to create a URL-safe slug
 function createSlug(title: string): string {
   return title
