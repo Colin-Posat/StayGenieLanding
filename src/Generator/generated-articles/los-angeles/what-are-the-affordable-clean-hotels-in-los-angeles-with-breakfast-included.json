@@ -1,0 +1,80 @@
+{
+  "city": "los-angeles",
+  "query": "affordable clean hotels in los angeles with breakfast included",
+  "title": "What are the Affordable, Clean Hotels in Los Angeles with Breakfast Included?",
+  "excerpt": "Finding affordable and clean hotels in Los Angeles that also offer breakfast can be a daunting task, especially with the city's wide array of options. This curated list not only simplifies your search but ensures you can enjoy a comfortable stay without breaking the bank. With the added convenience of breakfast included, you can start your day right before exploring the vibrant attractions the city has to offer.",
+  "intro": "Discover the best affordable and clean hotels in Los Angeles that provide breakfast, helping you maximize both your comfort and budget during your stay.",
+  "hotels": [
+    {
+      "id": "lpd8b67",
+      "name": "Mayumi",
+      "image": "https://static.cupid.travel/hotels/135476785.jpg",
+      "description": "Discover Mayumi, a chic urban retreat in Los Angeles offering stylish rooms equipped with flat-screen TVs and private bathrooms, along with spacious seating areas and stunning city views. Start your day with a delicious complimentary breakfast and unwind during the evening with a selection of wines at the Manager's wine hour. Ideally situated just a short drive from cultural landmarks and the beach, Mayumi provides the perfect blend of luxury and convenience for your city exploration.",
+      "highlight": "Offers complimentary breakfast, stylish rooms, and a serene Japanese garden in a chic urban setting.",
+      "price": "$249/night",
+      "location": "5630 Sawtelle Boulevard",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp99439",
+      "name": "Hampton Inn & Suites Santa Monica",
+      "image": "https://static.cupid.travel/hotels/484333508.jpg",
+      "description": "Hampton Inn & Suites Santa Monica seamlessly combines modern comfort with convenience, featuring LCD flat-screen TVs, coffee makers, and ironing facilities in each room. Guests can savor a complimentary hot breakfast and unwind by the inviting on-site swimming pool. Ideally situated near renowned attractions like the Getty Center and Los Angeles County Museum of Art, this hotel is the perfect base for exploring the vibrant Los Angeles area.",
+      "highlight": "Offers complimentary hot breakfast, a heated pool, and modern rooms with LCD TVs and coffee makers.",
+      "price": "$272/night",
+      "location": "501 Colorado Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f85a",
+      "name": "Holiday Inn Express Los Angeles LAX Airport, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/291059017.jpg",
+      "description": "Experience convenience at the LAX Airport Holiday Inn Express, ideally located near the airport with complimentary shuttles and easy access to downtown. Guests will appreciate modern rooms equipped with free WiFi, HDTV, and a complimentary breakfast buffet, along with leisure options like a refreshing outdoor pool and a 24-hour business center. With attractions like Rodeo Drive, Disneyland, and Venice Beach nearby, your stay offers a perfect blend of relaxation and exploration.",
+      "highlight": "Offers complimentary breakfast, free airport shuttle, modern rooms with free WiFi, and an outdoor swimming pool.",
+      "price": "$212/night",
+      "location": "8620 Airport Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2afd8",
+      "name": "Best Western Plus Sunset Plaza Hotel",
+      "image": "https://static.cupid.travel/hotels/243760082.jpg",
+      "description": "Experience a luxurious stay at the Best Western Plus Sunset Plaza Hotel, nestled on Hollywood’s iconic Sunset Strip. Enjoy a refreshing outdoor pool and kickstart your mornings with a hearty hot American breakfast buffet. With convenient amenities like free WiFi, in-room appliances, and a prime location just minutes from the Walk of Fame, this hotel is the perfect base for exploring nearby attractions.",
+      "highlight": "Offers a hot breakfast buffet, outdoor pool, and free WiFi in a prime Sunset Strip location.",
+      "price": "$305/night",
+      "location": "8400 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp27bd4",
+      "name": "Best Western Plus Dragon Gate Inn",
+      "image": "https://static.cupid.travel/hotels/167457368.jpg",
+      "description": "Immerse yourself in the vibrant culture of Chinatown at the Best Western Dragon Gate Inn, where each guest room features unique Chinese décor that blends comfort with authenticity. Enjoy complimentary Wi-Fi and a delicious continental breakfast at the Hill Street Café while being just minutes away from iconic attractions like the Los Angeles Convention Center and Hollywood. With added conveniences like a full-service beauty salon and daily sightseeing tours, your unforgettable Los Angeles experience starts here.",
+      "highlight": "Offers complimentary breakfast, free Wi-Fi, and unique Chinese décor in a vibrant Chinatown location near top attractions.",
+      "price": "$227/night",
+      "location": "818 N Hill Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65b71",
+      "name": "Garden Suite Hotel and Resort",
+      "image": "https://static.cupid.travel/hotels/245362263.jpg",
+      "description": "Experience the ultimate in comfort at Garden Suite Hotel and Resort, where every room features free Wi-Fi, a flat-screen cable TV, and a dedicated work desk. Delight your taste buds at E Hwa Garden Restaurant, offering exquisite Korean and Korean-American cuisine, along with a complimentary continental breakfast. With convenient amenities including laundry services and a business center, plus close proximity to Dodger Stadium and Central Los Angeles, your stay promises to be both enjoyable and memorable.",
+      "highlight": "Offers complimentary continental breakfast, family rooms, and a restaurant serving Korean cuisine, along with free Wi-Fi and convenient amenities.",
+      "price": "$179/night",
+      "location": "681 S Western Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included",
+  "generatedAt": "2025-10-02T19:31:55.294Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lpd8b67"
+}
