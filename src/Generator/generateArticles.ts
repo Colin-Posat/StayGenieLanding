@@ -48,14 +48,14 @@ interface GenerateResponse {
 
 // Define your article queries here
 const ARTICLE_QUERIES: ArticleQuery[] = [
-      {
-    city: "london",
-    query: "hotels with rooftop pools in miami",
-    title: "Best Hotels with Rooftop Pools in Miami"
+  {
+    city: "new-york",
+    query: "best dog friendly hotels in new york",
+    title: "What are the Best Dog Friendly Hotels in New York?"
   },
-
-  // Add more queries here
+  
 ];
+
 // Helper function to create a URL-safe slug
 function createSlug(title: string): string {
   return title
