@@ -49,16 +49,16 @@ interface GenerateResponse {
 // Define your article queries here
 const ARTICLE_QUERIES: ArticleQuery[] = [
 
-  {
-    city: "los-angeles",
-    query: "affordable clean hotels in los angeles with breakfast included",
-    title: "What are the Affordable, Clean Hotels in Los Angeles with Breakfast Included?"
-  },
 
   {
-    city: "chicago",
-    query: "amazing hotels for families with kids in chicago",
-    title: "Amazing Hotels for Families with Kids in Chicago"
+    city: "las-vegas",
+    query: "best cheap safe clean hotels in las vegas",
+    title: "Best Cheap, Safe, Clean Hotels in Las Vegas"
+  },
+  {
+    city: "san-francisco",
+    query: "hotels in san francisco for women travelers safe clean amenities",
+    title: "Best Hotels in San Francisco for Women Travelers: Safe, Clean and Great Amenities"
   },
 ];
 

@@ -1,0 +1,80 @@
+{
+  "city": "las-vegas",
+  "query": "best cheap safe clean hotels in las vegas",
+  "title": "Best Cheap, Safe, Clean Hotels in Las Vegas",
+  "excerpt": "Finding affordable hotels in Las Vegas that are also safe and clean can be a daunting task amidst the glittering chaos of the Strip. This curated list is invaluable for budget-conscious travelers who want to enjoy the excitement of the city without compromising their comfort or security. By highlighting these hidden gems, you can focus on making unforgettable memories rather than stressing over your accommodations.",
+  "intro": "Discover the top budget-friendly hotels in Las Vegas that prioritize cleanliness and safety without breaking the bank.",
+  "hotels": [
+    {
+      "id": "lp84133",
+      "name": "Downtowner Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/179185145.jpg",
+      "description": "Experience the vibrant energy of Las Vegas at the Downtowner Hotel, conveniently located near the bustling Fremont Street Entertainment District. Enjoy a refreshing dip in the outdoor pool and take advantage of free parking while being just minutes away from top-notch dining, shopping, and gaming options. Whether you're exploring local attractions or hitting the nearby golf course, the Downtowner Hotel is the perfect base for your Las Vegas adventure.",
+      "highlight": "Offers an outdoor pool, discounted parking, and proximity to Fremont Street's entertainment and dining options.",
+      "price": "$59/night",
+      "location": "129 North 8th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f2c0",
+      "name": "El Cortez Hotel & Casino - 21 and over only",
+      "image": "https://static.cupid.travel/hotels/622063357.jpg",
+      "description": "El Cortez Hotel & Casino offers a vibrant experience with its on-site restaurant, bar, and casino, ensuring that guests enjoy a lively nightlife without having to leave the premises. Located in the heart of Las Vegas, this hotel provides easy access to popular attractions like the Mob Museum and Fremont Street Experience. With 24-hour front desk service and airport transfers, El Cortez prioritizes your comfort and convenience for a hassle-free stay.",
+      "highlight": "Offers a vibrant nightlife with an on-site restaurant, bar, and casino, plus 24-hour front desk service.",
+      "price": "$65/night",
+      "location": "600 Fremont St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22667",
+      "name": "Fremont Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/ex_5a4fc18e_z.jpg",
+      "description": "Experience the thrill of Las Vegas at Fremont Hotel & Casino, featuring an exciting casino and a fully-equipped fitness center. Enjoy diverse dining options at four restaurants and relax at two bars, while complimentary valet parking and a 24-hour front desk enhance your stay. Each of the 447 air-conditioned rooms offers modern comforts, including flat-screen TVs and free Wi-Fi, ensuring a memorable getaway.",
+      "highlight": "Fremont Hotel & Casino offers a vibrant casino, four dining options, and 447 air-conditioned rooms with free Wi-Fi.",
+      "price": "$84/night",
+      "location": "200 Fremont St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1cf37",
+      "name": "Circus Circus Hotel, Casino & Theme Park",
+      "image": "https://static.cupid.travel/hotels/193379086.jpg",
+      "description": "Discover excitement at our indoor theme park, Adventuredome, featuring thrilling rides and circus acts for guests of all ages. Dive into relaxation at the Splash Zone pool area, complete with a 50-foot waterslide, splash pad, and cabanas, perfect for cooling off in the Las Vegas sun. With 40,000 square feet of shopping, a lively Carnival Midway, and a bustling casino, there's endless entertainment and fun waiting for you at Circus Circus.",
+      "highlight": "Offers an indoor theme park, spacious pool area with a waterslide, and a vibrant casino for endless entertainment.",
+      "price": "$30/night",
+      "location": "2880 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35699",
+      "name": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area",
+      "image": "https://static.cupid.travel/hotels/539713656.jpg",
+      "description": "Experience comfort and convenience at Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area, located just minutes from McCarran International Airport. Enjoy delicious Thai-Chinese cuisine at Ocha Cuisine, along with free WiFi and ample parking for RVs and buses. With popular attractions like the Bellagio Fountains and Caesars Palace Casino nearby, this hotel is the perfect base for your Las Vegas adventure.",
+      "highlight": "Boasts free WiFi, secure parking, and proximity to attractions like the Bellagio Fountains and Caesars Palace Casino.",
+      "price": "$51/night",
+      "location": "1213 South Las Vegas Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5fc43",
+      "name": "Travelodge by Wyndham Las Vegas NM",
+      "image": "https://static.cupid.travel/hotels/499913580.jpg",
+      "description": "Experience a warm welcome at Travelodge by Wyndham Las Vegas NM, where convenience meets comfort. Enjoy on-site dining, 24-hour front desk service, and complimentary WiFi, all while staying in family-friendly accommodations. For the adventurous spirit, take advantage of the tennis court and explore nearby hiking and skiing opportunities.",
+      "highlight": "Features family-friendly accommodations, on-site dining, complimentary WiFi, and a tennis court for active guests.",
+      "price": "$105/night",
+      "location": "1152 Grand Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-clean-hotels-in-las-vegas",
+  "generatedAt": "2025-10-02T19:39:07.775Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp84133"
+}

@@ -1,5 +1,5 @@
 // Auto-generated blog data - DO NOT EDIT MANUALLY
-// Generated: 2025-10-02T19:31:55.296Z
+// Generated: 2025-10-02T19:39:07.778Z
 
 export interface BlogHotel {
   id: string; // System hotel ID for deep linking
@@ -23,152 +23,152 @@ export interface BlogPost {
 }
 
 export const blogPosts: Record<string, BlogPost[]> = {
-  "los-angeles": [
+  "las-vegas": [
     {
-      "city": "los-angeles",
-      "slug": "what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included",
-      "title": "What are the Affordable, Clean Hotels in Los Angeles with Breakfast Included?",
-      "excerpt": "Finding affordable and clean hotels in Los Angeles that also offer breakfast can be a daunting task, especially with the city's wide array of options. This curated list not only simplifies your search but ensures you can enjoy a comfortable stay without breaking the bank. With the added convenience of breakfast included, you can start your day right before exploring the vibrant attractions the city has to offer.",
+      "city": "las-vegas",
+      "slug": "best-cheap-safe-clean-hotels-in-las-vegas",
+      "title": "Best Cheap, Safe, Clean Hotels in Las Vegas",
+      "excerpt": "Finding affordable hotels in Las Vegas that are also safe and clean can be a daunting task amidst the glittering chaos of the Strip. This curated list is invaluable for budget-conscious travelers who want to enjoy the excitement of the city without compromising their comfort or security. By highlighting these hidden gems, you can focus on making unforgettable memories rather than stressing over your accommodations.",
       "hotels": [
         {
-          "id": "lpd8b67",
-          "name": "Mayumi",
-          "image": "https://static.cupid.travel/hotels/135476785.jpg",
-          "description": "Discover Mayumi, a chic urban retreat in Los Angeles offering stylish rooms equipped with flat-screen TVs and private bathrooms, along with spacious seating areas and stunning city views. Start your day with a delicious complimentary breakfast and unwind during the evening with a selection of wines at the Manager's wine hour. Ideally situated just a short drive from cultural landmarks and the beach, Mayumi provides the perfect blend of luxury and convenience for your city exploration.",
-          "highlight": "Offers complimentary breakfast, stylish rooms, and a serene Japanese garden in a chic urban setting.",
-          "price": "$249/night",
-          "location": "5630 Sawtelle Boulevard",
+          "id": "lp84133",
+          "name": "Downtowner Boutique Hotel",
+          "image": "https://static.cupid.travel/hotels/179185145.jpg",
+          "description": "Experience the vibrant energy of Las Vegas at the Downtowner Hotel, conveniently located near the bustling Fremont Street Entertainment District. Enjoy a refreshing dip in the outdoor pool and take advantage of free parking while being just minutes away from top-notch dining, shopping, and gaming options. Whether you're exploring local attractions or hitting the nearby golf course, the Downtowner Hotel is the perfect base for your Las Vegas adventure.",
+          "highlight": "Offers an outdoor pool, discounted parking, and proximity to Fremont Street's entertainment and dining options.",
+          "price": "$59/night",
+          "location": "129 North 8th Street",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp99439",
-          "name": "Hampton Inn & Suites Santa Monica",
-          "image": "https://static.cupid.travel/hotels/484333508.jpg",
-          "description": "Hampton Inn & Suites Santa Monica seamlessly combines modern comfort with convenience, featuring LCD flat-screen TVs, coffee makers, and ironing facilities in each room. Guests can savor a complimentary hot breakfast and unwind by the inviting on-site swimming pool. Ideally situated near renowned attractions like the Getty Center and Los Angeles County Museum of Art, this hotel is the perfect base for exploring the vibrant Los Angeles area.",
-          "highlight": "Offers complimentary hot breakfast, a heated pool, and modern rooms with LCD TVs and coffee makers.",
-          "price": "$272/night",
-          "location": "501 Colorado Avenue",
+          "id": "lp2f2c0",
+          "name": "El Cortez Hotel & Casino - 21 and over only",
+          "image": "https://static.cupid.travel/hotels/622063357.jpg",
+          "description": "El Cortez Hotel & Casino offers a vibrant experience with its on-site restaurant, bar, and casino, ensuring that guests enjoy a lively nightlife without having to leave the premises. Located in the heart of Las Vegas, this hotel provides easy access to popular attractions like the Mob Museum and Fremont Street Experience. With 24-hour front desk service and airport transfers, El Cortez prioritizes your comfort and convenience for a hassle-free stay.",
+          "highlight": "Offers a vibrant nightlife with an on-site restaurant, bar, and casino, plus 24-hour front desk service.",
+          "price": "$65/night",
+          "location": "600 Fremont St",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp1f85a",
-          "name": "Holiday Inn Express Los Angeles LAX Airport, an IHG Hotel",
-          "image": "https://static.cupid.travel/hotels/291059017.jpg",
-          "description": "Experience convenience at the LAX Airport Holiday Inn Express, ideally located near the airport with complimentary shuttles and easy access to downtown. Guests will appreciate modern rooms equipped with free WiFi, HDTV, and a complimentary breakfast buffet, along with leisure options like a refreshing outdoor pool and a 24-hour business center. With attractions like Rodeo Drive, Disneyland, and Venice Beach nearby, your stay offers a perfect blend of relaxation and exploration.",
-          "highlight": "Offers complimentary breakfast, free airport shuttle, modern rooms with free WiFi, and an outdoor swimming pool.",
-          "price": "$212/night",
-          "location": "8620 Airport Blvd",
-          "tags": [],
-          "isRefundable": true
-        },
-        {
-          "id": "lp2afd8",
-          "name": "Best Western Plus Sunset Plaza Hotel",
-          "image": "https://static.cupid.travel/hotels/243760082.jpg",
-          "description": "Experience a luxurious stay at the Best Western Plus Sunset Plaza Hotel, nestled on Hollywood’s iconic Sunset Strip. Enjoy a refreshing outdoor pool and kickstart your mornings with a hearty hot American breakfast buffet. With convenient amenities like free WiFi, in-room appliances, and a prime location just minutes from the Walk of Fame, this hotel is the perfect base for exploring nearby attractions.",
-          "highlight": "Offers a hot breakfast buffet, outdoor pool, and free WiFi in a prime Sunset Strip location.",
-          "price": "$305/night",
-          "location": "8400 W Sunset Blvd",
+          "id": "lp22667",
+          "name": "Fremont Hotel & Casino",
+          "image": "https://static.cupid.travel/hotels/ex_5a4fc18e_z.jpg",
+          "description": "Experience the thrill of Las Vegas at Fremont Hotel & Casino, featuring an exciting casino and a fully-equipped fitness center. Enjoy diverse dining options at four restaurants and relax at two bars, while complimentary valet parking and a 24-hour front desk enhance your stay. Each of the 447 air-conditioned rooms offers modern comforts, including flat-screen TVs and free Wi-Fi, ensuring a memorable getaway.",
+          "highlight": "Fremont Hotel & Casino offers a vibrant casino, four dining options, and 447 air-conditioned rooms with free Wi-Fi.",
+          "price": "$84/night",
+          "location": "200 Fremont St",
           "tags": [],
           "isRefundable": false
         },
         {
-          "id": "lp27bd4",
-          "name": "Best Western Plus Dragon Gate Inn",
-          "image": "https://static.cupid.travel/hotels/167457368.jpg",
-          "description": "Immerse yourself in the vibrant culture of Chinatown at the Best Western Dragon Gate Inn, where each guest room features unique Chinese décor that blends comfort with authenticity. Enjoy complimentary Wi-Fi and a delicious continental breakfast at the Hill Street Café while being just minutes away from iconic attractions like the Los Angeles Convention Center and Hollywood. With added conveniences like a full-service beauty salon and daily sightseeing tours, your unforgettable Los Angeles experience starts here.",
-          "highlight": "Offers complimentary breakfast, free Wi-Fi, and unique Chinese décor in a vibrant Chinatown location near top attractions.",
-          "price": "$227/night",
-          "location": "818 N Hill Street",
+          "id": "lp1cf37",
+          "name": "Circus Circus Hotel, Casino & Theme Park",
+          "image": "https://static.cupid.travel/hotels/193379086.jpg",
+          "description": "Discover excitement at our indoor theme park, Adventuredome, featuring thrilling rides and circus acts for guests of all ages. Dive into relaxation at the Splash Zone pool area, complete with a 50-foot waterslide, splash pad, and cabanas, perfect for cooling off in the Las Vegas sun. With 40,000 square feet of shopping, a lively Carnival Midway, and a bustling casino, there's endless entertainment and fun waiting for you at Circus Circus.",
+          "highlight": "Offers an indoor theme park, spacious pool area with a waterslide, and a vibrant casino for endless entertainment.",
+          "price": "$30/night",
+          "location": "2880 Las Vegas Blvd S",
+          "tags": [],
+          "isRefundable": false
+        },
+        {
+          "id": "lp35699",
+          "name": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area",
+          "image": "https://static.cupid.travel/hotels/539713656.jpg",
+          "description": "Experience comfort and convenience at Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area, located just minutes from McCarran International Airport. Enjoy delicious Thai-Chinese cuisine at Ocha Cuisine, along with free WiFi and ample parking for RVs and buses. With popular attractions like the Bellagio Fountains and Caesars Palace Casino nearby, this hotel is the perfect base for your Las Vegas adventure.",
+          "highlight": "Boasts free WiFi, secure parking, and proximity to attractions like the Bellagio Fountains and Caesars Palace Casino.",
+          "price": "$51/night",
+          "location": "1213 South Las Vegas Blvd",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp65b71",
-          "name": "Garden Suite Hotel and Resort",
-          "image": "https://static.cupid.travel/hotels/245362263.jpg",
-          "description": "Experience the ultimate in comfort at Garden Suite Hotel and Resort, where every room features free Wi-Fi, a flat-screen cable TV, and a dedicated work desk. Delight your taste buds at E Hwa Garden Restaurant, offering exquisite Korean and Korean-American cuisine, along with a complimentary continental breakfast. With convenient amenities including laundry services and a business center, plus close proximity to Dodger Stadium and Central Los Angeles, your stay promises to be both enjoyable and memorable.",
-          "highlight": "Offers complimentary continental breakfast, family rooms, and a restaurant serving Korean cuisine, along with free Wi-Fi and convenient amenities.",
-          "price": "$179/night",
-          "location": "681 S Western Ave",
+          "id": "lp5fc43",
+          "name": "Travelodge by Wyndham Las Vegas NM",
+          "image": "https://static.cupid.travel/hotels/499913580.jpg",
+          "description": "Experience a warm welcome at Travelodge by Wyndham Las Vegas NM, where convenience meets comfort. Enjoy on-site dining, 24-hour front desk service, and complimentary WiFi, all while staying in family-friendly accommodations. For the adventurous spirit, take advantage of the tennis court and explore nearby hiking and skiing opportunities.",
+          "highlight": "Features family-friendly accommodations, on-site dining, complimentary WiFi, and a tennis court for active guests.",
+          "price": "$105/night",
+          "location": "1152 Grand Ave",
           "tags": [],
-          "isRefundable": true
+          "isRefundable": false
         }
       ]
     }
   ],
-  "chicago": [
+  "san-francisco": [
     {
-      "city": "chicago",
-      "slug": "amazing-hotels-for-families-with-kids-in-chicago",
-      "title": "Amazing Hotels for Families with Kids in Chicago",
-      "excerpt": "Finding the perfect hotel for families with kids in Chicago can be a daunting task, as not all accommodations offer the amenities and activities that keep young travelers entertained. This list is valuable because it highlights hotels that provide family-friendly features, ensuring a memorable and stress-free stay for everyone. From spacious rooms to play areas and kid-centric activities, these options cater to the needs of both parents and children alike.",
+      "city": "san-francisco",
+      "slug": "best-hotels-in-san-francisco-for-women-travelers-safe-clean-and-great-amenities",
+      "title": "Best Hotels in San Francisco for Women Travelers: Safe, Clean and Great Amenities",
+      "excerpt": "Finding hotels in San Francisco that prioritize safety, cleanliness, and great amenities can be a daunting task for women travelers. This curated list highlights accommodations that not only meet these essential criteria but also enhance the overall travel experience with thoughtful features and welcoming atmospheres. By focusing on these key aspects, you can explore the city with confidence and peace of mind.",
       "hotels": [
         {
-          "id": "lp27d87",
-          "name": "Homewood Suites by Hilton Chicago Downtown",
-          "image": "https://static.cupid.travel/hotels/493651444.jpg",
-          "description": "Experience the luxury of the Homewood Suites by Hilton Chicago-Downtown, where each suite offers two flat-screen TVs and a fully equipped kitchenette, complemented by complimentary grocery shopping services. Stay active in the fitness center with stunning city views and explore the vibrant River North neighborhood filled with dining and shopping options, all just moments away from iconic attractions like Millennium Park and Navy Pier. Book your unforgettable stay today and enjoy the best of Chicago.",
-          "highlight": "Boasts spacious family suites, a heated pool, and a fitness center with city views, enhancing your Chicago stay.",
-          "price": "$199/night",
-          "location": "40 East Grand Avenue",
+          "id": "lp1c406",
+          "name": "Hotel Triton",
+          "image": "https://static.cupid.travel/hotels/454251715.jpg",
+          "description": "Experience the vibrant spirit of San Francisco at Hotel Triton, where local artists bring the city’s pop culture to life. Located steps from Chinatown and Union Square, this hotel offers complimentary WiFi, wine receptions, and a fitness center, ensuring a convenient and enjoyable stay. Delight in sweet welcome treats, gourmet coffee, and diverse dining options, making Hotel Triton a perfect blend of art, culture, and comfort.",
+          "highlight": "Hotel Triton provides complimentary WiFi, wine receptions, and a fitness center, alongside room service and concierge assistance.",
+          "price": "$182/night",
+          "location": "342 Grant Ave",
           "tags": [],
           "isRefundable": false
         },
         {
-          "id": "lp2f138",
-          "name": "Embassy Suites by Hilton Chicago Downtown Magnificent Mile",
-          "image": "https://static.cupid.travel/hotels/484125817.jpg",
-          "description": "Embassy Suites by Hilton Chicago Downtown Magnificent Mile offers luxurious suites featuring separate living areas and stunning views of the Chicago skyline. Guests can enjoy top-notch amenities, including a heated indoor pool and a well-equipped fitness center, perfect for both leisure and business travelers. Situated just steps from iconic attractions like Michigan Avenue and Millennium Park, this hotel is the ideal base for exploring the vibrant city.",
-          "highlight": "Embassy Suites by Hilton Chicago Downtown Magnificent Mile provides spacious family rooms, a heated indoor pool, and convenient room service.",
-          "price": "$222/night",
-          "location": "511 North Columbus Drive",
-          "tags": [],
-          "isRefundable": false
-        },
-        {
-          "id": "lp27d87",
-          "name": "Homewood Suites by Hilton Chicago Downtown",
-          "image": "https://static.cupid.travel/hotels/493651444.jpg",
-          "description": "Experience the comfort of Homewood Suites by Hilton Chicago-Downtown, where each luxurious suite features two flat-screen TVs and a fully equipped kitchenette, along with complimentary grocery shopping services. Stay fit in the gym with stunning city views and explore the vibrant River North neighborhood, filled with exceptional dining and shopping options. Just moments from iconic attractions like Millennium Park and Navy Pier, this hotel promises an unforgettable Chicago getaway.",
-          "highlight": "Homewood Suites by Hilton Chicago Downtown includes spacious suites with kitchenettes, two flat-screen TVs, and a complimentary grocery shopping service.",
-          "price": "$199/night",
-          "location": "40 East Grand Avenue",
-          "tags": [],
-          "isRefundable": false
-        },
-        {
-          "id": "lp74544",
-          "name": "Loews Chicago Hotel",
-          "image": "https://static.cupid.travel/hotels/433892207.jpg",
-          "description": "Discover stunning city skyline views from the rooftop lounge at Loews Chicago Hotel, where luxury meets comfort in stylish guestrooms. Enjoy exquisite dining at our modern restaurant, take a swim in the expansive indoor lap pool, and benefit from state-of-the-art meeting facilities. Perfectly situated near Millennium Park and the Magnificent Mile, this hotel is ideal for both business and leisure travelers.",
-          "highlight": "Loews Chicago Hotel provides family rooms, kids meals, and a heated indoor pool for an enjoyable stay.",
-          "price": "$361/night",
-          "location": "455 North Park Drive",
+          "id": "lp19b5e",
+          "name": "The Westin St. Francis San Francisco on Union Square",
+          "image": "https://static.cupid.travel/hotels/426628662.jpg",
+          "description": "Experience the perfect fusion of historic charm and modern luxury at The Westin St. Francis San Francisco on Union Square, featuring elegantly appointed rooms in both the Landmark and Tower buildings. Savor a range of culinary delights from morning coffee at Cafe Rito to upscale dining at The Oak Room Restaurant, complemented by inviting settings for evening drinks at The Clock Bar. With a prime location near cable car stops and Chinatown, plus a well-equipped fitness center and complimentary lobby WiFi, this hotel offers an unforgettable stay in the heart of the city.",
+          "highlight": "Boasts elegantly appointed rooms, upscale dining options, a well-equipped fitness center, and a prime location near attractions.",
+          "price": "$624/night",
+          "location": "335 Powell Street",
           "tags": [],
           "isRefundable": true
         },
         {
-          "id": "lp1a7cf",
-          "name": "DoubleTree by Hilton Chicago Magnificent Mile",
-          "image": "https://static.cupid.travel/hotels/490800123.jpg",
-          "description": "Experience luxury at the DoubleTree by Hilton Chicago Magnificent Mile, located just steps from the iconic Magnificent Mile. Dive into the outdoor pool, savor vibrant meals at the on-site HotHouse restaurant, and enjoy modern room amenities including flat-screen TVs and iPod docking stations. With a fitness center to keep you active and complimentary warm cookies upon arrival, your stay promises both relaxation and indulgence.",
-          "highlight": "Offers family rooms, an outdoor pool, and a rooftop garden for a memorable stay in Chicago.",
-          "price": "$203/night",
-          "location": "300 E Ohio St",
+          "id": "lp225d7",
+          "name": "Hotel Emblem San Francisco",
+          "image": "https://static.cupid.travel/hotels/195700093.jpg",
+          "description": "Experience the charm of the Beat Generation at Hotel Emblem San Francisco, located in the lively Theatre District. This boutique hotel features a literary-themed atmosphere with unique furnishings, original art, and live music, creating a creative haven for guests. Enjoy modern amenities in cozy rooms, along with personalized concierge services and a relaxing evening at the Obscenity Bar & Lounge.",
+          "highlight": "Features cozy rooms with modern amenities, personalized concierge services, and outdoor CCTV for enhanced security at Hotel Emblem San Francisco.",
+          "price": "$178/night",
+          "location": "562 Sutter St",
+          "tags": [],
+          "isRefundable": true
+        },
+        {
+          "id": "lp27fa6",
+          "name": "Hotel Zoe Fisherman's Wharf",
+          "image": "https://static.cupid.travel/hotels/119733809.jpg",
+          "description": "Experience a taste of Italy at Pescatore, our on-site restaurant serving fresh seafood and beloved Italian dishes. Guests will appreciate the modern comforts of contemporary rooms featuring red accents, flat-screen TVs, free WiFi, and convenient amenities. Ideally situated just two blocks from the San Francisco waterfront, Hotel Zoe offers easy access to iconic attractions like Ripley's Believe It or Not and Alcatraz Cruises.",
+          "highlight": "Boasts contemporary rooms with flat-screen TVs, free WiFi, and an on-site Italian restaurant, just two blocks from the waterfront.",
+          "price": "$262/night",
+          "location": "425 North Point",
           "tags": [],
           "isRefundable": false
         },
         {
-          "id": "lp1c5194",
-          "name": "Hilton Garden Inn Chicago Downtown South Loop",
-          "image": "https://static.cupid.travel/hotels/485856873.jpg",
-          "description": "Experience luxurious comfort at the Hilton Garden Inn Chicago Downtown South Loop, ideally situated just 1.1 km from DePaul University and close to iconic attractions like the Field Museum. Guests can enjoy a range of modern amenities, including a fitness center, restaurant, and relaxing sun terrace, while staying connected with free WiFi and 24-hour room service. Whether for business or leisure, this hotel offers the perfect retreat in the vibrant heart of the Windy City.",
-          "highlight": "Offers a pool, hot tub, and a fitness center along with free WiFi for family-friendly comfort in downtown Chicago.",
-          "price": "$228/night",
-          "location": "55 E 11th Street",
+          "id": "lp28139",
+          "name": "Hotel Spero",
+          "image": "https://static.cupid.travel/hotels/138937383.jpg",
+          "description": "Experience the perfect blend of luxury and sustainability at Hotel Spero, located in the heart of downtown San Francisco. Enjoy stylish, light-filled rooms featuring modern amenities and rejuvenating showers, while indulging in delicious American cuisine at Jasper's Corner Tap & Kitchen. With a 24-hour gym, business center, and easy access to iconic attractions like Union Square and Chinatown, Hotel Spero is your ideal base for exploring the city.",
+          "highlight": "Offers stylish rooms with modern amenities, a 24-hour gym, and an on-site restaurant serving American cuisine.",
+          "price": "$176/night",
+          "location": "405 Taylor St",
+          "tags": [],
+          "isRefundable": true
+        },
+        {
+          "id": "lp416fa",
+          "name": "Monte Cristo Bed and Breakfast",
+          "image": "https://static.cupid.travel/hotels/95894472.jpg",
+          "description": "Experience the charm of Monte Cristo Bed and Breakfast, nestled in one of San Francisco's historic neighborhoods. Enjoy uniquely designed guestrooms, complete with flat-screen TVs and complimentary Wi-Fi, while savoring a delicious continental breakfast featuring fresh fruits and gluten-free options. With prime access to vibrant shopping and dining on Union and Fillmore Streets, this inn offers a perfect blend of comfort and convenience for your unforgettable San Francisco escape.",
+          "highlight": "Monte Cristo Bed and Breakfast offers soundproof rooms, complimentary Wi-Fi, and a gourmet continental breakfast in a historic neighborhood.",
+          "price": "$318/night",
+          "location": "600 Presidio Avenue",
           "tags": [],
           "isRefundable": true
         }
