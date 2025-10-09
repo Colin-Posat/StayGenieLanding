@@ -1,0 +1,80 @@
+{
+  "city": "miami",
+  "query": "best family friendly hotels in miami beach with pools",
+  "title": "Best Family-Friendly Hotels in Miami Beach with Pools",
+  "excerpt": "Finding the perfect family-friendly hotel in Miami Beach can be quite a challenge, especially when you want amenities like a pool to keep the kids entertained. With so many options available, this curated list highlights hotels that not only cater to families but also provide a refreshing oasis for relaxation. Discovering these gems ensures your family can enjoy a memorable vacation without the stress of searching through countless listings.",
+  "intro": "In this article, readers will uncover the best family-friendly hotels in Miami Beach that feature inviting pools for endless fun and relaxation.",
+  "hotels": [
+    {
+      "id": "lp20545",
+      "name": "enVision Hotel Miami International Airport",
+      "image": "https://static.cupid.travel/hotels/580766568.jpg",
+      "description": "Experience comfort and convenience at Days Inn by Wyndham Miami International Airport, featuring complimentary WiFi, flat-screen cable TVs, and in-room refrigerators. Guests can relax by the outdoor pool, enjoy the games room, or maintain their fitness routine in the on-site gym. Ideally situated just a short walk from the Miami Airport Convention Center and close to popular attractions like the Miami Seaquarium, this hotel provides easy access to the best of Miami.",
+      "highlight": "Offers an outdoor pool, family rooms, and a games room for enjoyable family activities.",
+      "price": "$100/night",
+      "location": "7250 Nw 11th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp33a21a",
+      "name": "Comfort Inn & Suites Miami International Airport",
+      "image": "https://static.cupid.travel/hotels/238966991.jpg",
+      "description": "Experience the luxurious amenities at Comfort Inn & Suites Miami International Airport, featuring an outdoor swimming pool, a fitness center, and a sun terrace perfect for soaking up the Miami sun. With convenient services like private parking, airport transfers, and complimentary WiFi, you'll feel right at home. Ideally situated near Miami International Airport and popular attractions, this hotel offers the perfect blend of comfort and accessibility for your stay.",
+      "highlight": "Offers an outdoor swimming pool, complimentary beach shuttle, and spacious family-friendly accommodations near Miami International Airport.",
+      "price": "$153/night",
+      "location": "665 Mokena Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22828",
+      "name": "Extended Stay America Premier Suites - Miami - Airport - Miami Springs",
+      "image": "https://static.cupid.travel/hotels/480038811.jpg",
+      "description": "Experience comfort at the Extended Stay America Miami, featuring a refreshing outdoor pool ideal for relaxation after a day of exploring. Each room includes a convenient kitchenette with a refrigerator and microwave, allowing you to prepare meals at your leisure. Located just a short drive from Miami International Airport and near popular attractions like the Art Deco District, this hotel provides easy access to the vibrant city life.",
+      "highlight": "Features an outdoor pool, family rooms, and kitchenettes for convenient meal preparation in a prime Miami Springs location.",
+      "price": "$114/night",
+      "location": "101 Fairway Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19c0d",
+      "name": "Mayfair House Hotel & Garden",
+      "image": "https://static.cupid.travel/hotels/502849201.jpg",
+      "description": "Discover the ultimate luxury at our boutique hotel in Coconut Grove, featuring a stunning rooftop pool and bar, perfect for soaking in breathtaking views while enjoying gourmet dining. Each spacious room boasts high-tech amenities, including a 65-inch flat-screen TV and private outdoor showers for an added touch of indulgence. Stay fit in our state-of-the-art 24-hour fitness center, ensuring you can maintain your routine during your stay.",
+      "highlight": "Offers a rooftop pool and family rooms, ensuring a luxurious stay with stunning views and spacious accommodations.",
+      "price": "$372/night",
+      "location": "3000 Florida Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65575bef",
+      "name": "Home2 Suites By Hilton Miami Airport South Blue Lagoon",
+      "image": "https://static.cupid.travel/hotels/474970932.jpg",
+      "description": "Home2 Suites By Hilton Miami Airport South Blue Lagoon offers a prime location near the University of Miami and Marlins Park, making it ideal for both business and leisure travelers. Each room features modern amenities, including a kitchen and fridge, while guests can enjoy complimentary breakfast and 24-hour front desk service. Experience the convenience of easy access to top attractions like Dolphin Mall and Cocowalk Shopping Center during your stay.",
+      "highlight": "Home2 Suites By Hilton Miami Airport South Blue Lagoon features a pool, gym, and complimentary breakfast for family-friendly convenience.",
+      "price": "$142/night",
+      "location": "1101 NW 57 Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp36402",
+      "name": "Quality Inn Miami Airport - Doral",
+      "image": "https://static.cupid.travel/hotels/382114256.jpg",
+      "description": "Experience modern convenience at Quality Inn Miami Airport - Doral, located just six miles from Miami International Airport. Enjoy luxurious amenities including an outdoor pool, daily breakfast buffet, and a fitness center, all while relaxing in well-appointed rooms featuring microwaves and cable TV. With a business center, convenience store, and shuttle services, this hotel provides everything you need for a seamless stay, plus easy access to local attractions like Doral Country Club and Miami Beach.",
+      "highlight": "Offers an outdoor pool, kids meals, and comfortable rooms with microwaves for family-friendly convenience.",
+      "price": "$86/night",
+      "location": "3959 NW 79th Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-family-friendly-hotels-in-miami-beach-with-pools",
+  "generatedAt": "2025-10-03T16:44:45.958Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp20545"
+}

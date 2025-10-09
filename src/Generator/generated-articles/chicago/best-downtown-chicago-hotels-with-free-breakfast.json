@@ -1,0 +1,80 @@
+{
+  "city": "chicago",
+  "query": "best downtown chicago hotels with free breakfast",
+  "title": "Best Downtown Chicago Hotels with Free Breakfast",
+  "excerpt": "Finding hotels in downtown Chicago that offer free breakfast can be quite the challenge, as many properties prioritize luxury over value. This list is invaluable for travelers looking to save money without sacrificing comfort, ensuring that you can start your day with a hearty meal before exploring the Windy City. By highlighting the best options, we make it easier for you to enjoy both a great stay and a delicious start to your adventures.",
+  "intro": "Discover the top downtown Chicago hotels that not only offer stylish accommodations but also provide the added perk of free breakfast.",
+  "hotels": [
+    {
+      "id": "lp1b796",
+      "name": "Hilton Chicago",
+      "image": "https://static.cupid.travel/hotels/539408022.jpg",
+      "description": "Discover the Hilton Chicago, where luxury and convenience come together in an ideal city location. Enjoy stunning views from your room, unwind in the indoor pool and hot tub, or stay active in the modern fitness center. Savor delicious local cuisine and craft beers at 720 South Bar & Grill, experience live entertainment at Kitty O'Shea's Irish pub, or opt for the convenience of room service for a perfect stay.",
+      "highlight": "Offers free breakfast, an indoor pool, and an on-site restaurant serving local cuisine and craft beers.",
+      "price": "$427/night",
+      "location": "720 S Michigan Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp80742",
+      "name": "Hampton Inn Chicago Downtown/N Loop/Michigan Ave",
+      "image": "https://static.cupid.travel/hotels/484316947.jpg",
+      "description": "Located just two blocks from Millennium Park, Hampton Inn Chicago Downtown/N Loop/Michigan Ave is perfectly positioned for exploring the city's vibrant attractions. Guests can unwind in comfortable rooms equipped with modern amenities, including a 42-inch flat-screen HDTV and a coffee machine, while enjoying complimentary hot breakfast and access to a 24-hour fitness center. With business facilities and free WiFi, this hotel is an ideal choice for both work and leisure travelers seeking a convenient and enjoyable stay in Chicago.",
+      "highlight": "Offers complimentary hot breakfast, a 24-hour fitness center, and modern rooms with flat-screen HDTVs in downtown Chicago.",
+      "price": "$269/night",
+      "location": "68 E. Wacker Place",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656bc994",
+      "name": "Hampton Inn & Suites Chicago Medical District Uic",
+      "image": "https://static.cupid.travel/hotels/551119220.jpg",
+      "description": "Hampton Inn & Suites Chicago Medical District UIC offers a prime location just 1.4 km from the United Center, making it an ideal spot for exploring Chicago. Guests can enjoy modern air-conditioned rooms, a 24-hour front desk, and convenient on-site parking. Start your mornings with a delicious buffet or American breakfast to fuel your adventures in the Windy City.",
+      "highlight": "Offers a complimentary buffet breakfast and modern air-conditioned rooms in a prime downtown location.",
+      "price": "$228/night",
+      "location": "710 S Seeley Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9897e",
+      "name": "Homewood Suites by Hilton Chicago Downtown West Loop",
+      "image": "https://static.cupid.travel/hotels/485381598.jpg",
+      "description": "Experience luxurious all-suites accommodation in the heart of downtown Chicago, complete with top-notch amenities such as a complimentary hot breakfast, free WiFi, and spacious rooms featuring 43-inch HDTVs and fully-equipped kitchens. Enjoy a unique dining experience at the exclusive self-pour Fulton Tap Bar or relax on the serene Fulton Garden Terrace. With extensive meeting space and a prime location near key attractions like Millennium Park and the Art Institute, Homewood Suites by Hilton Chicago Downtown West Loop is perfect for both work and leisure.",
+      "highlight": "Offers complimentary hot breakfast along with spacious all-suites featuring fully-equipped kitchens and free WiFi in downtown Chicago.",
+      "price": "$330/night",
+      "location": "118 North Jefferson Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c515d",
+      "name": "Homewood Suites By Hilton Chicago Downtown South Loop",
+      "image": "https://static.cupid.travel/hotels/474440603.jpg",
+      "description": "Homewood Suites By Hilton Chicago Downtown South Loop offers a prime location just 1.1 km from DePaul University, featuring modern accommodations with exceptional amenities. Guests can enjoy a fitness center, hot tub, and on-site dining, while select rooms include fully equipped kitchens for added convenience. With free WiFi and proximity to Chicago's top attractions, this hotel is perfect for both relaxation and exploration.",
+      "highlight": "Offers complimentary breakfast, a fitness center, and a hot tub, along with modern accommodations and fully equipped kitchens.",
+      "price": "$241/night",
+      "location": "59 E. 11th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c5194",
+      "name": "Hilton Garden Inn Chicago Downtown South Loop",
+      "image": "https://static.cupid.travel/hotels/485856873.jpg",
+      "description": "Experience luxury at Hilton Garden Inn Chicago Downtown South Loop, ideally situated just 1.1 km from DePaul University and close to major attractions like the Field Museum. Enjoy modern amenities including a fitness centre, private parking, and a delightful restaurant, along with complimentary WiFi and 24-hour front desk service. Relax on the sun terrace or rejuvenate in the hot tub, making it the perfect retreat for both business and leisure travelers.",
+      "highlight": "Offers complimentary breakfast, a fitness centre, and a hot tub for a relaxing stay in downtown Chicago.",
+      "price": "$259/night",
+      "location": "55 E 11th Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-downtown-chicago-hotels-with-free-breakfast",
+  "generatedAt": "2025-10-03T16:44:45.958Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp1b796"
+}

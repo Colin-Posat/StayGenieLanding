@@ -1,0 +1,80 @@
+{
+  "city": "new-york",
+  "query": "best boutique hotels in new york with rooftop bars",
+  "title": "Best Boutique Hotels in New York with Rooftop Bars",
+  "excerpt": "Finding boutique hotels in New York that feature rooftop bars can be quite a challenge, as the city is filled with options that often overlook the charm and unique experiences these establishments offer. This list is valuable for travelers seeking not only a cozy place to stay but also a vibrant atmosphere to unwind and enjoy stunning skyline views. By highlighting these hidden gems, we make it easier for you to discover the perfect blend of comfort and nightlife during your visit.",
+  "intro": "Dive into a curated selection of New York's best boutique hotels that come with the added allure of rooftop bars, perfect for enjoying the city's breathtaking skyline.",
+  "hotels": [
+    {
+      "id": "lp5db5a",
+      "name": "Dream Downtown, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/43860221.jpg",
+      "description": "Experience modern luxury in the heart of Downtown Manhattan at Dream Downtown. Enjoy stunning city skyline views from the rooftop lounge, perfect for socializing, and savor gourmet Mexican cuisine at Bodega Negra, known for its vibrant atmosphere. Each room features designer furnishings, Egyptian cotton bedding, and plush bathrobes, ensuring a relaxing and comfortable stay.",
+      "highlight": "Offers a rooftop lounge with stunning skyline views and gourmet dining at Bodega Negra in Downtown Manhattan.",
+      "price": "$810/night",
+      "location": "355 W 16th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp76357",
+      "name": "The Knickerbocker",
+      "image": "https://static.cupid.travel/hotels/50599005.jpg",
+      "description": "Experience the vibrant energy of New York City at The Knickerbocker, featuring a stunning rooftop terrace that offers panoramic views of the skyline alongside a stylish cocktail bar. Each luxurious room is thoughtfully designed with modern amenities, plush bathrobes, and city views for a comfortable stay. Conveniently situated near Bryant Park and iconic landmarks, guests can savor exquisite dining at Charlie Palmer and unwind at the chic lounge.",
+      "highlight": "Boasts a stunning rooftop terrace with panoramic skyline views and a stylish cocktail bar for an unforgettable experience.",
+      "price": "$646/night",
+      "location": "6 Times Square",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpe1931",
+      "name": "Aliz Hotel Times Square",
+      "image": "https://static.cupid.travel/hotels/165926282.jpg",
+      "description": "Aliz Hotel Times Square offers a luxurious rooftop bar and lounge with stunning views of the Manhattan skyline, perfect for unwinding with a drink. Guests can enjoy modern amenities in air-conditioned rooms equipped with flat-screen TVs and Keurig® coffee machines, with select rooms featuring terraces or river views. The hotel also boasts a fitness center with Peloton bikes®, a business center, and attentive 24-hour front desk service, ensuring a convenient and comfortable stay in the heart of New York City.",
+      "highlight": "Aliz Hotel Times Square boasts a luxurious rooftop bar with stunning Manhattan skyline views and offers modern amenities in stylish rooms.",
+      "price": "$408/night",
+      "location": "310 W. 40th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6b28a",
+      "name": "Hyatt Centric Times Square New York",
+      "image": "https://static.cupid.travel/hotels/440539267.jpg",
+      "description": "Hyatt Centric Times Square offers stunning city views from its inviting rooftop lounge, perfect for enjoying cocktails and unforgettable moments. Guests can indulge in modern comforts, including floor-to-ceiling windows, in-room coffee makers, and a 24-hour fitness center, all while staying connected with complimentary WiFi. Ideally situated in the heart of midtown, the hotel is just steps from iconic attractions like Times Square and Rockefeller Center, making it a perfect base for exploring the vibrant city.",
+      "highlight": "Offers a rooftop lounge with stunning city views, outdoor furniture, and wine events for an elevated experience.",
+      "price": "$563/night",
+      "location": "135 W 45th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp67857",
+      "name": "Refinery Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_af79de27_z.jpg",
+      "description": "Experience the vibrant pulse of Manhattan at Refinery Hotel, ideally situated near iconic attractions. Enjoy luxurious comfort in one of our 197 elegantly designed rooms, featuring premium Frette Italian sheets and modern amenities like iPod docking stations and LCD televisions. Delight your palate at Parker and Quinn, our American cuisine restaurant, or unwind on the rooftop terrace while taking advantage of our fitness center and concierge services for a truly memorable stay.",
+      "highlight": "Boasts a stunning rooftop terrace offering panoramic views of Manhattan and a vibrant dining experience at Parker and Quinn.",
+      "price": "$665/night",
+      "location": "63 W 38th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp299fa",
+      "name": "Hotel Giraffe by Library Hotel Collection",
+      "image": "https://static.cupid.travel/hotels/245687621.jpg",
+      "description": "Experience the charm of Hotel Giraffe, nestled in the lively NoMad neighborhood. This elegant hotel features a serene rooftop garden and rooms adorned with stunning 1920s and 1930s photography, creating a nostalgic atmosphere. Enjoy complimentary refreshments and savor delicious meals at the on-site restaurant, Bread & Tulips, all while being just moments away from Union Square Park and Chelsea.",
+      "highlight": "Boasts a serene rooftop garden and complimentary refreshments, providing a tranquil escape in the heart of NoMad.",
+      "price": "$590/night",
+      "location": "365 Park Ave S",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-new-york-with-rooftop-bars",
+  "generatedAt": "2025-10-03T16:44:45.957Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp5db5a"
+}

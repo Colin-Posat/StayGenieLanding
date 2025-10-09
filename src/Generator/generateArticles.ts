@@ -51,15 +51,20 @@ const ARTICLE_QUERIES: ArticleQuery[] = [
 
 
   {
-    city: "las-vegas",
-    query: "best cheap safe clean hotels in las vegas",
-    title: "Best Cheap, Safe, Clean Hotels in Las Vegas"
-  },
-  {
-    city: "san-francisco",
-    query: "hotels in san francisco for women travelers safe clean amenities",
-    title: "Best Hotels in San Francisco for Women Travelers: Safe, Clean and Great Amenities"
-  },
+  city: "new-york",
+  query: "best boutique hotels in new york with rooftop bars",
+  title: "Best Boutique Hotels in New York with Rooftop Bars"
+},
+{
+  city: "miami",
+  query: "best family friendly hotels in miami beach with pools",
+  title: "Best Family-Friendly Hotels in Miami Beach with Pools"
+},
+{
+  city: "chicago",
+  query: "best downtown chicago hotels with free breakfast",
+  title: "Best Downtown Chicago Hotels with Free Breakfast"
+},
 ];
 
 // Helper function to create a URL-safe slug
