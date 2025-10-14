@@ -74,7 +74,6 @@ function ymdUTC(d: Date): string {
   return copy.toISOString().slice(0, 10);
 }
 
-const DEEP_LINK_BASE_URL = 'https://staygenie.nuitee.link'
 
 function generateHotelDeepLink(
   hotelName: string,
