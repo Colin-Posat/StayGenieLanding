@@ -28,7 +28,7 @@ export async function POST(request: NextRequest) {
                request.headers.get('x-real-ip') || 
                null
 
-    const { data, error } = await supabase
+    const { error } = await supabase
       .from('click_tracking')
       .insert({
         hotel_name: hotelName,
