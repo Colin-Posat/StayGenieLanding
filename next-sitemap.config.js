@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://www.staygenieapp.com',
+  siteUrl: 'https://www.staygenie.app',
   generateRobotsTxt: true,
   generateIndexSitemap: false,
   exclude: ['/404', '/500'],
