@@ -59,20 +59,7 @@ function applyTieredDiscount(price: string): string {
 
 
 
-function addMonthsUTC(d: Date, months: number): Date {
-  const year = d.getUTCFullYear();
-  const month = d.getUTCMonth();
-  const day = d.getUTCDate();
-  const target = new Date(Date.UTC(year, month + months, 1));
-  const lastDay = new Date(Date.UTC(target.getUTCFullYear(), target.getUTCMonth() + 1, 0)).getUTCDate();
-  target.setUTCDate(Math.min(day, lastDay));
-  return target;
-}
 
-function ymdUTC(d: Date): string {
-  const copy = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), 12));
-  return copy.toISOString().slice(0, 10);
-}
 
 
 function generateHotelDeepLink(
