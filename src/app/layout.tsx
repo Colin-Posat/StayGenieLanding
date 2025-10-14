@@ -4,6 +4,7 @@ import "./globals.css";
 import Link from "next/link";
 import Image from "next/image";
 import { Analytics } from "@vercel/analytics/next";
+import Script from "next/script";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -19,7 +20,8 @@ const geistMono = Geist_Mono({
 export const metadata = {
   metadataBase: new URL("https://www.staygenieapp.com"),
   title: "StayGenie - Hotel Search That Actually Gets You",
-  description: "AI learns your preferences to deliver personalized hotel recommendations. Always free. Always smart.",
+  description:
+    "AI learns your preferences to deliver personalized hotel recommendations. Always free. Always smart.",
   themeColor: "#1df9ff",
   manifest: "/manifest.json",
   icons: {
@@ -56,6 +58,20 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        {/* Google Analytics (Global site tag) */}
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-3C4PDTEN4G"
+        />
+        <Script id="ga-gtag-init" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-3C4PDTEN4G');
+          `}
+        </Script>
+
         {/* Extra meta tags for browser + Google favicon detection */}
         <meta name="agd-partner-manual-verification" />
         <link rel="icon" href="/favicon.ico" />
@@ -67,19 +83,20 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         style={{
-          background: 'linear-gradient(-45deg, #f8fafc, #ffffff, #f1f5f9, #ffffff)',
-          backgroundSize: '400% 400%',
-          animation: 'gradient-shift 15s ease infinite',
-          minHeight: '100vh',
+          background:
+            "linear-gradient(-45deg, #f8fafc, #ffffff, #f1f5f9, #ffffff)",
+          backgroundSize: "400% 400%",
+          animation: "gradient-shift 15s ease infinite",
+          minHeight: "100vh",
         }}
       >
         <nav
           className="fixed top-0 left-0 right-0 z-40 transition-all duration-300 border-b shadow-lg"
           style={{
-            background: 'rgba(255, 255, 255, 0.7)',
-            backdropFilter: 'blur(12px)',
-            WebkitBackdropFilter: 'blur(12px)',
-            borderColor: 'rgba(255, 255, 255, 0.6)',
+            background: "rgba(255, 255, 255, 0.7)",
+            backdropFilter: "blur(12px)",
+            WebkitBackdropFilter: "blur(12px)",
+            borderColor: "rgba(255, 255, 255, 0.6)",
           }}
         >
           <div className="max-w-7xl mx-auto px-3 sm:px-6 py-2.5 sm:py-4">

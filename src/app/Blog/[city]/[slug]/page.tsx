@@ -80,46 +80,40 @@ function generateHotelDeepLink(
   city?: string,
   tags?: string[],
   isRefundable?: boolean,
-  checkInDate?: Date,
-  checkOutDate?: Date,
   adults: number = 2,
-  children: number = 0,
-  nights: number = 1
+  children: number = 0
 ): string {
-  // Build a Booking.com SEARCH url — no hotelId needed
   const bookingUrl = new URL("https://www.booking.com/searchresults.html");
 
-  // Query string that helps Booking land on the right place
-  const searchText = city ? `${hotelName} ${city}` : hotelName;
+  // Strong match for the exact hotel
+  const searchText = city ? `${hotelName}, ${city}` : hotelName;
   bookingUrl.searchParams.set("ss", searchText);
+  bookingUrl.searchParams.set("ssne", searchText);
+  bookingUrl.searchParams.set("ssne_untouched", searchText);
 
-  // Auto dates ~1 month ahead if not provided
-  const today = new Date();
-const autoIn = addMonthsUTC(today, 3);
-  const autoOut = new Date(Date.UTC(autoIn.getUTCFullYear(), autoIn.getUTCMonth(), autoIn.getUTCDate() + Math.max(1, nights), 12));
-
-  bookingUrl.searchParams.set("checkin", ymdUTC(checkInDate ?? autoIn));
-  bookingUrl.searchParams.set("checkout", ymdUTC(checkOutDate ?? autoOut));
-
-  // Occupancy/misc
+  // No dates included — user will see live calendar availability
   bookingUrl.searchParams.set("group_adults", String(adults));
   bookingUrl.searchParams.set("group_children", String(children));
   bookingUrl.searchParams.set("no_rooms", "1");
   bookingUrl.searchParams.set("lang", "en-us");
   bookingUrl.searchParams.set("selected_currency", "USD");
+  bookingUrl.searchParams.set("sb", "1");
+  bookingUrl.searchParams.set("src", "searchresults");
 
-  // Affiliate params
-  const label = `${BOOKING_LABEL_BASE}_${slugify(hotelName)}`.slice(0, 60); // keep label sane
+  // Affiliate parameters
+  const label = `${BOOKING_LABEL_BASE}_${slugify(hotelName)}`.slice(0, 60);
   bookingUrl.searchParams.set("aid", BOOKING_AID);
   bookingUrl.searchParams.set("label", label);
 
-  // Wrap with AWIN
+  // AWIN affiliate wrapper
   const awin = new URL("https://www.awin1.com/cread.php");
   awin.searchParams.set("awinmid", AWIN_MID);
   awin.searchParams.set("awinaffid", AWIN_AFFID);
   awin.searchParams.set("ued", bookingUrl.toString());
+
   return awin.toString();
 }
+
 
 
 
@@ -206,10 +200,7 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
   hotel.tags,
   hotel.isRefundable,
   undefined,
-  undefined,
-  2,
-  0,
-  1                   // nights (default 1)
+  undefined,                 // nights (default 1)
 );
 
   // Priority loading for first 2 images, lazy for the rest
