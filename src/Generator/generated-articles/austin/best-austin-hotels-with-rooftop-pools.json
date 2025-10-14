@@ -1,0 +1,80 @@
+{
+  "city": "austin",
+  "query": "best austin hotels with rooftop pools",
+  "title": "Best Austin Hotels with Rooftop Pools",
+  "excerpt": "Finding the perfect hotel with a rooftop pool in Austin can be a daunting task, as many properties may not highlight this sought-after feature. This curated list saves you time by showcasing the best options that offer stunning views and a refreshing escape, ensuring your stay is both enjoyable and memorable. With a range of styles and amenities, these hotels promise an unforgettable experience under the Texas sun.",
+  "intro": "Discover the top Austin hotels that boast breathtaking rooftop pools, perfect for soaking up the vibrant atmosphere of the city.",
+  "hotels": [
+    {
+      "id": "lp7c063",
+      "name": "Hotel Van Zandt",
+      "image": "https://static.cupid.travel/hotels/517480064.jpg",
+      "description": "Hotel Van Zandt offers a luxurious rooftop pool with stunning city skyline views, perfect for relaxation with refreshing drinks at the pool bar. Guests can savor gourmet American cuisine at Geraldine's, the hotel's onsite restaurant, while enjoying live music in a vibrant atmosphere. With convenient amenities like in-room massages, complimentary WiFi, and a fitness center, your stay promises both comfort and enjoyment in the heart of Austin.",
+      "highlight": "Hotel Van Zandt boasts a luxurious rooftop pool with stunning skyline views and onsite gourmet dining at Geraldine's.",
+      "price": "$393/night",
+      "location": "605 Davis Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp791ef",
+      "name": "The Westin Austin Downtown",
+      "image": "https://static.cupid.travel/hotels/494948676.jpg",
+      "description": "Experience the vibrant heart of Austin at The Westin Austin Downtown, where a rooftop pool bar and a stylish on-site restaurant offer guests a taste of the city's dynamic scene. Enjoy American Southern cuisine at Stella San Jac and unwind with handcrafted cocktails at Azul, all while soaking in stunning downtown views. With convenient amenities including a 24-hour front desk, business center, and mini-market, this hotel ensures a comfortable and stress-free stay.",
+      "highlight": "Boasts a rooftop pool bar with stunning downtown views and stylish outdoor furniture for relaxation.",
+      "price": "$613/night",
+      "location": "310 East 5th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp66dad",
+      "name": "Hampton Inn and Suites Austin University Capitol",
+      "image": "https://static.cupid.travel/hotels/484903904.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Hampton Inn and Suites Austin University Capitol. Enjoy a refreshing swim in the rooftop pool and stay connected with free Wi-Fi, while your modern guest room offers amenities like a flat-screen TV, coffee machine, and ergonomic workspace. Start your mornings with a hearty hot breakfast buffet and take advantage of the on-site fitness center and business facilities for a well-rounded stay.",
+      "highlight": "Boasts a rooftop swimming pool, complimentary Wi-Fi, and a modern fitness facility for a refreshing stay.",
+      "price": "$163/night",
+      "location": "1701 Lavaca St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa8006",
+      "name": "Fairmont Austin",
+      "image": "https://static.cupid.travel/hotels/277640456.jpg",
+      "description": "Experience luxury at Fairmont Austin, where stunning lake views and a serene wellness area featuring a hot tub and sauna await you. Savor exquisite dining options from Fulton to in-room service, while each modern room is equipped with flat-screen TVs and coffee machines. Conveniently situated near the Austin Convention Center and local attractions, this hotel is ideal for both business and leisure travelers.",
+      "highlight": "Features a stunning rooftop pool with breathtaking lake views, alongside a relaxing hot tub and spa services.",
+      "price": "$373/night",
+      "location": "101 Red River St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c649",
+      "name": "Omni Austin Hotel Downtown",
+      "image": "https://static.cupid.travel/hotels/502184613.jpg",
+      "description": "Experience luxury at the Omni Austin Hotel Downtown, featuring a rooftop heated pool and a well-equipped fitness center for relaxation and wellness. Savor delightful meals at Capital A restaurant, which boasts communal seating and a unique private dining room, or grab a quick treat at President’s House Coffee. With convenient services like a 24-hour front desk and on-site meeting facilities, this hotel ensures a seamless and enjoyable stay.",
+      "highlight": "Boasts a rooftop heated pool and a rooftop garden for stunning views and relaxation.",
+      "price": "$309/night",
+      "location": "700 San Jacinto Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpd3a74",
+      "name": "The LINE Austin",
+      "image": "https://static.cupid.travel/hotels/146446715.jpg",
+      "description": "Experience unparalleled luxury at The LINE Austin, perfectly situated near top attractions like the Austin Convention Center and Capitol Building. Enjoy stunning city and lake views from your room, complete with modern amenities and premium toiletries. Indulge in delicious dining options, unwind by the outdoor pool, or explore the city with complimentary bike rentals, all while enjoying exceptional hospitality in a pet-friendly environment.",
+      "highlight": "Boasts a rooftop pool with stunning city views and a heated outdoor pool in a pet-friendly environment.",
+      "price": "$424/night",
+      "location": "111 East Cesar Chavez Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-austin-hotels-with-rooftop-pools",
+  "generatedAt": "2025-10-14T19:58:33.021Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp7c063"
+}

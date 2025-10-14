@@ -51,20 +51,19 @@ const ARTICLE_QUERIES: ArticleQuery[] = [
 
 
   {
-  city: "new-york",
-  query: "best boutique hotels in new york with rooftop bars",
-  title: "Best Boutique Hotels in New York with Rooftop Bars"
-},
-{
-  city: "miami",
-  query: "best family friendly hotels in miami beach with pools",
-  title: "Best Family-Friendly Hotels in Miami Beach with Pools"
-},
-{
-  city: "chicago",
-  query: "best downtown chicago hotels with free breakfast",
-  title: "Best Downtown Chicago Hotels with Free Breakfast"
-},
+    city: "seattle",
+    query: "best seattle hotels near pike place market",
+    title: "Best Seattle Hotels near Pike Place Market"
+  },{
+      city: "austin",
+    query: "best austin hotels with rooftop pools",
+    title: "Best Austin Hotels with Rooftop Pools"
+  },
+  {
+    city: "nashville",
+    query: "best nashville hotels with live music",
+    title: "Best Nashville Hotels with Live Music"
+  },
 ];
 
 // Helper function to create a URL-safe slug

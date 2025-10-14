@@ -1,0 +1,80 @@
+{
+  "city": "seattle",
+  "query": "best seattle hotels near pike place market",
+  "title": "Best Seattle Hotels near Pike Place Market",
+  "excerpt": "Finding the perfect hotel near Pike Place Market can be a daunting task, given the myriad of options available that range in price and amenities. This curated list highlights the best hotels that not only offer convenience to one of Seattle's most iconic attractions but also provide comfort and unique experiences, making your stay truly memorable. Navigating this vibrant area is easier than ever with the right accommodations in hand.",
+  "intro": "Discover the top hotels near Pike Place Market that combine comfort, convenience, and a taste of Seattle's local charm.",
+  "hotels": [
+    {
+      "id": "lp2042a",
+      "name": "Kimpton Hotel Monaco Seattle, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/603706158.jpg",
+      "description": "Experience the perfect blend of luxury and comfort at Kimpton Hotel Monaco Seattle, where contemporary rooms feature free WiFi, yoga mats, and upscale bath amenities, with select accommodations offering deep soaking tubs and stunning city views. Enjoy convenient services like a 24-hour business center, fitness center, and a delightful wine reception, all while being ideally located minutes from iconic attractions like the Space Needle and Safeco Field. Whether for business or leisure, this hotel promises an unforgettable Seattle getaway.",
+      "highlight": "Offers contemporary rooms with free WiFi, yoga mats, upscale bath amenities, and a location just minutes from Pike Place Market.",
+      "price": "$162/night",
+      "location": "1101 4th Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp18c997",
+      "name": "The State Hotel",
+      "image": "https://static.cupid.travel/hotels/209926167.jpg",
+      "description": "Discover unparalleled luxury at The State Hotel in Seattle, featuring a well-equipped fitness center, a charming terrace, and a delightful restaurant and bar. Enjoy modern comforts in our stylish 4-star rooms, complete with flat-screen TVs, room service, and complimentary WiFi. Ideally situated just 300 meters from the city center, this hotel is the perfect starting point for exploring Seattle's famous attractions, including the Space Needle and CenturyLink Field.",
+      "highlight": "Offers stylish 4-star rooms, a fitness center, a terrace, and a restaurant, just 300 meters from Pike Place Market.",
+      "price": "$282/night",
+      "location": "1501 2nd Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21466",
+      "name": "Inn at the Market",
+      "image": "https://static.cupid.travel/hotels/222891275.jpg",
+      "description": "Discover the Inn at the Market, where stunning rooftop views of Elliott Bay meet the vibrant energy of Seattle. Enjoy modern amenities like free Wi-Fi and a minibar in each room, all while being just steps away from the iconic Pike Place Market. With 24-hour reception and a business center, this hotel perfectly blends comfort and convenience for an unforgettable urban getaway.",
+      "highlight": "Offers stunning rooftop views of Elliott Bay and is steps away from Pike Place Market, featuring modern amenities and dining options.",
+      "price": "$306/night",
+      "location": "86 Pine St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c180",
+      "name": "Fairmont Olympic Hotel",
+      "image": "https://static.cupid.travel/hotels/526207182.jpg",
+      "description": "Experience the historic charm of the Fairmont Olympic Hotel in downtown Seattle, a proud member of the National Register of Historic Places. Guests will delight in award-winning dining options and elegantly appointed rooms featuring French-inspired decor with stunning city views. Enjoy luxurious amenities like a fitness center, indoor pool, and personalized concierge service, all just moments away from iconic attractions like Pike Place Market and the 5th Avenue Theatre.",
+      "highlight": "Boasts elegantly appointed rooms with stunning city views and award-winning dining, just steps from Pike Place Market.",
+      "price": "$296/night",
+      "location": "411 University St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1eeb4",
+      "name": "The Alexis Royal Sonesta Hotel Seattle",
+      "image": "https://static.cupid.travel/hotels/497075138.jpg",
+      "description": "Experience luxury in the heart of Seattle at The Alexis Royal Sonesta Hotel, ideally located just minutes from the waterfront and iconic attractions like Pike Place Market. Guests can enjoy unique amenities such as a well-stocked honor bar and the celebrated Bookstore Bar & Cafe, featuring an extensive whiskey selection. With exceptional services including a fitness center and 24-hour concierge assistance, your stay promises both comfort and convenience.",
+      "highlight": "Boasts a prime location minutes from Pike Place Market, along with a fitness center and a celebrated on-site restaurant.",
+      "price": "$218/night",
+      "location": "1007 1st Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a20c",
+      "name": "Crowne Plaza Seattle - Downtown, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_8e156962_z.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Crowne Plaza Seattle - Downtown. Enjoy modern amenities such as a 24-hour fitness center and complimentary Wi-Fi, along with on-site dining at the Regatta Bar and Grille. Ideally located near Seattle's vibrant attractions, including Pike Place Market and the 5th Avenue Theater, the hotel offers 415 well-appointed rooms for a relaxing stay.",
+      "highlight": "Offers 415 well-appointed rooms, a 24-hour fitness center, and on-site dining near Pike Place Market.",
+      "price": "$119/night",
+      "location": "1113 6th Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-seattle-hotels-near-pike-place-market",
+  "generatedAt": "2025-10-14T19:58:33.020Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp2042a"
+}

@@ -15,46 +15,114 @@ export async function generateStaticParams() {
   return params
 }
 
+const BOOKING_AID = "304142";
+const BOOKING_LABEL_BASE = "staygenie_blog";
+const AWIN_MID = "6776";
+const AWIN_AFFID = "2062217";
+
+function slugify(input: string): string {
+  return input
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+    .replace(/--+/g, "-");
+}
+function applyTieredDiscount(price: string): string {
+  const match = price.match(/^\s*([^\d.,-]*)\s*([\d.,-]+)/);
+  if (!match) return price;
+
+  const prefix = match[1] ?? "";
+  const numeric = (match[2] ?? "").replace(/,/g, "");
+  const base = parseFloat(numeric);
+  if (isNaN(base)) return price;
+
+  // Apply tiered discount
+  let multiplier = 1;
+  if (base < 200) multiplier = 0.8;      // 20% off
+  else if (base <= 700) multiplier = 0.7; // 30% off
+  else multiplier = 0.62;                 // 38% off
+
+  const discounted = base * multiplier;
+
+  const consumedLen = match[0].length;
+  const suffix = price.slice(consumedLen).trim();
+
+  const formatted = discounted.toLocaleString("en-US", {
+    maximumFractionDigits: 0,
+  });
+
+  return `${prefix}${formatted}${suffix ? ` ${suffix}` : ""}`;
+}
+
+
+
+function addMonthsUTC(d: Date, months: number): Date {
+  const year = d.getUTCFullYear();
+  const month = d.getUTCMonth();
+  const day = d.getUTCDate();
+  const target = new Date(Date.UTC(year, month + months, 1));
+  const lastDay = new Date(Date.UTC(target.getUTCFullYear(), target.getUTCMonth() + 1, 0)).getUTCDate();
+  target.setUTCDate(Math.min(day, lastDay));
+  return target;
+}
+
+function ymdUTC(d: Date): string {
+  const copy = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate(), 12));
+  return copy.toISOString().slice(0, 10);
+}
+
 const DEEP_LINK_BASE_URL = 'https://staygenie.nuitee.link'
 
 function generateHotelDeepLink(
-  hotelId: string,
   hotelName: string,
+  city?: string,
   tags?: string[],
   isRefundable?: boolean,
   checkInDate?: Date,
   checkOutDate?: Date,
   adults: number = 2,
-  children: number = 0
+  children: number = 0,
+  nights: number = 1
 ): string {
-  const url = `${DEEP_LINK_BASE_URL}/hotels/${hotelId}`
-  const params = new URLSearchParams()
+  // Build a Booking.com SEARCH url — no hotelId needed
+  const bookingUrl = new URL("https://www.booking.com/searchresults.html");
 
-  if (checkInDate) params.append('checkin', checkInDate.toISOString().split('T')[0])
-  if (checkOutDate) params.append('checkout', checkOutDate.toISOString().split('T')[0])
+  // Query string that helps Booking land on the right place
+  const searchText = city ? `${hotelName} ${city}` : hotelName;
+  bookingUrl.searchParams.set("ss", searchText);
 
-  const occupancy = [{ adults, children: children > 0 ? [children] : [] }]
-  try {
-    const occupanciesString = Buffer.from(JSON.stringify(occupancy)).toString('base64')
-    params.append('occupancies', occupanciesString)
-  } catch (error) {
-    console.warn('Failed to encode occupancy:', error)
-  }
+  // Auto dates ~1 month ahead if not provided
+  const today = new Date();
+const autoIn = addMonthsUTC(today, 3);
+  const autoOut = new Date(Date.UTC(autoIn.getUTCFullYear(), autoIn.getUTCMonth(), autoIn.getUTCDate() + Math.max(1, nights), 12));
 
-  if (isRefundable || tags?.includes('Free Cancellation')) params.append('needFreeCancellation', '1')
-  if (tags?.includes('All Inclusive')) params.append('needAllInclusive', '1')
-  if (tags?.includes('Breakfast Included')) params.append('needBreakfast', '1')
+  bookingUrl.searchParams.set("checkin", ymdUTC(checkInDate ?? autoIn));
+  bookingUrl.searchParams.set("checkout", ymdUTC(checkOutDate ?? autoOut));
 
-  params.append('language', 'en')
-  params.append('currency', 'USD')
-  params.append('source', 'direct')
-  params.append('rooms', '1')
-  params.append('adults', adults.toString())
-  params.append('children', children.toString())
+  // Occupancy/misc
+  bookingUrl.searchParams.set("group_adults", String(adults));
+  bookingUrl.searchParams.set("group_children", String(children));
+  bookingUrl.searchParams.set("no_rooms", "1");
+  bookingUrl.searchParams.set("lang", "en-us");
+  bookingUrl.searchParams.set("selected_currency", "USD");
 
-  const queryString = params.toString()
-  return queryString ? `${url}?${queryString}` : url
+  // Affiliate params
+  const label = `${BOOKING_LABEL_BASE}_${slugify(hotelName)}`.slice(0, 60); // keep label sane
+  bookingUrl.searchParams.set("aid", BOOKING_AID);
+  bookingUrl.searchParams.set("label", label);
+
+  // Wrap with AWIN
+  const awin = new URL("https://www.awin1.com/cread.php");
+  awin.searchParams.set("awinmid", AWIN_MID);
+  awin.searchParams.set("awinaffid", AWIN_AFFID);
+  awin.searchParams.set("ued", bookingUrl.toString());
+  return awin.toString();
 }
+
+
 
 export default async function BlogPostPage({
   params,
@@ -130,21 +198,20 @@ interface HotelCardProps {
   city: string
 }
 
-function HotelCard({ index, hotel }: HotelCardProps) {
+function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
-  const hotelDeepLink = hotel.id
-    ? generateHotelDeepLink(
-        hotel.id,
-        hotel.name,
-        hotel.tags,
-        hotel.isRefundable,
-        undefined,
-        undefined,
-        2,
-        0
-      )
-    : `${DEEP_LINK_BASE_URL}`
+  const hotelDeepLink = generateHotelDeepLink(
+  hotel.name,
+  city,                // <- helps match the right property
+  hotel.tags,
+  hotel.isRefundable,
+  undefined,
+  undefined,
+  2,
+  0,
+  1                   // nights (default 1)
+);
 
   // Priority loading for first 2 images, lazy for the rest
   const shouldPriorityLoad = index < 2
@@ -206,14 +273,16 @@ function HotelCard({ index, hotel }: HotelCardProps) {
           </div>
         )}
 
-        {hotel.price && (
-          <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
-            <div className="text-right">
-              <div className="text-xs font-medium text-white/80">Starting at</div>
-              <div className="text-lg font-bold text-white">{hotel.price}</div>
-            </div>
-          </div>
-        )}
+      {hotel.price && (
+  <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
+    <div className="text-right">
+      <div className="text-xs font-medium text-white/80">Starting at</div>
+      <div className="text-lg font-bold text-white">
+        {applyTieredDiscount(hotel.price)}
+      </div>
+    </div>
+  </div>
+)}
       </a>
 
       <div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">

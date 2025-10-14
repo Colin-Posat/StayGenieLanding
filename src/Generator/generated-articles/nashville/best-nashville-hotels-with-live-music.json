@@ -1,0 +1,80 @@
+{
+  "city": "nashville",
+  "query": "best nashville hotels with live music",
+  "title": "Best Nashville Hotels with Live Music",
+  "excerpt": "Finding hotels in Nashville that offer live music can be a daunting task, as many spots are either too far from the action or lack the vibrant atmosphere that defines the city. This list is invaluable for travelers seeking an authentic Nashville experience, as it highlights hotels that not only provide comfortable accommodations but also immerse guests in the local music scene. With the right choice, you can enjoy the sounds of live performances just steps from your room, making your stay truly unforgettable.",
+  "intro": "Discover the best Nashville hotels where the spirit of live music comes alive, ensuring a memorable stay in Music City.",
+  "hotels": [
+    {
+      "id": "lp9679b",
+      "name": "The Westin Nashville",
+      "image": "https://static.cupid.travel/hotels/500792165.jpg",
+      "description": "The Westin Nashville offers a luxurious retreat with a spa center, sauna, fitness center, and an indoor pool for guests to relax and rejuvenate. Savor a culinary adventure at two on-site restaurants that serve exquisite meals throughout the day. Ideally located just 1.6 km from Nissan Stadium and close to iconic attractions like the Grand Ole Opry, this hotel combines comfort with convenience for an unforgettable Nashville experience.",
+      "highlight": "Boasts live shows and a lively nightclub, along with a rooftop garden for an entertaining Nashville experience.",
+      "price": "$360/night",
+      "location": "807 Clark Place",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655766eb",
+      "name": "Embassy Suites by Hilton Nashville Downtown",
+      "image": "https://static.cupid.travel/hotels/474951243.jpg",
+      "description": "Embassy Suites by Hilton Nashville Downtown offers a blend of luxurious amenities, including a fitness center, restaurant, and bar, perfect for relaxation and staying active. Nestled in the vibrant heart of Nashville, the hotel provides easy access to iconic attractions like Bridgestone Arena and the Ryman Auditorium. With exceptional service from a dedicated staff, your stay promises to be both comfortable and memorable in Music City.",
+      "highlight": "Offers live music shows and evening entertainment in the vibrant heart of Nashville, near top attractions.",
+      "price": "$347/night",
+      "location": "708 Demonbreun Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655766eb",
+      "name": "Embassy Suites by Hilton Nashville Downtown",
+      "image": "https://static.cupid.travel/hotels/474951243.jpg",
+      "description": "Embassy Suites by Hilton Nashville Downtown combines luxury and convenience, featuring a fitness center, a restaurant, and a bar for guests to enjoy. Located in the vibrant heart of Nashville, it offers easy access to famous attractions like Bridgestone Arena and Ryman Auditorium. With exceptional service from an attentive staff, your stay promises to be both comfortable and memorable in Music City.",
+      "highlight": "Offers live music events and is located near Bridgestone Arena and Ryman Auditorium in downtown Nashville.",
+      "price": "$347/night",
+      "location": "708 Demonbreun Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c618",
+      "name": "DoubleTree by Hilton Hotel Nashville Downtown",
+      "image": "https://static.cupid.travel/hotels/537710045.jpg",
+      "description": "Experience the vibrant heart of Nashville at the DoubleTree by Hilton Hotel, conveniently located near the Music City Center and the lively Lower Broadway. Indulge in nightly live music and delicious dining at the Fourth & U Restaurant and Bar, and enjoy the convenience of a 24-hour market for snacks and essentials. With iconic attractions like the Country Music Hall of Fame and Ryman Auditorium just moments away, your unforgettable Nashville adventure begins here.",
+      "highlight": "Features nightly live music and a restaurant, along with a fitness center, in the heart of downtown Nashville.",
+      "price": "$213/night",
+      "location": "315 4th Avenue N",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3e4b7",
+      "name": "Hampton Inn & Suites Nashville-Downtown",
+      "image": "https://static.cupid.travel/hotels/484372538.jpg",
+      "description": "Hampton Inn & Suites Nashville-Downtown boasts a prime location just steps from iconic attractions like the Johnny Cash Museum and Bridgestone Arena, giving you easy access to the city's vibrant music scene. Enjoy modern, comfortable accommodations with amenities like flat-screen TVs and optional balconies for stunning city views, along with a delicious American buffet breakfast to start your day. Stay active in the on-site fitness center or catch up on work in the business center, all while benefiting from the attentive multilingual staff.",
+      "highlight": "Hampton Inn & Suites Nashville-Downtown offers live music events, family rooms, and wine events for an engaging stay.",
+      "price": "$192/night",
+      "location": "310 4th Avenue South",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19eca7",
+      "name": "Dream Nashville, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/461471222.jpg",
+      "description": "Experience the perfect fusion of history and modern luxury at Dream Nashville, set in two beautifully restored landmark buildings in Printer's Alley. Each art-deco inspired room offers stylish comfort with amenities like a flat-screen TV and premium bath products. Enjoy a culinary adventure at six diverse dining venues, including the renowned Stateside Kitchen, and explore nearby attractions like the Country Music Hall of Fame during your stay.",
+      "highlight": "Offers live music performances and a vibrant nightclub alongside six diverse dining venues and luxurious accommodations.",
+      "price": "$411/night",
+      "location": "210 4th Avenue North",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-nashville-hotels-with-live-music",
+  "generatedAt": "2025-10-14T19:58:33.021Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "deepLinkExample": "https://staygenie.nuitee.link/hotels/lp9679b"
+}
