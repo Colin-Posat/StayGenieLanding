@@ -2,6 +2,7 @@
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
 import { getAllCities, getCityPosts, getPost } from '@/lib/blog'
+import { TrackableLink } from './TrackableLink'
 
 export const dynamic = 'force-static'
 
@@ -30,6 +31,7 @@ function slugify(input: string): string {
     .replace(/^-+|-+$/g, "")
     .replace(/--+/g, "-");
 }
+
 function applyTieredDiscount(price: string): string {
   const match = price.match(/^\s*([^\d.,-]*)\s*([\d.,-]+)/);
   if (!match) return price;
@@ -56,11 +58,6 @@ function applyTieredDiscount(price: string): string {
 
   return `${prefix}${formatted}${suffix ? ` ${suffix}` : ""}`;
 }
-
-
-
-
-
 
 function generateHotelDeepLink(
   hotelName: string,
@@ -100,9 +97,6 @@ function generateHotelDeepLink(
 
   return awin.toString();
 }
-
-
-
 
 export default async function BlogPostPage({
   params,
@@ -182,13 +176,13 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
   const hotelDeepLink = generateHotelDeepLink(
-  hotel.name,
-  city,                // <- helps match the right property
-  hotel.tags,
-  hotel.isRefundable,
-  undefined,
-  undefined,                 // nights (default 1)
-);
+    hotel.name,
+    city,
+    hotel.tags,
+    hotel.isRefundable,
+    undefined,
+    undefined,
+  );
 
   // Priority loading for first 2 images, lazy for the rest
   const shouldPriorityLoad = index < 2
@@ -209,10 +203,10 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
         </p>
       )}
 
-      <a
+      <TrackableLink
         href={hotelDeepLink}
-        target="_blank"
-        rel="noopener noreferrer"
+        hotelName={hotel.name}
+        city={city}
         className="relative mb-5 block cursor-pointer overflow-hidden rounded-lg"
       >
         {isExternalUrl ? (
@@ -250,17 +244,17 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
           </div>
         )}
 
-      {hotel.price && (
-  <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
-    <div className="text-right">
-      <div className="text-xs font-medium text-white/80">Starting at</div>
-      <div className="text-lg font-bold text-white">
-        {applyTieredDiscount(hotel.price)}
-      </div>
-    </div>
-  </div>
-)}
-      </a>
+        {hotel.price && (
+          <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
+            <div className="text-right">
+              <div className="text-xs font-medium text-white/80">Starting at</div>
+              <div className="text-lg font-bold text-white">
+                {applyTieredDiscount(hotel.price)}
+              </div>
+            </div>
+          </div>
+        )}
+      </TrackableLink>
 
       <div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">
         <p className="text-base leading-relaxed text-neutral-700">
@@ -269,15 +263,15 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
       </div>
 
       <div className="flex items-center justify-between gap-4">
-        <a
+        <TrackableLink
           href={hotelDeepLink}
-          target="_blank"
-          rel="noopener noreferrer"
+          hotelName={hotel.name}
+          city={city}
           className="inline-flex items-center gap-2 rounded-lg bg-neutral-900 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:bg-neutral-800 hover:shadow-lg hover:scale-[1.03]"
         >
           View Details
           <ArrowIcon className="h-5 w-5" />
-        </a>
+        </TrackableLink>
       </div>
     </article>
   )
