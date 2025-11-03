@@ -1,6 +1,7 @@
 // app/Blog/[city]/[slug]/page.tsx
 import Image from 'next/image'
 import { notFound } from 'next/navigation'
+import type { Metadata } from 'next'
 import { getAllCities, getCityPosts, getPost } from '@/lib/blog'
 import { TrackableLink } from './TrackableLink'
 
@@ -98,6 +99,70 @@ function generateHotelDeepLink(
   return awin.toString();
 }
 
+/**
+ * SEO / Social metadata for each blog post page
+ * This controls:
+ *   - <title> in Google results
+ *   - <meta name="description">
+ *   - Open Graph / Twitter cards
+ */
+export async function generateMetadata(
+  { params }: { params: { city: string; slug: string } }
+): Promise<Metadata> {
+  const { city, slug } = params
+  const post = getPost(city, slug)
+
+  if (!post) {
+    return {
+      title: 'Post not found – StayGenie',
+      description: 'This page could not be found.',
+    }
+  }
+
+  // Capitalize city
+  const cityName = city.charAt(0).toUpperCase() + city.slice(1)
+
+  // Build a CTR-friendly title without emojis, no "travel guide"
+  // Examples:
+  //   "Best Places To Stay in Miami | Best Miami Hotels & Deals"
+  //   "Waterfront Cabins in Tahoe | Best Hotels & Deals"
+  const catchyTitle = post.title.includes(cityName)
+    ? `${post.title} | Best ${cityName} Hotels & Deals`
+    : `${post.title} in ${cityName} | Best Hotels & Deals`
+
+  // Meta description that encourages clicks in SERP (keep ~150-160 chars)
+  const description = post.excerpt
+    ? `${post.excerpt} Compare top-rated stays, find good prices, and pick the right area to stay in ${cityName}.`
+    : `Find the best hotels and deals in ${cityName}. Handpicked stays, areas worth booking, and where you actually want to sleep.`
+
+  const ogImage = post.hotels?.[0]?.image ?? '/default-og.jpg'
+
+  return {
+    title: catchyTitle,
+    description,
+    openGraph: {
+      title: catchyTitle,
+      description,
+      url: `https://staygenie.app/Blog/${city}/${slug}`,
+      type: 'article',
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: catchyTitle,
+      description,
+      images: [ogImage],
+    },
+  }
+}
+
 export default async function BlogPostPage({
   params,
 }: {
@@ -137,7 +202,13 @@ export default async function BlogPostPage({
               <HotelCard
                 key={index}
                 index={index}
-                hotel={{ ...hotel, price: hotel.price !== undefined ? hotel.price.toString() : undefined }}
+                hotel={{
+                  ...hotel,
+                  price:
+                    hotel.price !== undefined
+                      ? hotel.price.toString()
+                      : undefined,
+                }}
                 city={city}
               />
             ))}
@@ -173,7 +244,8 @@ interface HotelCardProps {
 }
 
 function HotelCard({ index, hotel, city }: HotelCardProps) {
-  const isExternalUrl = hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
+  const isExternalUrl =
+    hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
   const hotelDeepLink = generateHotelDeepLink(
     hotel.name,
@@ -181,8 +253,8 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
     hotel.tags,
     hotel.isRefundable,
     undefined,
-    undefined,
-  );
+    undefined
+  )
 
   // Priority loading for first 2 images, lazy for the rest
   const shouldPriorityLoad = index < 2
@@ -193,7 +265,9 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
         <span className="flex h-8 w-8 items-center justify-center rounded-full bg-neutral-900 text-sm font-medium text-white">
           {index + 1}
         </span>
-        <h2 className="font-serif text-2xl font-semibold text-neutral-900">{hotel.name}</h2>
+        <h2 className="font-serif text-2xl font-semibold text-neutral-900">
+          {hotel.name}
+        </h2>
       </div>
 
       {hotel.location && (
@@ -222,7 +296,10 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
             style={{ maxHeight: '280px', objectFit: 'cover' }}
           />
         ) : (
-          <div className="relative aspect-[16/9] w-full" style={{ maxHeight: '280px' }}>
+          <div
+            className="relative aspect-[16/9] w-full"
+            style={{ maxHeight: '280px' }}
+          >
             <Image
               src={hotel.image}
               alt={hotel.name}
@@ -239,7 +316,9 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
           <div className="absolute left-3 top-3 rounded-md bg-white/95 px-2.5 py-1.5 backdrop-blur-sm">
             <div className="flex items-center gap-1">
               <StarIcon className="h-3.5 w-3.5 text-amber-500" />
-              <span className="text-sm font-medium text-neutral-800">{hotel.rating}</span>
+              <span className="text-sm font-medium text-neutral-800">
+                {hotel.rating}
+              </span>
             </div>
           </div>
         )}
@@ -247,7 +326,9 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
         {hotel.price && (
           <div className="absolute bottom-3 right-3 rounded-md bg-neutral-900/90 px-3 py-2 backdrop-blur-sm">
             <div className="text-right">
-              <div className="text-xs font-medium text-white/80">Starting at</div>
+              <div className="text-xs font-medium text-white/80">
+                Starting at
+              </div>
               <div className="text-lg font-bold text-white">
                 {applyTieredDiscount(hotel.price)}
               </div>
@@ -258,7 +339,8 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
 
       <div className="mb-4 border-l-4 border-neutral-300 bg-neutral-50 py-3 pl-4 pr-3">
         <p className="text-base leading-relaxed text-neutral-700">
-          <span className="font-semibold">{hotel.highlight}</span> {hotel.description}
+          <span className="font-semibold">{hotel.highlight}</span>{' '}
+          {hotel.description}
         </p>
       </div>
 
