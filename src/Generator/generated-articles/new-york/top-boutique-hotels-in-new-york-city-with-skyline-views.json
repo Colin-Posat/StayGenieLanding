@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "top boutique hotels in new york city with skyline views",
+  "title": "Top Boutique Hotels in New York City with Skyline Views",
+  "excerpt": "Finding boutique hotels in New York City that offer breathtaking skyline views can be a daunting task amidst the bustling hotel scene. This curated list highlights unique accommodations where style meets spectacular views, allowing travelers to experience the city from a fresh perspective. Whether for a romantic getaway or a business trip, these hotels promise an unforgettable stay that blends comfort with the iconic skyline as a backdrop.",
+  "intro": "Discover the finest boutique hotels in New York City that not only offer exceptional service but also boast stunning views of the skyline.",
+  "hotels": [
+    {
+      "id": "lp7d0c0",
+      "name": "The Standard, High Line New York",
+      "image": "https://static.cupid.travel/hotels/59767031.jpg",
+      "description": "Experience luxury at The Standard, High Line New York, located in the vibrant Meatpacking District. Enjoy stunning city or river views from rooms with floor-to-ceiling windows, along with a hot tub on the roof terrace. Savor delightful dining at The Standard Grill and unwind with cocktails at the rooftop bar, Le Bain, or enjoy a casual atmosphere at The Standard Biergarten. With exceptional amenities, including 24-hour service and pet-friendly options, your stay promises to be both comfortable and unforgettable.",
+      "highlight": "Boasts floor-to-ceiling windows in rooms offering stunning skyline views and a rooftop bar with breathtaking vistas.",
+      "price": "$562/night",
+      "location": "848 Washington St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9e1e8",
+      "name": "Gansevoort Meatpacking",
+      "image": "https://static.cupid.travel/hotels/617375606.jpg",
+      "description": "Experience the height of luxury at Gansevoort Meatpacking, where a stunning rooftop space features a heated pool, bar, and lounge with breathtaking city views. Each elegantly designed room boasts high-end amenities, including a flat-screen TV, stocked minibar, and plush L'Occitane bath products for a pampering stay. Indulge in gourmet dining at The Chester or enjoy cocktails and live entertainment at the rooftop, making your stay a culinary adventure right in the heart of New York City.",
+      "highlight": "Boasts a stunning rooftop space with a heated pool, bar, and lounge offering breathtaking skyline views of New York City.",
+      "price": "$640/night",
+      "location": "18 9th Avenue at 13th street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7baff",
+      "name": "The Ludlow Hotel",
+      "image": "https://static.cupid.travel/hotels/60879404.jpg",
+      "description": "The Ludlow Hotel offers stunning views of New York City's skyline combined with luxurious accommodations featuring hardwood floors and Moroccan lamps. Guests can unwind in marble mosaic en suite bathrooms with deep soaking tubs and enjoy local treats from the minibar, all while benefiting from complimentary WiFi. Situated in the lively Lower East Side, the hotel provides easy access to popular attractions and boasts a 24-hour fitness center, a charming garden, and a stylish lobby bar, ensuring a memorable Manhattan experience.",
+      "highlight": "The Ludlow Hotel boasts skyline views, luxurious accommodations, a stylish lobby bar, and a charming Japanese garden.",
+      "price": "$634/night",
+      "location": "180 Ludlow Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6d7a2",
+      "name": "Hotel Hugo",
+      "image": "https://static.cupid.travel/hotels/29591700.jpg",
+      "description": "Experience the elegance of Hotel Hugo, where luxurious rooms feature Italian glass-tiled bathrooms and breathtaking views of the Hudson River. Enjoy exquisite farm-to-table American cuisine at Café Hugo and sip cocktails at the stylish rooftop bar, all while taking in stunning city skyline vistas. Conveniently situated in the vibrant Hudson Square neighborhood, the hotel offers easy access to iconic attractions like Times Square and Central Park, making it an ideal choice for your New York City adventure.",
+      "highlight": "Boasts luxurious rooms with Italian glass-tiled bathrooms and a rooftop bar offering stunning skyline views of the Hudson River.",
+      "price": "$354/night",
+      "location": "525 Greenwich Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp76357",
+      "name": "The Knickerbocker",
+      "image": "https://static.cupid.travel/hotels/50599005.jpg",
+      "description": "The Knickerbocker, situated in the heart of Times Square, features a stunning rooftop terrace that offers over 370 square meters of indoor and outdoor space with breathtaking views of the city skyline. Each luxurious room is designed for comfort, complete with modern amenities such as a flat-screen TV, mini fridge, and plush bathrobes, while guests can indulge in exquisite dining at Charlie Palmer and relax with cocktails at the rooftop lounge. With iconic landmarks like Bryant Park and the New York Public Library just a short stroll away, The Knickerbocker promises an unforgettable New York City experience.",
+      "highlight": "Offers a stunning rooftop terrace with expansive indoor and outdoor space showcasing breathtaking skyline views.",
+      "price": "$296/night",
+      "location": "6 Times Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpb564b",
+      "name": "The Bowery Hotel",
+      "image": "https://static.cupid.travel/hotels/117057810.jpg",
+      "description": "Discover The Bowery Hotel, a luxurious boutique retreat nestled in the vibrant Lower East Side and East Village. Enjoy chic rooms adorned with floor-to-ceiling windows, showcasing breathtaking city views, and indulge in elegant amenities like marble bathrooms and premium bedding. With exceptional concierge services, complimentary bicycles, and an on-site Italian restaurant, Gemma, offering delightful culinary experiences, this hotel perfectly combines sophistication with the lively spirit of the neighborhood.",
+      "highlight": "Boasts chic rooms with floor-to-ceiling windows offering stunning skyline views and premium amenities in a vibrant neighborhood.",
+      "price": "$801/night",
+      "location": "335 Bowery",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "top-boutique-hotels-in-new-york-city-with-skyline-views",
+  "generatedAt": "2025-11-03T02:33:33.883Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

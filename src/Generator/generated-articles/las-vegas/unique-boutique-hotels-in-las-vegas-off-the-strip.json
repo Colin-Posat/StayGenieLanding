@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "unique boutique hotels in las vegas off the strip",
+  "title": "Unique Boutique Hotels in Las Vegas Off the Strip",
+  "excerpt": "Finding unique boutique hotels off the Las Vegas Strip can be a challenge, as many travelers tend to flock to the glitz and glamour of the main attractions. However, these hidden gems offer a more intimate and personalized experience, allowing visitors to immerse themselves in the local culture while enjoying distinctive accommodations. This list is valuable for those looking to escape the hustle and bustle and discover a different side of Las Vegas.",
+  "intro": "Explore a curated selection of unique boutique hotels in Las Vegas that promise a memorable stay away from the bustling Strip.",
+  "hotels": [
+    {
+      "id": "lp1f4b0",
+      "name": "Serene Vegas Boutique Hotel Las Vegas",
+      "image": "https://static.cupid.travel/hotels/587415048.jpg",
+      "description": "Serene Vegas Boutique Hotel offers spacious, modern rooms just 1.2 miles from the lively Las Vegas Strip, featuring amenities like a 50-inch flat-screen TV, refrigerator, and free WiFi. This nonsmoking hotel provides a tranquil escape with Mediterranean decor, complimentary coffee in the lobby, and easy access to McCarran International Airport. Enjoy free parking and a peaceful atmosphere, making it the perfect retreat after a day of exploration in the vibrant city.",
+      "highlight": "Boasts spacious modern rooms with Mediterranean decor, a pool, spa services, and complimentary coffee in a tranquil setting.",
+      "price": "$93/night",
+      "location": "455 E Harmon Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa0c8d",
+      "name": "The Ahern Luxury Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_aa22e713_z.jpg",
+      "description": "Experience luxury at The Ahern Luxury Boutique Hotel in Las Vegas, where you can enjoy an on-site winery, a seasonal outdoor pool, and exquisite Italian dining at Ottimo. With 20,000 square feet of flexible event space and seven bars and lounges, this hotel caters to both leisure and business travelers. Benefit from complimentary Wi-Fi and 24-hour concierge services for a truly seamless stay.",
+      "highlight": "Boasts an on-site winery, seasonal outdoor pool, and 20,000 square feet of flexible event space for diverse experiences.",
+      "price": "$122/night",
+      "location": "300 W Sahara Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3273a",
+      "name": "Oasis at Gold Spike",
+      "image": "https://static.cupid.travel/hotels/537914855.jpg",
+      "description": "Discover the Oasis at Gold Spike, where each uniquely designed guest room offers free WiFi and flat-screen TVs, with upgraded options featuring cozy seating areas for added comfort. Enjoy vibrant evening entertainment at the Gold Spike bar, complete with oversized games, and savor casual dining at the Grill at Gold Spike. Located in the heart of Las Vegas, the hotel is just a short stroll from the Fremont Street Experience and minutes away from top attractions, making it the perfect base for your Vegas adventure.",
+      "highlight": "Offers uniquely designed guest rooms, vibrant evening entertainment, and a central location near the Fremont Street Experience.",
+      "price": "$44/night",
+      "location": "217 Las Vegas Blvd North",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp84133",
+      "name": "Downtowner Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/179185145.jpg",
+      "description": "Experience the vibrant energy of Las Vegas at the Downtowner Hotel, conveniently located near the lively Fremont Street Entertainment District. After a day of exploration, relax by the refreshing outdoor pool or indulge in nearby world-class dining, shopping, and gaming options. With free parking and proximity to golf courses, this hotel is the perfect base for your Las Vegas adventure.",
+      "highlight": "Offers an outdoor pool, Japanese garden, and free parking near Fremont Street's entertainment options.",
+      "price": "$59/night",
+      "location": "129 North 8th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp32a8e",
+      "name": "The Lexi Las Vegas",
+      "image": "https://static.cupid.travel/hotels/457735911.jpg",
+      "description": "Experience the sophisticated charm of Lexi Las Vegas, an adult-only hotel just minutes from the iconic Las Vegas Strip. Enjoy modern amenities like flat-screen TVs and live entertainment, all while relaxing by the outdoor pool or dining at the on-site restaurant. Unique to Lexi, the cannabis-inclusive rooms feature state-of-the-art air filtration, providing a one-of-a-kind stay enhanced by stunning artwork throughout the property.",
+      "highlight": "Boasts cannabis-inclusive rooms with advanced air filtration, an outdoor pool, and live entertainment just minutes from the Strip.",
+      "price": "$102/night",
+      "location": "1501 W Sahara Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656d8344",
+      "name": "Nirvana Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_8739b2f5_z.jpg",
+      "description": "Discover the vibrant essence of Las Vegas at Nirvana Hotel, ideally located near the city's premier attractions. Relax in one of our 22 elegantly appointed rooms, featuring luxurious pillowtop beds and modern amenities like flat-screen TVs and complimentary Wi-Fi. Savor delicious meals at our restaurant or enjoy a drink in the garden while benefiting from exceptional services, including concierge assistance and free self-parking for a truly effortless stay.",
+      "highlight": "Offers 22 elegantly appointed rooms with pillowtop beds, modern amenities, a restaurant, and a serene garden for relaxation.",
+      "price": "$167/night",
+      "location": "3961 S Las Vegas Blvd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "unique-boutique-hotels-in-las-vegas-off-the-strip",
+  "generatedAt": "2025-11-03T02:41:07.818Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "chicago",
+  "query": "best boutique hotels in chicago with rooftop lounges",
+  "title": "Best Boutique Hotels in Chicago with Rooftop Lounges",
+  "excerpt": "Finding the perfect boutique hotel with a rooftop lounge in Chicago can be quite a challenge, as many options blend into the vibrant city landscape. This curated list not only highlights unique accommodations but also showcases stunning views and inviting atmospheres where guests can unwind. Discovering these hidden gems elevates your stay, making it truly unforgettable.",
+  "intro": "Uncover the best boutique hotels in Chicago that offer breathtaking rooftop lounges for a memorable urban escape.",
+  "hotels": [
+    {
+      "id": "lp69990",
+      "name": "Godfrey Hotel Chicago",
+      "image": "https://static.cupid.travel/hotels/36079229.jpg",
+      "description": "Experience modern luxury at Godfrey Hotel Chicago, where stylish rooms feature 46-inch flat-screen LCD TVs, wet bars, and ergonomic workspaces. Elevate your stay at the stunning IO Urban Rooftop bar, offering spectacular skyline views and a cozy atmosphere with fire pits. Conveniently situated in the vibrant River North district, the hotel is just steps away from top attractions and offers on-site dining, a fitness center, and spa services for a truly memorable getaway.",
+      "highlight": "Boasts a stunning rooftop lounge with skyline views, a vibrant atmosphere, and convenient access to on-site dining and spa services.",
+      "price": "$138/night",
+      "location": "127 West Huron, at LaSalle",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp36cee",
+      "name": "Chicago Athletic Association, part of Hyatt",
+      "image": "https://static.cupid.travel/hotels/606777456.jpg",
+      "description": "Experience the Chicago Athletic Association, part of Hyatt, where a rooftop bar offers stunning views of Millennium Park and the iconic city skyline. Delight in diverse dining options, including the beloved Shake Shack and seasonal dishes at Cindy's, with convenient room service available. Enjoy a range of amenities such as a social games room, a grand ballroom adorned with stained glass, a modern fitness center, and bike rentals to explore the vibrant surroundings.",
+      "highlight": "Boasts a rooftop bar with breathtaking views of Millennium Park and the city skyline, complemented by diverse dining options.",
+      "price": "$228/night",
+      "location": "12 South Michigan Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp89105",
+      "name": "LondonHouse Chicago, Curio Collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/486007959.jpg",
+      "description": "Experience the vibrant charm of LondonHouse Chicago, featuring the city's only tri-level rooftop bar that showcases stunning skyline views and the picturesque Chicago River. Guests can enjoy spacious accommodations equipped with modern amenities and some rooms offering breathtaking panoramas of the city. Savor reimagined regional cuisine at the exquisite LH restaurant, which boasts a unique terrace and an enchanting dining atmosphere beneath a stunning domed cupola.",
+      "highlight": "Offers a tri-level rooftop bar with breathtaking skyline views and a modern restaurant featuring a unique terrace.",
+      "price": "$194/night",
+      "location": "85 East Wacker Drive",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp74544",
+      "name": "Loews Chicago Hotel",
+      "image": "https://static.cupid.travel/hotels/433892207.jpg",
+      "description": "Discover stunning city skyline views from the rooftop lounge at Loews Chicago Hotel, where luxury meets modern comfort in beautifully designed guestrooms. Enjoy exceptional dining at the on-site restaurant, take a refreshing swim in the indoor lap pool, and stay connected with complimentary WiFi. With state-of-the-art meeting facilities and a prime location near Millennium Park and the Magnificent Mile, this hotel perfectly caters to both business and leisure travelers.",
+      "highlight": "Features a rooftop lounge with stunning skyline views and an indoor lap pool for relaxation.",
+      "price": "$198/night",
+      "location": "455 North Park Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpaad95",
+      "name": "Viceroy Chicago",
+      "image": "https://static.cupid.travel/hotels/154857362.jpg",
+      "description": "Experience luxury at Viceroy Chicago, located just moments from the iconic Magnificent Mile. Enjoy modern guest rooms featuring flat-screen TVs, plush seating, and a fully-stocked minibar, while indulging in Midwest-inspired cuisine at the on-site restaurant and savoring crafted cocktails at the rooftop bar with breathtaking skyline views. With amenities like a rooftop pool, a state-of-the-art fitness center, and ample event space, this hotel is the perfect retreat for both relaxation and business.",
+      "highlight": "Boasts a stunning rooftop bar with skyline views, a heated pool, and a rooftop garden for a unique urban experience.",
+      "price": "$234/night",
+      "location": "1118 North State Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1dda15",
+      "name": "The Hoxton, Chicago",
+      "image": "https://static.cupid.travel/hotels/253786937.jpg",
+      "description": "The Hoxton, Chicago, offers a luxurious experience with amenities like a rooftop pool, yoga studio, and coworking space, ensuring guests enjoy both comfort and relaxation. Savor a range of gourmet dining options, including modern Mediterranean at Cira and Peruvian dishes at Cabra, complemented by cocktails at Lazy Bird. Ideally situated in the vibrant West Loop, the hotel is just a short stroll from iconic attractions like Willis Tower and the CIBC Theater, making it the perfect spot to explore the city.",
+      "highlight": "The Hoxton, Chicago boasts a rooftop pool, gourmet dining options, and a yoga studio in the vibrant West Loop.",
+      "price": "$316/night",
+      "location": "200 N Green Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-chicago-with-rooftop-lounges",
+  "generatedAt": "2025-11-03T02:35:24.588Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

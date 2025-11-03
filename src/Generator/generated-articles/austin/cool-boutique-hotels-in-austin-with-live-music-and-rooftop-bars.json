@@ -1,0 +1,79 @@
+{
+  "city": "austin",
+  "query": "cool boutique hotels in austin with live music and rooftop bars",
+  "title": "Cool Boutique Hotels in Austin with Live Music and Rooftop Bars",
+  "excerpt": "Finding boutique hotels that offer both live music and rooftop bars in Austin can be a daunting task, given the city's vibrant scene and myriad of options. This curated list not only highlights unique accommodations but also showcases the perfect spots to unwind with a drink while enjoying the rich sounds of local talent. Discovering these hidden gems elevates your Austin experience, ensuring you enjoy the best of what the city has to offer.",
+  "intro": "Explore the coolest boutique hotels in Austin where live music and stunning rooftop bars create an unforgettable getaway.",
+  "hotels": [
+    {
+      "id": "lp7c063",
+      "name": "Hotel Van Zandt",
+      "image": "https://static.cupid.travel/hotels/517480064.jpg",
+      "description": "Hotel Van Zandt offers a luxurious rooftop pool with stunning city skyline views, complemented by a pool bar serving refreshing drinks and snacks. Guests can savor modern American cuisine at Geraldine's, featuring locally sourced ingredients and live music for a vibrant dining experience. With convenient amenities such as in-room massages, complimentary WiFi, and a fitness center, this hotel ensures a comfortable and memorable stay in the heart of Austin.",
+      "highlight": "Hotel Van Zandt boasts a rooftop pool with city skyline views and live music at its on-site restaurant, Geraldine's.",
+      "price": "$328/night",
+      "location": "605 Davis Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpd3a74",
+      "name": "The LINE Austin",
+      "image": "https://static.cupid.travel/hotels/146446715.jpg",
+      "description": "Experience the luxury of The LINE Austin, ideally situated in the heart of the city with complimentary bikes, an outdoor pool, and breathtaking views. Enjoy spacious rooms featuring floor-to-ceiling windows, premium toiletries, and a fully stocked minibar. Savor delicious local cuisine at our on-site restaurant and relax on the sun terrace while benefiting from our pet-friendly policy and dedicated 24-hour staff ready to enhance your stay.",
+      "highlight": "Boasts a rooftop bar, outdoor pool, and live music events, all complemented by stunning city views and pet-friendly accommodations.",
+      "price": "$332/night",
+      "location": "111 East Cesar Chavez Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1e099",
+      "name": "The Driskill",
+      "image": "https://static.cupid.travel/hotels/606894837.jpg",
+      "description": "Experience the timeless elegance of The Driskill, a historic landmark in the heart of Austin that seamlessly combines classic charm with modern luxuries. Enjoy state-of-the-art amenities including a fitness center, award-winning dining, and live performances by Grammy-winning artists every night. With exceptional services like personalized concierge assistance and unique monthly Beer Dinners at the 1886 Café & Bakery, your stay promises to be unforgettable.",
+      "highlight": "Offers live performances by Grammy-winning artists, an award-winning restaurant, and a rooftop terrace with stunning views.",
+      "price": "$525/night",
+      "location": "604 Brazos Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6555443e",
+      "name": "Hotel Magdalena",
+      "image": "https://static.cupid.travel/hotels/295410437.jpg",
+      "description": "Experience the luxury of Hotel Magdalena in Austin, where a serene outdoor swimming pool and lush gardens provide the perfect escape. Enjoy exquisite dining at the on-site restaurant and bar while being conveniently located near iconic attractions like the Austin Convention Center and Capitol Building. Book your stay for a memorable blend of comfort and vibrant city life.",
+      "highlight": "Hotel Magdalena boasts a rooftop bar, an outdoor swimming pool, and a serene Japanese garden for a unique Austin experience.",
+      "price": "$367/night",
+      "location": "1101 Music Lane",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp77f82",
+      "name": "South Congress Hotel",
+      "image": "https://static.cupid.travel/hotels/57768619.jpg",
+      "description": "Discover the South Congress Hotel, nestled in Austin's lively South Congress District, where luxury meets convenience. Enjoy a refreshing year-round outdoor pool, a well-equipped fitness center, and a stylish terrace, all while savoring exquisite cuisine at the on-site restaurant. Each elegantly designed room features modern comforts like air conditioning, flat-screen TVs, and plush bathrobes, ensuring a relaxing stay with easy access to local attractions and top-notch amenities.",
+      "highlight": "Boasts a rooftop terrace with live music, an outdoor pool, and concierge services in the vibrant South Congress District.",
+      "price": "$352/night",
+      "location": "1603 South Congress Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f31f6",
+      "name": "Austin Proper Hotel, a Member of Design Hotels",
+      "image": "https://static.cupid.travel/hotels/443018515.jpg",
+      "description": "Experience unparalleled luxury at Austin Proper Hotel, located just moments from Shoal Beach. Enjoy beautifully designed rooms featuring modern amenities and breathtaking city views, alongside a diverse on-site restaurant that offers a culinary fusion of American, Mediterranean, and Moroccan dishes tailored for every dietary preference. Unwind by the outdoor pool, stay active in the fitness center, or explore the vibrant city with complimentary bike rentals, all complemented by attentive service from our multilingual staff.",
+      "highlight": "Offers a rooftop garden, live music shows, and luxurious rooms with stunning city views.",
+      "price": "$604/night",
+      "location": "600 West 2nd Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "cool-boutique-hotels-in-austin-with-live-music-and-rooftop-bars",
+  "generatedAt": "2025-11-03T02:43:38.220Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

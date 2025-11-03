@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "best san francisco boutique hotels near union square",
+  "title": "Best San Francisco Boutique Hotels near Union Square",
+  "excerpt": "Finding the perfect boutique hotel near Union Square can be a daunting task, especially with the myriad of options available in San Francisco. This curated list highlights unique accommodations that offer personalized experiences, stylish decor, and convenient access to the city's vibrant attractions. By exploring these hidden gems, travelers can enjoy a memorable stay that captures the essence of San Francisco's charm and culture.",
+  "intro": "Discover the top boutique hotels near Union Square that blend style, comfort, and prime location for an unforgettable San Francisco experience.",
+  "hotels": [
+    {
+      "id": "lp2fd56",
+      "name": "Hotel Zetta San Francisco",
+      "image": "https://static.cupid.travel/hotels/488737558.jpg",
+      "description": "Hotel Zetta San Francisco offers a blend of luxury and comfort with features like a 46-inch flat-screen smart TV and an Illy espresso machine in each guest room. Enjoy a taste of the UK at the on-site Cavalier Restaurant, or unwind at the full-service bar and lounge. With a state-of-the-art fitness center, games room, and attentive concierge services, this hotel provides a relaxing and convenient stay in the vibrant heart of San Francisco.",
+      "highlight": "Hotel Zetta San Francisco boasts a full-service bar, on-site restaurant, fitness center, and game room in a vibrant location.",
+      "price": "$484/night",
+      "location": "55 5th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20cb6",
+      "name": "Palihotel San Francisco",
+      "image": "https://static.cupid.travel/hotels/223481357.jpg",
+      "description": "Experience the elegance of Palihotel San Francisco, a luxurious boutique hotel located just steps from Union Square. Guests can unwind in stylish rooms featuring modern amenities like flat-screen TVs and marble bathrooms, while enjoying convenient services such as a 24-hour concierge and dining discounts at the onsite restaurant. Book your stay to blend comfort and convenience in the heart of San Francisco.",
+      "highlight": "Boasts stylish rooms with modern amenities, a 24-hour concierge, and onsite dining discounts just steps from Union Square.",
+      "price": "$212/night",
+      "location": "417 Stockton St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f958",
+      "name": "Galleria Park Hotel",
+      "image": "https://static.cupid.travel/hotels/141143783.jpg",
+      "description": "Experience luxury at Galleria Park, A Joie de Vivre Hotel, with custom-furnished rooms featuring marble desks and contemporary art, alongside modern amenities like flat-screen TVs and espresso machines. Relax on the rooftop terrace, which offers an urban garden and stunning views, perfect for unwinding in the bustling heart of San Francisco. Ideally situated in Union Square, the hotel provides easy access to top shopping, dining, and entertainment, making it the perfect base for your city adventure.",
+      "highlight": "Boasts custom-furnished rooms with marble desks, a rooftop terrace with urban garden views, and easy access to Union Square.",
+      "price": "$700/night",
+      "location": "191 Sutter St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp47b63",
+      "name": "SF Plaza Hotel",
+      "image": "https://static.cupid.travel/hotels/83969149.jpg",
+      "description": "Experience the heart of San Francisco at SF Plaza Hotel, located just steps from the lively Union Square District, where you can explore theaters, shopping, and dining. Relax in comfortable rooms featuring modern amenities like flat-screen TVs and private bathrooms, with select units offering cozy seating areas. With a 24-hour help desk ready to assist you, your stay promises to be effortless and enjoyable.",
+      "highlight": "Offers comfortable rooms with modern amenities, located steps from Union Square's shopping, dining, and theaters.",
+      "price": "$176/night",
+      "location": "510 Bush Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp28120",
+      "name": "Holiday Inn Express San Francisco Union Square, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_fd4b40d7_z.jpg",
+      "description": "Experience unparalleled luxury at Holiday Inn Express San Francisco Union Square, where you can enjoy a 24-hour fitness center, complimentary Wi-Fi, and dedicated concierge services. Start your day with a delightful buffet breakfast and quick bites from our snack bar/deli. Ideally situated just steps from Union Square, you will find yourself immersed in the vibrant energy of San Francisco.",
+      "highlight": "Offers a 24-hour fitness center, complimentary Wi-Fi, and a delicious breakfast buffet just steps from Union Square.",
+      "price": "$472/night",
+      "location": "235 O Farrell Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1bfb5",
+      "name": "Hotel G San Francisco",
+      "image": "https://static.cupid.travel/hotels/43713337.jpg",
+      "description": "Experience luxury at Hotel G San Francisco, where contemporary rooms feature custom amenities like a Nespresso coffee machine and Metis toiletries. Nestled just steps from Union Square and cable car lines, this hotel offers a perfect launchpad for exploring the city's vibrant attractions, complemented by modern facilities including a 42-inch Smart TV and a techno gym. Book your stay for an unforgettable experience in the heart of San Francisco.",
+      "highlight": "Offers contemporary rooms with custom amenities, a techno gym, and is steps from Union Square and cable car lines.",
+      "price": "$345/night",
+      "location": "386 Geary Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-san-francisco-boutique-hotels-near-union-square",
+  "generatedAt": "2025-11-03T02:36:11.777Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

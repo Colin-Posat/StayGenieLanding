@@ -1,0 +1,79 @@
+{
+  "city": "boston",
+  "query": "best boutique hotels in boston with skyline views",
+  "title": "Best Boutique Hotels in Boston with Skyline Views",
+  "excerpt": "Finding boutique hotels in Boston that offer breathtaking skyline views can be a daunting task due to the city's rich array of accommodations. This curated list highlights unique properties that not only provide a stylish stay but also allow guests to soak in the stunning vistas of the Boston skyline. Discovering these hidden gems can elevate your travel experience, ensuring you enjoy both comfort and captivating scenery during your visit.",
+  "intro": "Explore the top boutique hotels in Boston that combine charm with incredible skyline views, perfect for your next getaway.",
+  "hotels": [
+    {
+      "id": "lpaaab7",
+      "name": "YOTEL Boston",
+      "image": "https://static.cupid.travel/hotels/308960206.jpg",
+      "description": "Discover stunning panoramic views of the city from the rooftop terrace at YOTEL Boston, a perfect spot to unwind. Each SmartCabin is designed for ultimate comfort, featuring an adjustable SmartBed, smart TV, mood lighting, and refreshing rain showers. With convenient services like 24-hour fitness access and a vibrant Club Lounge, YOTEL Boston ensures a seamless and enjoyable stay in the vibrant Seaport District.",
+      "highlight": "Offers stunning panoramic skyline views from its rooftop terrace and modern SmartCabins with adjustable SmartBeds and smart TV.",
+      "price": "$179/night",
+      "location": "65 Seaport Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c695e",
+      "name": "The Whitney Hotel Boston",
+      "image": "https://static.cupid.travel/hotels/214330841.jpg",
+      "description": "The Whitney Hotel Boston is a luxurious 5-star retreat located in the vibrant heart of the city, featuring elegantly furnished rooms with modern amenities and stunning city views. Guests can indulge in delicious American and Mediterranean cuisine at the on-site restaurant, enjoy the fitness center, and take advantage of complimentary bikes and WiFi. With its prime location near iconic landmarks like King's Chapel and TD Garden, this hotel promises an unforgettable Boston experience.",
+      "highlight": "Boasts elegantly furnished rooms with stunning skyline views and an on-site restaurant serving American and Mediterranean cuisine.",
+      "price": "$335/night",
+      "location": "170 Charles Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c899",
+      "name": "Boston Harbor Hotel",
+      "image": "https://static.cupid.travel/hotels/331000970.jpg",
+      "description": "Discover the luxurious Boston Harbor Hotel, perfectly located at Rowes Wharf with stunning views of the harbor. Enjoy elegantly designed rooms equipped with Smart TVs, complimentary WiFi, and personalized minibars, while indulging in exceptional dining at the Rowes Wharf Sea Grill and Bar. With top-notch services, including a concierge and room service, this hotel promises an unforgettable stay in Boston.",
+      "highlight": "Boasts stunning skyline views, a renowned restaurant, and a relaxing sauna for an unforgettable experience.",
+      "price": "$888/night",
+      "location": "70 Rowes Wharf",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65571f33",
+      "name": "Omni Boston Hotel at the Seaport",
+      "image": "https://static.cupid.travel/hotels/429103907.jpg",
+      "description": "Experience the elegance of the Omni Boston Hotel at the Seaport, where each air-conditioned room offers free WiFi, a flat-screen TV, and a private bathroom for your comfort. Enjoy exceptional amenities including an outdoor swimming pool, fitness center, and an on-site restaurant, all while taking in stunning city views from the terrace. Conveniently located just 2.5 km from Carson Beach and close to popular attractions, this 4-star hotel is the ideal base for your Boston adventure.",
+      "highlight": "Boasts a terrace with stunning skyline views, an outdoor pool, and spa services for a luxurious stay.",
+      "price": "$327/night",
+      "location": "450 Summer Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2d11e",
+      "name": "Seaport Hotel Boston",
+      "image": "https://static.cupid.travel/hotels/ex_258269d1_z.jpg",
+      "description": "Experience comfort and modern luxury at the Seaport Hotel Boston, located in the lively Seaport District. Enjoy a range of amenities including a state-of-the-art health club, an indoor pool, and exceptional dining at TAMO Restaurant, where you can savor American cuisine. With complimentary high-speed internet and a 24-hour business center, this hotel is perfect for both leisure and business travelers seeking a memorable stay in Boston.",
+      "highlight": "Offers stunning skyline views, a state-of-the-art health club, and an indoor pool for a luxurious stay.",
+      "price": "$275/night",
+      "location": "1 Seaport Lane",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f57c",
+      "name": "The Colonnade Hotel Back Bay",
+      "image": "https://static.cupid.travel/hotels/ex_0c099f79_z.jpg",
+      "description": "Experience luxury in Boston's Back Bay at The Colonnade Hotel, where you can stay fit in the 24-hour fitness center or relax by the seasonal outdoor pool. Savor delectable meals at LUCIE drink + dine and enjoy a refreshing drink at the bar or poolside. With ample event space and top-notch services, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Boasts stunning skyline views, a seasonal outdoor pool, and a 24-hour fitness center in Boston's Back Bay.",
+      "price": "$266/night",
+      "location": "120 Huntington Avenue",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-boston-with-skyline-views",
+  "generatedAt": "2025-11-03T02:47:32.782Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

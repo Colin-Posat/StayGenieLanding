@@ -1,0 +1,79 @@
+{
+  "city": "scottsdale",
+  "query": "best boutique hotels in scottsdale with rooftop pools",
+  "title": "Best Boutique Hotels in Scottsdale with Rooftop Pools",
+  "excerpt": "Scottsdale is known for its vibrant atmosphere and stunning desert landscapes, but discovering the best boutique hotels with rooftop pools can be a daunting task. This curated list highlights unique accommodations that not only offer a refreshing escape from the Arizona heat but also provide unforgettable views and personalized experiences. Finding the right spot to relax and unwind is essential for making your stay truly memorable.",
+  "intro": "Explore the top boutique hotels in Scottsdale that feature breathtaking rooftop pools, perfect for soaking up the sun and enjoying the stunning desert views.",
+  "hotels": [
+    {
+      "id": "lp1b883",
+      "name": "The Scott Resort & Spa",
+      "image": "https://static.cupid.travel/hotels/ex_31d96189_z.jpg",
+      "description": "Discover The Scott Resort & Spa, a luxurious oasis in Scottsdale that offers a full-service spa, two outdoor pools, and a state-of-the-art fitness center. Delight your palate with authentic Cuban dishes at The Canal Club or relax with a drink at the poolside bar, while spacious rooms with private balconies promise a comfortable retreat. With extensive event space and complimentary valet parking, this resort is perfect for both relaxation and special occasions.",
+      "highlight": "Boasts a rooftop pool, full-service spa, and spacious rooms with private balconies for a luxurious retreat in Scottsdale.",
+      "price": "$922/night",
+      "location": "4925 N Scottsdale Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656bc16d",
+      "name": "Caesars Republic Scottsdale",
+      "image": "https://static.cupid.travel/hotels/ex_7f493370_z.jpg",
+      "description": "Experience luxury at Caesars Republic Scottsdale, where you can relax in one of two outdoor swimming pools or stay active in the 24-hour fitness center. Savor exquisite Italian cuisine at LUNA BY GIADA and choose from a variety of dining options, including three restaurants and several bars. With a dedicated conference center and meeting rooms, this hotel seamlessly caters to both leisure and business travelers while situating you in the heart of vibrant Old Town Scottsdale, just moments from Scottsdale Fashion Square.",
+      "highlight": "Features a stunning rooftop terrace and two outdoor swimming pools, enhancing the luxury experience in Old Town Scottsdale.",
+      "price": "$704/night",
+      "location": "4747 N Goldwater Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65567285",
+      "name": "Canopy By Hilton Scottsdale Old Town",
+      "image": "https://static.cupid.travel/hotels/474946312.jpg",
+      "description": "Discover unparalleled luxury at Canopy By Hilton Scottsdale Old Town, where elegant air-conditioned rooms feature complimentary WiFi and private bathrooms, with select accommodations offering fully equipped kitchens. Relax by the outdoor swimming pool or unwind in the hot tub, and for the adventurous, complimentary bikes are available to explore the scenic Scottsdale area. Ideally situated just minutes from key attractions like Copper Square and the Desert Botanical Gardens, this hotel is perfect for both leisure and business travelers seeking a memorable stay.",
+      "highlight": "Boasts a stunning rooftop pool, hot tub, and complimentary e-bike charging for a luxurious Scottsdale experience.",
+      "price": "$784/night",
+      "location": "7142 East 1st St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21ee3",
+      "name": "Boulders Resort & Spa Scottsdale, Curio Collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/474379539.jpg",
+      "description": "Experience the ultimate desert getaway at The Boulders Resort & Spa in Scottsdale, Arizona, where luxury meets nature. Enjoy spacious accommodations featuring modern amenities and stunning views, along with access to two championship golf courses, multiple swimming pools, and a rejuvenating full-service spa. With gourmet dining options and proximity to scenic hiking trails, this resort offers a perfect blend of relaxation and adventure.",
+      "highlight": "Boasts a stunning rooftop pool alongside luxurious accommodations and a full-service spa for a relaxing desert experience.",
+      "price": "$668/night",
+      "location": "34631 N Tom Darlington Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35724",
+      "name": "CIVANA Wellness Resort & Spa",
+      "image": "https://static.cupid.travel/hotels/264204198.jpg",
+      "description": "CIVANA, located in the stunning Sonoran Desert, offers a 22,000 square foot spa and a delightful dining experience at Terras Restaurant, where you can sip on a refreshing Prickly Pear Margarita by the outdoor pool. Guests can enjoy modern comforts in well-appointed rooms with flat-screen TVs and complimentary WiFi. Conveniently situated near El Pedregal Marketplace and just 58 km from Phoenix Sky Harbor International Airport, CIVANA is the perfect destination for a luxurious and relaxing getaway.",
+      "highlight": "CIVANA Wellness Resort & Spa boasts a stunning rooftop pool, a 22,000 square foot spa, and on-site dining at Terras Restaurant.",
+      "price": "$886/night",
+      "location": "37220 Mule Train Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp22771",
+      "name": "The Phoenician, a Luxury Collection Resort, Scottsdale",
+      "image": "https://static.cupid.travel/hotels/526444569.jpg",
+      "description": "Experience the epitome of luxury at The Phoenician Resort, located at the base of Camelback Mountain. Enjoy spacious rooms with stunning views, indulge in diverse dining options across eight unique restaurants, and unwind at the expansive Centre for Well-Being Spa. With a championship golf course and family-friendly activities, this resort promises an unforgettable getaway in the heart of Scottsdale.",
+      "highlight": "Boasts a stunning rooftop pool with panoramic views, alongside luxurious spa services and a heated pool for ultimate relaxation.",
+      "price": "$1571/night",
+      "location": "6000 E Camelback Rd",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-scottsdale-with-rooftop-pools",
+  "generatedAt": "2025-11-03T02:42:51.534Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

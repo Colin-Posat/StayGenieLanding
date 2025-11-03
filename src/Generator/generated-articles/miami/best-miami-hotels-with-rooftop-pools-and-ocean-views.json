@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "best miami hotels with rooftop pools and ocean views",
+  "title": "Best Miami Hotels with Rooftop Pools and Ocean Views",
+  "excerpt": "Finding the perfect hotel in Miami that combines the allure of a rooftop pool with stunning ocean views can be a daunting task. With so many options available, it is easy to feel overwhelmed. This curated list highlights the best hotels that not only offer breathtaking vistas but also provide an unforgettable experience for travelers seeking relaxation and luxury.",
+  "intro": "Dive into our selection of the best Miami hotels that boast rooftop pools and mesmerizing ocean views, perfect for your next getaway.",
+  "hotels": [
+    {
+      "id": "lp42e7e",
+      "name": "Kimpton EPIC Hotel, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/242170411.jpg",
+      "description": "Experience unparalleled luxury at Kimpton EPIC Hotel, where stunning floor-to-ceiling windows and private balconies offer breathtaking views of the Miami skyline. Relax at the spa, take fitness classes, or enjoy the rooftop pool while savoring exquisite water view dining. Conveniently located in Miami's financial district, this pet-friendly hotel provides easy access to local attractions, making it an ideal choice for an unforgettable getaway.",
+      "highlight": "Boasts a rooftop pool with stunning ocean views and luxurious pool cabanas for ultimate relaxation.",
+      "price": "$801/night",
+      "location": "270 Biscayne Blvd Way",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19c0d",
+      "name": "Mayfair House Hotel & Garden",
+      "image": "https://static.cupid.travel/hotels/502849201.jpg",
+      "description": "Discover the epitome of luxury at our boutique hotel in Coconut Grove, where a stunning rooftop pool and chic bar create the perfect setting for relaxation. Enjoy spacious accommodations featuring high-tech amenities, including 65-inch flat-screen TVs and private outdoor showers for an exclusive touch. Maintain your fitness routine in our state-of-the-art 24-hour gym, ensuring a well-rounded and unforgettable stay.",
+      "highlight": "Features a stunning rooftop pool with ocean views, along with spacious accommodations and a state-of-the-art fitness center.",
+      "price": "$503/night",
+      "location": "3000 Florida Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp84ad1",
+      "name": "EAST Miami",
+      "image": "https://static.cupid.travel/hotels/493547913.jpg",
+      "description": "EAST Miami offers a luxurious getaway with four distinct pools, a 24-hour fitness center, and an exquisite on-site restaurant. Guests can savor a range of culinary delights, from authentic Uruguayan dishes at Quinto to light bites at the Domain lounge, and enjoy stunning city views from the rooftop bar, Sugar. Ideally located in Brickell City Centre, you can easily explore premium shopping, vibrant attractions, and the lively South Beach.",
+      "highlight": "Offers a stunning rooftop bar with panoramic city views and features a lap pool and hot tub.",
+      "price": "$689/night",
+      "location": "788 Brickell Plaza",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpdff68",
+      "name": "SLS LUX Brickell",
+      "image": "https://static.cupid.travel/hotels/ex_a3022946_z.jpg",
+      "description": "Experience unparalleled luxury at SLS LUX Brickell, nestled in the vibrant heart of Miami. Indulge in rejuvenating spa treatments, relax by the outdoor pool, or play a match on the tennis court, while savoring exquisite dining and refreshing cocktails at our on-site venues. Each elegantly appointed room features a private balcony and kitchenette, providing the perfect blend of comfort and sophistication for your getaway.",
+      "highlight": "Boasts a stunning rooftop pool with ocean views, along with a full-service spa and private cabanas.",
+      "price": "$561/night",
+      "location": "805 S Miami avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8a284",
+      "name": "Novotel Miami Brickell",
+      "image": "https://static.cupid.travel/hotels/294498726.jpg",
+      "description": "Experience relaxation at Novotel Miami Brickell with its beautiful rooftop pool, perfect for soaking up the Florida sun. Each modern room is thoughtfully equipped with air conditioning, a flat-screen TV, and a private bathroom stocked with complimentary toiletries. Whether traveling for business or leisure, enjoy convenient amenities including meeting rooms, an on-site bar, and a delightful restaurant to enhance your stay.",
+      "highlight": "Boasts a stunning rooftop pool with ocean views and modern rooms equipped with air conditioning and flat-screen TVs.",
+      "price": "$383/night",
+      "location": "1500 SW 1st Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d78f",
+      "name": "DoubleTree by Hilton Grand Hotel Biscayne Bay",
+      "image": "https://static.cupid.travel/hotels/484128878.jpg",
+      "description": "Experience luxury at our hotel on Biscayne Bay, perfectly situated near Miami's vibrant attractions like Bayside Marketplace and the Art Deco district. Enjoy plush Sweet Dreams beds, dine at exquisite restaurants, and relax in our Olympic-size pool while our attentive concierge helps plan your stay. With spacious accommodations and premium amenities, your unforgettable Miami getaway awaits.",
+      "highlight": "Boasts a stunning rooftop pool with breathtaking ocean views and spacious accommodations for a luxurious stay in Miami.",
+      "price": "$317/night",
+      "location": "1717 N Bayshore Dr",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-miami-hotels-with-rooftop-pools-and-ocean-views",
+  "generatedAt": "2025-11-03T02:34:16.103Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

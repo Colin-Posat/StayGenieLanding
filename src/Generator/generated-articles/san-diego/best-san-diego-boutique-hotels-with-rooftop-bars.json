@@ -1,0 +1,79 @@
+{
+  "city": "san-diego",
+  "query": "best san diego boutique hotels with rooftop bars",
+  "title": "Best San Diego Boutique Hotels with Rooftop Bars",
+  "excerpt": "Finding boutique hotels in San Diego that feature stunning rooftop bars can be a daunting task, as many options often go unnoticed among the more mainstream accommodations. This list is valuable because it highlights unique properties that not only offer personalized experiences but also provide breathtaking views and vibrant atmospheres for guests to unwind and socialize. Exploring these hidden gems allows travelers to elevate their stay, making it both memorable and enjoyable.",
+  "intro": "Discover the charm of San Diego's boutique hotels with rooftop bars, where style meets stunning views and unforgettable experiences await.",
+  "hotels": [
+    {
+      "id": "lp1fb3c",
+      "name": "The Westgate Hotel",
+      "image": "https://static.cupid.travel/hotels/163686941.jpg",
+      "description": "Experience breathtaking views of downtown San Diego at The Westgate Hotel, located just a short walk from the 5th Avenue Light Rail Station. This luxurious retreat boasts a rooftop outdoor pool, a full-service spa, and an exquisite restaurant offering Continental-California cuisine, alongside live entertainment at the Plaza Bar. Guests will appreciate the elegant European furnishings in their rooms, along with modern amenities such as a 49-inch LED TV and free WiFi, ensuring a comfortable and memorable stay.",
+      "highlight": "Boasts a stunning rooftop outdoor pool and garden with breathtaking views of downtown San Diego.",
+      "price": "$500/night",
+      "location": "1055 Second Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65589577",
+      "name": "AC Hotel by Marriott San Diego Downtown Gaslamp Quarter",
+      "image": "https://static.cupid.travel/hotels/476809020.jpg",
+      "description": "AC Hotel by Marriott San Diego Downtown Gaslamp Quarter offers a blend of luxury and convenience, featuring an inviting outdoor swimming pool and a state-of-the-art fitness center for both relaxation and activity. Guests can savor delightful meals and refreshing drinks at the on-site restaurant and bar, ensuring a hassle-free dining experience. Ideally located just moments from the city center and major attractions like Balboa Park and the San Diego Zoo, this hotel is the perfect base for exploring the best of San Diego.",
+      "highlight": "Offers a rooftop garden with stunning views, a heated pool, and an on-site restaurant for a relaxing experience.",
+      "price": "$763/night",
+      "location": "743 FIFTH AVENUE",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3fa38",
+      "name": "Cormorant Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/354122144.jpg",
+      "description": "Discover the Cormorant Boutique Hotel in La Jolla Village, where stylish retro décor meets private ocean-view balconies for a luxurious stay. Enjoy exquisite dining and stunning ocean vistas at the rooftop restaurant, and find convenience in the on-site upscale market for snacks and essentials. With a prime location near vibrant beaches, shops, and outdoor activities, your Southern California adventure awaits.",
+      "highlight": "Boasts a rooftop restaurant with stunning ocean views and stylish retro décor throughout the hotel.",
+      "price": "$315/night",
+      "location": "1110 Prospect St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp369ef",
+      "name": "Margaritaville Hotel San Diego Gaslamp Quarter",
+      "image": "https://static.cupid.travel/hotels/511143696.jpg",
+      "description": "Experience luxury at Margaritaville Hotel San Diego Gaslamp Quarter, where select suites feature spa baths, separate living areas, and breathtaking city views. Relax at the rooftop pool and lounge, soaking in the sun while enjoying stunning panoramas. Located just minutes from PETCO Park and the San Diego Convention Center, this hotel offers the perfect base to explore the vibrant Gaslamp Quarter.",
+      "highlight": "Offers a rooftop pool and lounge with stunning city views, plus select suites with spa baths and living areas.",
+      "price": "$531/night",
+      "location": "435 6th Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8adb5",
+      "name": "Hilton Garden Inn San Diego Downtown/Bayside, CA",
+      "image": "https://static.cupid.travel/hotels/485713700.jpg",
+      "description": "Experience luxury at Hilton Garden Inn San Diego Downtown/Bayside, where you can unwind at the rooftop pool and spa with breathtaking city skyline views. Each modern room features complimentary WiFi, a 42-inch flat-screen HDTV, and a microwave, ensuring a comfortable stay. Delight in culinary offerings at Bayside Kitchen + Bar or pick up snacks at the Pavilion Pantry for ultimate convenience.",
+      "highlight": "Offers a rooftop garden and pool with stunning city views, plus a hot tub for relaxation.",
+      "price": "$569/night",
+      "location": "2137 Pacific Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp9aa02",
+      "name": "Pendry San Diego",
+      "image": "https://static.cupid.travel/hotels/482862377.jpg",
+      "description": "Experience the height of luxury at Pendry San Diego, just a short walk from the Convention Center. Enjoy an outdoor swimming pool, a well-equipped fitness center, and diverse dining options, all while being steps away from the USS Midway Museum and the lively Gaslamp Quarter. With exceptional service, including attentive room service and a 24-hour front desk, your stay will be both comfortable and unforgettable.",
+      "highlight": "Boasts a stunning rooftop garden and diverse dining options, enhancing your experience in the heart of San Diego.",
+      "price": "$676/night",
+      "location": "550 J Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-san-diego-boutique-hotels-with-rooftop-bars",
+  "generatedAt": "2025-11-03T02:40:23.908Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

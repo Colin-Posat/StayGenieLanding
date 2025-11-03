@@ -1,0 +1,79 @@
+{
+  "city": "denver",
+  "query": "best boutique hotels in denver with mountain views",
+  "title": "Best Boutique Hotels in Denver with Mountain Views",
+  "excerpt": "Finding boutique hotels in Denver that offer stunning mountain views can be a challenge, as many options may overlook the breathtaking landscapes that surround the city. This curated list is valuable for travelers seeking unique accommodations that provide both charm and a picturesque backdrop, ensuring an unforgettable stay. Each hotel on this list combines personalized service with the beauty of Colorado's majestic mountains.",
+  "intro": "Discover the top boutique hotels in Denver where you can enjoy unparalleled mountain views and a distinctive local experience.",
+  "hotels": [
+    {
+      "id": "lpa10fb",
+      "name": "Limelight Hotel Denver",
+      "image": "https://static.cupid.travel/hotels/518664832.jpg",
+      "description": "Discover the breathtaking mountain views from the terrace at Limelight Hotel Denver, where comfort meets style. This hotel features air-conditioned rooms with flat-screen TVs, an on-site restaurant, and convenient amenities like 24-hour front desk service and free bike rentals. Located just 800 meters from The Ball Arena, it offers easy access to popular attractions, making it the perfect base for your Denver adventure.",
+      "highlight": "Boasts a terrace with stunning mountain views, soundproof rooms, and convenient amenities like free bike rentals.",
+      "price": "$311/night",
+      "location": "1600 Wewatta St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp39a0b",
+      "name": "Hyatt Regency Denver at Colorado Convention Center",
+      "image": "https://static.cupid.travel/hotels/552295375.jpg",
+      "description": "Experience luxurious accommodations at the Hyatt Regency Denver, where stunning views of the Rocky Mountains and the Denver skyline await you. Delight in gourmet dining with a daily breakfast buffet at Former Saint Craft Kitchen + Taps, or enjoy a quick meal at the Assembly Hall Bar + Market. Relax in the indoor swimming pool and hot tub, stay active at the fitness center, or take care of business in the well-equipped business center for a perfect blend of comfort and convenience.",
+      "highlight": "Boasts stunning Rocky Mountain views, luxurious accommodations, an indoor pool, hot tub, and gourmet dining options.",
+      "price": "$1511/night",
+      "location": "650 15th St.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19e88",
+      "name": "Hilton Denver City Center",
+      "image": "https://static.cupid.travel/hotels/484126360.jpg",
+      "description": "Discover breathtaking mountain views combined with urban convenience at Hilton Denver City Center. Each luxurious room features mountain-inspired decor, a 42-inch flat-screen TV, and a spacious work desk, ensuring comfort during your stay. Enjoy amenities like a heated indoor pool, a 24-hour fitness center, and delicious farm-to-table dining at Prospect's Urban Kitchen & Bar, all just a short walk from the Colorado Convention Center.",
+      "highlight": "Offers luxurious rooms with mountain views, a heated indoor pool, and a 24-hour fitness center.",
+      "price": "$389/night",
+      "location": "1701 California St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp769ee",
+      "name": "The Art Hotel Denver, Curio Collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/494377469.jpg",
+      "description": "Discover the pet-friendly luxury of The Art Hotel Denver, Curio Collection by Hilton, where each air-conditioned room boasts a cozy seating area, flat-screen TV, and plush bathrobes for ultimate comfort. Savor a culinary experience at the FIRE restaurant, offering a diverse menu for all meals and a delightful cocktail hour. With complimentary WiFi, a fitness center, and a convenient shuttle service, this hotel is perfectly situated for exploring local attractions like the Colorado Convention Center and Denver Art Museum.",
+      "highlight": "Boasts stunning mountain views, pet-friendly accommodations, and a diverse vegetarian menu at the on-site FIRE restaurant.",
+      "price": "$209/night",
+      "location": "1201 Broadway",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp201e2",
+      "name": "Sonesta Denver Downtown",
+      "image": "https://static.cupid.travel/hotels/326429002.jpg",
+      "description": "Experience the perfect blend of luxury and convenience at Sonesta Denver Downtown, where modern rooms feature stunning city or mountain views, cozy seating areas, and top-notch amenities. Ideally situated near The Colorado Convention Center and major attractions, our hotel caters to both business and leisure travelers. Enjoy exceptional services, including an on-site restaurant, free WiFi, and a well-equipped gym, all complemented by our friendly 24-hour front desk staff ready to enhance your stay.",
+      "highlight": "Offers stunning mountain views from modern rooms, a rooftop garden, and a heated pool for relaxation.",
+      "price": "$167/night",
+      "location": "1450 Glenarm Place",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655747a2",
+      "name": "Catbird Hotel",
+      "image": "https://static.cupid.travel/hotels/320701974.jpg",
+      "description": "Experience luxury at Catbird Hotel in Denver, where guests can unwind in the hot tub, stay active in the fitness center, and enjoy evening entertainment. The on-site restaurant offers a delicious selection of American cuisine with options for various dietary needs, ensuring every meal is a delight. Ideally situated near Union Station and the Colorado Convention Center, this 4-star hotel also provides easy access to local attractions and outdoor activities, making it the perfect base for your Denver adventure.",
+      "highlight": "Boasts a hot tub, pet-friendly accommodations, and evening entertainment with stunning mountain views from select rooms.",
+      "price": "$226/night",
+      "location": "3770 Walnut St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-denver-with-mountain-views",
+  "generatedAt": "2025-11-03T02:37:56.678Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

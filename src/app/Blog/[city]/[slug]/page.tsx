@@ -107,9 +107,9 @@ function generateHotelDeepLink(
  *   - Open Graph / Twitter cards
  */
 export async function generateMetadata(
-  { params }: { params: { city: string; slug: string } }
+  { params }: { params: Promise<{ city: string; slug: string }> }
 ): Promise<Metadata> {
-  const { city, slug } = params
+  const { city, slug } = await params
   const post = getPost(city, slug)
 
   if (!post) {

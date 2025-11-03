@@ -1,0 +1,79 @@
+{
+  "city": "nashville",
+  "query": "trendy boutique hotels in nashville with rooftop bars",
+  "title": "Trendy Boutique Hotels in Nashville with Rooftop Bars",
+  "excerpt": "Finding trendy boutique hotels in Nashville that feature rooftop bars can be a daunting task, especially with the city's rapidly evolving hospitality scene. This curated list not only highlights unique accommodations but also emphasizes vibrant social spaces that offer stunning views of the Nashville skyline. Whether you're a local or a visitor, these hotels provide the perfect blend of comfort and style, making your stay unforgettable.",
+  "intro": "Discover the best trendy boutique hotels in Nashville, complete with rooftop bars that elevate your experience and offer breathtaking city views.",
+  "hotels": [
+    {
+      "id": "lpc5459",
+      "name": "Bobby Hotel",
+      "image": "https://static.cupid.travel/hotels/164588911.jpg",
+      "description": "Experience the charm of Bobby Hotel, a boutique retreat nestled in the vibrant heart of Nashville. Relax at the rooftop pool and lounge, where you can soak in stunning city views while enjoying refreshing drinks. Each room boasts upscale amenities, including a flat-screen Smart TV and premium bath products, while the unique entertainment option of a retrofitted 1967 Greyhound bus adds a memorable twist to your stay.",
+      "highlight": "Boasts a rooftop pool and lounge with stunning city views, plus unique entertainment options like a retrofitted 1967 Greyhound bus.",
+      "price": "$449/night",
+      "location": "230 4th Avenue North",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp214163",
+      "name": "Graduate by Hilton Nashville",
+      "image": "https://static.cupid.travel/hotels/590909707.jpg",
+      "description": "At Graduate Nashville, guests can unwind at the rooftop bar while taking in stunning skyline views of the city. The hotel offers a diverse dining experience, featuring a restaurant and a la carte breakfast, alongside delightful beverages at the Poindexter café. Ideally situated near must-see attractions like Vanderbilt University and The Parthenon, this hotel combines convenience with comfort, ensuring a memorable stay in Music City.",
+      "highlight": "Features a rooftop bar with stunning skyline views, alongside diverse dining options and proximity to Nashville's top attractions.",
+      "price": "$264/night",
+      "location": "101 20th Avenue North",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656bceaa",
+      "name": "Canopy By Hilton Nashville Downtown The Gulch",
+      "image": "https://static.cupid.travel/hotels/531283269.jpg",
+      "description": "Discover modern comfort at Canopy By Hilton Nashville Downtown The Gulch, where air-conditioned rooms feature flat-screen TVs and complimentary toiletries. Enjoy convenient amenities, including 24-hour room service and an on-site restaurant, all while being just a short walk from Nashville's iconic attractions like Bridgestone Arena and Ryman Auditorium. Book your stay for an unforgettable experience in the heart of the city.",
+      "highlight": "Offers a vibrant rooftop bar with stunning city views, along with 24-hour room service and concierge assistance.",
+      "price": "$367/night",
+      "location": "920 Division Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp440f1",
+      "name": "Hutton Hotel",
+      "image": "https://static.cupid.travel/hotels/304006036.jpg",
+      "description": "Experience a perfect blend of modern comfort and eco-friendliness at our downtown Nashville hotel, featuring contemporary rooms equipped with free WiFi and 42-inch flat-screen HDTVs. Indulge in luxurious amenities like spa treatments and enjoy live music at our on-site venue, all while being conveniently located near iconic attractions such as Music Row and the Grand Ole Opry. Book your stay at Hutton Hotel to immerse yourself in the vibrant energy of Music City.",
+      "highlight": "Offers a rooftop bar with stunning views, live shows, and luxurious spa treatments in downtown Nashville.",
+      "price": "$480/night",
+      "location": "1808 West End Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb5fc3",
+      "name": "Noelle",
+      "image": "https://static.cupid.travel/hotels/250556166.jpg",
+      "description": "Experience the elegance of Noelle, a 4-star hotel located in the vibrant heart of Nashville, just moments from iconic attractions like the Ryman Auditorium and Johnny Cash Museum. Enjoy modern accommodations equipped with essential amenities, along with a delightful on-site restaurant offering diverse American cuisine tailored to various dietary preferences. With complimentary bike rentals, a fitness center, and convenient business facilities, Noelle ensures a memorable stay whether for leisure or work.",
+      "highlight": "Noelle boasts a rooftop bar offering stunning views of Nashville, along with modern accommodations and a well-equipped fitness center.",
+      "price": "$408/night",
+      "location": "200 4th Avenue North",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb73da",
+      "name": "Fairlane Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_754de7e6_z.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Fairlane Hotel, nestled in the lively Downtown Nashville. With 79 elegantly appointed rooms featuring plush beds, flat-screen TVs, and minibars, guests can enjoy a cozy retreat equipped with modern amenities. Indulge in delicious dining options at the on-site restaurant, stay active in the state-of-the-art fitness center, and take advantage of concierge services for a truly memorable stay.",
+      "highlight": "Offers a vibrant rooftop bar with stunning city views, along with a state-of-the-art fitness center and concierge services.",
+      "price": "$398/night",
+      "location": "401 Union Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "trendy-boutique-hotels-in-nashville-with-rooftop-bars",
+  "generatedAt": "2025-11-03T02:45:01.106Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

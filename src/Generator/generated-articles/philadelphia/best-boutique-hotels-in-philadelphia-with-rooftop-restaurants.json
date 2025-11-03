@@ -1,0 +1,79 @@
+{
+  "city": "philadelphia",
+  "query": "best boutique hotels in philadelphia with rooftop restaurants",
+  "title": "Best Boutique Hotels in Philadelphia with Rooftop Restaurants",
+  "excerpt": "Discovering boutique hotels in Philadelphia that boast stunning rooftop restaurants can be a challenge due to the city's diverse offerings. This curated list not only highlights unique accommodations but also showcases dining experiences that allow guests to savor the city skyline. Finding the right blend of comfort and culinary delight enhances any visit to the City of Brotherly Love.",
+  "intro": "In this article, readers will uncover the best boutique hotels in Philadelphia that feature breathtaking rooftop dining options.",
+  "hotels": [
+    {
+      "id": "lp63df3",
+      "name": "Kimpton Hotel Monaco Philadelphia, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/271400568.jpg",
+      "description": "Experience unparalleled luxury at Kimpton Hotel Monaco Philadelphia, where elegantly decorated rooms feature Frette linens and fully-stocked minibars. Enjoy top-notch amenities like a 24-hour front desk and complimentary bicycle rentals to explore the city, and indulge in culinary delights at Red Owl Tavern or relax with a cocktail at Stratus Rooftop Lounge, complete with stunning city views. Book your stay now to create unforgettable memories in the vibrant heart of Center City.",
+      "highlight": "Offers a stunning rooftop lounge with breathtaking city views and a vibrant dining experience at Red Owl Tavern.",
+      "price": "$206/night",
+      "location": "433 Chestnut St.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c188",
+      "name": "The Logan Philadelphia, Curio Collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/484882729.jpg",
+      "description": "Experience luxury at The Logan Philadelphia, Curio Collection by Hilton, where elegant accommodations feature stunning city or courtyard views, marble bathrooms, and spacious living areas. Delight your palate at the on-site Urban Farmer steakhouse and unwind with cocktails at the rooftop lounge, offering breathtaking vistas. Ideally located near iconic attractions like the Rocky Steps and Reading Terminal Market, this hotel is perfect for exploring the best of Philadelphia.",
+      "highlight": "Boasts a rooftop lounge with breathtaking city views and an on-site Urban Farmer steakhouse for a unique dining experience.",
+      "price": "$196/night",
+      "location": "One Logan Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d9a1",
+      "name": "DoubleTree by Hilton Hotel Philadelphia Center City",
+      "image": "https://static.cupid.travel/hotels/484130365.jpg",
+      "description": "DoubleTree by Hilton Hotel Philadelphia Center City boasts a prime location in the heart of Philadelphia, just steps away from iconic sites like the Liberty Bell. Guests can savor delicious meals at the Balcony Restaurant or the casual Standing O bistro, and enjoy relaxation at the indoor pool or a workout in the fitness center. Experience the best of the city with convenient room service and a welcoming atmosphere—book your stay today!",
+      "highlight": "DoubleTree by Hilton Hotel Philadelphia Center City includes a rooftop garden and an indoor pool, enhancing your stay in the city.",
+      "price": "$148/night",
+      "location": "237 S. Broad St.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3477b",
+      "name": "The Rittenhouse Philadelphia",
+      "image": "https://static.cupid.travel/hotels/ex_2a374293_z.jpg",
+      "description": "Experience ultimate relaxation at The Rittenhouse Philadelphia with exceptional spa services, including massages and facials designed to rejuvenate your spirit. Enjoy luxurious amenities such as a health club, indoor pool, and sauna for the perfect way to unwind. Delight in a variety of international cuisine at the hotel's restaurant, or relax with drinks at the bar, all while benefiting from complimentary Wi-Fi and convenient business facilities in this central Philadelphia gem.",
+      "highlight": "Boasts a rooftop restaurant offering international cuisine alongside a full spa and health club for ultimate relaxation.",
+      "price": "$550/night",
+      "location": "210 W Rittenhouse Sq",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp28086",
+      "name": "Loews Philadelphia Hotel",
+      "image": "https://static.cupid.travel/hotels/433893733.jpg",
+      "description": "Experience the perfect blend of modern comfort and historic charm at the Loews Philadelphia Hotel, where contemporary rooms feature stunning city views, flat-screen TVs, and minibars for your convenience. Relax at the full-service spa, then indulge in American cuisine at the stylish Bank & Bourbon restaurant, complemented by unique cocktails and craft beers. Ideally located near the Philadelphia Convention Centre and iconic landmarks, this hotel is the perfect base for your urban adventures.",
+      "highlight": "Loews Philadelphia Hotel boasts a rooftop restaurant offering American cuisine and stunning city views, along with a full-service spa.",
+      "price": "$278/night",
+      "location": "1200 Market St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6555fd2e",
+      "name": "Fitler Club",
+      "image": "https://static.cupid.travel/hotels/246567249.jpg",
+      "description": "Experience the ultimate in relaxation at Fitler Club, featuring an indoor pool, fitness center, sauna, and hot tub. Savor exquisite American cuisine at the on-site restaurant, which offers a variety of options to accommodate different dietary needs. Conveniently situated in Philadelphia, the hotel provides easy access to popular attractions like the Mutter Museum and the University of Pennsylvania.",
+      "highlight": "Fitler Club boasts a rooftop restaurant serving exquisite American cuisine alongside an indoor pool and nearby spa facilities.",
+      "price": "$331/night",
+      "location": "24 S 24th St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-philadelphia-with-rooftop-restaurants",
+  "generatedAt": "2025-11-03T02:45:52.121Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

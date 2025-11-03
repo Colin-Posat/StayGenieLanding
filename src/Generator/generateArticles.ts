@@ -30,6 +30,7 @@ interface Article {
   city: string;
   title: string;
   excerpt: string;
+  intro?: string;
   hotels: Hotel[];
 }
 
@@ -38,32 +39,108 @@ interface ErrorResult {
   error: string;
 }
 
-interface GenerateResponse {
-  totalRequested: number;
-  totalGenerated: number;
-  totalFailed: number;
-  articles: Article[];
-  errors?: ErrorResult[];
-}
-
 // Define your article queries here
 const ARTICLE_QUERIES: ArticleQuery[] = [
-
-
+  {
+    city: "los-angeles",
+    query: "best boutique hotels in los angeles with rooftop bars",
+    title: "Best Boutique Hotels in Los Angeles with Rooftop Bars"
+  },
+  {
+    city: "new-york",
+    query: "top boutique hotels in new york city with skyline views",
+    title: "Top Boutique Hotels in New York City with Skyline Views"
+  },
+  {
+    city: "miami",
+    query: "best miami hotels with rooftop pools and ocean views",
+    title: "Best Miami Hotels with Rooftop Pools and Ocean Views"
+  },
+  {
+    city: "chicago",
+    query: "best boutique hotels in chicago with rooftop lounges",
+    title: "Best Boutique Hotels in Chicago with Rooftop Lounges"
+  },
+  {
+    city: "san-francisco",
+    query: "best san francisco boutique hotels near union square",
+    title: "Best San Francisco Boutique Hotels near Union Square"
+  },
+  {
+    city: "portland",
+    query: "cool boutique hotels in portland with rooftop bars",
+    title: "Cool Boutique Hotels in Portland with Rooftop Bars"
+  },
+  {
+    city: "denver",
+    query: "best boutique hotels in denver with mountain views",
+    title: "Best Boutique Hotels in Denver with Mountain Views"
+  },
+  {
+    city: "savannah",
+    query: "most charming boutique hotels in savannah historic district",
+    title: "Most Charming Boutique Hotels in Savannah's Historic District"
+  },
+  {
+    city: "charleston",
+    query: "best boutique hotels in charleston with rooftop bars",
+    title: "Best Boutique Hotels in Charleston with Rooftop Bars"
+  },
+  {
+    city: "san-diego",
+    query: "best san diego boutique hotels with rooftop bars",
+    title: "Best San Diego Boutique Hotels with Rooftop Bars"
+  },
+  {
+    city: "las-vegas",
+    query: "unique boutique hotels in las vegas off the strip",
+    title: "Unique Boutique Hotels in Las Vegas Off the Strip"
+  },
+  {
+    city: "new-orleans",
+    query: "best boutique hotels in new orleans french quarter",
+    title: "Best Boutique Hotels in New Orleans French Quarter"
+  },
+  {
+    city: "scottsdale",
+    query: "best boutique hotels in scottsdale with rooftop pools",
+    title: "Best Boutique Hotels in Scottsdale with Rooftop Pools"
+  },
+  {
+    city: "austin",
+    query: "cool boutique hotels in austin with live music and rooftop bars",
+    title: "Cool Boutique Hotels in Austin with Live Music and Rooftop Bars"
+  },
   {
     city: "seattle",
-    query: "best seattle hotels near pike place market",
-    title: "Best Seattle Hotels near Pike Place Market"
-  },{
-      city: "austin",
-    query: "best austin hotels with rooftop pools",
-    title: "Best Austin Hotels with Rooftop Pools"
+    query: "best boutique hotels in seattle with rooftop views",
+    title: "Best Boutique Hotels in Seattle with Rooftop Views"
   },
   {
     city: "nashville",
-    query: "best nashville hotels with live music",
-    title: "Best Nashville Hotels with Live Music"
+    query: "trendy boutique hotels in nashville with rooftop bars",
+    title: "Trendy Boutique Hotels in Nashville with Rooftop Bars"
   },
+  {
+    city: "philadelphia",
+    query: "best boutique hotels in philadelphia with rooftop restaurants",
+    title: "Best Boutique Hotels in Philadelphia with Rooftop Restaurants"
+  },
+  {
+    city: "san-antonio",
+    query: "boutique hotels in san antonio near river walk",
+    title: "Boutique Hotels in San Antonio near the River Walk"
+  },
+  {
+    city: "boston",
+    query: "best boutique hotels in boston with skyline views",
+    title: "Best Boutique Hotels in Boston with Skyline Views"
+  },
+  {
+    city: "atlanta",
+    query: "best boutique hotels in atlanta with rooftop lounges",
+    title: "Best Boutique Hotels in Atlanta with Rooftop Lounges"
+  }
 ];
 
 // Helper function to create a URL-safe slug
@@ -74,204 +151,172 @@ function createSlug(title: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-async function generateArticles() {
-  console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} queries...\n`);
-  
+
+
+// Generate a single article and save it locally
+async function generateAndPushArticle(
+  query: ArticleQuery,
+  index: number,
+  total: number
+): Promise<{ success: boolean; article?: Article; error?: string }> {
+
+  console.log(`\n${'='.repeat(60)}`);
+  console.log(`📝 Article ${index + 1}/${total}: ${query.title}`);
+  console.log(`${'='.repeat(60)}`);
+
   try {
-    const response = await fetch(`${API_BASE_URL}/api/articles/generate-batch`, {
+    // Step 1: Generate the article
+    console.log(`🔄 Generating article...`);
+    const response = await fetch(`${API_BASE_URL}/api/articles/generate`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({
-        articles: ARTICLE_QUERIES
-      })
+      body: JSON.stringify(query)
     });
 
     if (!response.ok) {
       const errorText = await response.text();
-      throw new Error(`HTTP error! status: ${response.status}, body: ${errorText}`);
+      throw new Error(`Generation failed: ${response.status} - ${errorText}`);
     }
 
-    const data = await response.json() as GenerateResponse;
-    
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`✅ Generation Complete!`);
-    console.log(`${'='.repeat(60)}`);
-    console.log(`Total Requested: ${data.totalRequested}`);
-    console.log(`Successfully Generated: ${data.totalGenerated}`);
-    console.log(`Failed: ${data.totalFailed}`);
-    
-    if (data.errors && data.errors.length > 0) {
-      console.log(`\n❌ Errors:`);
-      data.errors.forEach((err: ErrorResult) => {
-        console.log(`  - ${err.query.title}: ${err.error}`);
-      });
+    const data = await response.json();
+    const article = data.article as Article;
+
+    console.log(`✅ Article generated successfully`);
+
+    // Step 2: Validate hotel IDs
+    const missingIds = article.hotels.filter(h => !h.id).length;
+    const validIds = article.hotels.length - missingIds;
+    console.log(`🔍 Hotel IDs: ${validIds} valid, ${missingIds} missing`);
+
+    // Step 3: Save article locally
+    console.log(`💾 Saving article locally...`);
+    const slug = createSlug(article.title);
+    const articlesDir = path.join(process.cwd(), 'generated-articles', article.city);
+
+    // Create directory if it doesn't exist
+    if (!fs.existsSync(articlesDir)) {
+      fs.mkdirSync(articlesDir, { recursive: true });
     }
 
-    // Validate that hotel IDs are present
-    let missingIds = 0;
-    data.articles.forEach((article: Article) => {
-      article.hotels.forEach((hotel: Hotel) => {
-        if (!hotel.id) {
-          console.warn(`⚠️  Missing hotel ID for: ${hotel.name} in ${article.city}`);
-          missingIds++;
-        }
-      });
-    });
+    const filepath = path.join(articlesDir, `${slug}.json`);
+    const articleWithMetadata = {
+      ...article,
+      slug: slug,
+      generatedAt: new Date().toISOString(),
+      hotelCount: article.hotels.length,
+      hotelsWithIds: article.hotels.filter((h: Hotel) => h.id).length,
+    };
 
-    if (missingIds > 0) {
-      console.warn(`\n⚠️  Warning: ${missingIds} hotels are missing IDs`);
-    } else {
-      console.log(`\n✅ All hotels have valid IDs`);
-    }
+    fs.writeFileSync(filepath, JSON.stringify(articleWithMetadata, null, 2), 'utf8');
+    console.log(`✅ Article saved to: ${filepath}`);
 
-    // Save all articles to a single summary file
-    const outputPath = path.join(process.cwd(), 'generated-articles.json');
-    fs.writeFileSync(
-      outputPath, 
-      JSON.stringify(data.articles, null, 2), 
-      'utf8'
-    );
-    
-    console.log(`\n📄 All articles saved to: ${outputPath}`);
-
-    // Save individual files organized by city
-    const articlesBaseDir = path.join(process.cwd(), 'generated-articles');
-    
-    // Create base directory if it doesn't exist
-    if (!fs.existsSync(articlesBaseDir)) {
-      fs.mkdirSync(articlesBaseDir, { recursive: true });
-    }
-
-    data.articles.forEach((article: Article) => {
-      // Create city folder if it doesn't exist
-      const cityDir = path.join(articlesBaseDir, article.city);
-      if (!fs.existsSync(cityDir)) {
-        fs.mkdirSync(cityDir, { recursive: true });
-        console.log(`📁 Created directory: ${article.city}/`);
-      }
-
-      // Create safe filename and slug
-      const slug = createSlug(article.title);
-      const filename = `${slug}.json`;
-      const filepath = path.join(cityDir, filename);
-      
-      // Add metadata to article
-      const articleWithMetadata = {
-        ...article,
-        slug: slug,
-        generatedAt: new Date().toISOString(),
-        hotelCount: article.hotels.length,
-        // Validate hotel IDs
-        hotelsWithIds: article.hotels.filter((h: Hotel) => h.id).length,
-        // Deep link format example
-        deepLinkExample: article.hotels[0]?.id 
-          ? `https://staygenie.nuitee.link/hotels/${article.hotels[0].id}`
-          : 'No hotel ID available'
-      };
-      
-      // Save article
-      fs.writeFileSync(filepath, JSON.stringify(articleWithMetadata, null, 2), 'utf8');
-      console.log(`💾 Saved: ${article.city}/${filename}`);
-      
-      // Print hotel IDs for verification
-      console.log(`   Hotels (${article.hotels.length}):`);
-      article.hotels.forEach((hotel: Hotel, idx: number) => {
-        console.log(`     ${idx + 1}. ${hotel.name} - ID: ${hotel.id || '❌ MISSING'}`);
-      });
-      console.log('');
-    });
-
-    // Generate a Next.js compatible blog data file
-    const blogDataPath = path.join(process.cwd(), 'blog-data.ts');
-    generateBlogDataFile(data.articles, blogDataPath);
-
-    console.log(`\n${'='.repeat(60)}`);
-    console.log(`✅ All done! Individual articles saved to: ${articlesBaseDir}/`);
-    console.log(`✅ Next.js blog data file: ${blogDataPath}`);
-    console.log(`${'='.repeat(60)}\n`);
+    return { success: true, article };
 
   } catch (error) {
-    console.error('❌ Error generating articles:', error);
-    
-    if (error instanceof Error) {
-      console.error('Error details:', error.message);
-      console.error('Stack:', error.stack);
-    }
-    
-    process.exit(1);
+    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
+    console.error(`❌ Failed to process article: ${errorMessage}`);
+    return { success: false, error: errorMessage };
   }
 }
 
-// Generate a Next.js compatible TypeScript file for blog data
-function generateBlogDataFile(articles: Article[], outputPath: string) {
-  type ArticleWithSlug = Article & { slug: string };
-  const groupedArticles = articles.reduce((acc: Record<string, ArticleWithSlug[]>, article: Article) => {
-    if (!acc[article.city]) {
-      acc[article.city] = [];
+async function generateArticles() {
+  console.log(`\n${'='.repeat(80)}`);
+  console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} queries`);
+  console.log(`   Each article will be pushed to website immediately after generation`);
+  console.log(`${'='.repeat(80)}\n`);
+
+  const results: Article[] = [];
+  const errors: ErrorResult[] = [];
+  const startTime = Date.now();
+
+  // Process each article sequentially
+  for (let i = 0; i < ARTICLE_QUERIES.length; i++) {
+    const query = ARTICLE_QUERIES[i];
+
+    const result = await generateAndPushArticle(query, i, ARTICLE_QUERIES.length);
+
+    if (result.success && result.article) {
+      results.push(result.article);
+    } else {
+      errors.push({
+        query: query,
+        error: result.error || 'Unknown error'
+      });
     }
-    acc[article.city].push({
-      city: article.city,
-      slug: createSlug(article.title),
-      title: article.title,
-      excerpt: article.excerpt,
-      hotels: article.hotels
+
+    // Add delay between articles to avoid rate limiting
+    if (i < ARTICLE_QUERIES.length - 1) {
+      console.log(`\n⏳ Waiting 2 seconds before next article...\n`);
+      await new Promise(resolve => setTimeout(resolve, 2000));
+    }
+  }
+
+  // Final summary
+  const endTime = Date.now();
+  const duration = ((endTime - startTime) / 1000 / 60).toFixed(2);
+
+  console.log(`\n${'='.repeat(80)}`);
+  console.log(`✅ Batch Generation Complete!`);
+  console.log(`${'='.repeat(80)}`);
+  console.log(`Total Requested: ${ARTICLE_QUERIES.length}`);
+  console.log(`Successfully Generated: ${results.length}`);
+  console.log(`Failed: ${errors.length}`);
+  console.log(`Duration: ${duration} minutes`);
+
+  if (errors.length > 0) {
+    console.log(`\n❌ Failed Articles:`);
+    errors.forEach((err) => {
+      console.log(`  - ${err.query.title}`);
+      console.log(`    Error: ${err.error}`);
     });
-    return acc;
-  }, {} as Record<string, ArticleWithSlug[]>);
+  }
 
-  const blogData = `// Auto-generated blog data - DO NOT EDIT MANUALLY
-// Generated: ${new Date().toISOString()}
+  // Validate hotel IDs across all articles
+  let totalMissingIds = 0;
+  results.forEach((article: Article) => {
+    const missing = article.hotels.filter(h => !h.id).length;
+    totalMissingIds += missing;
+  });
 
-export interface BlogHotel {
-  id: string; // System hotel ID for deep linking
-  name: string;
-  image: string;
-  highlight: string;
-  description: string;
-  price?: string;
-  rating?: number;
-  location?: string;
-  tags?: string[];
-  isRefundable?: boolean;
-}
+  if (totalMissingIds > 0) {
+    console.warn(`\n⚠️  Warning: ${totalMissingIds} hotels are missing IDs across all articles`);
+  } else {
+    console.log(`\n✅ All hotels have valid IDs`);
+  }
 
-export interface BlogPost {
-  city: string;
-  slug: string;
-  title: string;
-  excerpt: string;
-  hotels: BlogHotel[];
-}
+  // Save summary file
+  const summaryPath = path.join(process.cwd(), 'generation-summary.json');
+  const summary = {
+    generatedAt: new Date().toISOString(),
+    totalRequested: ARTICLE_QUERIES.length,
+    totalGenerated: results.length,
+    totalFailed: errors.length,
+    durationMinutes: parseFloat(duration),
+    successfulArticles: results.map(a => ({
+      city: a.city,
+      title: a.title,
+      slug: createSlug(a.title),
+      hotelCount: a.hotels.length
+    })),
+    failedArticles: errors.map(e => ({
+      city: e.query.city,
+      title: e.query.title,
+      error: e.error
+    }))
+  };
 
-export const blogPosts: Record<string, BlogPost[]> = ${JSON.stringify(
-  groupedArticles,
-  null,
-  2
-)};
+  fs.writeFileSync(summaryPath, JSON.stringify(summary, null, 2), 'utf8');
+  console.log(`\n📊 Summary saved to: ${summaryPath}`);
 
-export function getAllCities(): string[] {
-  return Object.keys(blogPosts);
-}
-
-export function getCityPosts(city: string): BlogPost[] {
-  return blogPosts[city] || [];
-}
-
-export function getPost(city: string, slug: string): BlogPost | null {
-  const posts = getCityPosts(city);
-  return posts.find(post => post.slug === slug) || null;
-}
-
-export function getAllPosts(): BlogPost[] {
-  return Object.values(blogPosts).flat();
-}
-`;
-
-  fs.writeFileSync(outputPath, blogData, 'utf8');
-  console.log(`📝 Generated Next.js blog data file: ${outputPath}`);
+  console.log(`\n${'='.repeat(80)}`);
+  console.log(`✅ All done! ${results.length} articles pushed to website.`);
+  console.log(`${'='.repeat(80)}\n`);
 }
 
 // Run the script
-generateArticles();
+generateArticles().catch((error) => {
+  console.error('Fatal error:', error);
+  process.exit(1);
+});

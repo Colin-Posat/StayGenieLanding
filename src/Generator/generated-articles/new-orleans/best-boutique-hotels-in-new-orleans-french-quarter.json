@@ -1,0 +1,79 @@
+{
+  "city": "new-orleans",
+  "query": "best boutique hotels in new orleans french quarter",
+  "title": "Best Boutique Hotels in New Orleans French Quarter",
+  "excerpt": "Navigating the vibrant streets of the French Quarter can be overwhelming, especially with so many options vying for your attention. This curated list of the best boutique hotels cuts through the noise, helping travelers discover unique accommodations that reflect the city's rich culture and charm. Each hotel on this list offers a distinct experience, ensuring your stay in New Orleans is as memorable as the city itself.",
+  "intro": "Discover the hidden gems of New Orleans' French Quarter with our guide to the best boutique hotels that promise a unique blend of comfort and local flair.",
+  "hotels": [
+    {
+      "id": "lp1bede",
+      "name": "Hyatt Centric French Quarter",
+      "image": "https://static.cupid.travel/hotels/497333456.jpg",
+      "description": "Experience the lively essence of New Orleans at Hyatt Centric, perfectly situated in the vibrant French Quarter for easy access to the city's top attractions. Enjoy modern, stylish rooms with premium bedding and unique options like Balcony Rooms overlooking Bourbon Street or Premium King Rooms with French Doors leading to a serene Garden Courtyard. Delight in diverse dining experiences, from poolside cocktails to delectable New Orleans cuisine, while also taking advantage of the fitness center and refreshing pool for a truly memorable stay.",
+      "highlight": "Offers stylish rooms with premium bedding, unique balcony views, diverse dining options, a fitness center, and a refreshing pool.",
+      "price": "$187/night",
+      "location": "800 Iberville Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f5d2",
+      "name": "Hotel St. Pierre French Quarter",
+      "image": "https://static.cupid.travel/hotels/58150341.jpg",
+      "description": "Experience the charm of Hotel St. Pierre French Quarter, nestled in historic buildings just steps from Bourbon Street and Louis Armstrong Park. Enjoy comfortable rooms equipped with modern amenities and serene courtyard views, along with two refreshing pools. With 24-hour front desk service and close proximity to the Morial Convention Center and airport, this hotel ensures a convenient and memorable stay.",
+      "highlight": "Features comfortable rooms with modern amenities, serene courtyard views, and two refreshing pools in a historic setting.",
+      "price": "$147/night",
+      "location": "911 Burgundy St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f89b",
+      "name": "Le Richelieu Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_43061bbe_z.jpg",
+      "description": "Discover the vibrant spirit of New Orleans at Le Richelieu Hotel, nestled in the heart of the French Quarter. Guests can relax by the serene outdoor pool or enjoy the lush garden terrace, offering a peaceful retreat amidst the city's energy. With 91 uniquely decorated rooms featuring modern amenities and a prime location near iconic attractions like Bourbon Street, your stay promises both comfort and adventure.",
+      "highlight": "Boasts 91 uniquely decorated rooms, an outdoor pool, and a lush garden terrace in the vibrant French Quarter.",
+      "price": "$178/night",
+      "location": "1234 Chartres St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9e452",
+      "name": "Royal Barracks Guest House",
+      "image": "https://static.cupid.travel/hotels/587938158.jpg",
+      "description": "The Royal Barracks Guest House offers a prime location, just 3.7 km from Caesars Superdome and 3.5 km from Union Station, perfect for city explorers. Guests can unwind in comfortable accommodations featuring modern amenities such as free WiFi, air conditioning, and private bathrooms, with select rooms including a cozy seating area. Experience convenience and luxury during your stay at this inviting guest house.",
+      "highlight": "Offers comfortable accommodations with modern amenities, including free WiFi, private bathrooms, and select rooms with seating areas.",
+      "price": "$212/night",
+      "location": "717 Barracks St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c54f",
+      "name": "Omni Royal Orleans Hotel",
+      "image": "https://static.cupid.travel/hotels/231112252.jpg",
+      "description": "Experience the elegance of the Omni Royal Orleans, a 4-diamond hotel located at the vibrant intersection of St. Louis and Royal. This luxurious retreat offers exceptional service and is perfectly positioned for guests to explore the rich culture of New Orleans. With award-winning meeting facilities, it is an ideal venue for both business gatherings and leisurely escapes.",
+      "highlight": "Offers a rooftop garden, pool, and award-winning meeting facilities in the heart of the French Quarter.",
+      "price": "$211/night",
+      "location": "621 Saint Louis St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655667f0",
+      "name": "Hotel de la Monnaie, French Quarter",
+      "image": "https://static.cupid.travel/hotels/249753298.jpg",
+      "description": "Hotel de la Monnaie offers a luxurious escape with its outdoor swimming pool, fitness center, and beautiful garden terrace, perfect for relaxation. Conveniently located just a few kilometers from top attractions like the Morial Convention Center and Mercedes-Benz Superdome, guests enjoy easy access to New Orleans' vibrant scene. Each modern room is designed for comfort, featuring air conditioning, flat-screen TVs, and complimentary WiFi, ensuring a restful stay for every visitor.",
+      "highlight": "Hotel de la Monnaie boasts an outdoor swimming pool, fitness center, and a serene Japanese garden terrace for relaxation.",
+      "price": "$242/night",
+      "location": "405 Esplanade Avenue",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-new-orleans-french-quarter",
+  "generatedAt": "2025-11-03T02:42:03.937Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

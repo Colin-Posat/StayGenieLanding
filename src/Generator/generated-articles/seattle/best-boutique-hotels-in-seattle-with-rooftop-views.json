@@ -1,0 +1,79 @@
+{
+  "city": "seattle",
+  "query": "best boutique hotels in seattle with rooftop views",
+  "title": "Best Boutique Hotels in Seattle with Rooftop Views",
+  "excerpt": "Finding boutique hotels in Seattle that offer stunning rooftop views can be a challenging task, as many accommodations may overlook this unique feature. This list is valuable because it highlights carefully curated options that not only provide exceptional comfort but also allow guests to soak in the breathtaking skyline and waterfront vistas. Whether you're seeking a romantic getaway or a stylish retreat, these hotels will elevate your Seattle experience.",
+  "intro": "Discover the best boutique hotels in Seattle that combine charm and breathtaking rooftop views for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp1d30a",
+      "name": "Hotel Andra Seattle MGallery Hotel Collection",
+      "image": "https://static.cupid.travel/hotels/41797215.jpg",
+      "description": "Hotel Ändra is a luxurious boutique hotel situated in downtown Seattle, ideally located near Pike Place Market and the Space Needle. Guests can enjoy Scandinavian-inspired rooms featuring modern amenities, plush bathrobes, and premium bath products. Delight in exceptional dining options at Lola Restaurant and Assaggio Ristorante while taking advantage of the on-site fitness center and exploring the vibrant local attractions.",
+      "highlight": "Offers stunning rooftop views alongside Scandinavian-inspired rooms and exceptional dining at Lola Restaurant and Assaggio Ristorante.",
+      "price": "$222/night",
+      "location": "2000 4th Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp21466",
+      "name": "Inn at the Market",
+      "image": "https://static.cupid.travel/hotels/222891275.jpg",
+      "description": "Discover the Inn at the Market, where stunning views of Elliott Bay meet the vibrant energy of Seattle. Enjoy relaxing moments at our rooftop bar, offering breathtaking cityscape vistas, while each modern room features free Wi-Fi, cable TV, and scenic views. Located in the heart of Pike Place Market, our hotel provides convenient access to shops and top-notch services, ensuring a comfortable urban retreat.",
+      "highlight": "Boasts a rooftop bar with breathtaking views of Elliott Bay and the Seattle skyline, along with modern rooms equipped with free Wi-Fi.",
+      "price": "$306/night",
+      "location": "86 Pine St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f074",
+      "name": "The Edgewater, a Noble House Hotel",
+      "image": "https://static.cupid.travel/hotels/18384002.jpg",
+      "description": "Experience waterfront luxury at The Edgewater Hotel, located at Pier 67 in Seattle. Each room boasts stunning views of Elliott Bay and the Olympic Mountains, complemented by cozy features like gas fireplaces and European-style spa bathrooms. Enjoy top-notch amenities, including a fitness center and the acclaimed Six Seven restaurant, where you can savor Pacific Northwest cuisine with breathtaking Puget Sound views.",
+      "highlight": "Offers stunning rooftop views of Elliott Bay and the Olympic Mountains, complemented by luxurious rooms with gas fireplaces.",
+      "price": "$318/night",
+      "location": "2411 Alaskan Way, Pier 67",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6a367",
+      "name": "Hotel Ballard",
+      "image": "https://static.cupid.travel/hotels/236900217.jpg",
+      "description": "Experience luxury at Hotel Ballard, where stunning views of the Olympic Mountains await from the rooftop terrace. Enjoy gourmet small-plate dining at Stoneburner and start your day with complimentary breakfast treats in the lobby. With exclusive amenities like 24-hour concierge service, access to fitness classes, and proximity to top Seattle attractions, your stay promises to be both comfortable and memorable.",
+      "highlight": "Offers a rooftop terrace with stunning Olympic Mountain views and access to a heated pool and concierge services.",
+      "price": "$478/night",
+      "location": "5216 Ballard Ave NW",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8ff96",
+      "name": "Thompson Seattle, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/303239232.jpg",
+      "description": "Experience unparalleled luxury at Thompson Seattle, where each room features plush 400 thread count SFERRA linens, invigorating rain showers, and relaxing soaking tubs. Enjoy breathtaking views of Elliott Bay and the Olympic Mountains from The Nest, the rooftop bar that provides an ideal setting for unwinding. Perfectly situated just steps from Pike Place Market, this hotel offers convenient access to the best local attractions and shops.",
+      "highlight": "Thompson Seattle boasts a rooftop bar offering breathtaking views of Elliott Bay and the Olympic Mountains, alongside luxurious room amenities.",
+      "price": "$343/night",
+      "location": "110 Stewart St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp53836",
+      "name": "Staypineapple, The Maxwell Hotel, Seattle Center Seattle",
+      "image": "https://static.cupid.travel/hotels/102106701.jpg",
+      "description": "Staypineapple, The Maxwell Hotel, Seattle Center offers a lively atmosphere with its colorful interiors and original artwork, ensuring a unique experience for all guests. Enjoy luxurious amenities in your room, including a gourmet coffee maker and plush bathrobes, while complimentary coffee and pineapple treats add a delightful touch. Ideally located near the Space Needle and popular attractions, the hotel features an onsite fitness room, indoor pool, and business center, making it perfect for both relaxation and convenience.",
+      "highlight": "Offers a rooftop lounge with stunning views, along with an indoor pool and pet-friendly accommodations.",
+      "price": "$155/night",
+      "location": "300 Roy St",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-seattle-with-rooftop-views",
+  "generatedAt": "2025-11-03T02:44:20.171Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

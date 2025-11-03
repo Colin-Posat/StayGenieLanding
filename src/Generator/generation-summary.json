@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2025-11-03T02:48:17.224Z",
+  "totalRequested": 20,
+  "totalGenerated": 20,
+  "totalFailed": 0,
+  "durationMinutes": 16.9,
+  "successfulArticles": [
+    {
+      "city": "los-angeles",
+      "title": "Best Boutique Hotels in Los Angeles with Rooftop Bars",
+      "slug": "best-boutique-hotels-in-los-angeles-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Top Boutique Hotels in New York City with Skyline Views",
+      "slug": "top-boutique-hotels-in-new-york-city-with-skyline-views",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Best Miami Hotels with Rooftop Pools and Ocean Views",
+      "slug": "best-miami-hotels-with-rooftop-pools-and-ocean-views",
+      "hotelCount": 6
+    },
+    {
+      "city": "chicago",
+      "title": "Best Boutique Hotels in Chicago with Rooftop Lounges",
+      "slug": "best-boutique-hotels-in-chicago-with-rooftop-lounges",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Best San Francisco Boutique Hotels near Union Square",
+      "slug": "best-san-francisco-boutique-hotels-near-union-square",
+      "hotelCount": 6
+    },
+    {
+      "city": "portland",
+      "title": "Cool Boutique Hotels in Portland with Rooftop Bars",
+      "slug": "cool-boutique-hotels-in-portland-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "denver",
+      "title": "Best Boutique Hotels in Denver with Mountain Views",
+      "slug": "best-boutique-hotels-in-denver-with-mountain-views",
+      "hotelCount": 6
+    },
+    {
+      "city": "savannah",
+      "title": "Most Charming Boutique Hotels in Savannah's Historic District",
+      "slug": "most-charming-boutique-hotels-in-savannah-s-historic-district",
+      "hotelCount": 6
+    },
+    {
+      "city": "charleston",
+      "title": "Best Boutique Hotels in Charleston with Rooftop Bars",
+      "slug": "best-boutique-hotels-in-charleston-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-diego",
+      "title": "Best San Diego Boutique Hotels with Rooftop Bars",
+      "slug": "best-san-diego-boutique-hotels-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Unique Boutique Hotels in Las Vegas Off the Strip",
+      "slug": "unique-boutique-hotels-in-las-vegas-off-the-strip",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-orleans",
+      "title": "Best Boutique Hotels in New Orleans French Quarter",
+      "slug": "best-boutique-hotels-in-new-orleans-french-quarter",
+      "hotelCount": 6
+    },
+    {
+      "city": "scottsdale",
+      "title": "Best Boutique Hotels in Scottsdale with Rooftop Pools",
+      "slug": "best-boutique-hotels-in-scottsdale-with-rooftop-pools",
+      "hotelCount": 6
+    },
+    {
+      "city": "austin",
+      "title": "Cool Boutique Hotels in Austin with Live Music and Rooftop Bars",
+      "slug": "cool-boutique-hotels-in-austin-with-live-music-and-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "seattle",
+      "title": "Best Boutique Hotels in Seattle with Rooftop Views",
+      "slug": "best-boutique-hotels-in-seattle-with-rooftop-views",
+      "hotelCount": 6
+    },
+    {
+      "city": "nashville",
+      "title": "Trendy Boutique Hotels in Nashville with Rooftop Bars",
+      "slug": "trendy-boutique-hotels-in-nashville-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "philadelphia",
+      "title": "Best Boutique Hotels in Philadelphia with Rooftop Restaurants",
+      "slug": "best-boutique-hotels-in-philadelphia-with-rooftop-restaurants",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-antonio",
+      "title": "Boutique Hotels in San Antonio near the River Walk",
+      "slug": "boutique-hotels-in-san-antonio-near-the-river-walk",
+      "hotelCount": 6
+    },
+    {
+      "city": "boston",
+      "title": "Best Boutique Hotels in Boston with Skyline Views",
+      "slug": "best-boutique-hotels-in-boston-with-skyline-views",
+      "hotelCount": 6
+    },
+    {
+      "city": "atlanta",
+      "title": "Best Boutique Hotels in Atlanta with Rooftop Lounges",
+      "slug": "best-boutique-hotels-in-atlanta-with-rooftop-lounges",
+      "hotelCount": 6
+    }
+  ],
+  "failedArticles": []
+}

@@ -1,0 +1,79 @@
+{
+  "city": "portland",
+  "query": "cool boutique hotels in portland with rooftop bars",
+  "title": "Cool Boutique Hotels in Portland with Rooftop Bars",
+  "excerpt": "Finding the perfect boutique hotel in Portland that offers a rooftop bar can be a challenge, given the city's eclectic mix of accommodations. This curated list highlights unique hotels that not only provide stylish stays but also breathtaking views and vibrant atmospheres, making it easier for travelers to enjoy both comfort and excitement. By exploring these options, guests can elevate their experience and savor the city's charm from above.",
+  "intro": "Discover the coolest boutique hotels in Portland where you can unwind with a drink while soaking in stunning skyline views from rooftop bars.",
+  "hotels": [
+    {
+      "id": "lpcc5ce",
+      "name": "Jupiter NEXT",
+      "image": "https://static.cupid.travel/hotels/542490304.jpg",
+      "description": "Jupiter NEXT offers a modern and stylish retreat just 1.3 km from downtown Portland, featuring chic rooms with city views and unique chalkboard doors. Guests can enjoy on-site dining at the lobby restaurant and bar, relax in a serene private garden, and benefit from amenities like free WiFi and keyless entry. With nearby attractions such as the International Rose Test Garden and Powell's City of Books, this hotel is the perfect base for an unforgettable Portland adventure.",
+      "highlight": "Jupiter NEXT boasts a rooftop bar with stunning city views, complemented by chic rooms and on-site dining options.",
+      "price": "$279/night",
+      "location": "910 E Burnside",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6556d7c8",
+      "name": "Moxy Portland Downtown",
+      "image": "https://static.cupid.travel/hotels/453295337.jpg",
+      "description": "Experience a vibrant urban escape at Moxy Portland Downtown, nestled in the heart of the city. Enjoy the on-site fitness center, indulge in delectable dining options, and relax at the bar after a busy day. With amenities like private parking, a 24-hour front desk, and complimentary WiFi, this hotel is perfect for both leisure and business travelers seeking a stylish stay.",
+      "highlight": "Moxy Portland Downtown boasts a rooftop bar, fitness center, and pet-friendly accommodations in a vibrant urban setting.",
+      "price": "$161/night",
+      "location": "585 SW 10TH AVENUE",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1debf",
+      "name": "Hotel DeLuxe",
+      "image": "https://static.cupid.travel/hotels/44518201.jpg",
+      "description": "Experience a luxurious stay in downtown Portland at Hotel Deluxe, where you can rejuvenate with our exclusive Well & Fit kit, featuring yoga essentials for an invigorating in-room workout. Delight your palate with exceptional Pacific Northwest cuisine at Gracie's and sip on craft cocktails at the chic Driftwood Room. Enjoy unique amenities like bicycle rentals and pet-friendly services, making your visit truly unforgettable.",
+      "highlight": "Hotel DeLuxe boasts a stylish rooftop bar, fine dining at Gracie's, and convenient e-bike charging facilities.",
+      "price": "$163/night",
+      "location": "729 SW 15th Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa5232",
+      "name": "The Duniway Portland, A Hilton Hotel",
+      "image": "https://static.cupid.travel/hotels/484130186.jpg",
+      "description": "Experience luxury at The Duniway Portland, where boutique-style rooms boast Waldorf Serenity beds, 65-inch HDTVs, and premium bath products. Indulge in exceptional dining at Mayrose Restaurant, sip coffee at the on-site bar, or relax on the rooftop patio, Abigail's Hideaway. Keep active with a 24-hour fitness center and enjoy the convenience of a heated indoor lap pool and business center, all in the vibrant heart of downtown Portland.",
+      "highlight": "Boasts a rooftop terrace with stunning views, a heated indoor lap pool, and vibrant live shows.",
+      "price": "$154/night",
+      "location": "545 SW Taylor St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1dd5c",
+      "name": "Hotel Lucia",
+      "image": "https://static.cupid.travel/hotels/517275640.jpg",
+      "description": "Hotel Lucia offers a sophisticated experience with a unique art collection featuring Pulitzer Prize-winning photography by David Hume Kennerly, enriching the ambiance throughout the property. Guests can prioritize their wellness with complimentary fitness kits in every room, and enjoy the convenience of 24-hour room service alongside a nightly Craft Beer Hour, making it the perfect retreat for both relaxation and indulgence. Book your stay for a memorable getaway in Portland.",
+      "highlight": "Hotel Lucia boasts a rooftop bar, complimentary fitness kits in every room, and a nightly Craft Beer Hour.",
+      "price": "$132/night",
+      "location": "400 SW Broadway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp20a14",
+      "name": "The Hotel Zags Portland",
+      "image": "https://static.cupid.travel/hotels/54663165.jpg",
+      "description": "Experience contemporary comfort at The Hotel Zags Portland, where modern rooms feature a work desk, fridge, and flat-screen HD TV for your relaxation. Discover over 500 pieces of local art throughout the hotel and enjoy 24-hour concierge service tailored to enhance your visit. Savor exquisite French and Italian-inspired dishes at Zags Restaurant & Patio, and explore attractions like Waterfront Park just moments away.",
+      "highlight": "Offers a stylish rooftop terrace with outdoor seating and stunning views, complemented by a vibrant restaurant serving French and Italian cuisine.",
+      "price": "$105/night",
+      "location": "515 Southwest Clay St",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "cool-boutique-hotels-in-portland-with-rooftop-bars",
+  "generatedAt": "2025-11-03T02:37:11.329Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

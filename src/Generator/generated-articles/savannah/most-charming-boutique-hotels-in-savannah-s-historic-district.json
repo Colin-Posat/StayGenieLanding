@@ -1,0 +1,79 @@
+{
+  "city": "savannah",
+  "query": "most charming boutique hotels in savannah historic district",
+  "title": "Most Charming Boutique Hotels in Savannah's Historic District",
+  "excerpt": "Navigating the charming streets of Savannah's Historic District can be a delightful challenge, especially when seeking unique boutique hotels that truly capture the city's essence. This curated list serves as a valuable resource, highlighting accommodations that offer not just a place to stay, but an immersive experience enriched by local culture and history. By choosing one of these hotels, travelers can enjoy a memorable stay that reflects the charm and character of Savannah.",
+  "intro": "Discover the most enchanting boutique hotels in Savannah's Historic District, where Southern hospitality meets historic charm.",
+  "hotels": [
+    {
+      "id": "lp3f6fd",
+      "name": "Eliza Thompson House, Historic Inns of Savannah Collection",
+      "image": "https://static.cupid.travel/hotels/158107171.jpg",
+      "description": "Experience the historic charm of Eliza Thompson House, where elegant rooms adorned with antique furniture offer modern comfort. Guests can savor deluxe breakfasts in a picturesque courtyard, unwind by the koi pond, and admire the beautiful Ivan Bailey fountain. Located just minutes from Savannah's top attractions, this hotel is the perfect base for immersing yourself in the city's rich history.",
+      "highlight": "Boasts elegant rooms with antique furnishings, a picturesque courtyard for deluxe breakfasts, and a serene koi pond.",
+      "price": "$245/night",
+      "location": "5 West Jones Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4f850",
+      "name": "Hamilton Turner Inn",
+      "image": "https://static.cupid.travel/hotels/505348012.jpg",
+      "description": "Experience the charm of Hamilton-Turner Inn, a luxurious bed and breakfast nestled in Savannah's Historic District. Guests can savor a delightful Southern breakfast and unwind in elegantly designed rooms equipped with modern amenities like MP3 docking stations and upscale bath products. With concierge services and easy access to local attractions, including carriage tours and nearby Tybee Island, this inn offers the perfect blend of comfort and Southern hospitality.",
+      "highlight": "Boasts elegantly designed rooms, a Japanese garden, and concierge services with easy access to local attractions.",
+      "price": "$394/night",
+      "location": "330 Abercorn St.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656b98f2",
+      "name": "Catherine Ward House Inn",
+      "image": "https://static.cupid.travel/hotels/78639471.jpg",
+      "description": "Experience the charm of Savannah at the Catherine Ward House Inn, a delightful bed and breakfast located in the heart of the historic district. Enjoy uniquely decorated rooms featuring luxurious amenities like air conditioning, cable TV, and private balconies, along with a complimentary full breakfast to start your day right. Unwind in cozy common areas or the serene private garden, all while receiving exceptional service from the attentive staff.",
+      "highlight": "Boasts uniquely decorated rooms, a serene Japanese garden, and complimentary breakfast in the heart of Savannah's historic district.",
+      "price": "$280/night",
+      "location": "118 East Waldburg Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp501b7",
+      "name": "Forsyth Park Inn",
+      "image": "https://static.cupid.travel/hotels/509318876.jpg",
+      "description": "Forsyth Park Inn offers a charming escape in the heart of Savannah, featuring air-conditioned rooms with free WiFi and a lovely garden picnic area. Located just steps from popular attractions like Monterey Square and Forsyth Park, it provides convenient access to the city center and shuttle services. Ideal for families, the inn boasts spacious rooms, a sun terrace, and top-notch security for a relaxing and memorable stay.",
+      "highlight": "Forsyth Park Inn boasts air-conditioned family rooms, a serene Japanese garden, and convenient access to Savannah's historic attractions.",
+      "price": "$281/night",
+      "location": "102 W Hall Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa2218",
+      "name": "McMillan Inn",
+      "image": "https://static.cupid.travel/hotels/85200495.jpg",
+      "description": "Experience a luxurious stay at McMillan Inn, a 4-star bed and breakfast in Savannah featuring elegant family rooms with modern amenities, including air conditioning and flat-screen TVs. Enjoy a delightful buffet breakfast with American and vegetarian options, and take advantage of the shared kitchen, outdoor fireplace, and year-round pool. Ideally situated near attractions like Lafayette Square and Forsyth Park, McMillan Inn offers the perfect blend of comfort and convenience for your memorable getaway.",
+      "highlight": "Boasts elegant family rooms, a year-round pool, outdoor fireplace, and a shared kitchen in Savannah's Historic District.",
+      "price": "$264/night",
+      "location": "304 East Huntingdon Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6d1fb",
+      "name": "The Cotton Sail Hotel Savannah - Tapestry Collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/484862004.jpg",
+      "description": "Experience a one-of-a-kind stay at the Cotton Sail Hotel, a beautifully restored 1800s cotton warehouse located in the heart of Savannah. Enjoy stunning views of the Savannah River from the rooftop lounge and relax in charming rooms that blend historic elegance with modern amenities, including free WiFi and flat-screen TVs. Book your stay now to create unforgettable memories in this unique setting.",
+      "highlight": "Boasts a rooftop lounge with stunning Savannah River views and charming rooms featuring modern amenities like free WiFi.",
+      "price": "$217/night",
+      "location": "126 West Bay Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "most-charming-boutique-hotels-in-savannah-s-historic-district",
+  "generatedAt": "2025-11-03T02:38:40.860Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

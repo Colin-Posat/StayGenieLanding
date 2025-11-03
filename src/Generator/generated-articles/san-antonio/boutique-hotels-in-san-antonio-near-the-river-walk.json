@@ -1,0 +1,79 @@
+{
+  "city": "san-antonio",
+  "query": "boutique hotels in san antonio near river walk",
+  "title": "Boutique Hotels in San Antonio near the River Walk",
+  "excerpt": "Finding the perfect boutique hotel near the River Walk in San Antonio can be a daunting task, as many options blend into the vibrant landscape of this historic city. This curated list highlights unique accommodations that offer not only comfort but also distinctive charm, ensuring you experience the best of San Antonio's culture and hospitality. Whether you're seeking a romantic getaway or a family adventure, these hotels provide an exceptional base for exploration.",
+  "intro": "Discover the hidden gems of boutique hotels that provide a unique and memorable stay along the iconic River Walk in San Antonio.",
+  "hotels": [
+    {
+      "id": "lp87281",
+      "name": "Hotel Emma at Pearl on the Riverwalk",
+      "image": "https://static.cupid.travel/hotels/73120580.jpg",
+      "description": "Experience a luxurious getaway at our hotel, located just 2.1 km from The Alamo, featuring free WiFi and a year-round outdoor pool. Enjoy elegant rooms equipped with 48\" flat-screen TVs, some with private terraces overlooking the San Antonio River. Savor gourmet farm-to-table dining, local goods, and craft beverages while taking advantage of our diverse recreational offerings, including golfing and complimentary bicycles.",
+      "highlight": "Boasts elegant rooms with flat-screen TVs, a year-round outdoor pool, and gourmet dining overlooking the San Antonio River.",
+      "price": "$911/night",
+      "location": "136 E Grayson",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp40542",
+      "name": "Grand Hyatt San Antonio River Walk",
+      "image": "https://static.cupid.travel/hotels/296229290.jpg",
+      "description": "Discover the elegance of Grand Hyatt San Antonio River Walk, where luxurious accommodations boast stunning city views and modern amenities. Indulge in a culinary adventure at diverse dining venues, including Ruth’s Chris Steak House, with the added bonus of free meals for kids. Ideally located along the renowned River Walk, the hotel features a heated outdoor pool and easy access to attractions like the Alamo, ensuring an unforgettable experience.",
+      "highlight": "Boasts luxurious accommodations with stunning city views, a heated outdoor pool, and dining options along the River Walk.",
+      "price": "$416/night",
+      "location": "600 E Market St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b62a",
+      "name": "Omni La Mansion del Rio",
+      "image": "https://static.cupid.travel/hotels/374715845.jpg",
+      "description": "Discover the luxurious Omni La Mansion del Rio, ideally situated along the vibrant River Walk in downtown San Antonio. This 4-star hotel features a serene tropical courtyard with an outdoor pool, elegant rooms offering stunning views, and upscale amenities like marble bathrooms. Savor exquisite Southwest cuisine at Las Canarias, the on-site restaurant that provides breathtaking panoramic views, making your stay truly unforgettable.",
+      "highlight": "Offers luxurious rooms with stunning views, a serene tropical courtyard, and gourmet dining at Las Canarias along the River Walk.",
+      "price": "$289/night",
+      "location": "112 College St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp254cb",
+      "name": "The Westin Riverwalk, San Antonio",
+      "image": "https://static.cupid.travel/hotels/491166346.jpg",
+      "description": "Discover the luxury of The Westin Riverwalk in San Antonio, where Italian dining at Zocca Restaurant and Bar invites you to enjoy gourmet dishes indoors or on a charming riverfront patio. After a day of city exploration, relax by the outdoor pool or retreat to your modern room featuring a 42-inch flat-screen TV and Starbucks coffee-making amenities. Experience a perfect blend of comfort and elegance at this riverside oasis.",
+      "highlight": "Boasts an outdoor pool, upscale Italian dining at Zocca, and modern rooms with 42-inch TVs and Starbucks coffee amenities.",
+      "price": "$314/night",
+      "location": "420 W Market St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f10b",
+      "name": "Menger Hotel",
+      "image": "https://static.cupid.travel/hotels/91686512.jpg",
+      "description": "Experience the rich history and modern amenities of the Menger Hotel, ideally situated next to the Alamo and the iconic River Walk. Guests can savor delicious meals at the Colonial Room Restaurant, unwind in the courtyard garden, or take a refreshing dip in the outdoor pool. With convenient access to attractions like the San Antonio Zoo and the Botanical Garden, this hotel serves as the perfect hub for your city exploration.",
+      "highlight": "Offers a historic setting with modern amenities, an outdoor pool, and a restaurant overlooking the courtyard garden.",
+      "price": "$259/night",
+      "location": "204 Alamo Plaza",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5335e",
+      "name": "Hotel Gibbs Downtown Riverwalk",
+      "image": "https://static.cupid.travel/hotels/450930051.jpg",
+      "description": "Hotel Gibbs boasts a prime location just steps from the historic Alamo and the vibrant Riverwalk, making it an ideal base for exploring San Antonio. Enjoy modern amenities and a variety of dining options, while being close to popular attractions and entertainment. Reserve your stay today to discover the charm and excitement of this lively city!",
+      "highlight": "Hotel Gibbs Downtown Riverwalk offers a prime location near the Riverwalk, modern amenities, and pet-friendly accommodations.",
+      "price": "$241/night",
+      "location": "105 N Alamo",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "boutique-hotels-in-san-antonio-near-the-river-walk",
+  "generatedAt": "2025-11-03T02:46:39.975Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

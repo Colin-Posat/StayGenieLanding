@@ -1,0 +1,79 @@
+{
+  "city": "charleston",
+  "query": "best boutique hotels in charleston with rooftop bars",
+  "title": "Best Boutique Hotels in Charleston with Rooftop Bars",
+  "excerpt": "Finding the perfect boutique hotel with a rooftop bar in Charleston can be a daunting task, as the city is filled with charming options that often go unnoticed. This curated list shines a light on unique accommodations where guests can enjoy stunning views and a vibrant atmosphere, making it easier to choose the ideal spot for relaxation and socializing. Whether you seek a romantic getaway or a lively night out, these hotels offer something special that enhances your Charleston experience.",
+  "intro": "Discover the top boutique hotels in Charleston that boast stunning rooftop bars, perfect for soaking in the city's charm.",
+  "hotels": [
+    {
+      "id": "lp2bb09",
+      "name": "The Vendue",
+      "image": "https://static.cupid.travel/hotels/ex_73f62238_z.jpg",
+      "description": "Experience the charm of Charleston at The Vendue, a boutique hotel that offers a blend of elegance and comfort. Enjoy delectable American cuisine and breathtaking city views at The Rooftop Bar, along with complimentary daily receptions. Each of the 84 stylish guestrooms features modern amenities like iPod docking stations and luxurious bedding, ensuring a restful stay in this vibrant city.",
+      "highlight": "The Vendue boasts a rooftop terrace offering stunning city views and an art gallery showcasing local creativity.",
+      "price": "$261/night",
+      "location": "19 Vendue Range",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp9d47b",
+      "name": "The Dewberry Charleston",
+      "image": "https://static.cupid.travel/hotels/120754942.jpg",
+      "description": "Discover the elegance of The Dewberry Charleston, a mid-20th century boutique hotel boasting luxurious accommodations with floor-to-ceiling windows and Vermont marble accents. Guests can unwind at the on-site spa, enjoy unique shopping at the Fieldshop, or host events in the stunning glass-enclosed rooftop venue. Ideally situated, the hotel places you just moments away from Charleston's vibrant attractions, including the Charleston Museum and the South Carolina Aquarium.",
+      "highlight": "Offers a stunning rooftop bar with panoramic views, luxurious spa services, and a cozy library for relaxation.",
+      "price": "$577/night",
+      "location": "334 Meeting Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa3d00",
+      "name": "86 Cannon Charleston - Adults Only",
+      "image": "https://static.cupid.travel/hotels/88815820.jpg",
+      "description": "Experience the charm of Charleston at the 86 Cannon Historic Inn, an adults-only retreat featuring elegantly furnished rooms with modern amenities, including flat-screen TVs and luxurious bath essentials. Conveniently located just 700 meters from the city center, guests can easily explore nearby attractions like Cannon Park and the Charleston Museum. Enjoy exceptional service with a 24-hour front desk and complimentary WiFi, ensuring a seamless and memorable stay.",
+      "highlight": "Offers a stunning rooftop terrace and infinity pool, complemented by a tranquil Japanese garden for relaxation.",
+      "price": "$649/night",
+      "location": "86 Cannon Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655896ad",
+      "name": "The Starlight Motor Inn",
+      "image": "https://static.cupid.travel/hotels/606045913.jpg",
+      "description": "The Starlight Motor Inn in Charleston offers a prime location just 7.3 km from Hampton Park, making it an ideal choice for both comfort and convenience. Guests can relax by the seasonal outdoor pool, enjoy the inviting shared lounge and bar, and benefit from complimentary parking. Each room features modern amenities, including a flat-screen TV and free WiFi, ensuring a delightful stay in the heart of Charleston.",
+      "highlight": "Boasts a seasonal outdoor pool, modern amenities, and a shared lounge and bar for a memorable stay in Charleston.",
+      "price": "$134/night",
+      "location": "3245 Rivers Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7512d",
+      "name": "The Ansonborough",
+      "image": "https://static.cupid.travel/hotels/595844973.jpg",
+      "description": "Experience a delightful afternoon wine and cheese social, perfect for relaxing after a day of exploration. Enjoy breathtaking views from our rooftop terrace, where you can soak in the charm of the historic district. With complimentary Wi-Fi throughout the hotel, you can stay connected while enjoying all that we have to offer.",
+      "highlight": "Boasts a rooftop terrace with breathtaking views and an afternoon wine and cheese social for a relaxing experience.",
+      "price": "$223/night",
+      "location": "21 Hasell Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f7cb",
+      "name": "Andrew Pinckney Inn",
+      "image": "https://static.cupid.travel/hotels/184396948.jpg",
+      "description": "Experience the charm of the historic Andrew Pinckney Inn, a boutique hotel dating back to 1840, located just a kilometer from the College of Charleston. Guests can enjoy a complimentary breakfast on the rooftop terrace, luxurious amenities in each room, and 24-hour concierge services to help plan local activities. With elegant bathrooms featuring Italian Travertine tiles and convenient valet parking, this hotel combines historic elegance with modern comfort for a memorable stay.",
+      "highlight": "Offers a rooftop terrace with outdoor furniture and 24-hour concierge services for a luxurious stay.",
+      "price": "$220/night",
+      "location": "40 Pinckney St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-charleston-with-rooftop-bars",
+  "generatedAt": "2025-11-03T02:39:37.663Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "best boutique hotels in los angeles with rooftop bars",
+  "title": "Best Boutique Hotels in Los Angeles with Rooftop Bars",
+  "excerpt": "Finding boutique hotels in Los Angeles that also feature stunning rooftop bars can be quite a challenge. This curated list not only highlights unique accommodations but also showcases the vibrant social scenes that these rooftop spaces offer. Whether you're seeking a chic getaway or a lively evening with breathtaking views, these hotels are sure to elevate your LA experience.",
+  "intro": "Discover the best boutique hotels in Los Angeles that combine stylish accommodations with breathtaking rooftop bars for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp913cb",
+      "name": "Dream Hollywood, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/568783347.jpg",
+      "description": "Discover luxury at Dream Hollywood with a stunning rooftop pool and sun terrace that offers panoramic views of the iconic Hollywood sign. Savor gourmet dining experiences featuring fresh California dishes at The Highlight Room and Asian-inspired flavors at TAO Asian Bistro. Enjoy modern comforts like free WiFi and a 24-hour front desk in a convenient location near the Capitol Records Building and Dolby Theater, making your stay both enjoyable and memorable.",
+      "highlight": "Offers a stunning rooftop pool and terrace with panoramic views, plus gourmet dining at The Highlight Room and TAO Asian Bistro.",
+      "price": "$321/night",
+      "location": "6417 Selma Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1db2ba",
+      "name": "The Godfrey Hotel Hollywood",
+      "image": "https://static.cupid.travel/hotels/496968162.jpg",
+      "description": "The Godfrey Hotel Hollywood offers a luxurious escape featuring a stunning rooftop pool and the on-site restaurant, About Last Knife, known for its exceptional dining experience. Each guestroom is equipped with modern amenities, including free WiFi and upscale bath products, ensuring a comfortable stay. Ideally located near iconic attractions such as the Capitol Records building and the Hollywood Walk of Fame, this hotel is the perfect base for exploring the vibrant city of Los Angeles.",
+      "highlight": "Offers a stunning rooftop pool and an on-site restaurant, About Last Knife, with exceptional dining experiences.",
+      "price": "$216/night",
+      "location": "1400 Cahuenga Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6556ac53",
+      "name": "Downtown Los Angeles Proper Hotel, a Member of Design Hotels",
+      "image": "https://static.cupid.travel/hotels/484397411.jpg",
+      "description": "Discover the elegance of Downtown Los Angeles Proper Hotel, featuring 148 uniquely designed rooms and suites by acclaimed designer Kelly Wearstler. Delight your palate at two on-site restaurants helmed by James Beard Award-winning Chef Suzanne Goin, offering a blend of innovative and classic cuisine. With a state-of-the-art fitness center and a stunning rooftop pool overlooking the city, plus proximity to major attractions, your stay promises both luxury and excitement.",
+      "highlight": "Boasts a stunning rooftop garden and pool with panoramic city views, along with two acclaimed on-site dining options.",
+      "price": "$438/night",
+      "location": "1100 South Broadway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp26f5a5",
+      "name": "The Hoxton, Downtown LA",
+      "image": "https://static.cupid.travel/hotels/253108648.jpg",
+      "description": "Experience the elegance of The Hoxton, Downtown LA, where stylishly designed rooms offer stunning city views and modern amenities, including complimentary WiFi and flat-screen TVs. Savor a diverse culinary experience at the hotel's restaurant, featuring a delightful fusion of French, Peruvian, and Spanish dishes, with options for various dietary needs. Enjoy relaxation by the outdoor pool or take advantage of complimentary bike rentals to explore the vibrant surroundings, all just steps away from iconic attractions like Microsoft Theater and Staples Center.",
+      "highlight": "The Hoxton, Downtown LA boasts a stunning rooftop garden and an outdoor swimming pool with breathtaking city views.",
+      "price": "$204/night",
+      "location": "1060 South Broadway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22ae6",
+      "name": "Sunset Tower Hotel",
+      "image": "https://static.cupid.travel/hotels/94921299.jpg",
+      "description": "The Sunset Tower Hotel in West Hollywood offers a lavish retreat with a stunning rooftop pool, a full-service spa, and spacious rooms featuring modern amenities like flat-screen TVs and Nespresso machines. Guests can maintain their fitness routine at the well-equipped gym or unwind with rejuvenating treatments at the acclaimed Joanna Vargas Spa. Dining at The Tower Bar provides a delightful culinary experience, showcasing California cuisine with European influences against a backdrop of breathtaking city views.",
+      "highlight": "Offers a stunning rooftop pool and a full-service spa, along with spacious rooms and exquisite dining at The Tower Bar.",
+      "price": "$549/night",
+      "location": "8358 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f93b",
+      "name": "The LINE Hotel LA",
+      "image": "https://static.cupid.travel/hotels/159354373.jpg",
+      "description": "Experience the height of luxury at The LINE Hotel LA, where modern rooms boast floor-to-ceiling windows that showcase stunning views of the city. Savor seasonal dishes at the Openaire Restaurant, featuring a unique poolside dining experience with delectable shareable plates. With a prime location near Hollywood, guests can enjoy amenities like an outdoor pool, fitness center, and complimentary yoga classes, ensuring a memorable stay in vibrant Koreatown.",
+      "highlight": "Boasts a rooftop bar with stunning city views, seasonal dining at Openaire, and complimentary yoga classes for guests.",
+      "price": "$205/night",
+      "location": "3515 Wilshire Blvd",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-los-angeles-with-rooftop-bars",
+  "generatedAt": "2025-11-03T02:32:35.858Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}
