@@ -28,7 +28,7 @@ export function BlogHomeClient({ cities }: BlogHomeClientProps) {
       <div className="mx-auto max-w-4xl px-4 py-12">
         <PageHeader />
         <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
-        
+
         {filteredCities.length > 0 ? (
           <CitiesList cities={filteredCities} />
         ) : (
@@ -86,7 +86,7 @@ function CitiesList({ cities }: { cities: CityWithCount[] }) {
       <p className="mb-4 text-sm text-gray-500">
         {cities.length} {cities.length === 1 ? 'city' : 'cities'}
       </p>
-      
+
       <ul className="divide-y divide-gray-200 border-t border-b border-gray-200">
         {cities.map(({ city, count }) => (
           <CityListItem key={city} city={city} count={count} />
@@ -141,10 +141,10 @@ function CityListItem({ city, count }: { city: string; count: number }) {
 function PinIcon(props: React.SVGProps<SVGSVGElement>) {
   return (
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" {...props}>
-      <path 
-        strokeLinecap="round" 
-        strokeLinejoin="round" 
-        d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z" 
+      <path
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        d="M17.657 16.657L13.414 20.9a2 2 0 01-2.828 0l-4.243-4.243a8 8 0 1111.314 0z"
       />
       <circle cx="12" cy="11" r="3" />
     </svg>
