@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "hotels in Tokyo under 100 dollars and clean",
+  "title": "What are the best hotels in Tokyo under $100 and clean",
+  "excerpt": "Finding clean and affordable hotels in Tokyo can be a daunting task, especially with the city’s vast options and varying standards. This curated list focuses on budget-friendly accommodations under $100 that prioritize cleanliness, ensuring that travelers can enjoy a comfortable stay without breaking the bank. Whether you are a first-time visitor or a seasoned traveler, this guide will help you navigate Tokyo's bustling hotel scene with ease.",
+  "intro": "Discover the top budget-friendly hotels in Tokyo that offer both cleanliness and comfort for under $100.",
+  "hotels": [
+    {
+      "id": "lp9d0d8",
+      "name": "HOTEL LiVEMAX Kayabacho",
+      "image": "https://static.cupid.travel/hotels/216043642.jpg",
+      "description": "Discover the perfect blend of convenience and comfort at HOTEL LiVEMAX Kayabacho, situated in the vibrant Chuo Ward district of Tokyo. Enjoy air-conditioned rooms with private bathrooms, providing a relaxing retreat after exploring nearby attractions like Takao Inari Shrine and Koamicho Children's Park. Experience the rich history and culture of Tokyo right at your doorstep.",
+      "highlight": "Offers air-conditioned rooms with private bathrooms and complimentary toiletries for a clean and comfortable stay.",
+      "price": "$69/night",
+      "location": "3-7-3 Kayabacho, Nihombashi, Chuo-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8748a",
+      "name": "Do-C Gotanda",
+      "image": "https://static.cupid.travel/hotels/140211424.jpg",
+      "description": "Discover modern comfort at Do-C Gotanda, ideally situated in central Tokyo near popular attractions like Remy Gotanda Shopping Mall and Yakushi-ji Tokyo Annex Temple. Enjoy air-conditioned rooms, free WiFi, and a complimentary continental breakfast to start your day right, along with a relaxing male-only sauna to unwind after exploring the vibrant city. Experience the best of Tokyo with a memorable stay at Do-C Gotanda.",
+      "highlight": "Offers air-conditioned rooms, free WiFi, complimentary breakfast, and a relaxing male-only sauna in central Tokyo.",
+      "price": "$46/night",
+      "location": "1-20-15 Higashi Gotanda",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8b362",
+      "name": "Kuretake-Inn Tokyo Funabori",
+      "image": "https://static.cupid.travel/hotels/613028286.jpg",
+      "description": "Kuretake-Inn Tokyo Funabori boasts a prime location just a two-minute stroll from Funabori Subway Station, making it easy to explore the city and visit Tokyo Disney Resort. Guests can unwind in cozy rooms equipped with flat-screen TVs and private bathrooms, while enjoying complimentary WiFi and convenient services like luggage storage and parking. The on-site restaurant offers a delightful selection of Korean, Japanese, and Western cuisines, ensuring a satisfying dining experience without the need to venture out.",
+      "highlight": "Kuretake-Inn Tokyo Funabori offers cozy rooms with flat-screen TVs, private bathrooms, and complimentary WiFi, just steps from the subway.",
+      "price": "$70/night",
+      "location": "1-7-19 Funabori",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa7ca7",
+      "name": "HOTEL LiVEMAX Tokyo Shiomi Ekimae",
+      "image": "https://static.cupid.travel/hotels/361445355.jpg",
+      "description": "Discover comfort at HOTEL LiVEMAX Tokyo Shiomi Ekimae, where modern air-conditioned rooms with private bathrooms ensure a relaxing retreat. Enjoy complimentary WiFi while exploring nearby attractions like the Hydrogen Information Centre and Tatsuminomori Kaihin Park, all within walking distance. With easy access to Fukagawa Gatharia Shopping Mall, popular landmarks, and Tokyo Haneda Airport, your stay promises both convenience and adventure.",
+      "highlight": "Offers modern air-conditioned rooms with private bathrooms and complimentary WiFi, ensuring comfort and convenience during your stay.",
+      "price": "$73/night",
+      "location": "Shiomi 2-8-8, Koto-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8b710",
+      "name": "HOTEL LiVEMAX Asakusa Sky Front",
+      "image": "https://static.cupid.travel/hotels/475147856.jpg",
+      "description": "Experience the vibrant culture of Tokyo at HOTEL LiVEMAX Asakusa Sky Front, situated just 400 meters from the iconic Tokyo Skytree. This inviting 2-star hotel offers comfortable air-conditioned rooms with private bathrooms and free WiFi, perfect for unwinding after a day of exploration. With easy access to nearby attractions like the Tobacco & Salt Museum and a convenient location just 20 km from Tokyo Haneda Airport, your stay promises both comfort and adventure.",
+      "highlight": "Offers soundproof air-conditioned rooms with private bathrooms and free WiFi, just 400 meters from Tokyo Skytree.",
+      "price": "$70/night",
+      "location": "1-10-4 Narihira",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb84ed",
+      "name": "Henn na Hotel Tokyo Haneda",
+      "image": "https://static.cupid.travel/hotels/207094299.jpg",
+      "description": "Experience the Henn na Hotel Tokyo Haneda, conveniently situated near cultural landmarks in Ota Ward. Enjoy modern amenities such as air-conditioned rooms with free WiFi, a 24-hour front desk, and complimentary shuttle service, ensuring a seamless stay. Relax in well-appointed accommodations with cozy bedding and essential comforts, making it the perfect retreat after a day of adventure in Tokyo.",
+      "highlight": "Henn na Hotel Tokyo Haneda offers air-conditioned rooms, free WiFi, and a 24-hour front desk for a comfortable stay.",
+      "price": "$76/night",
+      "location": "2-11-18 Higashikojiya, Ota-ku",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-tokyo-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:53:48.853Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

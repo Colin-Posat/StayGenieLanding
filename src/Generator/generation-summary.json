@@ -1,130 +1,908 @@
 {
-  "generatedAt": "2025-11-03T02:48:17.224Z",
-  "totalRequested": 20,
-  "totalGenerated": 20,
-  "totalFailed": 0,
-  "durationMinutes": 16.9,
+  "generatedAt": "2025-11-04T03:10:09.234Z",
+  "totalRequested": 150,
+  "totalGenerated": 147,
+  "totalFailed": 3,
+  "durationMinutes": 122.72,
   "successfulArticles": [
     {
-      "city": "los-angeles",
-      "title": "Best Boutique Hotels in Los Angeles with Rooftop Bars",
-      "slug": "best-boutique-hotels-in-los-angeles-with-rooftop-bars",
-      "hotelCount": 6
-    },
-    {
-      "city": "new-york",
-      "title": "Top Boutique Hotels in New York City with Skyline Views",
-      "slug": "top-boutique-hotels-in-new-york-city-with-skyline-views",
-      "hotelCount": 6
-    },
-    {
-      "city": "miami",
-      "title": "Best Miami Hotels with Rooftop Pools and Ocean Views",
-      "slug": "best-miami-hotels-with-rooftop-pools-and-ocean-views",
-      "hotelCount": 6
-    },
-    {
-      "city": "chicago",
-      "title": "Best Boutique Hotels in Chicago with Rooftop Lounges",
-      "slug": "best-boutique-hotels-in-chicago-with-rooftop-lounges",
-      "hotelCount": 6
-    },
-    {
-      "city": "san-francisco",
-      "title": "Best San Francisco Boutique Hotels near Union Square",
-      "slug": "best-san-francisco-boutique-hotels-near-union-square",
-      "hotelCount": 6
-    },
-    {
-      "city": "portland",
-      "title": "Cool Boutique Hotels in Portland with Rooftop Bars",
-      "slug": "cool-boutique-hotels-in-portland-with-rooftop-bars",
-      "hotelCount": 6
-    },
-    {
-      "city": "denver",
-      "title": "Best Boutique Hotels in Denver with Mountain Views",
-      "slug": "best-boutique-hotels-in-denver-with-mountain-views",
-      "hotelCount": 6
-    },
-    {
-      "city": "savannah",
-      "title": "Most Charming Boutique Hotels in Savannah's Historic District",
-      "slug": "most-charming-boutique-hotels-in-savannah-s-historic-district",
-      "hotelCount": 6
-    },
-    {
-      "city": "charleston",
-      "title": "Best Boutique Hotels in Charleston with Rooftop Bars",
-      "slug": "best-boutique-hotels-in-charleston-with-rooftop-bars",
-      "hotelCount": 6
-    },
-    {
-      "city": "san-diego",
-      "title": "Best San Diego Boutique Hotels with Rooftop Bars",
-      "slug": "best-san-diego-boutique-hotels-with-rooftop-bars",
+      "city": "tokyo",
+      "title": "Best cheap, safe, and clean hotels in Tokyo",
+      "slug": "best-cheap-safe-and-clean-hotels-in-tokyo",
       "hotelCount": 6
     },
     {
       "city": "las-vegas",
-      "title": "Unique Boutique Hotels in Las Vegas Off the Strip",
-      "slug": "unique-boutique-hotels-in-las-vegas-off-the-strip",
+      "title": "Best cheap, safe, and clean hotels in Las Vegas",
+      "slug": "best-cheap-safe-and-clean-hotels-in-las-vegas",
       "hotelCount": 6
     },
     {
-      "city": "new-orleans",
-      "title": "Best Boutique Hotels in New Orleans French Quarter",
-      "slug": "best-boutique-hotels-in-new-orleans-french-quarter",
+      "city": "miami",
+      "title": "What are the best hotels in Miami under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-miami-under-100-and-clean",
       "hotelCount": 6
     },
     {
-      "city": "scottsdale",
-      "title": "Best Boutique Hotels in Scottsdale with Rooftop Pools",
-      "slug": "best-boutique-hotels-in-scottsdale-with-rooftop-pools",
+      "city": "sydney",
+      "title": "Best hotels in Sydney for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-sydney-for-women-travelers-safe-clean-and-great-amenities",
       "hotelCount": 6
     },
     {
-      "city": "austin",
-      "title": "Cool Boutique Hotels in Austin with Live Music and Rooftop Bars",
-      "slug": "cool-boutique-hotels-in-austin-with-live-music-and-rooftop-bars",
+      "city": "dubai",
+      "title": "Best hotels in Dubai for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-dubai-for-weddings-luxurious-but-affordable",
       "hotelCount": 6
     },
     {
-      "city": "seattle",
-      "title": "Best Boutique Hotels in Seattle with Rooftop Views",
-      "slug": "best-boutique-hotels-in-seattle-with-rooftop-views",
+      "city": "bangkok",
+      "title": "What are the affordable, clean hotels in Bangkok with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-bangkok-with-breakfast-included",
       "hotelCount": 6
     },
     {
-      "city": "nashville",
-      "title": "Trendy Boutique Hotels in Nashville with Rooftop Bars",
-      "slug": "trendy-boutique-hotels-in-nashville-with-rooftop-bars",
+      "city": "rome",
+      "title": "Best hotels in Rome for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-rome-for-weddings-luxurious-but-affordable",
       "hotelCount": 6
     },
     {
-      "city": "philadelphia",
-      "title": "Best Boutique Hotels in Philadelphia with Rooftop Restaurants",
-      "slug": "best-boutique-hotels-in-philadelphia-with-rooftop-restaurants",
+      "city": "las-vegas",
+      "title": "What are the affordable, clean hotels in Las Vegas with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-las-vegas-with-breakfast-included",
       "hotelCount": 6
     },
     {
-      "city": "san-antonio",
-      "title": "Boutique Hotels in San Antonio near the River Walk",
-      "slug": "boutique-hotels-in-san-antonio-near-the-river-walk",
+      "city": "dubai",
+      "title": "Best boutique hotels in Dubai: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-dubai-amazing-and-affordable",
       "hotelCount": 6
     },
     {
-      "city": "boston",
-      "title": "Best Boutique Hotels in Boston with Skyline Views",
-      "slug": "best-boutique-hotels-in-boston-with-skyline-views",
+      "city": "singapore",
+      "title": "What are the best dog-friendly hotels in Singapore",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-singapore",
       "hotelCount": 6
     },
     {
-      "city": "atlanta",
-      "title": "Best Boutique Hotels in Atlanta with Rooftop Lounges",
-      "slug": "best-boutique-hotels-in-atlanta-with-rooftop-lounges",
+      "city": "sydney",
+      "title": "Best cheap, safe, and clean hotels in Sydney",
+      "slug": "best-cheap-safe-and-clean-hotels-in-sydney",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Amazing hotels for families with kids in Las Vegas",
+      "slug": "amazing-hotels-for-families-with-kids-in-las-vegas",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Rooftop Bars: What are the best hotels in Singapore with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-singapore-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Rooftop Bars: What are the best hotels in Bangkok with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-bangkok-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "What are the affordable, clean hotels in Rome with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-rome-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Best hotels in Paris for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-paris-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "Rooftop Bars: What are the best hotels in Sydney with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-sydney-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Amazing hotels for families with kids in San Francisco",
+      "slug": "amazing-hotels-for-families-with-kids-in-san-francisco",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "Best boutique hotels in Los Angeles: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-los-angeles-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "What are the best dog-friendly hotels in London",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-london",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "Amazing hotels for families with kids in Tokyo",
+      "slug": "amazing-hotels-for-families-with-kids-in-tokyo",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "What are the best dog-friendly hotels in New York",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-new-york",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Rooftop Bars: What are the best hotels in Amsterdam with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-amsterdam-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "What are the best pet-friendly hotels in Amsterdam",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-amsterdam",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "Best boutique hotels in Tokyo: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-tokyo-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Rooftop Bars: What are the best hotels in San Francisco with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-san-francisco-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "What are the affordable, clean hotels in Dubai with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-dubai-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "Best hotels in Tokyo for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-tokyo-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "Best hotels in Tokyo for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-tokyo-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Amazing hotels for families with kids in Miami",
+      "slug": "amazing-hotels-for-families-with-kids-in-miami",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "Amazing hotels for families with kids in Rome",
+      "slug": "amazing-hotels-for-families-with-kids-in-rome",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Amazing hotels for families with kids in Singapore",
+      "slug": "amazing-hotels-for-families-with-kids-in-singapore",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "What are the best dog-friendly hotels in Dubai",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-dubai",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "What are the best pet-friendly hotels in Tokyo",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-tokyo",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "What are the affordable, clean hotels in Paris with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-paris-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Amazing hotels for families with kids in Paris",
+      "slug": "amazing-hotels-for-families-with-kids-in-paris",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Best hotels in San Francisco for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-san-francisco-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Best hotels in Singapore for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-singapore-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "What are the affordable, clean hotels in Miami with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-miami-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "Rooftop Bars: What are the best hotels in Rome with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-rome-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "What are the best dog-friendly hotels in Las Vegas",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-las-vegas",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Best hotels in Las Vegas for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-las-vegas-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Best hotels in Bangkok for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-bangkok-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Best boutique hotels in Paris: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-paris-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Best boutique hotels in Singapore: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-singapore-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Best hotels in Amsterdam for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-amsterdam-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "What are the best pet-friendly hotels in Miami",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-miami",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Best hotels in London for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-london-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Best hotels in San Francisco for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-san-francisco-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "What are the best pet-friendly hotels in Bangkok",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-bangkok",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "What are the best dog-friendly hotels in Barcelona",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-barcelona",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Rooftop Bars: What are the best hotels in Barcelona with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-barcelona-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "Best hotels in Los Angeles for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-los-angeles-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Amazing hotels for families with kids in New York",
+      "slug": "amazing-hotels-for-families-with-kids-in-new-york",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "What are the affordable, clean hotels in London with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-london-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Best hotels in New York for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-new-york-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "What are the best pet-friendly hotels in Las Vegas",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-las-vegas",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "What are the best hotels in Barcelona under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-barcelona-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "What are the best dog-friendly hotels in San Francisco",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-san-francisco",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "Amazing hotels for families with kids in Sydney",
+      "slug": "amazing-hotels-for-families-with-kids-in-sydney",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "Best cheap, safe, and clean hotels in Los Angeles",
+      "slug": "best-cheap-safe-and-clean-hotels-in-los-angeles",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "Best boutique hotels in Rome: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-rome-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "What are the best hotels in Rome under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-rome-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "What are the best pet-friendly hotels in Paris",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-paris",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "What are the best dog-friendly hotels in Los Angeles",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-los-angeles",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Best hotels in Paris for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-paris-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "Best boutique hotels in Sydney: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-sydney-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Best cheap, safe, and clean hotels in New York",
+      "slug": "best-cheap-safe-and-clean-hotels-in-new-york",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Best hotels in Singapore for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-singapore-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Best cheap, safe, and clean hotels in London",
+      "slug": "best-cheap-safe-and-clean-hotels-in-london",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Best hotels in New York for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-new-york-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Best cheap, safe, and clean hotels in Bangkok",
+      "slug": "best-cheap-safe-and-clean-hotels-in-bangkok",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "Best cheap, safe, and clean hotels in Rome",
+      "slug": "best-cheap-safe-and-clean-hotels-in-rome",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Best hotels in Bangkok for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-bangkok-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Rooftop Bars: What are the best hotels in New York with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-new-york-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Rooftop Bars: What are the best hotels in Miami with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-miami-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "Best boutique hotels in New York: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-new-york-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Best boutique hotels in Las Vegas: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-las-vegas-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Amazing hotels for families with kids in London",
+      "slug": "amazing-hotels-for-families-with-kids-in-london",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Best boutique hotels in San Francisco: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-san-francisco-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "Best cheap, safe, and clean hotels in Dubai",
+      "slug": "best-cheap-safe-and-clean-hotels-in-dubai",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Rooftop Bars: What are the best hotels in London with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-london-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "What are the best hotels in Paris under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-paris-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "Best hotels in Dubai for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-dubai-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Best cheap, safe, and clean hotels in Amsterdam",
+      "slug": "best-cheap-safe-and-clean-hotels-in-amsterdam",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "What are the best dog-friendly hotels in Miami",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-miami",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "What are the best hotels in New York under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-new-york-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "What are the best hotels in Singapore under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-singapore-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "Amazing hotels for families with kids in Los Angeles",
+      "slug": "amazing-hotels-for-families-with-kids-in-los-angeles",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "What are the best hotels in San Francisco under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-san-francisco-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Rooftop Bars: What are the best hotels in Paris with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-paris-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "Rooftop Bars: What are the best hotels in Dubai with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-dubai-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "What are the affordable, clean hotels in Sydney with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-sydney-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "What are the affordable, clean hotels in Los Angeles with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "What are the best dog-friendly hotels in Amsterdam",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-amsterdam",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "Best hotels in Rome for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-rome-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "What are the best pet-friendly hotels in New York",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-new-york",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "What are the best dog-friendly hotels in Bangkok",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-bangkok",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Amazing hotels for families with kids in Barcelona",
+      "slug": "amazing-hotels-for-families-with-kids-in-barcelona",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Amazing hotels for families with kids in Amsterdam",
+      "slug": "amazing-hotels-for-families-with-kids-in-amsterdam",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "What are the affordable, clean hotels in San Francisco with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-san-francisco-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "What are the best hotels in London under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-london-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "What are the best hotels in Los Angeles under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-los-angeles-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "What are the best pet-friendly hotels in Barcelona",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-barcelona",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Best boutique hotels in Barcelona: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-barcelona-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "Rooftop Bars: What are the best hotels in Tokyo with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-tokyo-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Amazing hotels for families with kids in Bangkok",
+      "slug": "amazing-hotels-for-families-with-kids-in-bangkok",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "What are the best dog-friendly hotels in Tokyo",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-tokyo",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "What are the affordable, clean hotels in Singapore with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-singapore-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "Best hotels in Los Angeles for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-los-angeles-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "What are the best hotels in Sydney under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-sydney-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "What are the best hotels in Bangkok under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-bangkok-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "What are the best hotels in Dubai under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-dubai-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Best boutique hotels in Miami: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-miami-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Best hotels in Barcelona for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-barcelona-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "Best cheap, safe, and clean hotels in San Francisco",
+      "slug": "best-cheap-safe-and-clean-hotels-in-san-francisco",
+      "hotelCount": 6
+    },
+    {
+      "city": "bangkok",
+      "title": "Best boutique hotels in Bangkok: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-bangkok-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "san-francisco",
+      "title": "What are the best pet-friendly hotels in San Francisco",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-san-francisco",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "What are the best dog-friendly hotels in Sydney",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-sydney",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Best hotels in Miami for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-miami-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Best hotels in Amsterdam for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-amsterdam-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "What are the best dog-friendly hotels in Paris",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-paris",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "Best hotels in Sydney for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-sydney-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "What are the best pet-friendly hotels in Singapore",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-singapore",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "What are the affordable, clean hotels in Barcelona with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-barcelona-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "tokyo",
+      "title": "What are the best hotels in Tokyo under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-tokyo-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Best hotels in Barcelona for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-barcelona-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Best boutique hotels in London: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-london-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "Best hotels in London for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-london-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "london",
+      "title": "What are the best pet-friendly hotels in London",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-london",
+      "hotelCount": 6
+    },
+    {
+      "city": "dubai",
+      "title": "What are the best pet-friendly hotels in Dubai",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-dubai",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Best cheap, safe, and clean hotels in Miami",
+      "slug": "best-cheap-safe-and-clean-hotels-in-miami",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "What are the best hotels in Las Vegas under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-las-vegas-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "los-angeles",
+      "title": "What are the best pet-friendly hotels in Los Angeles",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-los-angeles",
+      "hotelCount": 6
+    },
+    {
+      "city": "miami",
+      "title": "Best hotels in Miami for weddings: Luxurious but affordable",
+      "slug": "best-hotels-in-miami-for-weddings-luxurious-but-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "What are the best dog-friendly hotels in Rome",
+      "slug": "what-are-the-best-dog-friendly-hotels-in-rome",
+      "hotelCount": 6
+    },
+    {
+      "city": "rome",
+      "title": "What are the best pet-friendly hotels in Rome",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-rome",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Rooftop Bars: What are the best hotels in Las Vegas with rooftop bars",
+      "slug": "rooftop-bars-what-are-the-best-hotels-in-las-vegas-with-rooftop-bars",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "Best boutique hotels in Amsterdam: Amazing and affordable",
+      "slug": "best-boutique-hotels-in-amsterdam-amazing-and-affordable",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "What are the best hotels in Amsterdam under $100 and clean",
+      "slug": "what-are-the-best-hotels-in-amsterdam-under-100-and-clean",
+      "hotelCount": 6
+    },
+    {
+      "city": "barcelona",
+      "title": "Best cheap, safe, and clean hotels in Barcelona",
+      "slug": "best-cheap-safe-and-clean-hotels-in-barcelona",
+      "hotelCount": 6
+    },
+    {
+      "city": "new-york",
+      "title": "What are the affordable, clean hotels in New York with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-new-york-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "amsterdam",
+      "title": "What are the affordable, clean hotels in Amsterdam with breakfast included",
+      "slug": "what-are-the-affordable-clean-hotels-in-amsterdam-with-breakfast-included",
+      "hotelCount": 6
+    },
+    {
+      "city": "las-vegas",
+      "title": "Best hotels in Las Vegas for women travelers: Safe, clean, and great amenities",
+      "slug": "best-hotels-in-las-vegas-for-women-travelers-safe-clean-and-great-amenities",
+      "hotelCount": 6
+    },
+    {
+      "city": "sydney",
+      "title": "What are the best pet-friendly hotels in Sydney",
+      "slug": "what-are-the-best-pet-friendly-hotels-in-sydney",
+      "hotelCount": 6
+    },
+    {
+      "city": "singapore",
+      "title": "Best cheap, safe, and clean hotels in Singapore",
+      "slug": "best-cheap-safe-and-clean-hotels-in-singapore",
+      "hotelCount": 6
+    },
+    {
+      "city": "paris",
+      "title": "Best cheap, safe, and clean hotels in Paris",
+      "slug": "best-cheap-safe-and-clean-hotels-in-paris",
       "hotelCount": 6
     }
   ],
-  "failedArticles": []
+  "failedArticles": [
+    {
+      "city": "los-angeles",
+      "title": "Rooftop Bars: What are the best hotels in Los Angeles with rooftop bars",
+      "error": "ENOSPC: no space left on device, open '/Users/colindemirposat/Desktop/staygenielanding/src/Generator/generated-articles/los-angeles/rooftop-bars-what-are-the-best-hotels-in-los-angeles-with-rooftop-bars.json'"
+    },
+    {
+      "city": "dubai",
+      "title": "Amazing hotels for families with kids in Dubai",
+      "error": "ENOSPC: no space left on device, open '/Users/colindemirposat/Desktop/staygenielanding/src/Generator/generated-articles/dubai/amazing-hotels-for-families-with-kids-in-dubai.json'"
+    },
+    {
+      "city": "tokyo",
+      "title": "What are the affordable, clean hotels in Tokyo with breakfast included",
+      "error": "fetch failed"
+    }
+  ]
 }

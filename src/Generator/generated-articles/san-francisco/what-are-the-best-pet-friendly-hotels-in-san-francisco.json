@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "best pet friendly hotels in San Francisco",
+  "title": "What are the best pet-friendly hotels in San Francisco",
+  "excerpt": "Finding the perfect pet-friendly hotel in a bustling city like San Francisco can often feel like searching for a needle in a haystack. With so many options available, it is crucial to identify accommodations that not only welcome your furry companions but also provide the comfort and amenities you seek. This list is valuable as it highlights the best hotels that cater to both you and your pets, ensuring a memorable stay for the whole family.",
+  "intro": "Discover the top pet-friendly hotels in San Francisco that offer both luxury and a warm welcome for your four-legged friends.",
+  "hotels": [
+    {
+      "id": "lp1d5b3",
+      "name": "San Francisco Marriott Marquis Union Square",
+      "image": "https://static.cupid.travel/hotels/538624662.jpg",
+      "description": "Experience the epitome of luxury at the San Francisco Marriott Marquis, ideally located next to the Moscone Convention Center. Enjoy stylish rooms featuring flat-screen TVs and stunning city views, along with an on-site fitness center to keep you active. Start your day with a delicious breakfast at B55 Craft House and Kitchen, making this hotel the perfect base for both business and exploration in downtown San Francisco.",
+      "highlight": "Offers pet-friendly accommodations with stylish rooms, family options, and convenient e-bike charging stations in downtown San Francisco.",
+      "price": "$1149/night",
+      "location": "780 Mission Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b924",
+      "name": "Hilton San Francisco Union Square",
+      "image": "https://static.cupid.travel/hotels/538628156.jpg",
+      "description": "Experience contemporary comfort at the Hilton San Francisco Union Square, featuring modern rooms with flat-screen HDTVs, coffee machines, and luxurious Crabtree & Evelyn amenities. Stay active in the expansive health club or relax in the outdoor whirlpool, and savor delicious dining at Urban Tavern, known for its artistic ambiance and diverse menu. Ideally situated in downtown San Francisco, just steps from the Powell Street subway, guests can enjoy special offers including food and beverage credits and premium WiFi.",
+      "highlight": "Offers pet-friendly accommodations, an outdoor whirlpool, and convenient e-bike charging in downtown San Francisco.",
+      "price": "$508/night",
+      "location": "333 O'Farrell St.",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c519",
+      "name": "Staypineapple, An Elegant Hotel, Union Square",
+      "image": "https://static.cupid.travel/hotels/170503866.jpg",
+      "description": "Staypineapple is a charming historic hotel dating back to 1913, located near Union Square, where modern decor meets 1930s Victorian elegance. Guests can enjoy flat-screen TVs, en suite bathrooms, and coffee machines in their rooms, along with complimentary coffee and treats at check-in and free WiFi throughout the property. With a prime location just 1 km from Chinatown and an 8-minute walk to Grace Cathedral, Staypineapple is the perfect base for exploring the vibrant city of San Francisco.",
+      "highlight": "Offers pet-friendly accommodations with amenities such as pet bowls and complimentary coffee for all guests.",
+      "price": "$411/night",
+      "location": "580 Geary St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp657473ef",
+      "name": "Argonaut Hotel, a Noble House Hotel",
+      "image": "https://static.cupid.travel/hotels/115989321.jpg",
+      "description": "Discover the Argonaut, a luxury eco-friendly hotel at Fisherman's Wharf, where you can unwind with in-room spa services and indulge in fresh seafood at the renowned Blue Mermaid restaurant. Each nautically-themed room features elegant blue and white decor paired with modern amenities, ensuring a delightful stay. Located near attractions like the USS Pampanito Submarine, guests can also enjoy complimentary yoga accessories, a fitness center, and a 24-hour business center for added convenience.",
+      "highlight": "Argonaut Hotel offers pet-friendly accommodations, in-room spa services, and an on-site seafood restaurant at Fisherman's Wharf.",
+      "price": "$765/night",
+      "location": "495 Jefferson Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1e649",
+      "name": "Hyatt Centric Fisherman's Wharf San Francisco",
+      "image": "https://static.cupid.travel/hotels/149539390.jpg",
+      "description": "Experience a perfect blend of modern luxury and rustic charm at Hyatt Fisherman's Wharf, located steps from the iconic waterfront. Enjoy amenities like a heated outdoor pool, a hot tub, and stylish rooms featuring a 47” HDTV and spa toiletries. With a 24-hour Marketplace, on-site dining at The Wardroom, and easy access to local attractions such as Ghirardelli Square and the Golden Gate Bridge, your stay promises both comfort and adventure.",
+      "highlight": "Offers pet-friendly accommodations with stylish rooms, a heated outdoor pool, and on-site dining near San Francisco's waterfront attractions.",
+      "price": "$652/night",
+      "location": "555 N Point St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp40a4e",
+      "name": "InterContinental San Francisco, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/271167730.jpg",
+      "description": "Experience the epitome of luxury at the InterContinental San Francisco, where spacious rooms feature cutting-edge technology and modern comforts, including flat-screen TVs and in-room minibars. Perfectly located near Union Square, this hotel offers easy access to shopping, dining, and iconic attractions like Chinatown and the Powell Street Cable Car. Enjoy exceptional facilities such as a 24-hour fitness center, an indoor lap pool, and exquisite dining at Luce restaurant, ensuring a memorable stay in the heart of the city.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms, a 24-hour fitness center, and an indoor lap pool in downtown San Francisco.",
+      "price": "$995/night",
+      "location": "888 Howard Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-san-francisco",
+  "generatedAt": "2025-11-04T02:47:05.387Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

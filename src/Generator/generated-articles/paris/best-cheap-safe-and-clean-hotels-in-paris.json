@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "cheap safe clean hotels in Paris",
+  "title": "Best cheap, safe, and clean hotels in Paris",
+  "excerpt": "Navigating the vast landscape of hotels in Paris can be daunting, especially when seeking options that are not only affordable but also safe and clean. This curated list is invaluable for travelers who want to enjoy the beauty of the City of Light without breaking the bank or compromising on comfort. By highlighting these hidden gems, we aim to make your Parisian adventure both enjoyable and budget-friendly.",
+  "intro": "Discover the best budget-friendly hotels in Paris that prioritize safety and cleanliness, ensuring a delightful stay in this iconic city.",
+  "hotels": [
+    {
+      "id": "lp2ec95",
+      "name": "Timhotel Nation",
+      "image": "https://static.cupid.travel/hotels/75884145.jpg",
+      "description": "Experience modern comfort at the Timhotel in Paris, featuring well-appointed rooms equipped with flat-screen TVs, free Wi-Fi, and convenient tea and coffee facilities. Located just a short walk from Nation and Pere Lachaise, guests enjoy easy access to iconic attractions, including Disneyland Paris. Begin your mornings with a delightful breakfast in the inviting dining area or lovely courtyard, while the attentive 24-hour front desk is always ready to assist you.",
+      "highlight": "Timhotel Nation offers modern rooms with flat-screen TVs, free Wi-Fi, and a delightful breakfast in a serene garden setting.",
+      "price": "$119/night",
+      "location": "5-7 Rue D'Avron",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2bb6f",
+      "name": "Grand Hôtel Des Gobelins",
+      "image": "https://static.cupid.travel/hotels/53099481.jpg",
+      "description": "Experience the charm of Paris at Le Grand Hôtel Des Gobelins, where 45 thoughtfully renovated rooms offer a cozy retreat. Nestled near the vibrant Latin Quarter, this hotel provides easy access to attractions like the Jardin des Plantes and the Panthéon, along with a variety of restaurants and transport options for effortless exploration. Book your stay today and immerse yourself in the magic of the city!",
+      "highlight": "Offers 45 renovated rooms, family accommodations, and convenient access to the Latin Quarter and local attractions.",
+      "price": "$146/night",
+      "location": "57 Boulevard Saint Marcel",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d471",
+      "name": "Hôtel Alane",
+      "image": "https://static.cupid.travel/hotels/28191003.jpg",
+      "description": "Hotel Alane offers a prime location just minutes from Gare de l'Est and Gare du Nord, making it easy to explore Paris' top attractions. Guests can unwind in soundproofed rooms featuring modern amenities and enjoy a delightful continental breakfast each morning. Experience the ideal combination of convenience and comfort during your Paris getaway at Hotel Alane.",
+      "highlight": "Hôtel Alane offers soundproofed rooms, free WiFi, and a continental breakfast, all within walking distance of Gare de l'Est and Gare du Nord.",
+      "price": "$110/night",
+      "location": "72 Boulevard De Magenta",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b3f8",
+      "name": "Hôtel de Charonne",
+      "image": "https://static.cupid.travel/hotels/529745706.jpg",
+      "description": "Hotel de Charonne is ideally located in the heart of Paris, making it easy for guests to explore the city's vibrant attractions and transport options. The modern guest rooms are thoughtfully designed, featuring entertainment amenities and workspaces, while accessibility options ensure comfort for every visitor. Start your day with a delightful buffet breakfast and enjoy 24-hour reception, free Wi-Fi, and convenient parking services, all aimed at enhancing your stay.",
+      "highlight": "Offers soundproof family rooms, 24-hour reception, free Wi-Fi, and a delightful buffet breakfast in the heart of Paris.",
+      "price": "$123/night",
+      "location": "12 Rue Leon Frot",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2e1ee",
+      "name": "Hôtel du Plat d'Etain",
+      "image": "https://static.cupid.travel/hotels/117402131.jpg",
+      "description": "Experience luxury at Hôtel du Plat d'Etain, where air-conditioned rooms come equipped with QLED 4K TVs and a minibar for your comfort. Start your day with a delightful buffet breakfast, available both in the dining room and in-room until late morning. Located in central Paris, the hotel offers convenient access to public transportation and 24-hour front desk services, ensuring a seamless stay.",
+      "highlight": "Offers air-conditioned, soundproof rooms with QLED 4K TVs, a minibar, and a convenient central location with 24-hour services.",
+      "price": "$200/night",
+      "location": "69 Rue Meslay",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp309de",
+      "name": "Hôtel Beauregard",
+      "image": "https://static.cupid.travel/hotels/436245299.jpg",
+      "description": "Hôtel Beauregard boasts a prime location near Vaugirard Metro Station, offering easy access to explore Paris. Guests can enjoy modern rooms featuring private balconies with stunning views of the Eiffel Tower, all while being just a short distance from major attractions like the Eiffel Tower and Porte de Versailles Exhibition Centre. Experience a delightful stay and create unforgettable memories in the heart of the city.",
+      "highlight": "Hôtel Beauregard offers modern rooms with private balconies, stunning Eiffel Tower views, and easy access to public transport.",
+      "price": "$161/night",
+      "location": "14 Rue Petel",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-paris",
+  "generatedAt": "2025-11-04T03:10:09.224Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

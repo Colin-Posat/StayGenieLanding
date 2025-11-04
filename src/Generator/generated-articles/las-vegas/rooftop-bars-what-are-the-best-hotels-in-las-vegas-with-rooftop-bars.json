@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "hotels in Las Vegas with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Las Vegas with rooftop bars",
+  "excerpt": "Finding hotels in Las Vegas with rooftop bars can be a challenge, as many properties don't highlight this unique feature. This list is valuable because it narrows down the top spots where you can enjoy stunning views while sipping cocktails, making your stay truly unforgettable. Whether you are looking for a romantic evening or a vibrant nightlife scene, these hotels offer the perfect backdrop for your Las Vegas experience.",
+  "intro": "Discover the ultimate guide to the best hotels in Las Vegas that feature breathtaking rooftop bars, perfect for soaking in the city's dazzling skyline.",
+  "hotels": [
+    {
+      "id": "lp4c003",
+      "name": "Vdara Hotel & Spa at ARIA Las Vegas",
+      "image": "https://static.cupid.travel/hotels/310869211.jpg",
+      "description": "Discover unparalleled luxury at Vdara Hotel & Spa located on the iconic Las Vegas Strip, featuring spacious suites with modern amenities like a 50-inch flat-screen TV and a kitchenette. Relax at the stunning rooftop pool, surrounded by tranquil plunge pools, or indulge in delightful dining at the on-site Market Cafe and Vice Versa Patio and Lounge for a stylish evening. Elevate your Las Vegas experience with a stay at Vdara, where sophistication meets relaxation.",
+      "highlight": "Boasts a stunning rooftop pool and stylish lounge for an elevated Las Vegas experience at Vdara Hotel & Spa.",
+      "price": "$326/night",
+      "location": "2600 West Harmon Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp591b8",
+      "name": "The Cosmopolitan Of Las Vegas",
+      "image": "https://static.cupid.travel/hotels/478725203.jpg",
+      "description": "Discover luxury at The Cosmopolitan of Las Vegas, where stylish air-conditioned rooms feature modern amenities, including flat-screen TVs and private bathrooms. Savor a culinary adventure with a blend of American and Chinese dishes at the onsite restaurant, and unwind with cocktails at the bar. Enjoy relaxation by the outdoor swimming pool, keep up your fitness routine in the gym, and indulge in the soothing hot tub for a perfect getaway.",
+      "highlight": "Boasts a stunning rooftop garden and vibrant nightlife, along with stylish rooms and a variety of dining options.",
+      "price": "$474/night",
+      "location": "3708 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1e390",
+      "name": "Park MGM Las Vegas",
+      "image": "https://static.cupid.travel/hotels/330800463.jpg",
+      "description": "Experience the epitome of luxury at Park MGM Las Vegas, located next to the vibrant T-Mobile Arena. Enjoy modern rooms equipped with premium amenities, three refreshing pools, and a thrilling casino, along with exceptional dining at Bavette's Steakhouse & Bar and Primrose restaurant. With a 24-hour fitness center and easy access to local attractions, your stay promises both relaxation and excitement.",
+      "highlight": "Offers a rooftop bar with stunning views, three pools, and exceptional dining options at Bavette's Steakhouse & Bar.",
+      "price": "$197/night",
+      "location": "3770 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1e5cb",
+      "name": "Caesars Palace Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/130819460.jpg",
+      "description": "Experience the ultimate in luxury at this stunning hotel and casino on the Las Vegas Strip, featuring celebrity-owned restaurants and seven sparkling swimming pools. Dine at renowned establishments like Gordon Ramsay's Pub & Grill and indulge in the expansive Bacchanal Buffet. For entertainment, try your luck in the vibrant casino or rejuvenate at the Qua Baths & Spa with an array of luxurious treatments.",
+      "highlight": "Caesars Palace Hotel & Casino boasts a vibrant rooftop bar, seven luxurious swimming pools, and renowned dining options.",
+      "price": "$285/night",
+      "location": "3570 Las Vegas Boulevard South",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2760d",
+      "name": "Paris Las Vegas Resort & Casino",
+      "image": "https://static.cupid.travel/hotels/511136526.jpg",
+      "description": "Experience the vibrant energy of Las Vegas from your luxurious room featuring a private terrace with breathtaking city views. Savor exquisite cuisine at the on-site restaurant and enjoy expertly crafted cocktails at the lively bar, all while being just steps away from iconic attractions like the Bellagio Fountains and the Eiffel Tower. With complimentary WiFi, convenient parking, and a dedicated multilingual concierge team, Paris Las Vegas Resort & Casino promises a memorable and hassle-free stay in the heart of the action.",
+      "highlight": "Boasts a vibrant rooftop bar offering stunning views and a lively atmosphere, alongside luxurious accommodations and top-notch amenities.",
+      "price": "$216/night",
+      "location": "3655 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp27e76",
+      "name": "Mandalay Bay Resort And Casino",
+      "image": "https://static.cupid.travel/hotels/ex_9068ddff_z.jpg",
+      "description": "Experience ultimate relaxation at Mandalay Bay Resort And Casino, where a luxurious spa offers rejuvenating massages, body treatments, and facials, complemented by outdoor pools and spa tubs. Satisfy your culinary cravings with an impressive selection of 18 restaurants and 11 bars, including the acclaimed STRIPSTEAK, while enjoying the vibrant casino atmosphere. With 3,209 elegantly appointed guestrooms featuring modern amenities and a variety of event spaces, your stay promises both comfort and convenience.",
+      "highlight": "Offers a stunning rooftop bar with panoramic views, a full-service spa, and a relaxing lazy river.",
+      "price": "$210/night",
+      "location": "3950 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-las-vegas-with-rooftop-bars",
+  "generatedAt": "2025-11-04T03:02:47.461Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

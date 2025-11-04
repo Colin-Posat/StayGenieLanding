@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "best hotels in Sydney for weddings luxury and affordable",
+  "title": "Best hotels in Sydney for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Sydney can feel overwhelming, especially with the delicate balance of luxury and affordability. This curated list highlights venues that not only provide stunning backdrops and exceptional service but also cater to various budgets, ensuring that your special day is both memorable and financially feasible. With these options, couples can focus on celebrating their love rather than stressing over costs.",
+  "intro": "Explore our selection of the best hotels in Sydney that offer a perfect blend of luxury and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp6554f4f5",
+      "name": "The Erko Hotel",
+      "image": "https://static.cupid.travel/hotels/237233270.jpg",
+      "description": "The Erko Hotel in Sydney offers a prime location just moments away from major attractions like Central Station and the International Convention Centre, making it an ideal base for city exploration. Guests can savor diverse dining options at the hotel's restaurant, featuring American, Australian, and BBQ cuisines, with special dietary needs accommodated. Enjoy modern comforts such as free WiFi and flat-screen TVs in each room, along with evening entertainment and convenient amenities for a relaxing stay.",
+      "highlight": "The Erko Hotel provides diverse dining options, modern amenities, and evening entertainment, all in a prime Sydney location.",
+      "price": "$137/night",
+      "location": "102 Erskineville Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3ba68",
+      "name": "Royal Pacific Hotel",
+      "image": "https://static.cupid.travel/hotels/137650820.jpg",
+      "description": "Experience comfort and convenience at the Royal Pacific Hotel, featuring a refreshing outdoor pool and ample free parking for a hassle-free stay. Ideally situated just a short drive from Chatswood's Westfield Shopping Centre and within walking distance to Artarmon Train Station, you can easily explore iconic Sydney attractions like the Harbour Bridge and Luna Park. Our self-contained rooms offer modern amenities including a flat-screen TV, air conditioning, and a cozy seating area, ensuring a relaxing retreat after a day of adventure.",
+      "highlight": "Offers a reception hall, outdoor pool, and family rooms, ensuring a luxurious yet affordable wedding venue experience.",
+      "price": "$136/night",
+      "location": "472 Pacific Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f450",
+      "name": "ibis Sydney Airport",
+      "image": "https://static.cupid.travel/hotels/251885327.jpg",
+      "description": "ibis Sydney Airport boasts a prime location just minutes from Kingsford Smith International Airport and close to the city center, offering convenience for travelers. Guests will find modern, air-conditioned rooms equipped with LCD TVs and private bathrooms for a comfortable stay. The hotel features the Ibis Kitchen & Bar for 24-hour dining and a handy shuttle service to the airport, ensuring a seamless travel experience.",
+      "highlight": "ibis Sydney Airport offers modern soundproof rooms, a 24-hour restaurant, and convenient airport shuttle services for a seamless experience.",
+      "price": "$143/night",
+      "location": "205-213 O'Riordan Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7a93f",
+      "name": "Edgecliff Lodge Motel",
+      "image": "https://static.cupid.travel/hotels/111682035.jpg",
+      "description": "Edgecliff Lodge Motel offers a serene retreat in Sydney’s Eastern Suburbs, just a 10-minute drive from the lively CBD. Guests can enjoy comfortable, air-conditioned rooms equipped with modern amenities, including kitchenettes and cozy seating areas. With nearby attractions like Allianz Stadium and Capitol Theatre, plus easy access to Kingsford Smith Airport, this motel is ideal for both relaxation and exploration.",
+      "highlight": "Offers comfortable, air-conditioned rooms with kitchenettes and a terrace for a serene wedding retreat in Sydney's Eastern Suburbs.",
+      "price": "$102/night",
+      "location": "44 New South Head Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp84bed",
+      "name": "The Village Glebe",
+      "image": "https://static.cupid.travel/hotels/440494476.jpg",
+      "description": "The Village Glebe in Sydney's lively Glebe suburb features excellent communal facilities, including a fully equipped kitchen, cozy lounge, games room, and an inviting outdoor dining area with BBQ options. Guests can select from private or dormitory rooms, many with en suite bathrooms, and enjoy the convenience of luggage lockers. With free WiFi and proximity to major attractions like Darling Harbour and Capitol Theatre, The Village Glebe promises a memorable stay in the heart of the city.",
+      "highlight": "Offers a vibrant communal atmosphere with a shared kitchen, outdoor dining area, and cozy lounge for wedding celebrations.",
+      "price": "$144/night",
+      "location": "256 Glebe Point Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp80658",
+      "name": "Grand Hotel Rockdale",
+      "image": "https://static.cupid.travel/hotels/43080565.jpg",
+      "description": "Grand Hotel Rockdale offers a prime location directly across from Rockdale Train Station, providing easy access to transportation and nearby attractions, including Sydney Airport. Guests can unwind at the onsite bar and cafe restaurant, perfect for a casual meal or drink. With complimentary parking and shared facilities, this hotel ensures a comfortable and convenient stay for all visitors.",
+      "highlight": "Offers a restaurant, family rooms, and evening entertainment, ensuring a luxurious yet affordable wedding experience in Sydney.",
+      "price": "$83/night",
+      "location": "482-484 Princes Highway",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-sydney-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T02:51:27.735Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

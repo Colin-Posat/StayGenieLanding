@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "best dog friendly hotels in Sydney",
+  "title": "What are the best dog-friendly hotels in Sydney",
+  "excerpt": "Finding dog-friendly hotels in Sydney can be a daunting task, as not all accommodations welcome our furry companions with open arms. This list is valuable because it highlights the best options that cater to both you and your pet, ensuring a comfortable stay for everyone involved. From amenities designed for dogs to nearby parks and activities, these hotels provide the perfect base for your adventures in the city.",
+  "intro": "Discover the top dog-friendly hotels in Sydney that ensure both you and your canine companion enjoy a memorable stay.",
+  "hotels": [
+    {
+      "id": "lp34740e",
+      "name": "Crowne Plaza Sydney Darling Harbour, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/345372150.jpg",
+      "description": "Experience luxury at Crowne Plaza Sydney Darling Harbour, where you can unwind in a stunning rooftop heated pool and maintain your fitness routine in a 24-hour gym. Savor diverse dining options at the on-site restaurant, bar, and café, all while enjoying complimentary unlimited WiFi. Retreat to spacious guest rooms featuring marble bathrooms, contemporary decor, and modern amenities like Chromecast and Bluetooth speakers, making it the perfect base to explore Sydney's top attractions.",
+      "highlight": "Offers pet-friendly accommodations, a heated rooftop pool, and diverse dining options within a luxurious setting.",
+      "price": "$387/night",
+      "location": "58 BATHURST STREET",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp89916",
+      "name": "Kimpton Margot Sydney, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/341672407.jpg",
+      "description": "Experience the height of luxury at Kimpton Margot Sydney, where oversized bathrooms and premium furnishings await you. Delight in complimentary espresso and herbal teas, explore the city on custom bikes, and enjoy evening Social Hours, all while being pet-friendly. Nestled in Sydney's bustling CBD, you are just moments away from premier shopping, entertainment, and cultural attractions.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop garden, and custom-designed bikes for exploring Sydney's vibrant CBD.",
+      "price": "$298/night",
+      "location": "339 Pitt Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2db0e",
+      "name": "The Hughenden Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/137245369.jpg",
+      "description": "Discover the Hughenden Boutique Hotel, a beautifully restored Victorian mansion nestled in the trendy Woollahra district. Enjoy a perfect mix of historic charm and modern amenities while being surrounded by art galleries and just moments away from Sydney's top entertainment venues. Plus, this pet-friendly hotel offers convenient access to leash-free areas at Centennial Parklands, ensuring a comfortable stay for both you and your furry companions.",
+      "highlight": "Offers pet-friendly accommodations with easy access to leash-free areas at nearby Centennial Parklands.",
+      "price": "$148/night",
+      "location": "14 Queen Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65553d0e",
+      "name": "KULA North Sydney",
+      "image": "https://static.cupid.travel/hotels/379909184.jpg",
+      "description": "Experience sustainable luxury at KULA Crows Nest, featuring modern amenities like a fully-equipped kitchen, air conditioning, and free WiFi. Ideal for families, the spacious rooms and garden terrace offer a relaxing retreat, while the prime location puts you just moments away from Sydney's iconic attractions like Luna Park and the Sydney Opera House. Book your unforgettable stay today.",
+      "highlight": "Offers pet-friendly accommodations with spacious family rooms and a relaxing garden terrace near Sydney's iconic attractions.",
+      "price": "$294/night",
+      "location": "398 Pacific Highway",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b887",
+      "name": "The Sebel Sydney Chatswood",
+      "image": "https://static.cupid.travel/hotels/85489717.jpg",
+      "description": "Discover the epitome of luxury at The Sebel Sydney Chatswood, where self-contained apartments feature full kitchen and laundry facilities, ensuring a comfortable and convenient stay. Enjoy top-notch amenities including a fitness center, mineral pool, sauna, and hot tub, perfect for both relaxation and active pursuits. Located in the vibrant heart of Chatswood, you'll be just moments away from Sydney's CBD and local entertainment options, making it an ideal base for your city adventures.",
+      "highlight": "Offers dog-friendly accommodations with family rooms and convenient access to local entertainment in the heart of Chatswood.",
+      "price": "$169/night",
+      "location": "37 Victor Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1fcbe",
+      "name": "Novotel Sydney Parramatta",
+      "image": "https://static.cupid.travel/hotels/228353905.jpg",
+      "description": "Novotel Sydney Parramatta offers luxurious and spacious accommodations, including suites with separate living areas and relaxing spa baths. Guests can enjoy a range of leisure facilities such as an outdoor pool, steam room, and gym, ensuring a perfect blend of relaxation and activity. Dining at the on-site 350 Restaurant & Bar provides a delightful experience with stunning views of the Parramatta River, making it an ideal choice for breakfast or dinner.",
+      "highlight": "Offers dog-friendly accommodations along with an outdoor pool, steam room, and on-site dining with river views.",
+      "price": "$150/night",
+      "location": "350 Church Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-sydney",
+  "generatedAt": "2025-11-04T02:48:01.263Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

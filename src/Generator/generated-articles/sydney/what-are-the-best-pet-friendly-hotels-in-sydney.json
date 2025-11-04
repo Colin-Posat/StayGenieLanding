@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "best pet friendly hotels in Sydney",
+  "title": "What are the best pet-friendly hotels in Sydney",
+  "excerpt": "Finding pet-friendly hotels in Sydney can be a daunting task, as not all accommodations welcome furry companions. This list is invaluable for pet owners seeking comfort and convenience, ensuring both you and your pet can enjoy a memorable stay in this vibrant city. With the right options at your fingertips, you can explore Sydney without leaving your four-legged friend behind.",
+  "intro": "Discover the ultimate guide to the best pet-friendly hotels in Sydney, where you and your furry friend can experience a perfect getaway together.",
+  "hotels": [
+    {
+      "id": "lp19e15",
+      "name": "Four Seasons Hotel Sydney",
+      "image": "https://static.cupid.travel/hotels/289800745.jpg",
+      "description": "Experience unparalleled luxury at Four Seasons Hotel Sydney, where breathtaking views of Sydney Harbour, the Opera House, and Circular Quay await. Delight in modern Australian cuisine at the stylish Mode Kitchen & Bar, and unwind with soothing treatments at the state-of-the-art wellness center. With attentive service and premium amenities, this hotel promises an unforgettable stay in the heart of the city.",
+      "highlight": "Offers pet-friendly accommodations alongside a heated pool and proximity to a nearby spa.",
+      "price": "$693/night",
+      "location": "199 George St.",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1e2f2",
+      "name": "View Sydney",
+      "image": "https://static.cupid.travel/hotels/166346500.jpg",
+      "description": "Experience breathtaking views of Sydney Harbour and the iconic Harbour Bridge at View Sydney, the perfect setting for your getaway. Enjoy luxurious, air-conditioned rooms featuring modern amenities, including flat-screen TVs and the option for stunning harbor views. Savor delicious bistro-style cuisine at LB’s Restaurant and take advantage of the hotel's prime location for easy access to attractions like Luna Park and the North Sydney train station.",
+      "highlight": "Offers pet-friendly accommodations with outdoor furniture and pet bowls, ensuring a comfortable stay for you and your furry friends.",
+      "price": "$187/night",
+      "location": "17 Blue Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8aeec",
+      "name": "Holiday Inn Express Sydney Macquarie Park, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/595598108.jpg",
+      "description": "Experience modern comfort at Holiday Inn Express Sydney Macquarie Park, where stylish rooms come equipped with free WiFi and convenient workspaces, perfect for all travelers. Situated in the vibrant Macquarie Park Business Hub, guests can easily access Macquarie University, public transport, and the nearby Macquarie Centre for shopping and dining. Enjoy thoughtful amenities, including 40-inch LCD TVs and walk-in showers, ensuring a relaxing and enjoyable stay.",
+      "highlight": "Offers pet-friendly accommodations with modern rooms, secure parking, and convenient access to local attractions.",
+      "price": "$127/night",
+      "location": "10 Byfield St Macquarie Park",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp9a3c5",
+      "name": "Quest Macquarie Park",
+      "image": "https://static.cupid.travel/hotels/87566069.jpg",
+      "description": "Quest Macquarie Park offers a prime location just 500 meters from the train station, providing easy access to Sydney's city center and nearby attractions like Macquarie Centre and Macquarie University. Guests can enjoy self-contained accommodations ranging from studios to two-bedroom apartments, all featuring modern amenities including air-conditioning and fully equipped kitchens. Onsite facilities such as a fitness center and BBQ area enhance the experience, making it an ideal choice for both relaxation and activity.",
+      "highlight": "Quest Macquarie Park boasts pet-friendly accommodations, a BBQ area, and convenient grocery delivery services for a comfortable stay.",
+      "price": "$129/night",
+      "location": "71 Epping Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7441e",
+      "name": "The Urban Newtown",
+      "image": "https://static.cupid.travel/hotels/112642420.jpg",
+      "description": "Experience the charm of The Urban Newtown, where industrial-style studios meet modern convenience in vibrant Newtown. Just a short stroll from the Enmore Theatre and Newtown train station, this hotel offers free WiFi, air-conditioning, and well-equipped kitchens for a comfortable stay. With major attractions like the Sydney Opera House just a 20-minute drive away, it’s the perfect base for exploring the city.",
+      "highlight": "Offers pet-friendly studios with modern amenities, free WiFi, and outdoor furniture in vibrant Newtown.",
+      "price": "$179/night",
+      "location": "52-60 Enmore Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8b265",
+      "name": "Veriu Camperdown",
+      "image": "https://static.cupid.travel/hotels/489382849.jpg",
+      "description": "Experience modern comfort at Veriu Camperdown, where stylish apartments feature fully-equipped kitchens and inviting dining areas, making it the perfect home away from home. Nestled in Sydney's vibrant Inner West, you'll be just 4km from the CBD and surrounded by a variety of cafes, pubs, and restaurants. Enjoy daily serviced accommodations with spacious living areas and stunning city views, ensuring a relaxing and memorable stay.",
+      "highlight": "Veriu Camperdown offers pet-friendly accommodations with soundproof rooms and a serene Japanese garden for relaxation.",
+      "price": "$309/night",
+      "location": "84-86 Parramatta Road",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-sydney",
+  "generatedAt": "2025-11-04T03:08:47.361Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

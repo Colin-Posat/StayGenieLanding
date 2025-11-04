@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "best hotels in London for weddings luxury and affordable",
+  "title": "Best hotels in London for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect wedding venue in London can be a daunting task, especially when balancing luxury and affordability. This list highlights hotels that not only offer elegant settings and top-notch amenities but also provide options that won't break the bank. By showcasing these venues, couples can save time and effort while ensuring their special day is both memorable and budget-friendly.",
+  "intro": "Discover a curated selection of London's best hotels that combine opulence with affordability, perfect for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp3ca82",
+      "name": "Normandie Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_bc488fc6_z.jpg",
+      "description": "Experience the vibrant heart of London at Normandie Hotel, located just steps from Hyde Park and Kensington Gardens, with iconic attractions like Marble Arch and Oxford Street nearby. Enjoy convenient amenities including a 24-hour reception and a computer station, while relaxing in one of our 14 cozy guestrooms. With Heathrow Airport only 27.4 km away, your travels in and out of the city are effortlessly simple.",
+      "highlight": "Boasts 14 cozy guestrooms with private bathrooms, complimentary Wi-Fi, and 24-hour reception near Hyde Park and Kensington Gardens.",
+      "price": "$95/night",
+      "location": "96 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp534d5",
+      "name": "Dolphin Hotel",
+      "image": "https://static.cupid.travel/hotels/492214844.jpg",
+      "description": "Dolphin Hotel is ideally situated just 200 meters from Paddington Tube Station, making it easy to explore nearby attractions. Each room offers a cozy retreat with private bathrooms, tea and coffee facilities, and a fridge, ensuring a pleasant stay. Guests can enjoy a complimentary breakfast in a bright dining area and have 24-hour access to hot beverages, with plenty of dining options just a short walk away.",
+      "highlight": "Boasts family rooms, private bathrooms, and complimentary breakfast, all within walking distance of dining options and Paddington Tube Station.",
+      "price": "$97/night",
+      "location": "32-34 Norfolk Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp567a6",
+      "name": "Tony's House Hotel",
+      "image": "https://static.cupid.travel/hotels/4258104.jpg",
+      "description": "Tony's House Hotel is ideally situated on a serene garden square near Hyde Park, providing easy access to Paddington Station and the vibrant shopping of Oxford Street. Guests will enjoy modern rooms equipped with free WiFi and en-suite bathrooms, along with a delightful continental breakfast and 24-hour reception services. Experience a comfortable and convenient stay in London at Tony's House Hotel.",
+      "highlight": "Offers modern rooms with en-suite bathrooms, free WiFi, and a serene Japanese garden in a central London location.",
+      "price": "$89/night",
+      "location": "30 Norfolk Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45d3e",
+      "name": "KingswayPark Hotel at Park Avenue",
+      "image": "https://static.cupid.travel/hotels/7844686.jpg",
+      "description": "Experience comfort and convenience just a short stroll from Paddington Station at our recently refurbished hotel. Enjoy modern amenities in our bright rooms, including free WiFi, Sky TV, and private bathrooms, all designed for your relaxation. With Hyde Park and iconic attractions like Marble Arch and Oxford Street nearby, you’ll have the perfect base to explore London.",
+      "highlight": "Boasts recently refurbished rooms with modern amenities, free WiFi, and proximity to Hyde Park and major attractions.",
+      "price": "$171/night",
+      "location": "139 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f65c",
+      "name": "Hotel Lily",
+      "image": "https://static.cupid.travel/hotels/442839149.jpg",
+      "description": "Hotel Lily boasts a prime location directly across from the Earl's Court Exhibition Centre, providing easy access to public transport and the vibrant sights of London. Each en-suite room features essential amenities such as a TV, telephone, and tea/coffee facilities, ensuring a comfortable stay. Just a stone's throw from attractions like Olympia Exhibition Centre and Stamford Bridge, Hotel Lily is the ideal base for both leisure and business travelers.",
+      "highlight": "Hotel Lily offers en-suite rooms with essential amenities and is conveniently located near major London attractions and public transport.",
+      "price": "$106/night",
+      "location": "23-33 Lillie Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp348ca",
+      "name": "The Crown London",
+      "image": "https://static.cupid.travel/hotels/ex_2e37f44d_z.jpg",
+      "description": "Discover refined comfort at The Crown London, nestled in the vibrant Cricklewood area. Enjoy exquisite Pan-Asian cuisine at the PanAsia Restaurant, unwind in cozy lounges, or take advantage of 24-hour room service. With over 4,400 square feet of flexible event space and 152 modern, air-conditioned rooms featuring plush pillowtop beds, this hotel is perfect for both relaxation and memorable gatherings.",
+      "highlight": "Offers over 4,400 square feet of flexible event space and wedding services alongside modern, air-conditioned rooms.",
+      "price": "$136/night",
+      "location": "142-152 Cricklewood Broadway",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-london-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T02:55:59.982Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

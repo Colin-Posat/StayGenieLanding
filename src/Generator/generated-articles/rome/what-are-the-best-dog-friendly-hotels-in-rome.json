@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "best dog friendly hotels in Rome",
+  "title": "What are the best dog-friendly hotels in Rome",
+  "excerpt": "Navigating the myriad of accommodation options in Rome can be daunting, especially when searching for hotels that warmly welcome furry companions. This curated list of dog-friendly hotels not only simplifies your search but also ensures that both you and your pet can enjoy a comfortable and enriching stay in the Eternal City. With amenities designed for your dog's comfort and a location that allows for easy exploration, these hotels make your travel experience unforgettable.",
+  "intro": "Discover the top dog-friendly hotels in Rome, where you and your four-legged friend can create lasting memories together.",
+  "hotels": [
+    {
+      "id": "lp1eba6",
+      "name": "Grand Hotel Palace Rome",
+      "image": "https://static.cupid.travel/hotels/158596628.jpg",
+      "description": "Experience opulence at the Grand Hotel Palace on Rome's prestigious Via Veneto, where designer furnishings and marble bathrooms with VIP toiletries create a lavish retreat. Indulge in exquisite Italian cuisine at the Cadorin Restaurant, relax at the complimentary spa, and rejuvenate at the wellness center featuring a sauna and fitness options. Housed in a beautifully restored 1920s building, this hotel is ideally situated near Piazza Barberini and just a short stroll from the famous Spanish Steps.",
+      "highlight": "Offers pet-friendly accommodations with luxurious amenities, a fine dining restaurant, and a relaxing spa.",
+      "price": "$276/night",
+      "location": "Via Vittorio Veneto 70",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp44621",
+      "name": "Hotel Pacific",
+      "image": "https://static.cupid.travel/hotels/226854097.jpg",
+      "description": "Experience the perfect blend of historic charm and modern comfort at Hotel Pacific, a beautifully renovated gem located just moments from Saint Peter's Square and the Vatican Museums. With a prime location 300 meters from the Cipro Metro stop, you can easily explore iconic Roman landmarks like the Coliseum and Spanish Steps. Savor authentic Italian cuisine at the on-site I Velieri restaurant, where delightful Roman dishes are crafted by a talented chef in a tranquil setting.",
+      "highlight": "Offers pet-friendly accommodations, outdoor furniture for relaxation, and an on-site restaurant serving authentic Italian cuisine.",
+      "price": "$162/night",
+      "location": "Viale Medaglie d'Oro, 51",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2a1ce",
+      "name": "Courtyard by Marriott Rome Central Park",
+      "image": "https://static.cupid.travel/hotels/430851986.jpg",
+      "description": "Discover the elegance of Courtyard by Marriott Rome Central Park, where luxurious accommodations feature stunning views of St. Peter's Dome. Perfectly situated near Gemelli Hospital and Sacro Cuore Catholic University, the hotel offers easy access to public transport for exploring Rome's famous attractions. Savor a delicious buffet breakfast each morning and indulge in exquisite dining at Moscati restaurant or grab a quick snack from the mini market for a delightful Roman experience.",
+      "highlight": "Offers pet-friendly accommodations with outdoor furniture and convenient snack bar access.",
+      "price": "$217/night",
+      "location": "Via Giuseppe Moscati 7",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3a6c4",
+      "name": "Hotel Diana Roof Garden",
+      "image": "https://static.cupid.travel/hotels/523325563.jpg",
+      "description": "Discover the luxurious roof garden at the 4-star Diana Hotel, where you can enjoy breathtaking views of Rome while savoring a delicious American breakfast buffet. The elegant rooms, complete with stylish wood floors and modern amenities, promise a tranquil retreat in the heart of the city. Indulge in exquisite Roman and Italian cuisine at the hotel's restaurant, ideally situated just 200 meters from Termini Station for easy access to iconic attractions like the Coliseum and Spanish Steps.",
+      "highlight": "Offers a pet-friendly environment, a stunning terrace, and fine dining with views of Rome.",
+      "price": "$153/night",
+      "location": "Via Principe Amedeo 4",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp46c37",
+      "name": "Hotel RomAntica",
+      "image": "https://static.cupid.travel/hotels/25020281.jpg",
+      "description": "Hotel Romantica is perfectly situated in the heart of Rome, nestled between the Basilica of Santa Maria Maggiore and Roma Termini Train Station. Guests can enjoy spacious rooms equipped with free Wi-Fi and private bathrooms, ensuring a comfortable and secure stay. With the iconic Coliseum just a 20-minute walk away and a lively neighborhood filled with dining options, this hotel is an ideal base for exploring the Eternal City.",
+      "highlight": "Offers dog-friendly accommodations with spacious rooms, free Wi-Fi, and a tour desk for exploring Rome.",
+      "price": "$108/night",
+      "location": "Via Principe Amedeo 77/c",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp445f0",
+      "name": "Ostello Bello Roma Colosseo",
+      "image": "https://static.cupid.travel/hotels/565540328.jpg",
+      "description": "Ostello Bello Roma Colosseo offers a prime location in the heart of Rome, just a short stroll from the iconic Coliseum and Vittorio Emanuele Metro Station. Guests can enjoy comfortable rooms with private bathrooms and cozy seating areas, complemented by a vibrant atmosphere featuring a garden, terrace, and bar for relaxation and socializing. With convenient amenities like a shared kitchen and a 24-hour front desk, this hostel promises a memorable stay in the Eternal City.",
+      "highlight": "Ostello Bello Roma Colosseo offers pet-friendly accommodations, a shared kitchen, and lively evening entertainment in a central location.",
+      "price": "$118/night",
+      "location": "Via Angelo Poliziano, 75",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-rome",
+  "generatedAt": "2025-11-04T03:01:12.692Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

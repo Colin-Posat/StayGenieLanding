@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "best hotels in Miami for women travelers",
+  "title": "Best hotels in Miami for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels that prioritize safety, cleanliness, and amenities specifically for women travelers can be a daunting task in a bustling city like Miami. This curated list highlights accommodations that not only meet these essential criteria but also offer a welcoming environment, ensuring a comfortable stay. By focusing on these hotels, travelers can enjoy peace of mind while exploring all that Miami has to offer.",
+  "intro": "Discover the best hotels in Miami designed with women travelers in mind, offering safety, cleanliness, and exceptional amenities.",
+  "hotels": [
+    {
+      "id": "lp29c7d",
+      "name": "JW Marriott Miami",
+      "image": "https://static.cupid.travel/hotels/489586308.jpg",
+      "description": "Experience unparalleled luxury at the JW Marriott Hotel Miami, conveniently located near Miami International Airport. Guests can enjoy elegantly appointed rooms with modern amenities, 24-hour room service, and a tranquil spa for relaxation. Savor diverse dining options, ranging from American breakfasts to refreshing cocktails, while nearby attractions like the Miami Beach Convention Center and Crandon Golf Course await your exploration.",
+      "highlight": "Features secure parking, elegantly appointed rooms, 24-hour room service, and a tranquil spa for ultimate relaxation.",
+      "price": "$782/night",
+      "location": "1109 Brickell Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp340c9",
+      "name": "Four Seasons Hotel Miami",
+      "image": "https://static.cupid.travel/hotels/ex_w7612h4301x0y0-3e82d136_z.jpg",
+      "description": "Experience unparalleled luxury at the Four Seasons Hotel Miami, where sophistication meets the vibrant energy of the city. Unwind at the full-service spa with a range of rejuvenating treatments, or indulge in exquisite dining at EDGE Brasserie, complete with beautiful garden views. With two outdoor pools, a modern health club, and a fully equipped business center, this hotel caters to both relaxation and productivity.",
+      "highlight": "Provides a full-service spa, modern health club, and concierge services for a luxurious and secure stay.",
+      "price": "$1834/night",
+      "location": "1435 Brickell Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f326",
+      "name": "The Ritz-Carlton Key Biscayne, Miami",
+      "image": "https://static.cupid.travel/hotels/494183969.jpg",
+      "description": "The Ritz-Carlton Key Biscayne, Miami offers luxurious suites with separate living areas and private balconies, ensuring a spacious retreat. Guests can indulge in exquisite dining at oceanfront venues like Lightkeepers and enjoy a diverse selection of rums at Rumbar. The expansive 25,000-square-foot spa, complete with saunas and a eucalyptus steam room, alongside outdoor pools and tennis courts, provides the perfect setting for relaxation and rejuvenation.",
+      "highlight": "The Ritz-Carlton Key Biscayne, Miami boasts luxurious suites, an expansive spa, outdoor pools, and fine dining with ocean views.",
+      "price": "$1613/night",
+      "location": "455 Grand Bay Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42e7e",
+      "name": "Kimpton EPIC Hotel, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/242170411.jpg",
+      "description": "Experience breathtaking views and eco-friendly luxury at Kimpton EPIC Hotel, where each guestroom features floor-to-ceiling windows and a private balcony. Relax in the spa, take fitness classes, or enjoy the rooftop pool with stunning Miami skyline views. Conveniently located in the heart of Miami's financial district, this pet-friendly hotel offers easy access to local attractions and delightful water view dining.",
+      "highlight": "Features floor-to-ceiling windows, a rooftop pool with skyline views, and a pet-friendly environment in Miami's vibrant financial district.",
+      "price": "$571/night",
+      "location": "270 Biscayne Blvd Way",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4b5f5",
+      "name": "W Miami",
+      "image": "https://static.cupid.travel/hotels/ex_w3997h2661x3y6-d6181390_z.jpg",
+      "description": "Experience the allure of W Miami, where luxury seamlessly blends with a prime city location. Enjoy rejuvenating recreation at the stunning outdoor pool or the rooftop terrace, both offering spectacular views of the skyline. Delight your taste buds with exceptional dining options, including Panther Coffee and a cozy coffee shop, while relaxing in elegantly designed guest rooms equipped with modern amenities for a stylish and comfortable stay.",
+      "highlight": "Offers a stunning rooftop terrace, modern guest rooms, and exceptional dining options, including a vegan menu.",
+      "price": "$1078/night",
+      "location": "485 Brickell Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpc9a9a",
+      "name": "Hyatt Centric Brickell Miami",
+      "image": "https://static.cupid.travel/hotels/318386226.jpg",
+      "description": "Hyatt Centric Brickell Miami offers luxurious accommodations just 1.4 km from Bayfront Park Station, featuring modern rooms equipped with flat-screen TVs, free WiFi, and comfortable bedding. Guests can enjoy top-notch facilities, including an outdoor pool, fitness center, and an on-site restaurant, along with a 24-hour front desk for added convenience. Ideally located near attractions like Bayside Market Place and Bayfront Park, this hotel is perfect for those looking to explore the vibrant city of Miami.",
+      "highlight": "Offers modern rooms with flat-screen TVs, free WiFi, a heated pool, and a rooftop garden in a prime location.",
+      "price": "$634/night",
+      "location": "1102 Brickell Bay Dr, Downtown Miami",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-miami-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:48:58.627Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "affordable clean hotels in New York with breakfast included",
+  "title": "What are the affordable, clean hotels in New York with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in New York that include breakfast can feel like searching for a needle in a haystack. With a bustling city known for its high prices, this list serves as a valuable resource for travelers who want to enjoy comfort and convenience without breaking the bank. By highlighting these options, we aim to make your stay enjoyable while ensuring you start each day with a satisfying meal.",
+  "intro": "Discover the best budget-friendly hotels in New York that offer cleanliness and complimentary breakfast to enhance your travel experience.",
+  "hotels": [
+    {
+      "id": "lp42c3a",
+      "name": "Hampton Inn Manhattan - Times Square South",
+      "image": "https://static.cupid.travel/hotels/484618026.jpg",
+      "description": "Experience the vibrant energy of New York City at the Hampton Inn Manhattan Times Square South, just a short stroll from Times Square. Enjoy modern amenities in contemporary rooms, including flat-screen TVs and free Wi-Fi, while starting your day with a complimentary hot continental breakfast. With a convenient location near the subway and an on-site gym, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Offers contemporary rooms with flat-screen TVs, free Wi-Fi, and a complimentary hot continental breakfast.",
+      "price": "$143/night",
+      "location": "337 West 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp670d7",
+      "name": "Holiday Inn Express Manhattan Midtown West, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/230332572.jpg",
+      "description": "Experience the vibrant energy of Hell's Kitchen at the Holiday Inn Express Manhattan West Side, where you are just a short walk from the iconic Times Square. Enjoy comfortable accommodations equipped with free Wi-Fi, cable TV, and a coffee machine, along with convenient amenities like a fitness center and on-site laundry. With attractions such as the Intrepid Sea, Air and Space Museum and Central Park nearby, your stay promises to be both enjoyable and memorable.",
+      "highlight": "Offers complimentary breakfast, free Wi-Fi, and a fitness center in the heart of Hell's Kitchen.",
+      "price": "$167/night",
+      "location": "538 West 48th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp68168",
+      "name": "Hampton Inn Manhattan Grand Central",
+      "image": "https://static.cupid.travel/hotels/485684734.jpg",
+      "description": "Hampton Inn Manhattan Grand Central boasts a prime location in the heart of Manhattan, providing easy access to the city's major attractions. Guests can enjoy traditionally decorated rooms featuring modern amenities like free Wi-Fi and flat-screen TVs, along with a complimentary breakfast to kickstart their day. With an on-site fitness center and business facilities, this hotel perfectly blends convenience and comfort for both leisure and business travelers.",
+      "highlight": "Hampton Inn Manhattan Grand Central offers complimentary breakfast, free Wi-Fi, and a fitness center in a central location.",
+      "price": "$183/night",
+      "location": "231 E 43rd St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp690e2",
+      "name": "Best Western Premier Herald Square",
+      "image": "https://static.cupid.travel/hotels/167457544.jpg",
+      "description": "Best Western Premier Herald Square offers a prime location in the heart of Manhattan, making it easy to explore the vibrant city. Guests can enjoy modern amenities, a complimentary breakfast to start their day, and access to a fitness center for a refreshing workout. Experience the perfect blend of convenience and comfort during your stay in New York City.",
+      "highlight": "Offers complimentary breakfast, modern amenities, and a fitness center in a prime Manhattan location.",
+      "price": "$194/night",
+      "location": "50 W 36th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp58011",
+      "name": "DoubleTree by Hilton New York Downtown",
+      "image": "https://static.cupid.travel/hotels/484867089.jpg",
+      "description": "Experience modern luxury at DoubleTree by Hilton New York Downtown, where well-appointed rooms feature flat-screen TVs, iPod docking stations, and in-room coffee makers for your comfort. Enjoy 24-hour front desk service, complimentary fitness and business centers, and on-site dining at Antica Ristorante, ensuring a convenient stay for both business and leisure travelers. Ideally situated near Battery Park and iconic attractions like the Statue of Liberty and the National September 11 Memorial & Museum, this hotel offers the perfect base for exploring lower Manhattan.",
+      "highlight": "DoubleTree by Hilton New York Downtown offers complimentary breakfast, modern rooms, and on-site dining at Antica Ristorante.",
+      "price": "$161/night",
+      "location": "8 Stone St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp644af",
+      "name": "Holiday Inn Lower East Side, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/246903121.jpg",
+      "description": "Experience modern comfort at the Holiday Inn Lower East Side, located just 3.2 km from the World Trade Center. Guests can enjoy amenities like free Wi-Fi, on-site dining, and a fully equipped business center, making it perfect for both leisure and business travelers. With a fitness center on-site and attractions like Tompkins Square Park and the Tenement Museum nearby, this hotel offers a convenient base to explore the vibrant city.",
+      "highlight": "Offers complimentary breakfast, free Wi-Fi, a fitness center, and a shared lounge for a comfortable stay in New York.",
+      "price": "$171/night",
+      "location": "150 Delancey St",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-new-york-with-breakfast-included",
+  "generatedAt": "2025-11-04T03:05:44.625Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "affordable clean hotels in Barcelona with breakfast included",
+  "title": "What are the affordable, clean hotels in Barcelona with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in Barcelona that offer breakfast can be quite a challenge amidst the city's bustling tourism scene. This curated list is invaluable for travelers seeking comfort and convenience without breaking the bank, ensuring a delightful start to each day of exploration. By highlighting hotels that meet these criteria, we aim to simplify your search and enhance your overall travel experience.",
+  "intro": "Discover the best affordable and clean hotels in Barcelona that include breakfast, making your stay both enjoyable and budget-friendly.",
+  "hotels": [
+    {
+      "id": "lp56bf3",
+      "name": "Hostal Mont Thabor",
+      "image": "https://static.cupid.travel/hotels/98312036.jpg",
+      "description": "Hostal Mont Thabor is ideally situated on Las Ramblas, just a short walk from the famous Boqueria Market and top attractions like Barcelona Cathedral. Guests can unwind in modern rooms with balconies while enjoying amenities such as free Wi-Fi and 24-hour reception. With a vibrant atmosphere and easy access to transportation, this guest house is the perfect base for exploring the charm of Barcelona.",
+      "highlight": "Offers modern rooms with balconies, free Wi-Fi, and complimentary breakfast in a vibrant location near Las Ramblas.",
+      "price": "$84/night",
+      "location": "La Rambla, 86",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5cb12",
+      "name": "Hostal Alogar",
+      "image": "https://static.cupid.travel/hotels/96097765.jpg",
+      "description": "Hostal Alogar offers a prime location in Barcelona’s Sant Gervasi district, just a short walk from the Corte Inglés Shopping Centre and close to Muntaner Metro Station for easy city access. Guests will appreciate the comfortable, affordable rooms with designated cupboards and the modern communal kitchen for budget-friendly dining. The helpful staff is ready to assist with services like car rentals, and free Wi-Fi is available throughout the property, ensuring a connected and enjoyable stay.",
+      "highlight": "Offers affordable rooms, free Wi-Fi, a shared kitchen, and breakfast options in Barcelona's Sant Gervasi district.",
+      "price": "$170/night",
+      "location": "Carrer de Laforja, 98",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp63301",
+      "name": "Hostal Delfos",
+      "image": "https://static.cupid.travel/hotels/7808918.jpg",
+      "description": "Hostal Delfos offers a prime location in the heart of Barcelona, just a short walk from the lively Ramblas and Plaza Catalunya. Guests can choose from cozy rooms with private or shared bathrooms, equipped with fans and heating for a comfortable stay. Explore the nearby Gothic Quarter and take advantage of the tour desk for local insights, all while enjoying easy access to Barcelona Airport.",
+      "highlight": "Hostal Delfos offers cozy rooms, breakfast included, and a tour desk for exploring Barcelona's attractions.",
+      "price": "$166/night",
+      "location": "Ronda De Sant Antoni, 61",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp463fa",
+      "name": "Hostal Girona",
+      "image": "https://static.cupid.travel/hotels/182979129.jpg",
+      "description": "Hostal Girona is ideally situated in the historic center of Barcelona, just a short stroll from landmarks like Passeig de Gràcia and Plaça Catalunya. This charming guest house, set in a 19th-century building, offers modern amenities such as free Wi-Fi, air-conditioned rooms, and both en suite and shared bathrooms, ensuring a comfortable stay. Immerse yourself in the unique blend of history and contemporary comfort at Hostal Girona for an unforgettable Barcelona experience.",
+      "highlight": "Offers clean, air-conditioned rooms with free Wi-Fi and includes breakfast in the heart of historic Barcelona.",
+      "price": "$298/night",
+      "location": "Calle Girona 24",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5bc6c",
+      "name": "Hostal Las Flores",
+      "image": "https://static.cupid.travel/hotels/ex_e5f21d48_z.jpg",
+      "description": "Discover the vibrant essence of Barcelona at Hostal Las Flores, your ideal urban getaway. Enjoy modern amenities such as complimentary Wi-Fi and 24-hour front desk assistance, while resting in one of our 15 stylish rooms equipped with pillowtop beds and LED televisions. Perfectly situated near La Rambla, you are just a short stroll from iconic attractions like the Gran Teatre del Liceu and the bustling Boqueria Market.",
+      "highlight": "Offers affordable, clean accommodations with breakfast included, complimentary Wi-Fi, and a prime location near La Rambla.",
+      "price": "$250/night",
+      "location": "La Rambla, 79",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6e9c7",
+      "name": "Hostal Petit Príncep",
+      "image": "https://static.cupid.travel/hotels/465683626.jpg",
+      "description": "Hostal Petit Príncep offers modern, air-conditioned rooms with vibrant decor and free Wi-Fi, some featuring stunning views of Barcelona. Convenient amenities include private bathrooms, a communal fridge, and microwave, all in a prime location just a 15-minute walk from iconic landmarks like Gaudi’s Pedrera and Sagrada Familia. Experience the vibrant culture of the city with easy access to shops, bars, and restaurants right at your doorstep.",
+      "highlight": "Hostal Petit Príncep offers modern rooms with breakfast included, air conditioning, private bathrooms, and a prime location near major attractions.",
+      "price": "$212/night",
+      "location": "Avd. Diagonal, 578, piso 2",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-barcelona-with-breakfast-included",
+  "generatedAt": "2025-11-04T02:52:58.008Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "affordable clean hotels in Amsterdam with breakfast included",
+  "title": "What are the affordable, clean hotels in Amsterdam with breakfast included",
+  "excerpt": "Navigating the bustling hotel scene in Amsterdam can be overwhelming, especially when seeking affordable options that don't compromise on cleanliness or amenities. This curated list of hotels with breakfast included is invaluable for travelers looking to maximize comfort while staying within budget. Simplifying your search ensures you can focus on exploring the vibrant city instead of worrying about your accommodations.",
+  "intro": "Discover the best affordable and clean hotels in Amsterdam that include breakfast, perfect for a hassle-free stay in this enchanting city.",
+  "hotels": [
+    {
+      "id": "lp5434c",
+      "name": "Hotel Tourist Inn",
+      "image": "https://static.cupid.travel/hotels/ex_06eee0e2_z.jpg",
+      "description": "Hotel Tourist Inn offers a cozy escape in the vibrant heart of Amsterdam, featuring 36 modern air-conditioned rooms with LCD televisions and complimentary Wi-Fi. Enjoy a delicious continental breakfast each morning, and relax at the on-site coffee shop or bar/lounge. With its prime location just minutes from Dam Square and the Anne Frank House, this hotel is the perfect starting point for your Amsterdam adventure.",
+      "highlight": "Hotel Tourist Inn provides 36 modern air-conditioned rooms, complimentary Wi-Fi, and a delicious continental breakfast each morning.",
+      "price": "$198/night",
+      "location": "Spuistraat 52",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp461a3",
+      "name": "Hotel Clemens Amsterdam",
+      "image": "https://static.cupid.travel/hotels/ex_61116648_z.jpg",
+      "description": "Immerse yourself in the heart of Amsterdam at Hotel Clemens, located just steps from iconic attractions like the Westerkerk and Anne Frank House. Enjoy the comfort of our 14 air-conditioned rooms featuring modern amenities such as flat-screen TVs and unique rainfall showerheads, all while taking advantage of complimentary Wi-Fi and a delicious continental breakfast each morning. Book your stay today and experience the perfect blend of comfort and culture in this vibrant city.",
+      "highlight": "Offers 14 air-conditioned rooms with flat-screen TVs, complimentary Wi-Fi, and a delicious continental breakfast each morning.",
+      "price": "$280/night",
+      "location": "Raadhuisstraat 39",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5bfb6",
+      "name": "Hotel Van Gogh",
+      "image": "https://static.cupid.travel/hotels/324542355.jpg",
+      "description": "Hotel Van Gogh boasts a prime location just steps from renowned museums like the Rijksmuseum and Van Gogh Museum, making it perfect for art lovers. Guests will enjoy modern amenities in stylish rooms adorned with Van Gogh artwork, including free WiFi, flat-screen TVs, and mini fridges. With bike rentals available on-site, exploring Amsterdam's vibrant neighborhoods and parks has never been easier.",
+      "highlight": "Hotel Van Gogh provides modern rooms with Van Gogh artwork, free WiFi, and complimentary breakfast in a prime location near major museums.",
+      "price": "$103/night",
+      "location": "Van de Veldestraat 5",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpd0511",
+      "name": "Hotel van de Vijsel",
+      "image": "https://static.cupid.travel/hotels/173259263.jpg",
+      "description": "Experience the charm of Oud-West at Hotel van de Vijsel, where luxurious rooms feature modern amenities like flat-screen TVs and private bathrooms for your comfort. Start your mornings with a delightful buffet breakfast, and let our expert staff guide you to nearby attractions such as the Van Gogh Museum and Rijksmuseum, all just a stroll away. Make your Amsterdam getaway unforgettable with a stay at our ideally located hotel.",
+      "highlight": "Offers a buffet breakfast and modern amenities in the heart of Oud-West, near major attractions.",
+      "price": "$133/night",
+      "location": "Overtoom 13-17",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b874",
+      "name": "Hotel Amsterdam De Roode Leeuw",
+      "image": "https://static.cupid.travel/hotels/184609490.jpg",
+      "description": "De Roode Leeuw offers a distinctive experience in a historic building located just steps from Dam Square, immersing guests in the charm of central Amsterdam. With easy access to public transport and the famous De Bijenkorf department store right across the street, exploring the city is effortless. Enjoy modern comforts like climate control, free Wi-Fi, and soundproof windows in your room, ensuring a relaxing stay.",
+      "highlight": "Offers soundproof rooms, free Wi-Fi, and complimentary breakfast in a historic building near Dam Square.",
+      "price": "$228/night",
+      "location": "Damrak 93-94",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6ed67",
+      "name": "Hotel Amsterdam Inn",
+      "image": "https://static.cupid.travel/hotels/36439733.jpg",
+      "description": "Hotel Amsterdam Inn boasts a prime location just 200 meters from the lively Leidseplein, making it easy to explore Amsterdam's attractions, including Museumplein within a short 9-minute stroll. The hotel features colorful, functional rooms equipped with free Wi-Fi and private bathrooms, ensuring a comfortable stay. With a 24-hour front desk and a variety of nearby cafes and restaurants, guests can effortlessly enjoy the vibrant local scene.",
+      "highlight": "Hotel Amsterdam Inn offers colorful rooms with private bathrooms, free Wi-Fi, and complimentary breakfast, located 200 meters from Leidseplein.",
+      "price": "$94/night",
+      "location": "Leidsegracht 111",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-amsterdam-with-breakfast-included",
+  "generatedAt": "2025-11-04T03:07:28.566Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

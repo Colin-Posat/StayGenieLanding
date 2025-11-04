@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "best pet friendly hotels in London",
+  "title": "What are the best pet-friendly hotels in London",
+  "excerpt": "Finding pet-friendly hotels in London can be a daunting task, as many establishments have strict policies regarding animals. This list is invaluable for pet owners looking for welcoming accommodations where both they and their furry companions can feel at home. By highlighting these hotels, travelers can ensure a stress-free experience while exploring the vibrant city together with their pets.",
+  "intro": "Discover the top pet-friendly hotels in London that provide the perfect blend of comfort and convenience for both you and your furry friends.",
+  "hotels": [
+    {
+      "id": "lp1d73f",
+      "name": "The Marylebone Hotel",
+      "image": "https://static.cupid.travel/hotels/295987727.jpg",
+      "description": "The Marylebone Hotel boasts a prime location near Bond Street Underground Station and the bustling shopping of Oxford Street, making it ideal for city explorers. Guests can unwind with luxurious amenities like plush bedding, an 18-metre swimming pool, and complimentary gym access, while the on-site 108 Brasserie offers delicious modern cuisine made from fresh local ingredients. Experience the perfect blend of elegance and convenience for your London getaway.",
+      "highlight": "The Marylebone Hotel provides pet-friendly accommodations, a heated swimming pool, and concierge services for a luxurious stay.",
+      "price": "$389/night",
+      "location": "47 Welbeck Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b9f6",
+      "name": "London Hilton on Park Lane",
+      "image": "https://static.cupid.travel/hotels/612345397.jpg",
+      "description": "Experience luxury at the London Hilton on Park Lane, where every guest room offers stunning 360° views of London, complemented by the award-winning Galvin at Windows restaurant on the 28th floor. With versatile event spaces perfect for both intimate gatherings and grand celebrations, the hotel is ideal for any occasion. Nestled in the heart of Mayfair, enjoy easy access to Hyde Park and London's premier cultural attractions and shopping districts.",
+      "highlight": "Offers pet-friendly accommodations with family rooms and stunning 360° views of London.",
+      "price": "$473/night",
+      "location": "22 Park Lane",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d45f",
+      "name": "The Exhibitionist Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_472f003a_z.jpg",
+      "description": "Discover the charm of London at The Exhibitionist Hotel, where luxury and convenience converge in a prime location. With 37 modern, air-conditioned rooms featuring flat-screen TVs and designer toiletries, guests can unwind in comfort while enjoying complimentary Wi-Fi. Satisfy your culinary cravings at the on-site restaurant or with 24-hour room service, and start each day with a delightful breakfast before exploring nearby attractions like the Natural History Museum.",
+      "highlight": "Boasts pet-friendly accommodations alongside modern amenities, including 24-hour room service and complimentary Wi-Fi.",
+      "price": "$188/night",
+      "location": "8-10 Queensberry Place",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4d84b",
+      "name": "Megaro Hotel",
+      "image": "https://static.cupid.travel/hotels/9051599.jpg",
+      "description": "The Megaro Hotel offers modern rooms featuring luxurious rainfall showers and free Wi-Fi, ensuring a comfortable stay in a stylish setting. Conveniently located near Camden and just a short walk from major attractions like Regent's Park and the British Museum, guests enjoy excellent transport links. Start your day with a delightful breakfast catering to various dietary needs, and unwind at the on-site restaurant and bar for a truly memorable London experience.",
+      "highlight": "Offers pet-friendly accommodations with modern rooms, luxurious rainfall showers, and on-site dining options.",
+      "price": "$334/night",
+      "location": "Belgrove Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp339fc",
+      "name": "Treehouse Hotel London",
+      "image": "https://static.cupid.travel/hotels/ex_4f3c2701_z.jpg",
+      "description": "Treehouse Hotel, located in the lively heart of London, offers breathtaking views and exceptional amenities for a refreshing getaway. Guests will enjoy elegantly designed rooms featuring minibars, flat-screen TVs, and rainfall showerheads, along with complimentary Wi-Fi. Delight your taste buds at the acclaimed Madera restaurant, or relax with room service, while enjoying the convenience of being steps away from iconic attractions like Regent Street and Oxford Circus.",
+      "highlight": "Treehouse Hotel London includes pet bowls and a dedicated concierge service to enhance your stay with furry companions.",
+      "price": "$575/night",
+      "location": "Langham Place, Regent Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41a14",
+      "name": "Mama Shelter London - Shoreditch",
+      "image": "https://static.cupid.travel/hotels/221139581.jpg",
+      "description": "Experience the chic and contemporary ambiance of Mama Shelter London, where stylish rooms come with complimentary WiFi, air-conditioning, and private bathrooms stocked with toiletries. Savor delightful homemade cuisine at the expansive restaurant and enjoy refreshing cocktails at the vibrant veranda bar. Ideally situated near Bethnal Green Underground Station, this hotel offers 24-hour reception and multilingual staff for a seamless stay in the heart of London.",
+      "highlight": "Offers pet-friendly accommodations with stylish rooms, a vibrant nightclub, and a vegetarian menu.",
+      "price": "$149/night",
+      "location": "437 Hackney Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-london",
+  "generatedAt": "2025-11-04T02:56:43.571Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

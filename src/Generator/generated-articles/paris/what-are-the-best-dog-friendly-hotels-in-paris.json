@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "best dog friendly hotels in Paris",
+  "title": "What are the best dog-friendly hotels in Paris",
+  "excerpt": "Finding dog-friendly hotels in Paris can be a daunting task, as not all establishments are equipped to welcome our furry companions. This list is valuable because it highlights the best options that not only accommodate pets but also provide a welcoming atmosphere for both you and your dog. Enjoying the charm of Paris with your pet by your side enhances the travel experience, making it all the more memorable.",
+  "intro": "Discover the top dog-friendly hotels in Paris that allow you to explore the city with your beloved pet by your side.",
+  "hotels": [
+    {
+      "id": "lp370e8",
+      "name": "Hôtel de Sers",
+      "image": "https://static.cupid.travel/hotels/ex_bf140562_z.jpg",
+      "description": "Discover the elegance of Hôtel de Sers, where luxury meets convenience in the heart of Paris. Enjoy a range of amenities including a 24-hour fitness center, bicycle rentals, and attentive babysitting services, along with exquisite dining options and versatile event spaces. With its prime location just steps from the iconic Champs-Élysées and Arc de Triomphe, this hotel promises a memorable Parisian experience.",
+      "highlight": "Offers pet sitting services alongside luxurious amenities in a prime location near the Champs-Élysées.",
+      "price": "$701/night",
+      "location": "41 Avenue Pierre 1er de Serbie",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b87a",
+      "name": "Hôtel Regina Opéra Grands Boulevards",
+      "image": "https://static.cupid.travel/hotels/317328449.jpg",
+      "description": "Hôtel Regina Opéra is nestled in the lively Grands Boulevards district of Paris, offering guests easy access to theaters, concert halls, and famous landmarks just a short stroll from the Bonne Nouvelle Metro Station. The elegantly decorated rooms provide modern comforts such as air conditioning, satellite TV, and soundproofing, ensuring a restful stay. With a delightful buffet breakfast, a cozy bar, and 24-hour reception services, this hotel promises an unforgettable Parisian experience.",
+      "highlight": "Hôtel Regina Opéra Grands Boulevards provides dog-friendly accommodations with family rooms and a 24-hour reception for convenience.",
+      "price": "$169/night",
+      "location": "11 bis rue de Mazagran",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3ba49",
+      "name": "Hôtel Barrière Fouquet's Paris",
+      "image": "https://static.cupid.travel/hotels/387177947.jpg",
+      "description": "Experience the epitome of luxury at the 5-star Hôtel Barrière Fouquet's Paris, located on the iconic Champs-Élysées. Guests can indulge in opulent accommodations featuring modern amenities and enjoy exquisite dining at the renowned Fouquet's brasserie, complemented by stylish bars for creative cocktails. Unwind in the spa's serene swimming pool and sauna, or rejuvenate at the gym, ensuring a perfect blend of relaxation and sophistication during your stay.",
+      "highlight": "Offers pet-friendly accommodations, a luxurious spa, and a heated pool in the heart of Paris.",
+      "price": "$1316/night",
+      "location": "46 Avenue George V",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c508",
+      "name": "Hotel Marignan Champs-Elysées",
+      "image": "https://static.cupid.travel/hotels/49198815.jpg",
+      "description": "Hotel Marignan Champs-Elysées offers a luxurious retreat in the heart of Paris, just steps from the famous Champs-Elysées. Guests can enjoy elegantly designed rooms, many featuring private terraces with stunning views of the Eiffel Tower, perfect for a romantic meal. The hotel's Ma Dame restaurant serves a delightful mix of traditional French and innovative cuisine, complemented by a stylish bar for refreshing drinks.",
+      "highlight": "Offers pet-friendly accommodations with private check-in/out and e-bike charging facilities in a central Paris location.",
+      "price": "$499/night",
+      "location": "12 Rue De Marignan",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b77b",
+      "name": "Hôtel de Crillon A Rosewood Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_9963ccf0_z.jpg",
+      "description": "Experience unparalleled luxury at Hôtel de Crillon A Rosewood Hotel, where you can unwind at the lavish spa or enjoy invigorating workouts at the fitness center. Delight your palate with exquisite French cuisine at L'Ecrin and relax in elegantly appointed rooms featuring modern amenities. Ideally situated near iconic landmarks like the Champs-Élysées, this hotel also offers exclusive services such as limo transportation and airport shuttles for a truly seamless stay.",
+      "highlight": "Offers pet bowls and outdoor furniture, ensuring a welcoming environment for dogs alongside luxurious accommodations.",
+      "price": "$2150/night",
+      "location": "10 Place de la Concorde",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2d774",
+      "name": "Hôtel de la Place du Louvre",
+      "image": "https://static.cupid.travel/hotels/ex_68079b6f_z.jpg",
+      "description": "Experience a luxurious stay at Hôtel de la Place du Louvre, where complimentary Wi-Fi and concierge services ensure a seamless visit. Start your day with a delightful buffet breakfast and enjoy the prime location in Paris City Center, just moments from the Louvre Museum and Notre-Dame. Rated by ATOUT France, this hotel promises quality and excellence for an unforgettable getaway.",
+      "highlight": "Offers dog-friendly accommodations along with concierge and tour assistance services for a seamless Parisian experience.",
+      "price": "$369/night",
+      "location": "21 rue des Pretres",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-paris",
+  "generatedAt": "2025-11-04T02:50:41.492Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

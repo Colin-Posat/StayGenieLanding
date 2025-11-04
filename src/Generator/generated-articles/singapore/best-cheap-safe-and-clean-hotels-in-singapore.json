@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "cheap safe clean hotels in Singapore",
+  "title": "Best cheap, safe, and clean hotels in Singapore",
+  "excerpt": "Finding affordable hotels in Singapore that are also safe and clean can be quite a challenge, especially in a city known for its high living costs. This curated list of budget-friendly accommodations aims to simplify your search, ensuring you can enjoy a comfortable stay without breaking the bank. Each option has been vetted for quality, allowing you to travel with peace of mind and focus on exploring the vibrant culture of the city.",
+  "intro": "Discover the best budget-friendly hotels in Singapore that prioritize safety and cleanliness, making your travel experience enjoyable and worry-free.",
+  "hotels": [
+    {
+      "id": "lp59dcd",
+      "name": "Hotel 81 Geylang",
+      "image": "https://static.cupid.travel/hotels/19165343.jpg",
+      "description": "Experience a serene escape at Hotel 81 Geylang, perfectly located near the Singapore Sports Hub and Kallang Wave Mall, with easy access to the Aljunied MRT Station for effortless city exploration. Enjoy comfortable accommodations featuring air conditioning, en suite bathrooms, and cable TV, all designed for your relaxation. With a 24-hour front desk ready to assist you, immerse yourself in the vibrant shopping and dining scene just steps away from the hotel.",
+      "highlight": "Boasts comfortable accommodations with air conditioning, en suite bathrooms, and cable TV, alongside a 24-hour front desk service.",
+      "price": "$57/night",
+      "location": "20 Lorong 16 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59ddb",
+      "name": "Hotel 81 Selegie",
+      "image": "https://static.cupid.travel/hotels/19197288.jpg",
+      "description": "Hotel 81 Selegie boasts a prime location in the vibrant Bugis District, providing easy access to Rochor MRT Station and major attractions like Little India and the National Museum of Singapore. Guests can enjoy comfortable, air-conditioned rooms featuring flat-screen TVs and complimentary WiFi. With convenient amenities such as a tour desk and laundry services, this hotel is perfect for those seeking a hassle-free stay in the heart of Singapore.",
+      "highlight": "Hotel 81 Selegie provides comfortable, air-conditioned rooms with free WiFi and easy access to major attractions in Bugis District.",
+      "price": "$76/night",
+      "location": "161 Selegie Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcc",
+      "name": "Hotel 81 Orchid",
+      "image": "https://static.cupid.travel/hotels/149395357.jpg",
+      "description": "Hotel 81 Orchid offers a prime location in the Red Light District, just steps from popular attractions like Bugis Street and Suntec City, allowing guests to fully immerse themselves in Singapore's vibrant culture. Enjoy cozy, air-conditioned rooms equipped with essential amenities such as flat-screen TVs, private bathrooms, and complimentary WiFi for a comfortable stay. With 24-hour multilingual assistance, the dedicated staff ensures that your needs are met at any time, making your visit both convenient and enjoyable.",
+      "highlight": "Hotel 81 Orchid provides cozy air-conditioned rooms, essential amenities, and 24-hour multilingual assistance in a prime location.",
+      "price": "$80/night",
+      "location": "21 Lorong 8",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59d7c",
+      "name": "Hotel 81 Dickson",
+      "image": "https://static.cupid.travel/hotels/19160051.jpg",
+      "description": "Hotel 81 Dickson offers a prime location in the vibrant heart of Little India, immersing guests in local culture with nearby shops and attractions. Enjoy modern amenities in comfortable rooms featuring free Wi-Fi, air conditioning, and tea/coffee making facilities. With Bugis MRT Station and shopping centers just a short walk away, this hotel is perfect for exploring Singapore's sights, enhanced by convenient tour services.",
+      "highlight": "Hotel 81 Dickson offers family rooms, free Wi-Fi, and air conditioning in a central location near shops and attractions.",
+      "price": "$76/night",
+      "location": "3 Dickson Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59d80",
+      "name": "Hotel 81 Sakura",
+      "image": "https://static.cupid.travel/hotels/19197172.jpg",
+      "description": "Hotel 81 Sakura is perfectly located on Joo Chiat Road, just a short distance from popular attractions like Peranakan House and OneKM Shopping Mall, with Paya Lebar MRT Station nearby for easy city exploration. The hotel offers comfortable, air-conditioned rooms equipped with modern amenities, and a 24-hour front desk to assist guests with tour bookings and luggage storage. Ideal for both leisure and business travelers, guests can enjoy the vibrant neighborhood filled with shopping and dining options, making every stay memorable.",
+      "highlight": "Hotel 81 Sakura offers comfortable, air-conditioned rooms, a 24-hour front desk, and proximity to shopping and dining options.",
+      "price": "$71/night",
+      "location": "181 Joo Chiat Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8523d",
+      "name": "Hotel 81 Cosy",
+      "image": "https://static.cupid.travel/hotels/19197046.jpg",
+      "description": "Hotel 81 Cosy is ideally located in the vibrant heart of Chinatown, allowing guests easy access to major attractions and public transportation. The comfortable air-conditioned rooms come with essential amenities, including tea and coffee making facilities, ensuring a pleasant stay. With a 24-hour front desk and nearby shopping options, this hotel serves as the perfect home base for exploring Singapore.",
+      "highlight": "Offers comfortable air-conditioned rooms with essential amenities and a 24-hour front desk in vibrant Chinatown.",
+      "price": "$91/night",
+      "location": "8 Jiak Chuan Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-singapore",
+  "generatedAt": "2025-11-04T03:09:31.311Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

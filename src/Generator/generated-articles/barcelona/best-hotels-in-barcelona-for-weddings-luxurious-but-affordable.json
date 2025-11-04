@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "best hotels in Barcelona for weddings luxury and affordable",
+  "title": "Best hotels in Barcelona for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Barcelona can be a daunting task, especially when balancing luxury with affordability. This list is valuable because it highlights venues that offer stunning settings and exceptional service without breaking the bank, making your special day memorable and stress-free.",
+  "intro": "Discover a curated selection of the best hotels in Barcelona that combine elegance and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp2f9d7",
+      "name": "Hotel Best Front Maritim",
+      "image": "https://static.cupid.travel/hotels/499965767.jpg",
+      "description": "Experience the modern charm of Hotel Front Maritim, just steps from Barcelona’s stunning Nova Mar Bella Beach. Enjoy complimentary WiFi, a well-equipped gym with a sauna, and stylish rooms featuring flat-screen TVs and private bathrooms. Delight in Mediterranean cuisine at the hotel restaurant and take advantage of nearby shopping and convenient transport options for easy exploration of the city.",
+      "highlight": "Offers stylish rooms, a Mediterranean restaurant, and a sauna, all just steps from Nova Mar Bella Beach.",
+      "price": "$287/night",
+      "location": "Paseo de Garcia Faria, 69",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2057a",
+      "name": "Hotel Best Auto Hogar",
+      "image": "https://static.cupid.travel/hotels/537701004.jpg",
+      "description": "Hotel Auto Hogar boasts a prime location just across from Parallel Metro Station and a short stroll from the vibrant Ramblas, making it easy to explore Barcelona's highlights. Guests can unwind in air-conditioned rooms equipped with modern amenities such as flat-screen TVs and private bathrooms. The hotel also features a delightful restaurant serving Mediterranean dishes, along with a café for quick refreshments, plus convenient bicycle and car hire services to enhance your stay.",
+      "highlight": "Hotel Auto Hogar offers soundproof rooms, a Mediterranean restaurant, and convenient bicycle and car hire services in a central location.",
+      "price": "$275/night",
+      "location": "Avinguda del Paral-lel, 64",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34bbc",
+      "name": "Hotel Best Aranea",
+      "image": "https://static.cupid.travel/hotels/552394155.jpg",
+      "description": "Hotel Aranea boasts a prime location just a short stroll from Gaudi's stunning Sagrada Familia, perfect for those eager to discover Barcelona's iconic sights. The hotel features modern, air-conditioned rooms with double-glazed windows for a tranquil retreat, complete with satellite TV, a safe, and a minibar. Guests can enjoy complimentary Wi-Fi, a charming roof terrace with breathtaking city views, and a delightful buffet breakfast, all supported by attentive 24-hour reception staff to enhance your stay.",
+      "highlight": "Hotel Best Aranea offers wedding services, a charming rooftop terrace with city views, and complimentary Wi-Fi throughout the property.",
+      "price": "$274/night",
+      "location": "Consell De Cent, 444",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3af86",
+      "name": "Hotel Barcelona Center",
+      "image": "https://static.cupid.travel/hotels/126223810.jpg",
+      "description": "Barcelona Center Hotel is ideally situated just 400 meters from the famous Passeig de Gràcia Avenue, making it a perfect starting point for your Barcelona adventure. Enjoy modern comforts in well-appointed rooms featuring satellite TV, free WiFi, and private bathrooms. Savor traditional Spanish dishes at the hotel restaurant, relax at the bar, or rejuvenate in the rooftop hydromassage tub while taking in the Mediterranean breeze from the terrace.",
+      "highlight": "Boasts well-appointed rooms, a rooftop hydromassage tub, and a restaurant serving traditional Spanish cuisine.",
+      "price": "$260/night",
+      "location": "Balmes 103-105",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f317",
+      "name": "HCC Montblanc",
+      "image": "https://static.cupid.travel/hotels/417222430.jpg",
+      "description": "HCC Montblanc hotel is ideally situated in the vibrant Gothic Quarter, just steps from Urquinaona Metro Station, making it easy to explore Barcelona's top attractions. The modern, air-conditioned rooms feature free Wi-Fi and satellite TV, while the on-site restaurant, El Racó del Montblanc, serves a delightful buffet breakfast and Mediterranean cuisine. With major landmarks like the Barcelona Cathedral and Palau de la Musica Concert Hall within walking distance, this hotel offers a perfect blend of comfort and convenience for an unforgettable stay.",
+      "highlight": "HCC Montblanc boasts modern air-conditioned rooms, an on-site restaurant, and proximity to major landmarks in the Gothic Quarter.",
+      "price": "$225/night",
+      "location": "Via Laietana, 61",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp232e2",
+      "name": "Hotel HCC Taber",
+      "image": "https://static.cupid.travel/hotels/ex_058f7503_z.jpg",
+      "description": "Discover the vibrant charm of Barcelona at Hotel HCC Taber, where modern comfort meets a prime city location. With 92 spacious rooms featuring minibars and flat-screen TVs, along with an inviting common area and convenient dining options, guests can unwind and stay connected. Situated just steps from the bustling Rambla de Catalunya and within walking distance of iconic attractions like Casa Batlló, this hotel offers the perfect base for your Barcelona adventure.",
+      "highlight": "Offers a banquet hall and concierge services, providing a stylish venue for memorable wedding celebrations in Barcelona.",
+      "price": "$252/night",
+      "location": "Carrer de Arago, 256",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-barcelona-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T02:54:35.273Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

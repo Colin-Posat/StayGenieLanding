@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "best hotels in Miami for weddings luxury and affordable",
+  "title": "Best hotels in Miami for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Miami can be a daunting task, as couples often seek a balance between luxury and affordability. This curated list highlights venues that offer stunning settings and exceptional services without breaking the bank, making it easier for you to plan your dream celebration. Discovering these hidden gems can transform your special day into an unforgettable experience that will impress your guests and create lasting memories.",
+  "intro": "Explore our carefully selected list of Miami's best hotels for weddings, where luxury meets affordability for your perfect celebration.",
+  "hotels": [
+    {
+      "id": "lp21c39",
+      "name": "Days Inn by Wyndham Miami Airport North",
+      "image": "https://static.cupid.travel/hotels/135443971.jpg",
+      "description": "At Days Inn by Wyndham Miami Airport North, enjoy complimentary shuttle services to Miami International Airport and Port of Miami for hassle-free travel. Relax by the outdoor pool, soaking in the Florida sun, and satisfy your cravings at the on-site Subway Restaurant, offering quick and delicious meal options. Book your stay today for a perfect blend of comfort and convenience.",
+      "highlight": "Offers complimentary shuttle services to Miami International Airport and features an outdoor pool and on-site dining options.",
+      "price": "$103/night",
+      "location": "4767 Nw 36th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20da0",
+      "name": "La Quinta by Wyndham Miami Airport East",
+      "image": "https://static.cupid.travel/hotels/251752291.jpg",
+      "description": "Discover La Quinta Inn and Suites Miami Airport East, where convenience meets comfort. Start your day with a complimentary continental breakfast, unwind by the outdoor pool, and enjoy hassle-free airport transfers just two miles away. Each room features modern amenities, including free Wi-Fi, a flat-screen TV, and coffee-making facilities, ensuring a pleasant stay in Miami.",
+      "highlight": "Offers modern rooms with free Wi-Fi, an outdoor pool, and complimentary airport transfers just two miles away.",
+      "price": "$119/night",
+      "location": "3501 NW Le Jeune Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31fdc",
+      "name": "Rodeway Inn South Miami - Coral Gables",
+      "image": "https://static.cupid.travel/hotels/169822000.jpg",
+      "description": "Rodeway Inn South Miami - Coral Gables offers a prime location just an 8-minute stroll from The Shops at Sunset Place, along with complimentary WiFi for all guests. Each comfortable room features a flat-screen TV, private bathroom with a hairdryer, and a convenient work desk. Enjoy the Miami sunshine at the inviting outdoor pool and terrace, making it a perfect spot for relaxation.",
+      "highlight": "Offers comfortable rooms with flat-screen TVs, complimentary WiFi, and an inviting outdoor pool for relaxation.",
+      "price": "$111/night",
+      "location": "5959 SW 71st Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65594728",
+      "name": "Miami Springs Inn",
+      "image": "https://static.cupid.travel/hotels/6060574.jpg",
+      "description": "Experience comfort and convenience at Miami Springs Inn, located just minutes from Miami International Airport. Each room is equipped with free Wi-Fi, a TV, microwave, minibar, and iron, ensuring a relaxing stay. Enjoy amenities like a picnic area with a barbecue grill and easy access to laundry facilities, all while being close to Miami's top attractions, including South Beach and the Miami Art Museum.",
+      "highlight": "Offers comfortable rooms with free Wi-Fi, a picnic area with BBQ, and discounted parking near Miami's attractions.",
+      "price": "$163/night",
+      "location": "661 East Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp36402",
+      "name": "Quality Inn Miami Airport - Doral",
+      "image": "https://static.cupid.travel/hotels/382114256.jpg",
+      "description": "Experience modern convenience at Quality Inn Miami Airport - Doral, just 6 miles from Miami International Airport. Enjoy luxurious amenities including an outdoor pool, daily breakfast buffet, and well-equipped rooms featuring microwaves and refrigerators. With a business center and easy access to local attractions like Doral Country Club and Dolphin Mall, your stay promises to be both relaxing and enriching.",
+      "highlight": "Offers an outdoor pool, complimentary breakfast buffet, and spacious rooms equipped with microwaves and refrigerators.",
+      "price": "$136/night",
+      "location": "3959 NW 79th Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41b12",
+      "name": "Hilton Garden Inn Miami Airport West",
+      "image": "https://static.cupid.travel/hotels/501000698.jpg",
+      "description": "The Hilton Garden Inn Miami Airport West offers a stress-free travel experience with its complimentary shuttle service to Miami International Airport. Guests will enjoy spacious rooms featuring modern amenities like microwaves and flat-screen TVs, as well as access to an outdoor pool and a well-equipped fitness center. Dining options include the Great American Grill for delightful meals and a 24-hour convenience store for snacks, making it an ideal choice for both business and leisure travelers.",
+      "highlight": "Offers a reception hall, outdoor pool, and spacious family rooms with modern amenities for memorable wedding celebrations.",
+      "price": "$143/night",
+      "location": "3550 Nw 74th Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-miami-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T03:00:26.198Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "best hotels in Amsterdam for women travelers",
+  "title": "Best hotels in Amsterdam for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels that prioritize safety, cleanliness, and amenities can be particularly challenging for women travelers in a bustling city like Amsterdam. This curated list not only highlights accommodations that meet these crucial standards but also offers peace of mind and comfort during your stay. With the right hotel, your experience can be both enjoyable and empowering, allowing you to explore the city with confidence.",
+  "intro": "Discover the top hotels in Amsterdam specifically tailored for women travelers, ensuring a stay that combines safety, comfort, and exceptional amenities.",
+  "hotels": [
+    {
+      "id": "lp22ed2",
+      "name": "Pulitzer Amsterdam",
+      "image": "https://static.cupid.travel/hotels/81151442.jpg",
+      "description": "Experience the charm of the Pulitzer Amsterdam, where historic canal houses meet a unique blend of traditional and modern Dutch design across 225 distinctive guest rooms and suites. Delight in the culinary offerings at Restaurant Jansz., featuring locally sourced ingredients, and unwind at Pulitzer's Bar, showcasing a rich cocktail history. Ideally situated along the iconic canals, the hotel provides easy access to top attractions like the Anne Frank House, making it the perfect base for your Amsterdam adventure.",
+      "highlight": "Offers 225 distinctive rooms, spa services, and easy access to top attractions along Amsterdam's iconic canals.",
+      "price": "$521/night",
+      "location": "Prinsengracht 323",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4513f",
+      "name": "Hotel The Neighbour's Magnolia",
+      "image": "https://static.cupid.travel/hotels/33353258.jpg",
+      "description": "Discover the charming dog-friendly Hotel The Neighbour's Magnolia, nestled in Amsterdam's vibrant cultural quarter. Enjoy modern, cozy rooms adorned in light pastel shades, with options for furnished balconies or private rooftop terraces, all while staying connected with complimentary Wi-Fi. Savor a delightful continental breakfast each morning and unwind at the Honesty Bar, before exploring the city’s attractions on foot or by bike, with convenient access to Vondelpark and major transport links.",
+      "highlight": "Offers cozy, pastel-colored rooms with private balconies, complimentary Wi-Fi, a continental breakfast, and easy access to Vondelpark.",
+      "price": "$110/night",
+      "location": "Willemsparkweg 205",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp23657c",
+      "name": "Hotel van Gelder",
+      "image": "https://static.cupid.travel/hotels/440591181.jpg",
+      "description": "Hotel van Gelder boasts a prime location in the heart of Amsterdam, allowing easy access to popular sights like Beurs van Berlage and Rembrandt House. Each room is designed for comfort, featuring cozy seating, a flat-screen TV, and a private bathroom with complimentary toiletries, ensuring a relaxing retreat after a day of exploration. Guests can unwind in the inviting lounge or enjoy a drink at the bar, while cycling opportunities invite you to discover the vibrant city in an active way.",
+      "highlight": "Hotel van Gelder offers cozy rooms with private bathrooms, a welcoming lounge, and convenient private check-in/out services.",
+      "price": "$138/night",
+      "location": "Damrak 34",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp64064",
+      "name": "Hotel Espresso City Centre",
+      "image": "https://static.cupid.travel/hotels/ex_c940c3c8_z.jpg",
+      "description": "Hotel Espresso City Centre is your ideal retreat in Amsterdam, perfectly situated just a short walk from Vondelpark and Leidseplein, with easy access to the Van Gogh Museum and Rijksmuseum. Enjoy modern amenities in our air-conditioned rooms, complete with flat-screen TVs and complimentary Wi-Fi, while our 24-hour front desk and multilingual staff ensure all your needs are met. Explore the city with our bike rentals and let our concierge services help you make the most of your stay.",
+      "highlight": "Offers modern air-conditioned rooms with flat-screen TVs, complimentary Wi-Fi, and 24-hour multilingual front desk service.",
+      "price": "$108/night",
+      "location": "Overtoom 57",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp480ac",
+      "name": "Hotel Alexander",
+      "image": "https://static.cupid.travel/hotels/255044838.jpg",
+      "description": "Hotel Alexander is a delightful boutique hotel located just minutes from Vondelpark and Leidseplein, featuring a serene courtyard garden perfect for unwinding after a day of exploration. Guests will enjoy comfortable rooms equipped with modern amenities and have access to helpful concierge services, including bike rentals and a tour desk, making it easy to discover nearby attractions like the Van Gogh Museum and luxury shopping along PC Hooftstraat. Experience the unique charm of Hotel Alexander for an unforgettable stay in Amsterdam.",
+      "highlight": "Offers comfortable rooms, a serene courtyard garden, and convenient concierge services, including bike rentals and a tour desk.",
+      "price": "$111/night",
+      "location": "Vondelstraat 44-46",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6ed67",
+      "name": "Hotel Amsterdam Inn",
+      "image": "https://static.cupid.travel/hotels/36439733.jpg",
+      "description": "Hotel Amsterdam Inn boasts a prime location just 200 meters from the lively Leidseplein and a short walk from Museumplein, making it an ideal base for exploring the city. The hotel features bright, simply furnished rooms equipped with free Wi-Fi and private bathrooms, ensuring a comfortable stay. With 24-hour front desk service and numerous cafes and restaurants nearby, guests can easily immerse themselves in the vibrant Amsterdam atmosphere.",
+      "highlight": "Hotel Amsterdam Inn provides bright rooms with free Wi-Fi, private bathrooms, and 24-hour front desk service in a vibrant location.",
+      "price": "$94/night",
+      "location": "Leidsegracht 111",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-amsterdam-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:49:48.103Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

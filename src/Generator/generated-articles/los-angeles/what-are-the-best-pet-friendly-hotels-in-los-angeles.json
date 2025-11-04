@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "best pet friendly hotels in Los Angeles",
+  "title": "What are the best pet-friendly hotels in Los Angeles",
+  "excerpt": "Finding pet-friendly hotels in Los Angeles can be quite a challenge, as many establishments have strict policies regarding animals. This list is valuable because it highlights accommodations that not only welcome pets but also offer amenities tailored to ensure both you and your furry friend have a comfortable stay. With the right options, you can explore the vibrant city without leaving your beloved pet behind.",
+  "intro": "Discover the top pet-friendly hotels in Los Angeles where your four-legged companions are not just allowed, but celebrated.",
+  "hotels": [
+    {
+      "id": "lp2e740",
+      "name": "Le Petit Pali Brentwood",
+      "image": "https://static.cupid.travel/hotels/618505849.jpg",
+      "description": "Brentwood Inn, located in the heart of Los Angeles, offers easy access to iconic attractions like the Getty Center and Third Street Promenade. Guests can relax in well-appointed rooms featuring modern amenities, while enjoying a tranquil garden setting and the convenience of free private parking. Experience a blend of comfort and convenience for a memorable stay in this vibrant city.",
+      "highlight": "Offers pet-friendly accommodations with allergy-free rooms and a tranquil garden setting in the heart of Los Angeles.",
+      "price": "$357/night",
+      "location": "12200 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1fd65",
+      "name": "Kimpton Hotel Palomar Los Angeles Beverly Hills, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/236816339.jpg",
+      "description": "Experience luxury at Kimpton Hotel Palomar, where newly renovated suites feature spa baths and breathtaking city views, along with separate living areas and top-notch amenities. Guests can unwind by the outdoor pool, enjoy a daily wine tasting hour, and take advantage of complimentary bicycle rentals to explore nearby attractions like Beverly Hills and Santa Monica State Beach. Book your stay for an unforgettable Los Angeles getaway filled with relaxation and style.",
+      "highlight": "Offers pet-friendly accommodations with luxurious suites, an outdoor pool, and daily wine tasting events.",
+      "price": "$315/night",
+      "location": "10740 Wilshire Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22ae6",
+      "name": "Sunset Tower Hotel",
+      "image": "https://static.cupid.travel/hotels/94921299.jpg",
+      "description": "The Sunset Tower Hotel in West Hollywood offers a luxurious retreat featuring a rooftop pool, a full-service spa, and spacious rooms equipped with modern amenities like flat-screen TVs and Nespresso machines. Guests can indulge in nightly turndown service with freshly baked cookies, while wellness enthusiasts can enjoy a fitness center and the renowned Joanna Vargas Spa. Dining at The Tower Bar provides a delightful experience with California cuisine and stunning city views, making this hotel a perfect choice for an unforgettable stay in Los Angeles.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop pool, and a full-service spa for a luxurious stay in Los Angeles.",
+      "price": "$549/night",
+      "location": "8358 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1a2c1",
+      "name": "The Pierside Santa Monica",
+      "image": "https://static.cupid.travel/hotels/509191099.jpg",
+      "description": "Experience the ultimate beachfront getaway at The Pierside Santa Monica, ideally located near Santa Monica Beach and Pier. Enjoy luxurious amenities including a heated saltwater pool, ocean-view rooms, and complimentary beach towels and bathrobes. With a 24-hour front desk, a well-equipped gym, and quick access to local attractions and LAX, your stay promises both convenience and relaxation.",
+      "highlight": "Offers pet-friendly accommodations along with a heated saltwater pool and direct access to Santa Monica Beach.",
+      "price": "$409/night",
+      "location": "120 Colorado Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19e51",
+      "name": "Sheraton Grand Los Angeles",
+      "image": "https://static.cupid.travel/hotels/446993079.jpg",
+      "description": "Discover a modern retreat in the heart of downtown Los Angeles at the Sheraton Grand. Enjoy luxurious air-conditioned rooms featuring flat-screen TVs and coffee makers, alongside excellent dining options and a fitness center. With prime access to LA Live, the Microsoft Theatre, and major business venues, this hotel is perfect for both leisure and corporate travelers.",
+      "highlight": "Offers pet-friendly accommodations with outdoor furniture and convenient e-bike charging in downtown Los Angeles.",
+      "price": "$286/night",
+      "location": "711 S Hope St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5f05c",
+      "name": "Kimpton Hotel Wilshire, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/235057601.jpg",
+      "description": "The Kimpton Hotel Wilshire in Los Angeles offers modern accommodations featuring flat-screen TVs and iPod docking stations, with select rooms providing stunning area views. Guests can unwind at the rooftop pool or on the furnished sun terrace, and enjoy added comforts like plush bathrobes and a business center with laptop stations. Ideally located, the hotel is just a short walk from cultural landmarks such as the Los Angeles County Museum of Art and La Brea Tar Pits, making it perfect for both relaxation and exploration.",
+      "highlight": "Offers pet-friendly accommodations with a rooftop garden, heated pool, and modern amenities for a comfortable stay.",
+      "price": "$299/night",
+      "location": "6317 Wilshire Blvd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-los-angeles",
+  "generatedAt": "2025-11-04T02:59:47.045Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

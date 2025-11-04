@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "hotels in Las Vegas under 100 dollars and clean",
+  "title": "What are the best hotels in Las Vegas under $100 and clean",
+  "excerpt": "Finding clean hotels in Las Vegas for under $100 can feel like searching for a needle in a haystack. With countless options available, it is essential to know which establishments maintain high cleanliness standards without breaking the bank. This list highlights the best budget-friendly hotels that offer both comfort and cleanliness, ensuring you can enjoy your stay without worry.",
+  "intro": "In this article, discover a curated selection of the best clean hotels in Las Vegas that won’t exceed your budget of $100.",
+  "hotels": [
+    {
+      "id": "lp22667",
+      "name": "Fremont Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/ex_5a4fc18e_z.jpg",
+      "description": "Experience the thrill of the Fremont Hotel & Casino, where you can try your luck at the exciting casino and stay active in the well-equipped fitness center. Savor a variety of culinary delights at four on-site restaurants and relax at two inviting bars or the cozy coffee shop. With convenient services like free valet parking, express check-out, and comfortable rooms featuring flat-screen TVs and complimentary Wi-Fi, your stay in Las Vegas promises to be unforgettable.",
+      "highlight": "Fremont Hotel & Casino offers a vibrant casino, four on-site restaurants, and clean rooms with flat-screen TVs and free Wi-Fi.",
+      "price": "$57/night",
+      "location": "200 Fremont St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp683d6",
+      "name": "Howard Johnson by Wyndham Las Vegas near the Strip",
+      "image": "https://static.cupid.travel/hotels/132477114.jpg",
+      "description": "Experience the excitement of Las Vegas at Howard Johnson by Wyndham, conveniently located just two miles from the iconic Strip. Enjoy modern comforts in air-conditioned rooms featuring flat-screen TVs, free WiFi, and coffee makers, while taking advantage of on-site amenities like a heated outdoor pool and free parking. With popular attractions like the New York-New York Hotel & Casino and Miracle Mile Shops nearby, your stay promises both relaxation and adventure.",
+      "highlight": "Offers air-conditioned rooms with flat-screen TVs, free WiFi, and a heated outdoor pool just two miles from the Strip.",
+      "price": "$58/night",
+      "location": "165 E Tropicana Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp25475",
+      "name": "Plaza Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/532921587.jpg",
+      "description": "Experience the vibrant energy of the Plaza Hotel & Casino, perfectly situated at the start of the Fremont Street Experience. Enjoy a variety of culinary delights, from Oscar's Steakhouse to fast food options, and try your luck in the lively casino featuring slots and table games. Relax by the seasonal rooftop pool or stay active in the fitness center, all while taking advantage of convenient on-site shops and services.",
+      "highlight": "Offers a seasonal rooftop pool, diverse dining options, and a vibrant casino experience at an affordable price.",
+      "price": "$91/night",
+      "location": "1 Main Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1cf19",
+      "name": "Days Inn by Wyndham Las Vegas Airport Near the Strip",
+      "image": "https://static.cupid.travel/hotels/543467636.jpg",
+      "description": "Days Inn by Wyndham Las Vegas Airport Near the Strip boasts a prime location just 1.6 km from McCarran Airport and steps away from the excitement of the Las Vegas Strip. Guests can unwind in modern non-smoking rooms featuring free WiFi, cable TV, and handy kitchen amenities, while the outdoor pool and BBQ facilities enhance relaxation. Enjoy complimentary breakfast, convenient shuttle service, and a friendly multilingual staff, making it easy to explore all that Las Vegas has to offer.",
+      "highlight": "Days Inn by Wyndham Las Vegas Airport Near the Strip provides modern non-smoking rooms, free WiFi, an outdoor pool, and complimentary breakfast.",
+      "price": "$88/night",
+      "location": "5075 Koval Ln",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp85dcc",
+      "name": "Longhorn Casino & Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_4c2ee340_z.jpg",
+      "description": "Experience the excitement at Longhorn Casino & Hotel, where you can try your luck at the onsite casino or unwind by the outdoor pool and spa tub. Indulge in mouthwatering cuisine at Chuckwagon and enjoy refreshing drinks at the bar, along with a daily full breakfast to kickstart your day. With 24-hour front desk service, laundry facilities, and easy access to nearby attractions like the Boulder Strip, this hotel combines entertainment, comfort, and convenience for an unforgettable stay.",
+      "highlight": "Offers an onsite casino, outdoor pool, and daily full breakfast, ensuring a clean and enjoyable stay.",
+      "price": "$64/night",
+      "location": "5288 Boulder Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp348b6",
+      "name": "Cannery Casino and Hotel",
+      "image": "https://static.cupid.travel/hotels/571037439.jpg",
+      "description": "Experience modern luxury at Cannery Casino and Hotel, where you'll enjoy three-star accommodations complete with a lively bar, an exciting casino, and complimentary WiFi. Indulge in gourmet dining at the on-site restaurant, featuring a diverse menu to satisfy all tastes. Perfectly located near iconic attractions like Fremont Street Experience and Stratosphere Tower, this hotel offers the ideal base for exploring the vibrant energy of Las Vegas.",
+      "highlight": "Offers three-star accommodations, complimentary WiFi, gourmet dining, and a lively casino near Fremont Street Experience.",
+      "price": "$58/night",
+      "location": "2121 E Craig Rd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-las-vegas-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:59:00.883Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

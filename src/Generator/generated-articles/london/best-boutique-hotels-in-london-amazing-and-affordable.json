@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "boutique hotels in London affordable and stylish",
+  "title": "Best boutique hotels in London: Amazing and affordable",
+  "excerpt": "Finding boutique hotels in London that are both stylish and affordable can feel like searching for a needle in a haystack. With so many options available, it's easy to overlook hidden gems that offer unique experiences without breaking the bank. This list highlights carefully curated hotels that combine charm, comfort, and value, making your London visit truly memorable.",
+  "intro": "Discover a selection of London's best boutique hotels that provide amazing style at affordable prices, perfect for any discerning traveler.",
+  "hotels": [
+    {
+      "id": "lp52ca9",
+      "name": "Lords Hotel",
+      "image": "https://static.cupid.travel/hotels/299747178.jpg",
+      "description": "Lords Hotel offers a charming retreat in the tranquil Bayswater Gardens, just a short stroll from the Bayswater and Queensway Underground Stations for effortless city access. Guests can unwind in en suite rooms equipped with modern amenities, including flat-screen TVs and complimentary Wi-Fi. Enjoy a continental breakfast before exploring nearby dining options and iconic attractions like Notting Hill and Hyde Park for a memorable London experience.",
+      "highlight": "Lords Hotel provides en suite rooms with modern amenities, complimentary Wi-Fi, and a continental breakfast in a tranquil setting.",
+      "price": "$90/night",
+      "location": "20-22 Leinster Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3ca82",
+      "name": "Normandie Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_bc488fc6_z.jpg",
+      "description": "Experience the vibrant heart of London at Normandie Hotel, located just steps from the serene Hyde Park and iconic Kensington Gardens. With convenient amenities like a computer station and 24-hour reception, plus easy access to Heathrow Airport, this cozy hotel is the perfect base for exploring nearby landmarks such as Marble Arch and Oxford Street. Enjoy a comfortable stay in one of our 14 inviting guestrooms, where exceptional service awaits.",
+      "highlight": "Features 14 inviting guestrooms, free Wi-Fi, private bathrooms, and 24-hour reception near Hyde Park and Kensington Gardens.",
+      "price": "$95/night",
+      "location": "96 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41f59",
+      "name": "King Solomon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_fb0d967a_z.jpg",
+      "description": "Discover the King Solomon Hotel, a charming retreat in Golders Green, London, where comfort meets convenience. Enjoy modern amenities like free Wi-Fi and 24-hour concierge service, along with delightful dining options including a cozy café and a stylish bar. With 90 well-appointed guest rooms featuring LCD TVs and coffee makers, this hotel offers a serene escape after a day of exploring the city's iconic attractions.",
+      "highlight": "Features 90 well-appointed guest rooms, free Wi-Fi, 24-hour concierge service, and a cozy café and stylish bar.",
+      "price": "$80/night",
+      "location": "155-159 Golders Green Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp39df0",
+      "name": "Gresham Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_3d594dac_z.jpg",
+      "description": "Discover the Gresham Hotel, ideally located in the vibrant heart of London, where comfort meets convenience. Enjoy modern amenities in one of our 56 well-appointed rooms and kickstart your day with a complimentary breakfast before exploring nearby attractions like Hyde Park and Oxford Street. With 24-hour front desk service and easy access to iconic sites, your memorable London getaway awaits at the Gresham Hotel.",
+      "highlight": "Boasts 56 well-appointed rooms, complimentary breakfast, and 24-hour front desk service in the heart of London.",
+      "price": "$95/night",
+      "location": "116 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp567a6",
+      "name": "Tony's House Hotel",
+      "image": "https://static.cupid.travel/hotels/4258104.jpg",
+      "description": "Tony's House Hotel is ideally situated on a tranquil garden square near Hyde Park, providing easy access to Paddington Station and the vibrant shopping of Oxford Street. Guests can enjoy modern rooms equipped with free WiFi and en-suite bathrooms, along with a delightful continental breakfast to start the day. With a 24-hour reception, this hotel ensures a comfortable and convenient stay in London.",
+      "highlight": "Offers modern rooms with free WiFi, en-suite bathrooms, and a delightful continental breakfast, all near Hyde Park.",
+      "price": "$89/night",
+      "location": "30 Norfolk Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4b00b",
+      "name": "White House Hotel",
+      "image": "https://static.cupid.travel/hotels/14448815.jpg",
+      "description": "Discover the charm of the White House Hotel, set in a delightful Victorian townhouse in the heart of Paddington. Enjoy comfortable rooms equipped with modern amenities, and start your day with a delightful continental breakfast in a spacious dining area. With easy access to Paddington Rail Station and vibrant Oxford Street just minutes away, this hotel offers the perfect blend of elegance and convenience for your stay.",
+      "highlight": "Boasts comfortable rooms in a charming Victorian townhouse with easy access to Paddington Rail Station and Oxford Street.",
+      "price": "$93/night",
+      "location": "102 Sussex Gardens",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-london-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:55:20.118Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

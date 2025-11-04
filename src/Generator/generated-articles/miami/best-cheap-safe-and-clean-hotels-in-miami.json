@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "cheap safe clean hotels in Miami",
+  "title": "Best cheap, safe, and clean hotels in Miami",
+  "excerpt": "Finding affordable hotels in Miami that also prioritize safety and cleanliness can be a daunting task, especially with the city's bustling tourism scene. This curated list is invaluable for travelers seeking comfort without breaking the bank, ensuring a worry-free stay in one of the most vibrant cities in the world. With these recommendations, you can enjoy your visit to Miami knowing you have a reliable place to rest each night.",
+  "intro": "Discover the best budget-friendly hotels in Miami that guarantee safety and cleanliness without compromising on comfort.",
+  "hotels": [
+    {
+      "id": "lp41f8e",
+      "name": "Hampton Inn Miami",
+      "image": "https://static.cupid.travel/hotels/ex_fc2cb216_z.jpg",
+      "description": "Experience comfort and convenience at Hampton Inn Miami, where you can unwind in the indoor pool or stay active at the fitness center. Start your mornings with a complimentary buffet breakfast and enjoy free Wi-Fi throughout your stay. Ideally situated near popular attractions like Northeastern Oklahoma A&M College and Buffalo Run Casino, this hotel is the perfect base for exploring Miami.",
+      "highlight": "Hampton Inn Miami offers free breakfast, an indoor pool, and a fitness center, ensuring a comfortable and convenient stay.",
+      "price": "$101/night",
+      "location": "115 S Deacan Turner Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp22d62",
+      "name": "Days Inn by Wyndham Miami",
+      "image": "https://static.cupid.travel/hotels/603762844.jpg",
+      "description": "Experience modern comfort at Days Inn Miami, where each room is equipped with a 48-inch smart TV, microwave, and refrigerator for your convenience. Enjoy leisure time in the indoor swimming pool or at the 24-hour front desk, ensuring a stress-free getaway. Conveniently located near popular attractions like Buffalo Run Casino and Classic Route 66, this hotel is the perfect base for your adventures.",
+      "highlight": "Days Inn by Wyndham Miami offers family rooms, a saltwater pool, and modern amenities like smart TVs and microwaves.",
+      "price": "$89/night",
+      "location": "2120 E Steve Owens Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp84f54",
+      "name": "Miami Princess Hotel",
+      "image": "https://static.cupid.travel/hotels/20912302.jpg",
+      "description": "Experience the ideal blend of convenience and comfort at Miami Princess Hotel, located just a short 4-minute drive from Miami International Airport. Each room features modern amenities including a flat-screen cable TV, free Wi-Fi, and daily maid service, ensuring a relaxing stay. With complimentary airport transfers and easy access to local attractions like American Airlines Arena and South Beach, this hotel is the perfect starting point for your Miami adventure.",
+      "highlight": "Offers modern rooms with free Wi-Fi, flat-screen TVs, and complimentary airport transfers, all within a short drive from Miami International Airport.",
+      "price": "$134/night",
+      "location": "4251 NW 11th St.",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2cba2",
+      "name": "Motel 6-Miami, FL",
+      "image": "https://static.cupid.travel/hotels/79807592.jpg",
+      "description": "Experience the convenience of our motel, located just 10 minutes from Miami International Airport and close to popular attractions like Melreese Golf Course and Mall of the Americas. Enjoy a range of amenities, including free Wi-Fi, an on-site restaurant, and comfortable non-smoking rooms equipped with cable TV and workspaces. With affordable shuttle services to the airport and cruise port, your stay will be both comfortable and hassle-free.",
+      "highlight": "Offers comfortable non-smoking rooms, free Wi-Fi, secure parking, and affordable shuttle services to Miami International Airport.",
+      "price": "$129/night",
+      "location": "7330 NW 36th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b4d8",
+      "name": "Red Roof PLUS Miami Airport",
+      "image": "https://static.cupid.travel/hotels/445673998.jpg",
+      "description": "Experience the convenience of Miami Airport Red Roof Plus, situated just five minutes from Miami International Airport with complimentary airport transfers and Wi-Fi for a hassle-free visit. Enjoy comfortable accommodations featuring flat-screen TVs and many rooms equipped with microwaves and mini-refrigerators. With Miami city center only a 10-minute drive away and South Beach just 15 minutes from the hotel, you are perfectly positioned to explore the vibrant attractions of the area.",
+      "highlight": "Offers complimentary airport transfers, free Wi-Fi, and comfortable rooms with flat-screen TVs, microwaves, and mini-refrigerators.",
+      "price": "$126/night",
+      "location": "3401 NW Lejeune Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65594432",
+      "name": "Gables Inn",
+      "image": "https://static.cupid.travel/hotels/140116596.jpg",
+      "description": "Discover The Gables Inn, a charming retreat in Coral Gables, conveniently located less than a mile from the University of Miami. Enjoy stylish accommodations featuring cable TV and sleek tile flooring, along with relaxing amenities like a sun terrace and an on-site business center. Whether you're traveling for business or leisure, The Gables Inn offers the perfect blend of comfort and convenience.",
+      "highlight": "Offers stylish accommodations with cable TV, a sun terrace, and secure parking in a charming Coral Gables setting.",
+      "price": "$147/night",
+      "location": "730 South Dixie Highway",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-miami",
+  "generatedAt": "2025-11-04T02:58:12.074Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

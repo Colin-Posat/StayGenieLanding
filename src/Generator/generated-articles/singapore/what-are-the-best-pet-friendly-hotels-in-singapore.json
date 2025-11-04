@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "best pet friendly hotels in Singapore",
+  "title": "What are the best pet-friendly hotels in Singapore",
+  "excerpt": "Finding pet-friendly hotels can be a daunting task, especially in a bustling city like Singapore where many accommodations often have strict no-pet policies. This curated list highlights the best options that welcome your furry companions, making it easier for you to enjoy your stay without leaving your pet behind. With these recommendations, you can create unforgettable memories while exploring the vibrant city together with your beloved pet.",
+  "intro": "Discover the top pet-friendly hotels in Singapore that ensure both you and your furry friend have a comfortable and enjoyable stay.",
+  "hotels": [
+    {
+      "id": "lp4b708",
+      "name": "Capella Singapore",
+      "image": "https://static.cupid.travel/hotels/618565008.jpg",
+      "description": "Experience a lavish retreat at Capella Hotel, Singapore, set amidst the serene rainforests of Sentosa Island. Guests can enjoy three outdoor pools, an award-winning spa, and complimentary Wi-Fi, all while taking in breathtaking sea or garden views. With personalized services and close proximity to attractions like Universal Studios, Capella Hotel promises an unforgettable escape.",
+      "highlight": "Capella Singapore offers pet-friendly accommodations, three outdoor pools, and an award-winning spa amidst lush rainforest surroundings.",
+      "price": "$1093/night",
+      "location": "1 The Knolls, Sentosa Island",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f3d6",
+      "name": "Sofitel Singapore Sentosa Resort & Spa",
+      "image": "https://static.cupid.travel/hotels/561710351.jpg",
+      "description": "Discover the Sofitel Singapore Sentosa Resort & Spa, where luxury meets nature in 211 elegantly designed rooms and opulent villas set in tropical woodlands. Indulge in rejuvenating treatments at the world's largest Sofitel SPA and enjoy exquisite dining options surrounded by lush greenery. With versatile event spaces, including 12 meeting rooms and two ballrooms, this resort is perfect for both relaxing retreats and memorable gatherings.",
+      "highlight": "Boasts pet-friendly accommodations, private check-in/out services, and a complimentary beach shuttle for a seamless stay.",
+      "price": "$324/night",
+      "location": "2 Bukit Manis Road Sentosa Island",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656db2d5",
+      "name": "Conrad Singapore Orchard",
+      "image": "https://static.cupid.travel/hotels/560049963.jpg",
+      "description": "Discover luxury at Conrad Singapore Orchard, perfectly situated near the vibrant Orchard Road shopping belt. Guests can savor an exceptional range of dining experiences, with ten diverse options ranging from Italian at Basilico to traditional Japanese and Korean barbecue. Enjoy modern amenities like free WiFi, a 24-hour fitness center, and personalized services to enhance your stay.",
+      "highlight": "Offers pet-friendly accommodations alongside family rooms, free WiFi, and access to ten diverse dining options.",
+      "price": "$431/night",
+      "location": "1 Cuscaden Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp76592",
+      "name": "JW Marriott Hotel Singapore South Beach",
+      "image": "https://static.cupid.travel/hotels/510285035.jpg",
+      "description": "Experience the epitome of luxury at JW Marriott Hotel Singapore South Beach, nestled in the vibrant arts and cultural district. With stunning contemporary design, the hotel features two infinity pools, two sky gardens, and stylish rooms equipped with modern amenities, ensuring a comfortable and convenient stay. Savor diverse culinary options, from all-day dining to specialty cuisine, and take advantage of unique event spaces, perfect for both leisure and business travelers.",
+      "highlight": "Offers pet-friendly accommodations alongside luxurious amenities like infinity pools and stylish rooms in a vibrant cultural district.",
+      "price": "$10437/night",
+      "location": "30 Beach Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c5f8",
+      "name": "Raffles Singapore",
+      "image": "https://static.cupid.travel/hotels/260384694.jpg",
+      "description": "Raffles Singapore offers luxurious suites adorned with elegant oriental carpets and teak wood flooring, ensuring a sophisticated stay with modern amenities such as free WiFi and private verandahs. Guests can indulge in wellness activities at the spa, fitness center, or swimming pool, complemented by 24-hour butler service from attentive staff. Experience culinary delights like the iconic Singapore Sling at the historic Long Bar and savor North Indian cuisine at Tiffin Room, all while immersing yourself in the hotel’s rich history.",
+      "highlight": "Raffles Singapore boasts pet-friendly rooms, luxurious suites, and convenient amenities like a nearby spa and private check-in/out.",
+      "price": "$1114/night",
+      "location": "1 Beach Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35dc5",
+      "name": "Shangri-La Rasa Sentosa, Singapore",
+      "image": "https://static.cupid.travel/hotels/606515327.jpg",
+      "description": "Discover the Shangri-La Rasa Sentosa, a tropical beachfront paradise in Singapore designed for families and sun enthusiasts alike. Enjoy thrilling water slides and activity centers for kids while parents relax at Chi, The Spa, or savor delicious meals at Silver Shell Cafe and Trapizza. With spacious guestrooms featuring private balconies overlooking the South China Sea, this hotel promises an unforgettable getaway filled with both relaxation and adventure.",
+      "highlight": "Offers spacious guestrooms with private balconies, plus beach access and kids' outdoor play areas for pet-friendly stays.",
+      "price": "$311/night",
+      "location": "101 Siloso Road Sentosa",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-singapore",
+  "generatedAt": "2025-11-04T02:52:12.580Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "boutique hotels in Amsterdam affordable and stylish",
+  "title": "Best boutique hotels in Amsterdam: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Amsterdam can be a daunting task, as the city is filled with countless options that may not always meet your style or budget. This curated list highlights amazing and affordable boutique hotels that combine charm and comfort, ensuring you enjoy a memorable stay without breaking the bank. By exploring these unique accommodations, you can truly immerse yourself in the vibrant culture and essence of the city.",
+  "intro": "Discover a selection of stylish and budget-friendly boutique hotels in Amsterdam that promise to elevate your travel experience.",
+  "hotels": [
+    {
+      "id": "lp8e21c",
+      "name": "Citiez Hotel Amsterdam",
+      "image": "https://static.cupid.travel/hotels/105738819.jpg",
+      "description": "Discover the charm of Citiez Hotel Amsterdam, where designer city-themed rooms boast panoramic windows, air conditioning, and luxurious rain showers. Enjoy the convenience of the 24/7 All Day Café, offering a variety of fresh meals and drinks in a modern atmosphere. Ideally situated in the vibrant Osdorpplein shopping center, this hotel provides easy access to shops, recreation areas, and public transportation.",
+      "highlight": "Offers designer city-themed rooms with panoramic windows, soundproofing, and a 24/7 All Day Café in a vibrant location.",
+      "price": "$73/night",
+      "location": "Osdorpplein 372A",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6555242f",
+      "name": "Bunk Hotel Amsterdam",
+      "image": "https://static.cupid.travel/hotels/438750118.jpg",
+      "description": "Bunk Hotel Amsterdam offers a modern and vibrant atmosphere with a delightful terrace, restaurant, and bar, perfect for unwinding after a day of exploration. With 24-hour concierge services, complimentary WiFi, and convenient private parking, your stay will be both comfortable and hassle-free. Located just 1.2 km from the A'DAM Lookout and close to key attractions, the hotel also provides bike hire services, making it easy to discover the beauty of Amsterdam.",
+      "highlight": "Bunk Hotel Amsterdam offers a vibrant atmosphere with a terrace, 24-hour concierge, complimentary WiFi, and bike hire services.",
+      "price": "$83/night",
+      "location": "Hagedoornplein 2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp48296",
+      "name": "The Townhouse Hotel",
+      "image": "https://static.cupid.travel/hotels/325837428.jpg",
+      "description": "The Townhouse Hotel is ideally situated in Amsterdam's picturesque canal district, just a short stroll from the vibrant Nine Streets shopping area. Guests can enjoy comfortable rooms equipped with essential amenities, including coffee and tea facilities, while some offer the convenience of a private shower. With the Anne Frank House nearby and a tram stop just two minutes away, this hotel provides an excellent base for exploring the city's rich culture and dining options.",
+      "highlight": "Offers comfortable rooms with essential amenities and is located near the Anne Frank House and Nine Streets shopping area.",
+      "price": "$93/night",
+      "location": "Prinsengracht 816",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4513f",
+      "name": "Hotel The Neighbour's Magnolia",
+      "image": "https://static.cupid.travel/hotels/33353258.jpg",
+      "description": "Discover a charming dog-friendly haven in Amsterdam's cultural quarter at Hotel The Neighbour's Magnolia. Enjoy modern, cozy rooms adorned with pastel hues, featuring flat-screen TVs and options for balconies or private terraces. Start your day with a delightful continental breakfast, relax at the Honesty Bar, and take advantage of the hotel's convenient location near Vondelpark and major attractions, ensuring an unforgettable stay.",
+      "highlight": "Offers cozy, pastel-colored rooms with flat-screen TVs, balconies, and a dog-friendly atmosphere near Vondelpark.",
+      "price": "$110/night",
+      "location": "Willemsparkweg 205",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3ff96",
+      "name": "Hotel V Frederiksplein",
+      "image": "https://static.cupid.travel/hotels/621678334.jpg",
+      "description": "Hotel V Frederiksplein combines elegance and sustainability, featuring a cozy lounge with a unique round fireplace that invites relaxation and socializing. Recognized as the most eco-friendly hotel in the Netherlands, it offers stylish accommodations that prioritize comfort and the environment. Conveniently located near the Frederiksplein tram stop and just a short distance from attractions like The Heineken Experience and the Van Gogh Museum, this hotel is the perfect base for exploring Amsterdam.",
+      "highlight": "Offers eco-friendly accommodations with a cozy lounge featuring a unique round fireplace and convenient access to tram services.",
+      "price": "$111/night",
+      "location": "Weteringschans 136",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6ed67",
+      "name": "Hotel Amsterdam Inn",
+      "image": "https://static.cupid.travel/hotels/36439733.jpg",
+      "description": "Hotel Amsterdam Inn boasts a prime location just 200 meters from the lively Leidseplein, providing easy access to attractions like Museumplein within a short walk. The hotel features bright, simply furnished rooms with free Wi-Fi and private bathrooms, ensuring a comfortable stay. With a 24-hour front desk and nearby cafes and restaurants, guests can easily enjoy the vibrant atmosphere of Amsterdam.",
+      "highlight": "Hotel Amsterdam Inn offers bright, simply furnished rooms with free Wi-Fi and is located just 200 meters from Leidseplein.",
+      "price": "$94/night",
+      "location": "Leidsegracht 111",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-amsterdam-amazing-and-affordable",
+  "generatedAt": "2025-11-04T03:03:38.359Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

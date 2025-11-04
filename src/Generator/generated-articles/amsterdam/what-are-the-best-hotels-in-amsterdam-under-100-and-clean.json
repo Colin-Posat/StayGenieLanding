@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "hotels in Amsterdam under 100 dollars and clean",
+  "title": "What are the best hotels in Amsterdam under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in Amsterdam can be a daunting task, especially with the city's popularity among tourists driving prices up. This curated list not only highlights budget-friendly options but also ensures that cleanliness and comfort are prioritized, making your travel experience both enjoyable and stress-free. Discovering these hidden gems allows you to explore the enchanting canals and vibrant culture without breaking the bank.",
+  "intro": "Uncover the best budget-friendly hotels in Amsterdam that guarantee cleanliness and comfort for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp53b3d",
+      "name": "Hotel Flipper Amsterdam",
+      "image": "https://static.cupid.travel/hotels/178533561.jpg",
+      "description": "Hotel Flipper Amsterdam is ideally located in the Berlage Quarter, offering budget-friendly accommodations just steps from the Amstel River and close to the Amsterdam RAI Congress Centre. Guests can choose between rooms with shared or private bathrooms, all featuring LED TVs and free Wi-Fi, while the cozy lobby lounge provides a perfect retreat after a day of exploring. With 24-hour reception, complimentary internet access, and bicycle rentals available, this hotel ensures a convenient and enjoyable stay in the vibrant city of Amsterdam.",
+      "highlight": "Offers budget-friendly rooms with LED TVs, free Wi-Fi, 24-hour reception, and bicycle rentals in the Berlage Quarter.",
+      "price": "$89/night",
+      "location": "Borssenburgstraat 5",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpbbeb8",
+      "name": "I Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_735c86ca_z.jpg",
+      "description": "Experience a comfortable stay at I Hotel in Amsterdam North, where you can enjoy complimentary Wi-Fi and relax on the terrace with stunning views. Satisfy your appetite at the on-site coffee shop or snack bar, and unwind at the bar/lounge after a day of exploration. With air-conditioned rooms featuring flat-screen TVs and easy access to local attractions like Nemo Science Museum, this hotel offers a perfect blend of convenience and comfort.",
+      "highlight": "Offers complimentary Wi-Fi, a terrace with stunning views, and air-conditioned rooms with flat-screen TVs.",
+      "price": "$84/night",
+      "location": "Meeuwenlaan 120",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp379db",
+      "name": "Hotel Artemis Amsterdam",
+      "image": "https://static.cupid.travel/hotels/76561285.jpg",
+      "description": "Experience the blend of modern comfort and Dutch design at the Dutch Design Hotel Artemis, where stylish rooms showcase natural materials and curated Dutch art. Guests can enjoy a well-equipped gym and a serene waterside terrace for relaxation, while business travelers will appreciate the multifunctional meeting spaces just minutes from Amsterdam's city center. Enjoy complimentary WiFi and a selection of video-on-demand movies for an enhanced stay.",
+      "highlight": "Offers soundproof rooms, a well-equipped gym, and a serene waterside terrace, all under $100.",
+      "price": "$76/night",
+      "location": "John M. Keynesplein 2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8e21c",
+      "name": "Citiez Hotel Amsterdam",
+      "image": "https://static.cupid.travel/hotels/105738819.jpg",
+      "description": "Discover the unique allure of Citiez Hotel Amsterdam, where designer city-themed rooms boast panoramic windows, air conditioning, and luxurious rain showers. Enjoy the round-the-clock All Day Café, offering a delightful selection of freshly prepared meals and beverages in a chic atmosphere. Conveniently situated in the bustling Osdorpplein shopping center, this hotel provides easy access to shops, recreational areas, and public transport, ensuring an effortless travel experience.",
+      "highlight": "Offers soundproof rooms, designer city-themed accommodations, and a 24-hour café in a central shopping area.",
+      "price": "$73/night",
+      "location": "Osdorpplein 372A",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa7e1b",
+      "name": "Hotel Heye 130",
+      "image": "https://static.cupid.travel/hotels/93821638.jpg",
+      "description": "Hotel Heye 130 is ideally situated in the heart of Amsterdam, just steps away from iconic attractions like Leidseplein, Vondelpark, and the Anne Frank House. Guests can relax in comfortable, non-smoking rooms featuring modern amenities, and take advantage of on-site bike rentals to explore the city's enchanting streets. With friendly, multilingual staff and convenient services like a shared lounge and tour assistance, your stay promises to be both enjoyable and memorable.",
+      "highlight": "Offers comfortable, non-smoking rooms, on-site bike rentals, and multilingual staff in a central location near major attractions.",
+      "price": "$90/night",
+      "location": "Jan Pieter Heijestraat 130",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp820a1",
+      "name": "Amsterdam Teleport Hotel",
+      "image": "https://static.cupid.travel/hotels/506359780.jpg",
+      "description": "Experience the contemporary charm of Amsterdam Teleport Hotel, located near Sloterdijk Station. Enjoy convenient amenities such as private parking, rental bikes, and complimentary WiFi, along with comfortable rooms featuring private bathrooms, coffee machines, and kitchenettes. Start your mornings with breakfast at Watts Hub and satisfy your cravings with snacks from the vending machines for a truly enjoyable stay.",
+      "highlight": "Boasts clean rooms, discounted parking, bike-friendly facilities, and convenient access to Sloterdijk Station.",
+      "price": "$78/night",
+      "location": "Heathrowstraat 3-5",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-amsterdam-under-100-and-clean",
+  "generatedAt": "2025-11-04T03:04:19.965Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

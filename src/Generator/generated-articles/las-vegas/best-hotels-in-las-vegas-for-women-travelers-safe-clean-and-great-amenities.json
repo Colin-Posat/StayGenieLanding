@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "best hotels in Las Vegas for women travelers",
+  "title": "Best hotels in Las Vegas for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding the right hotel in Las Vegas can be overwhelming, especially for women travelers who prioritize safety and comfort. This list is valuable as it highlights accommodations that not only meet these essential criteria but also offer excellent amenities and a welcoming atmosphere. With the right information, travelers can enjoy their trip with peace of mind, knowing they have chosen a hotel tailored to their needs.",
+  "intro": "Discover the best hotels in Las Vegas that cater specifically to women travelers, ensuring a safe and enjoyable stay.",
+  "hotels": [
+    {
+      "id": "lp214a1",
+      "name": "The Westin Las Vegas Hotel & Spa",
+      "image": "https://static.cupid.travel/hotels/467533390.jpg",
+      "description": "Experience ultimate relaxation at The Westin Las Vegas Hotel & Spa, featuring a modern fitness center, a serene spa, and a heated outdoor pool to unwind after a day on the Strip. Savor exquisite American cuisine at Jake & Eli restaurant or enjoy 24-hour room service for a cozy meal in your room. Ideally located just a block from the Las Vegas Strip, this hotel combines luxury with convenience for an unforgettable stay.",
+      "highlight": "Offers a serene spa, heated outdoor pool, and 24-hour room service just a block from the Las Vegas Strip.",
+      "price": "$379/night",
+      "location": "160 E Flamingo Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp51429",
+      "name": "Waldorf Astoria Las Vegas",
+      "image": "https://static.cupid.travel/hotels/ex_38dd55c7_z.jpg",
+      "description": "Experience unparalleled luxury at Waldorf Astoria Las Vegas, a haven of sophistication. Indulge in rejuvenating treatments at the full-service spa, dine at exquisite on-site restaurants, or enjoy 24-hour room service. Relax in elegantly appointed guestrooms featuring plush bedding and deep soaking bathtubs, all while staying connected with complimentary internet.",
+      "highlight": "Boasts a full-service spa, health club, and elegantly appointed guestrooms with deep soaking bathtubs and complimentary internet.",
+      "price": "$855/night",
+      "location": "3752 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp27e66",
+      "name": "Planet Hollywood Resort & Casino",
+      "image": "https://static.cupid.travel/hotels/263737469.jpg",
+      "description": "Experience the epitome of luxury at Planet Hollywood Las Vegas, where guest rooms feature 42-inch plasma-screen TVs and unique movie memorabilia for an unforgettable stay. Delight your taste buds at nine diverse on-site restaurants, including Gordon Ramsay's BurGR and the stylish Strip House. With two outdoor pools, a full-service spa, and vibrant evening entertainment, this hotel is the ultimate destination for relaxation and excitement on the Las Vegas Strip.",
+      "highlight": "Offers luxurious guest rooms with plasma-screen TVs, nine diverse restaurants, two outdoor pools, and a full-service spa.",
+      "price": "$658/night",
+      "location": "3667 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f30d3",
+      "name": "Signature Affordable Luxury",
+      "image": "https://static.cupid.travel/hotels/ex_e71c0b41_z.jpg",
+      "description": "Experience the epitome of luxury at this Las Vegas aparthotel, featuring four outdoor swimming pools and a vibrant casino. With seven diverse restaurants and lounges, along with 24-hour room service, your culinary desires will be expertly catered to. Enjoy convenient amenities like a 24-hour business center, complimentary self-parking, and a roundtrip airport shuttle for an effortless getaway.",
+      "highlight": "Offers four outdoor pools, a vibrant casino, and 24-hour room service alongside a 24-hour fitness center and concierge services.",
+      "price": "$391/night",
+      "location": "135 E Harmon Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3fcbc",
+      "name": "Jet Luxury Resorts @ The Signature Condo Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_cd729f28_z.jpg",
+      "description": "Experience unparalleled luxury at Jet Luxury Resorts @ The Signature Condo Hotel, where you can unwind with rejuvenating massages at the full-service spa and enjoy three stunning outdoor pools. Delight your palate with American cuisine at Delights Gourmet, relax with a drink at the poolside bar, and retreat to upscale accommodations featuring private spa tubs and premium bedding. Book your stay now for an unforgettable Las Vegas getaway!",
+      "highlight": "Offers a full-service spa, three outdoor pools, and upscale accommodations with private spa tubs and premium bedding.",
+      "price": "$164/night",
+      "location": "145 E Harmon Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65575e0b",
+      "name": "StripViewSuites at Vdara",
+      "image": "https://static.cupid.travel/hotels/ex_2122f02a_z.jpg",
+      "description": "Discover the ultimate luxury at StripViewSuites at Vdara, located in the vibrant heart of Las Vegas. Enjoy the refreshing outdoor pool, mingle at the complimentary reception, and indulge in gourmet dining at two on-site restaurants, along with cozy coffee shops. Each of the 1,495 modern rooms offers essential amenities, creating a perfect home away from home for your unforgettable getaway.",
+      "highlight": "Boasts modern rooms with essential amenities, an outdoor pool, gourmet dining, and free valet service in a vibrant location.",
+      "price": "$336/night",
+      "location": "2600 W Harmon Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-las-vegas-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T03:08:06.099Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

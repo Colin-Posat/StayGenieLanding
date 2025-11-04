@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "cheap safe clean hotels in Barcelona",
+  "title": "Best cheap, safe, and clean hotels in Barcelona",
+  "excerpt": "Finding affordable accommodations that are both safe and clean in a bustling city like Barcelona can be a daunting task. With countless options available, travelers often struggle to sift through reviews and recommendations to identify the best choices. This curated list not only highlights budget-friendly hotels but also ensures peace of mind for travelers seeking a comfortable stay in this vibrant city.",
+  "intro": "Discover the top budget-friendly hotels in Barcelona that prioritize safety and cleanliness without breaking the bank.",
+  "hotels": [
+    {
+      "id": "lp7bb7a",
+      "name": "Hostal Balmes Centro",
+      "image": "https://static.cupid.travel/hotels/69380276.jpg",
+      "description": "Hostal Balmes Centro offers a prime location just steps from Barcelona’s famous Paseo de Gracia and Gaudi's la Pedrera, providing comfortable accommodations equipped with modern amenities like flat-screen TVs and fridges. Guests can enjoy complimentary WiFi and 24-hour reception while exploring nearby tapas bars and arranging exciting excursions to local landmarks. With convenient access to public transportation and the airport, your stay promises to be both enjoyable and hassle-free.",
+      "highlight": "Hostal Balmes Centro offers clean rooms, a shared lounge, and a tour desk, ensuring a comfortable and enjoyable stay.",
+      "price": "$138/night",
+      "location": "Balmes 83, 1-2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp63301",
+      "name": "Hostal Delfos",
+      "image": "https://static.cupid.travel/hotels/7808918.jpg",
+      "description": "Hostal Delfos offers an unbeatable central location in Barcelona, just a 3-minute walk from the lively Ramblas and Plaza Catalunya. Guests can choose from cozy rooms with either private or shared bathrooms, complete with heating and fans for added comfort. With the historic Gothic Quarter nearby and a convenient tour desk to help plan your adventures, this charming hostal is the perfect base for exploring the city's rich culture.",
+      "highlight": "Hostal Delfos provides cozy rooms with private or shared bathrooms, a tour desk, and a central location near major attractions.",
+      "price": "$166/night",
+      "location": "Ronda De Sant Antoni, 61",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp56bf3",
+      "name": "Hostal Mont Thabor",
+      "image": "https://static.cupid.travel/hotels/98312036.jpg",
+      "description": "Hostal Mont Thabor places you in the vibrant heart of Barcelona, just a short stroll from the famous Boqueria Market. Enjoy modern rooms with balconies and city views, along with amenities like free Wi-Fi and a 24-hour reception. With nearby attractions such as the Barcelona Cathedral and MACBA, this guest house combines comfort and convenience for an unforgettable stay.",
+      "highlight": "Offers modern rooms with balconies, free Wi-Fi, and a 24-hour reception in the heart of Barcelona.",
+      "price": "$84/night",
+      "location": "La Rambla, 86",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6fa86",
+      "name": "Hostal Aslyp 114",
+      "image": "https://static.cupid.travel/hotels/48398524.jpg",
+      "description": "Hostal Aslyp 114 is ideally situated in the vibrant L'Eixample neighborhood of Barcelona, offering modern amenities and comfortable rooms with city views. Guests can enjoy a delicious continental breakfast and take advantage of easy access to iconic attractions like Plaza Catalunya and the Sagrada Familia Cathedral. With a shared lounge and nearby restaurants, shops, and bars, this hotel is perfect for those looking to explore the city's lively culture.",
+      "highlight": "Offers clean, modern rooms, a shared lounge, and convenient access to Barcelona's top attractions in the L'Eixample neighborhood.",
+      "price": "$193/night",
+      "location": "Avenida Josep Tarradellas, 114",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp463fa",
+      "name": "Hostal Girona",
+      "image": "https://static.cupid.travel/hotels/182979129.jpg",
+      "description": "Nestled in the historic heart of Barcelona, Hostal Girona offers a prime location just steps away from iconic sites like Passeig de Gràcia and Plaça Catalunya. This charming guest house features modern amenities including free Wi-Fi, air-conditioned rooms, and both en suite and shared bathrooms, all housed within a beautifully preserved 19th-century building. Experience the unique blend of history and contemporary comfort for an unforgettable stay in this vibrant city.",
+      "highlight": "Offers air-conditioned rooms, free Wi-Fi, and a central location near Passeig de Gràcia and Plaça Catalunya.",
+      "price": "$298/night",
+      "location": "Calle Girona 24",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6501b",
+      "name": "Hostal Martinval",
+      "image": "https://static.cupid.travel/hotels/43525008.jpg",
+      "description": "Hostal Martinval is ideally situated in the vibrant Eixample neighborhood, just steps from the bustling Diagonal and Passeig de Gracia avenues, making it easy to explore the city via the nearby Verdaguer metro station. Guests can choose from modern rooms or apartments, all featuring flat-screen TVs and free Wi-Fi, with select accommodations offering private balconies. With iconic attractions like La Pedrera and Sagrada Familia within walking distance, this hotel provides a perfect base for immersing yourself in Barcelona's rich culture.",
+      "highlight": "Hostal Martinval offers modern rooms with flat-screen TVs, free Wi-Fi, and convenient access to the Verdaguer metro station.",
+      "price": "$199/night",
+      "location": "Carrer de Bruc 117",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-barcelona",
+  "generatedAt": "2025-11-04T03:05:00.069Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "best pet friendly hotels in Rome",
+  "title": "What are the best pet-friendly hotels in Rome",
+  "excerpt": "Finding pet-friendly hotels in Rome can be a daunting task, as many establishments still cater primarily to human guests. This list is invaluable for travelers seeking a welcoming environment for their furry companions, ensuring that both pets and their owners can enjoy the beauty of the Eternal City together. With the right accommodations, you can create unforgettable memories without leaving your beloved pet behind.",
+  "intro": "Explore the top pet-friendly hotels in Rome that offer both comfort and convenience for you and your four-legged friend.",
+  "hotels": [
+    {
+      "id": "lp353aa",
+      "name": "River Chateau Hotel",
+      "image": "https://static.cupid.travel/hotels/25761767.jpg",
+      "description": "Experience the elegance of the River Chateau Hotel, where each sophisticated room features luxurious fabrics and stunning marble details, along with modern amenities such as a minibar and flat-screen TV. Perfectly located near the scenic Tiber River and the iconic Ponte Milvio bridge, the hotel offers easy access to Rome's main attractions. Begin your day with a delightful buffet breakfast and unwind at the chic bar for a truly memorable stay in the heart of the Eternal City.",
+      "highlight": "Offers pet-friendly accommodations with elegant rooms, room service, a terrace, and proximity to Rome's scenic attractions.",
+      "price": "$164/night",
+      "location": "Via Flaminia 520",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp47354",
+      "name": "Marta Inn",
+      "image": "https://static.cupid.travel/hotels/135722694.jpg",
+      "description": "At Marta B&B, enjoy luxurious accommodations featuring modern amenities such as LCD TVs and private bathrooms, ensuring your stay is both comfortable and stylish. Ideally situated near the stunning Santa Maria Maggiore Basilica, the hotel offers easy access to Rome's key attractions, with the Cavour Metro station and Termini Station just a short walk away. Experience the perfect blend of luxury, convenience, and rich history in the heart of the Eternal City.",
+      "highlight": "Offers pet-friendly accommodations along with family rooms and a serene Japanese garden for relaxation.",
+      "price": "$233/night",
+      "location": "Largo S. Alfonso, 5",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2b699",
+      "name": "Best Western Hotel Rivoli",
+      "image": "https://static.cupid.travel/hotels/255408903.jpg",
+      "description": "Experience elegance at Best Western Hotel Rivoli, where luxurious rooms feature air conditioning, complimentary Wi-Fi, and marble bathrooms, with select accommodations offering widescreen TVs and minibars. Enjoy a delightful breakfast buffet and unwind at the stylish bar and grill with a variety of international drinks. Nestled in Rome's prestigious Parioli district, the hotel is conveniently located near Villa Borghese and offers easy access to public transport for effortless city exploration.",
+      "highlight": "Offers pet-friendly accommodations with soundproof family rooms and convenient access to public transport in Rome's Parioli district.",
+      "price": "$125/night",
+      "location": "Via Torquato Taramelli 7",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2a23a",
+      "name": "Hotel Royal Court",
+      "image": "https://static.cupid.travel/hotels/241495438.jpg",
+      "description": "Discover the elegance of the Hotel Royal Court, a charming boutique hotel in Rome featuring exquisite Art-Nouveau design with luxurious wood flooring and period furnishings. Conveniently located just 400 meters from Termini Station, guests enjoy easy access to public transport and iconic landmarks like the Coliseum. After a day of exploration, retreat to our tranquil garden oasis, a serene escape exclusively for our guests.",
+      "highlight": "Offers pet-friendly accommodations with a tranquil garden and convenient access to public transport and landmarks.",
+      "price": "$164/night",
+      "location": "Via Marghera 51",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1dc98",
+      "name": "Hotel Duca d'Alba",
+      "image": "https://static.cupid.travel/hotels/ex_6298fc2a_z.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Hotel Duca d'Alba, ideally situated in the heart of Rome. Enjoy modern amenities such as complimentary Wi-Fi, concierge services, and room service, along with relaxing spaces like the bar/lounge. Each guestroom features luxurious bathrooms, minibars, and LCD televisions, all just a short stroll from iconic attractions like the Roman Forum and the Colosseum.",
+      "highlight": "Offers pet-friendly accommodations with modern amenities, including concierge services and tour assistance, in the heart of Rome.",
+      "price": "$131/night",
+      "location": "Via Leonina 14",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp36305",
+      "name": "Hotel Raganelli",
+      "image": "https://static.cupid.travel/hotels/575420951.jpg",
+      "description": "Hotel Raganelli promises a sophisticated getaway with its elegant rooftop terrace and attentive staff, ensuring a memorable experience. Located just a short walk from the Ergife Congress Centre and a few kilometers from the Vatican, guests can enjoy modern amenities in their comfortable rooms. Start your day with a delicious buffet breakfast and unwind in the serene roof garden, all while soaking in stunning views of the city.",
+      "highlight": "Offers pet-friendly accommodations with family rooms and a scenic rooftop terrace featuring stunning city views.",
+      "price": "$87/night",
+      "location": "Via Aurelia 734/8",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-rome",
+  "generatedAt": "2025-11-04T03:02:03.638Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

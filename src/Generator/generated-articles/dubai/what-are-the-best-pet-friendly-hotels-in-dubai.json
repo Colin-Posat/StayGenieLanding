@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "best pet friendly hotels in Dubai",
+  "title": "What are the best pet-friendly hotels in Dubai",
+  "excerpt": "Finding pet-friendly hotels in Dubai can be a daunting task, as many accommodations cater primarily to human guests. This list is valuable because it highlights the top options that welcome your furry companions, ensuring a comfortable stay for both you and your pet. With the right information, you can make your trip to this vibrant city enjoyable while keeping your beloved pet by your side.",
+  "intro": "Discover the best pet-friendly hotels in Dubai, where both you and your furry friends can enjoy a luxurious stay.",
+  "hotels": [
+    {
+      "id": "lp5f084",
+      "name": "Jumeirah Creekside Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_10433ed3_z.jpg",
+      "description": "Experience the ultimate relaxation at Jumeirah Creekside Dubai, where luxurious spa amenities offer a range of massages, body treatments, and facials. Enjoy a recreational paradise with two outdoor swimming pools, a thrilling water park, and tennis courts for endless fun. Delight in international cuisine at Nomad, or relax with 24-hour room service and refreshing cocktails at the bar or poolside.",
+      "highlight": "Jumeirah Creekside Dubai provides pet bowls, a luxurious spa, and a rooftop terrace for enhanced guest comfort.",
+      "price": "$450/night",
+      "location": "Road Al Garhoud Deira",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp418e6",
+      "name": "Jumeirah Living - World Trade Centre Residence",
+      "image": "https://static.cupid.travel/hotels/ex_4020b6da_z.jpg",
+      "description": "Experience unparalleled luxury at Jumeirah Living - World Trade Centre Residence, where you can relax in the steam room, work out in the state-of-the-art fitness center, or enjoy a drink at the stylish bar/lounge. With complimentary Wi-Fi, concierge services, and room service, your stay is designed for convenience and comfort. Ideal for both business and leisure travelers, the hotel features a 24-hour business center, meeting rooms, and easy access to Dubai's top attractions.",
+      "highlight": "Offers pet bowls and dog exercise areas alongside luxury amenities like a steam room and fitness center.",
+      "price": "$342/night",
+      "location": "2nd Zabeel Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6c79d",
+      "name": "DoubleTree by Hilton Dubai - Jumeirah Beach",
+      "image": "https://static.cupid.travel/hotels/ex_ea033a68_z.jpg",
+      "description": "Discover a luxurious getaway at DoubleTree by Hilton Dubai - Jumeirah Beach, where stunning beachfront views and indulgent relaxation await. Enjoy rejuvenating treatments at the exquisite spa, take a dip in one of two outdoor pools, or savor culinary delights at the gourmet Gastro Kitchen. With versatile meeting rooms and stylish air-conditioned accommodations featuring private balconies, this hotel strikes the perfect balance between comfort and sophistication for both leisure and business travelers.",
+      "highlight": "Offers pet bowls, a private beach, and a full spa for a luxurious stay with your furry companions.",
+      "price": "$482/night",
+      "location": "Jumeirah Beach Residence - The Walk",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp83714",
+      "name": "Hilton Garden Inn Dubai Al Mina",
+      "image": "https://static.cupid.travel/hotels/ex_8444a81c_z.jpg",
+      "description": "Experience a blend of relaxation and convenience at Hilton Garden Inn Dubai Al Mina, featuring an inviting indoor pool and a state-of-the-art fitness center for your leisure needs. Savor delicious international dishes at the Garden Grille Restaurant or unwind in the bar/lounge with 24-hour room service. Enjoy complimentary Wi-Fi, a 24-hour business center, and a shuttle service to the beach and shopping, ensuring a seamless stay.",
+      "highlight": "Offers pet-friendly accommodations, an indoor pool, and a 24-hour fitness center for a comfortable stay.",
+      "price": "$179/night",
+      "location": "Al Mina Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa6a35",
+      "name": "Al Habtoor Polo Resort",
+      "image": "https://static.cupid.travel/hotels/ex_bc8ce4ed_z.jpg",
+      "description": "Experience the ultimate luxury at Al Habtoor Polo Resort in Dubai, where you can indulge in rejuvenating massages at the full-service spa, play on outdoor tennis courts, or unwind by the pool and sauna. Delight your palate with a selection of three exquisite restaurants, 24-hour room service, and a cozy coffee shop for quick snacks. With over 800 square meters of versatile event space, this resort is perfect for hosting memorable meetings and conferences.",
+      "highlight": "Boasts pet sitting services, a full-service spa, and nearby horse riding for an enriching stay at Al Habtoor Polo Resort.",
+      "price": "$300/night",
+      "location": "Wadi Al Safa 5, Emirates Road 611",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8371a",
+      "name": "Hilton Garden Inn Dubai Al Muraqabat",
+      "image": "https://static.cupid.travel/hotels/ex_f056c234_z.jpg",
+      "description": "Discover a refreshing stay at Hilton Garden Inn Dubai Al Muraqabat, featuring an outdoor pool and a 24-hour fitness center. Savor international dishes at the Garden Grille Restaurant, or unwind at the poolside bar with your favorite drink. With convenient amenities like a 24-hour business center, airport shuttle, and close proximity to shopping and beaches, this hotel ensures a comfortable and enjoyable experience in the heart of Dubai.",
+      "highlight": "Offers pet-friendly accommodations alongside amenities like an outdoor pool, 24-hour fitness center, and free beach shuttle service.",
+      "price": "$149/night",
+      "location": "Abu Baker Al Siddique Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-dubai",
+  "generatedAt": "2025-11-04T02:57:31.737Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}
