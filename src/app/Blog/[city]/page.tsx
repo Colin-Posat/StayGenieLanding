@@ -5,13 +5,15 @@ import type { Metadata } from 'next'
 
 export const dynamic = 'force-static'
 
-// ✅ Generate static paths
+// Generate static paths
 export function generateStaticParams() {
   return getAllCities().map((city) => ({ city }))
 }
 
-// ✅ Generate dynamic metadata for each city
-export async function generateMetadata({ params }: { params: { city: string } }): Promise<Metadata> {
+// Generate dynamic metadata for each city
+export async function generateMetadata(
+  { params }: { params: { city: string } }
+): Promise<Metadata> {
   const cityName = params.city.replace(/-/g, ' ')
   const posts = getCityPosts(params.city)
 
@@ -21,7 +23,7 @@ export async function generateMetadata({ params }: { params: { city: string } })
     guideCount > 0
       ? `Discover ${guideCount} curated hotel guides for ${cityName}, including boutique stays, rooftop bars, and affordable hotels.`
       : `Explore hotel travel guides and recommendations for ${cityName}. Find the best places to stay.`
-  
+
   return {
     title,
     description,
@@ -40,8 +42,9 @@ export async function generateMetadata({ params }: { params: { city: string } })
   }
 }
 
-export default async function CityPage({ params }: { params: Promise<{ city: string }> }) {
-  const { city } = await params
+// 🚫 No Promise here; params is a plain object
+export default function CityPage({ params }: { params: { city: string } }) {
+  const { city } = params
   const posts = getCityPosts(city)
   const cityName = city.replace(/-/g, ' ')
 

@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "best dog friendly hotels in Tokyo",
+  "title": "What are the best dog-friendly hotels in Tokyo",
+  "excerpt": "Finding dog-friendly hotels in Tokyo can be a daunting task due to the city's unique blend of modernity and tradition, which often leaves little room for furry companions. This list simplifies your search, showcasing accommodations where both you and your pet can enjoy a comfortable stay together. With the right information, you can explore the vibrant streets of Tokyo without leaving your beloved dog behind.",
+  "intro": "Discover the top dog-friendly hotels in Tokyo that offer the perfect blend of comfort and convenience for both you and your four-legged friend.",
+  "hotels": [
+    {
+      "id": "lp4b5e0",
+      "name": "Shangri-La Tokyo",
+      "image": "https://static.cupid.travel/hotels/29854776.jpg",
+      "description": "Experience unparalleled luxury at Shangri-La Tokyo, where elegant rooms offer breathtaking views of the Imperial Palace, Tokyo Sky Tree, and even Mount Fuji. Enjoy exceptional amenities including a 20-meter indoor pool, a rejuvenating spa, and exclusive access to the Horizon Club lounge. With convenient access to major transportation and personalized service, your stay will be both relaxing and seamless.",
+      "highlight": "Offers pet-friendly accommodations along with a 20-meter indoor pool and access to a rejuvenating spa.",
+      "price": "$1736/night",
+      "location": "Marunouchi Trust Tower Main",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3e709",
+      "name": "The Peninsula Tokyo",
+      "image": "https://static.cupid.travel/hotels/11862135.jpg",
+      "description": "Experience the elegance of The Peninsula Tokyo, where luxurious accommodations blend traditional Japanese designs with modern amenities. Unwind at the world-class spa, enjoy state-of-the-art fitness facilities, and indulge in diverse culinary delights, including high tea and cocktails with stunning views from the 24th floor. Book your stay to embrace the ultimate in luxury and hospitality.",
+      "highlight": "Offers pet-friendly accommodations alongside a world-class spa and a heated pool for ultimate relaxation and comfort.",
+      "price": "$1207/night",
+      "location": "1-8-1 Yuraku-cho",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp50272",
+      "name": "Hotel Villa Fontaine Tokyo-Jimbocho",
+      "image": "https://static.cupid.travel/hotels/85560954.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Jimbocho boasts a prime location just a two-minute stroll from Jimbocho Subway Station, making it an ideal base for exploring nearby attractions like Tokyo Dome and Nihon Budokan. The rooms are designed in soothing natural tones and come equipped with free wired internet, flat-screen TVs, and en suite bathrooms stocked with complimentary toiletries. Guests can take advantage of convenient amenities such as free WiFi, a coin-operated launderette, laptop rentals, and free luggage storage for a hassle-free stay in the heart of Tokyo.",
+      "highlight": "Hotel Villa Fontaine Tokyo-Jimbocho offers pet-friendly accommodations, free WiFi, and convenient amenities in a central location.",
+      "price": "$176/night",
+      "location": "1-30 Jimbou-cho, Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5031d",
+      "name": "Hotel Villa Fontaine Tokyo-Otemachi",
+      "image": "https://static.cupid.travel/hotels/166023651.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Otemachi combines modern comfort with convenience, featuring stylish rooms equipped with free wired internet, flat-screen TVs, and essential amenities like fridges and electric kettles. Located just a five-minute walk from JR Kanda Train Station, guests can easily explore nearby attractions, including the Imperial Palace and Asakusa area. Enjoy additional facilities such as a coin-launderette and 24-hour front desk services for a hassle-free stay in the heart of Tokyo.",
+      "highlight": "Offers dog-friendly accommodations with modern amenities and convenient access to Tokyo's attractions, including the Imperial Palace.",
+      "price": "$124/night",
+      "location": "1-8-8 Uchi Kanda, Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50322",
+      "name": "Hotel Villa Fontaine Tokyo-Kudanshita",
+      "image": "https://static.cupid.travel/hotels/460269065.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Kudanshita combines modern amenities with a prime location, just a short stroll from Jimbocho Subway Station. Guests will enjoy stylish rooms featuring flat-screen TVs, fridges, and complimentary toiletries, while additional services like free luggage storage and a daily breakfast buffet enhance the overall experience. This hotel offers a perfect blend of comfort and convenience for travelers exploring Tokyo.",
+      "highlight": "Offers pet-friendly rooms, free luggage storage, and a daily breakfast buffet in a central Tokyo location.",
+      "price": "$182/night",
+      "location": "2-4-4 Nishi Kanda Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50217",
+      "name": "Hotel Villa Fontaine Tokyo-Nihombashi Mitsukoshimae",
+      "image": "https://static.cupid.travel/hotels/165968667.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Nihombashi Mitsukoshimae offers a prime location just a short walk from Mitsukoshi-mae Subway Station, making it easy to explore attractions like Tsukiji Fish Market and Akihabara. Guests can unwind in cozy rooms adorned in natural tones, equipped with modern amenities such as flat-screen TVs and mini fridges. To enhance your stay, the hotel provides in-room massage services, free luggage storage, and convenient facilities like a launderette and parking options.",
+      "highlight": "Offers dog-friendly accommodations with modern amenities, including in-room massage services and convenient laundry facilities.",
+      "price": "$98/night",
+      "location": "1-7-6 Nihonbashi Honcho",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-tokyo",
+  "generatedAt": "2025-11-04T02:38:10.632Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

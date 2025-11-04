@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "hotels for families with kids in Bangkok",
+  "title": "Amazing hotels for families with kids in Bangkok",
+  "excerpt": "Finding the perfect hotel for families with kids in a bustling city like Bangkok can be a daunting task. With so many options to choose from, it is crucial to identify accommodations that prioritize comfort, safety, and family-friendly amenities. This curated list of amazing hotels will save you time and ensure your family has a memorable stay in Thailand's vibrant capital.",
+  "intro": "Discover the best family-friendly hotels in Bangkok that cater to the needs of both parents and children, ensuring a delightful travel experience for everyone.",
+  "hotels": [
+    {
+      "id": "lp1d7a6",
+      "name": "Novotel Bangkok on Siam Square",
+      "image": "https://static.cupid.travel/hotels/567163192.jpg",
+      "description": "Novotel Bangkok on Siam Square boasts luxurious amenities, including a large outdoor pool, sauna, day spa, and a fitness center with diverse activity classes. Ideally located just a minute from Siam BTS Skytrain Station, guests have easy access to top shopping destinations like MBK and Siam Paragon. Savor exquisite dishes at The SQUARE restaurant, where international and Asian cuisines come together for a delightful dining experience.",
+      "highlight": "Novotel Bangkok on Siam Square includes family rooms, a kids outdoor play area, and a variety of activity classes.",
+      "price": "$142/night",
+      "location": "392-44 Siam Square Soi 6 Rama",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7105d",
+      "name": "Le Meridien Suvarnabhumi, Bangkok Golf Resort and Spa",
+      "image": "https://static.cupid.travel/hotels/602250798.jpg",
+      "description": "Experience luxury at Le Meridien Suvarnabhumi, Bangkok Golf Resort and Spa, where non-smoking rooms feature modern furnishings and balconies with breathtaking views of the golf course. Enjoy exceptional amenities, including an 18-hole golf course, a wellness spa, and diverse dining options, all while being conveniently located near the airport and city center. With complimentary shuttle services and a family-friendly atmosphere, this resort promises a memorable getaway for all.",
+      "highlight": "Boasts a playground, kids meals, and an infinity pool alongside luxurious accommodations and convenient airport access.",
+      "price": "$269/night",
+      "location": "789 Moo 14, Bangna-trad Road (Km 10.5)",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp682dc",
+      "name": "Holiday Inn Bangkok Sukhumvit, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/416506323.jpg",
+      "description": "Experience modern comfort at Holiday Inn Bangkok Sukhumvit, where guests can enjoy stylish rooms boasting breathtaking city views and complimentary WiFi. Perfectly located just a short walk from the Prompong BTS and Sukhumvit MRT stations, the hotel provides effortless access to premier shopping destinations and the airport. Delight in diverse dining options, from local Thai to Indian cuisine, and unwind at the outdoor lap pool or 24-hour fitness center for a refreshing escape during your stay.",
+      "highlight": "Offers kids meals, an infinity pool, and a rooftop garden for family-friendly enjoyment.",
+      "price": "$179/night",
+      "location": "1 Sukhumvit 22",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp42298",
+      "name": "Citadines Sukhumvit 8 Bangkok",
+      "image": "https://static.cupid.travel/hotels/527511090.jpg",
+      "description": "Citadines Sukhumvit 8 offers a prime location in Khlong Toei, featuring affordable lodging with kitchenettes and free WiFi, along with a complimentary 24-hour tuk-tuk service to Nana BTS Skytrain Station. The elegantly decorated service apartments provide spacious living areas and modern amenities, ensuring a comfortable stay. Guests can indulge in traditional Thai massages, stay active at the fitness center, or relax by the rooftop pool while enjoying stunning views of Bangkok's skyline.",
+      "highlight": "Offers family rooms, a rooftop pool, and complimentary tuk-tuk service to enhance your stay in Bangkok.",
+      "price": "$70/night",
+      "location": "77/7 Sukhumvit 8, Sukhumvit Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f3d5",
+      "name": "The Sukhothai Bangkok",
+      "image": "https://static.cupid.travel/hotels/212328424.jpg",
+      "description": "Discover unparalleled luxury at The Sukhothai Bangkok, where spacious rooms feature elegant teakwood furnishings and Thai silks, complemented by modern amenities like flat-screen TVs and Nespresso coffee makers. Unwind at Spa Botanica with rejuvenating treatments, stay active in the 24-hour fitness center, or enjoy a game of tennis and squash. Indulge your palate at the renowned Celadon Restaurant, celebrated for its Thai cuisine, and relish an exquisite dining experience at La Scala for a perfect blend of relaxation and culinary delight.",
+      "highlight": "Offers spacious rooms, kids meals, a saltwater pool, and nearby spa services for family-friendly luxury.",
+      "price": "$317/night",
+      "location": "13/3 South Sathorn Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp60885",
+      "name": "Grande Centre Point Hotel Terminal 21",
+      "image": "https://static.cupid.travel/hotels/ex_caa3af53_edited_a9f4_z.jpg",
+      "description": "Experience luxury and convenience at the Grande Centre Point Hotel Terminal 21, situated in the vibrant heart of Bangkok. Indulge in relaxation at the full-service spa or take a dip in the outdoor pool, while culinary enthusiasts will appreciate the diverse dining options, including BlueSpice and a poolside bar. With 498 well-appointed rooms featuring modern amenities and complimentary Wi-Fi, your stay promises both comfort and entertainment.",
+      "highlight": "Features an outdoor pool, arcade, and full-service spa, providing entertainment and relaxation for families with kids.",
+      "price": "$194/night",
+      "location": "2, Sukhumvit Soi 19 (Wattana)",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-bangkok",
+  "generatedAt": "2025-11-04T02:37:23.861Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

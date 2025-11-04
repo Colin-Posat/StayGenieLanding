@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "affordable clean hotels in Singapore with breakfast included",
+  "title": "What are the affordable, clean hotels in Singapore with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in Singapore that offer breakfast can be quite challenging, especially with the city's bustling tourism scene. This curated list not only highlights budget-friendly options but also ensures that you start your day on the right note with a hearty meal included. By focusing on these hotels, travelers can enjoy both comfort and convenience without breaking the bank.",
+  "intro": "Discover the best affordable and clean hotels in Singapore that come with breakfast included, ensuring a delightful start to your day in this vibrant city.",
+  "hotels": [
+    {
+      "id": "lp59ddb",
+      "name": "Hotel 81 Selegie",
+      "image": "https://static.cupid.travel/hotels/19197288.jpg",
+      "description": "Hotel 81 Selegie is ideally situated in the vibrant Bugis District, providing easy access to Rochor MRT Station and nearby attractions like Little India and the National Museum of Singapore. Guests can relax in air-conditioned rooms featuring flat-screen TVs and complimentary WiFi, while convenient services such as a tour desk and laundry facilities enhance the overall experience. Enjoy a comfortable and hassle-free stay in the heart of Singapore.",
+      "highlight": "Offers air-conditioned rooms with flat-screen TVs, complimentary WiFi, family rooms, and breakfast included in the vibrant Bugis District.",
+      "price": "$76/night",
+      "location": "161 Selegie Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcd",
+      "name": "Hotel 81 Geylang",
+      "image": "https://static.cupid.travel/hotels/19165343.jpg",
+      "description": "Experience a tranquil retreat at Hotel 81 Geylang, perfectly located near the Singapore Sports Hub and Kallang Wave Mall, with easy access to the Aljunied MRT Station for seamless city exploration. Relax in cozy rooms featuring air conditioning, en suite bathrooms, and cable TV, while our 24-hour front desk ensures all your needs are met. Enjoy a memorable stay filled with vibrant shopping and dining options right at your doorstep.",
+      "highlight": "Offers affordable rooms with air conditioning, en suite bathrooms, Wi-Fi, and complimentary breakfast near MRT access.",
+      "price": "$57/night",
+      "location": "20 Lorong 16 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59ddc",
+      "name": "Hotel 81 Lucky",
+      "image": "https://static.cupid.travel/hotels/156153482.jpg",
+      "description": "Hotel 81 Lucky is a tranquil retreat located just 650 meters from Aljunied MRT Station, offering easy access to popular attractions like OneKM Shopping Mall and the Singapore Sports Hub. Guests can enjoy modern comforts in well-furnished rooms equipped with tea and coffee makers and flat-screen TVs, along with complimentary WiFi and a 24-hour front desk for added convenience. Experience the ideal balance of relaxation and accessibility during your stay in Singapore.",
+      "highlight": "Provides clean accommodations with complimentary breakfast, Wi-Fi, and modern amenities, situated 650 meters from Aljunied MRT Station.",
+      "price": "$57/night",
+      "location": "23 Lorong 20 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcc",
+      "name": "Hotel 81 Orchid",
+      "image": "https://static.cupid.travel/hotels/149395357.jpg",
+      "description": "Hotel 81 Orchid offers a prime location in Singapore's vibrant Red Light District, just moments from popular attractions like Bugis Street and Suntec City. Guests can unwind in cozy, air-conditioned rooms featuring modern amenities, including a flat-screen TV and free WiFi. With multilingual staff available 24/7, you can enjoy a seamless and comfortable stay while exploring the city's rich culture.",
+      "highlight": "Hotel 81 Orchid offers clean, air-conditioned rooms with breakfast included and 24/7 multilingual staff for a comfortable stay.",
+      "price": "$80/night",
+      "location": "21 Lorong 8",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5f62d",
+      "name": "Hotel 81 Premier Hollywood",
+      "image": "https://static.cupid.travel/hotels/74596393.jpg",
+      "description": "Hotel 81 Premier Hollywood is perfectly situated in the lively Geylang District, offering easy access to the Singapore Sports Hub and Kallang Wave Mall, along with convenient proximity to Mountbatten MRT Station. Guests can enjoy modern amenities in their rooms, including a 40-inch LED TV, USB charging docks, and complimentary WiFi. Delight your palate with an array of local dishes, from Peranakan to Malay, and experience a memorable stay in the heart of Singapore.",
+      "highlight": "Offers complimentary breakfast, free WiFi, and modern amenities including a 40-inch LED TV and USB charging docks.",
+      "price": "$65/night",
+      "location": "61 Lorong 8 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59de6",
+      "name": "Value Hotel Thomson",
+      "image": "https://static.cupid.travel/hotels/318688978.jpg",
+      "description": "Value Hotel Thomson features a refreshing outdoor swimming pool and a convenient in-house restaurant, perfect for relaxation and dining. Located just a short stroll from Novena MRT station, it offers easy access to Singapore's attractions and business hubs. Guests can enjoy elegantly decorated air-conditioned rooms with Internet TVs, along with amenities like a fitness center and a 24-hour front desk, ensuring a comfortable and enjoyable stay.",
+      "highlight": "Value Hotel Thomson provides breakfast included, an outdoor swimming pool, and a fitness center for a comfortable stay.",
+      "price": "$84/night",
+      "location": "592 Balestier Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-singapore-with-breakfast-included",
+  "generatedAt": "2025-11-04T02:38:56.517Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

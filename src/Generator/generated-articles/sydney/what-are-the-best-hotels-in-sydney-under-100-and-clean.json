@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "hotels in Sydney under 100 dollars and clean",
+  "title": "What are the best hotels in Sydney under $100 and clean",
+  "excerpt": "Finding affordable hotels in Sydney that are both clean and comfortable can be quite the challenge, especially in a city known for its vibrant culture and stunning attractions. This list is valuable because it highlights budget-friendly options that do not compromise on hygiene or quality, allowing travelers to enjoy a worry-free stay without breaking the bank. With these recommendations, you can explore the beauty of Sydney while keeping your accommodation costs in check.",
+  "intro": "Discover the best budget-friendly hotels in Sydney that offer cleanliness and comfort for under $100.",
+  "hotels": [
+    {
+      "id": "lpe27b5",
+      "name": "Rosehill Hotel",
+      "image": "https://static.cupid.travel/hotels/128133384.jpg",
+      "description": "Located in the heart of Sydney, Rosehill Hotel offers easy access to popular attractions like Western Sydney Stadium and ANZ Stadium, perfect for those seeking entertainment. Guests can unwind in modern rooms equipped with flat-screen TVs and complimentary WiFi, or enjoy the hotel's garden, bar, and on-site casino. With nearby recreational options including Sydney Showground and Bicentennial Park, Rosehill Hotel ensures a memorable experience for every visitor.",
+      "highlight": "Rosehill Hotel provides modern rooms with flat-screen TVs, complimentary WiFi, and access to a garden and on-site casino.",
+      "price": "$82/night",
+      "location": "91 Parramatta Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp9220d",
+      "name": "Campsie Hotel",
+      "image": "https://static.cupid.travel/hotels/134068640.jpg",
+      "description": "Discover Campsie Hotel, ideally located just 8 kilometers from Bicentennial Park and near ANZ Stadium and Sydney Showground, making it perfect for both leisure and business travelers. Enjoy complimentary WiFi, a delightful on-site restaurant, and a fun billiards area for relaxation. Each room offers comfortable accommodations with shared bathrooms, ensuring a cozy stay for all guests.",
+      "highlight": "Campsie Hotel offers free WiFi, an on-site restaurant, and comfortable accommodations with shared bathrooms just 8 kilometers from the city center.",
+      "price": "$65/night",
+      "location": "327 Beamish St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp80658",
+      "name": "Grand Hotel Rockdale",
+      "image": "https://static.cupid.travel/hotels/43080565.jpg",
+      "description": "Grand Hotel Rockdale boasts a prime location just across from Rockdale Train Station, providing effortless access to transportation, Sydney Airport, and local attractions. Guests can unwind at the onsite bar and cafe restaurant, making dining both easy and enjoyable. With complimentary parking and shared facilities, this hotel ensures a comfortable and convenient stay for all visitors.",
+      "highlight": "Grand Hotel Rockdale offers free parking, an onsite restaurant, and family rooms for a comfortable stay under $100.",
+      "price": "$83/night",
+      "location": "482-484 Princes Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp86725",
+      "name": "Wiley Park Hotel",
+      "image": "https://static.cupid.travel/hotels/53325465.jpg",
+      "description": "Welcome to Wiley Park Hotel, where convenience meets comfort. Enjoy relaxing at our on-site bar and take advantage of free private parking, with room options featuring both private and shared bathrooms. Located just 10 km from Kingsford Smith Airport, our hotel also offers billiards facilities for added entertainment during your stay.",
+      "highlight": "Wiley Park Hotel offers free private parking, billiards facilities, and room options with private or shared bathrooms.",
+      "price": "$91/night",
+      "location": "67-75 Georges Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7af42",
+      "name": "Southern Cross Hotel",
+      "image": "https://static.cupid.travel/hotels/116521797.jpg",
+      "description": "Southern Cross Hotel in Sydney offers modern, elegantly designed rooms equipped with flat-screen TVs and luxurious bathrooms featuring natural stone tiles. Guests can savor a variety of pub classics and contemporary Australian dishes at the on-site restaurant, followed by a relaxing drink at the cozy bar. Conveniently located just 1.2 km from Sydneyham train station, the hotel provides easy access to the CBD and nearby attractions, making it an ideal choice for travelers seeking a memorable experience.",
+      "highlight": "Offers modern, soundproof rooms with flat-screen TVs and luxurious bathrooms, plus on-site dining and discounted parking.",
+      "price": "$88/night",
+      "location": "340 Princes Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpf7ebd",
+      "name": "Hurstville Ritz Hotel",
+      "image": "https://static.cupid.travel/hotels/279557170.jpg",
+      "description": "Experience luxury at Hurstville Ritz Hotel, where elegantly furnished rooms feature flat-screen TVs for your comfort. Ideally situated near Sydney's top attractions like Bicentennial Park and ANZ Stadium, you can easily explore the city's vibrant culture. Enjoy modern amenities including free WiFi and a tranquil garden, making your stay both relaxing and connected.",
+      "highlight": "Offers elegantly furnished rooms with flat-screen TVs, free WiFi, and a tranquil garden near top Sydney attractions.",
+      "price": "$85/night",
+      "location": "350 Forest Rd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-sydney-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:40:44.878Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

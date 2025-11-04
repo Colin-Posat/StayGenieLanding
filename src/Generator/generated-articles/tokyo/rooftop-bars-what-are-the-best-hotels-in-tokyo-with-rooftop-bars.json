@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "hotels in Tokyo with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Tokyo with rooftop bars",
+  "excerpt": "Finding hotels in Tokyo that feature rooftop bars can be a daunting task amid the city's vast array of accommodations. This curated list highlights not only the best spots to unwind with a breathtaking view but also ensures that you experience the vibrant atmosphere Tokyo has to offer. Whether you're looking for a romantic evening or a lively night out, these hotels provide the perfect escape from the bustling streets below.",
+  "intro": "Discover the top hotels in Tokyo where you can sip cocktails while soaking in stunning skyline views from their rooftop bars.",
+  "hotels": [
+    {
+      "id": "lp6e855",
+      "name": "Andaz Tokyo - A Concept by Hyatt",
+      "image": "https://static.cupid.travel/hotels/472444352.jpg",
+      "description": "Discover the epitome of luxury at Andaz Tokyo - A Concept by Hyatt, where you can unwind with rejuvenating spa treatments, stay active in a cutting-edge fitness center, and enjoy breathtaking views from the indoor pool. Delight in a culinary journey at The Tavern - Grill & Lounge, which masterfully blends European and Japanese cuisines, and savor drinks at the rooftop bar while soaking in the stunning Tokyo skyline. Ideally situated near the city's main attractions, the hotel offers modern rooms equipped with complimentary snacks, free WiFi, and a minibar for your comfort.",
+      "highlight": "Offers a rooftop bar with stunning Tokyo skyline views and luxurious amenities including a spa and heated indoor pool.",
+      "price": "$949/night",
+      "location": "1-23-4 Toranomon, Minato-ku",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1bd9c",
+      "name": "The Capitol Hotel Tokyu",
+      "image": "https://static.cupid.travel/hotels/361068543.jpg",
+      "description": "Capitol Hotel Tokyu offers a luxurious blend of traditional Japanese design and modern comforts, featuring spacious rooms with breathtaking city views, a minibar, and elegant bathrooms. Guests can savor diverse culinary experiences at three on-site restaurants, including exquisite Chinese cuisine and authentic teppanyaki, while The Capitol Bar serves up creative cocktails. Relax in the stunning 14th-floor indoor pool, indulge in rejuvenating spa treatments, or take advantage of the fitness centre and business amenities for a complete stay in Tokyo.",
+      "highlight": "The Capitol Hotel Tokyu boasts a stylish rooftop bar offering stunning city views alongside luxurious accommodations and diverse dining options.",
+      "price": "$599/night",
+      "location": "2-10-3 Nagata-cho",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp33a25",
+      "name": "Grand Hyatt Tokyo",
+      "image": "https://static.cupid.travel/hotels/611697615.jpg",
+      "description": "Experience the elegance of Grand Hyatt Tokyo, where modern rooms blend Japanese aesthetics with luxurious amenities like rain showers and deep soaking bathtubs. Delight your palate at the hotel's ten diverse restaurants and bars, offering everything from exquisite French cuisine to authentic Japanese sushi in stunning settings. Unwind at the serene Nagomi Spa or enjoy the indoor pool, all while being centrally located in the vibrant Roppongi Hills for easy access to shopping and entertainment.",
+      "highlight": "Grand Hyatt Tokyo boasts a stylish rooftop bar with stunning city views, alongside luxurious spa services and fine dining options.",
+      "price": "$516/night",
+      "location": "6-10-3 Roppongi",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp37b85",
+      "name": "The Prince Park Tower Tokyo - Preferred Hotels & Resorts, LVX Collection",
+      "image": "https://static.cupid.travel/hotels/362054404.jpg",
+      "description": "The Prince Park Tower Tokyo offers luxurious accommodations with spacious rooms featuring breathtaking skyline views and modern amenities, all just steps away from Tokyo Tower. Guests can indulge in a variety of entertainment options like a bowling alley and karaoke, alongside relaxation services such as a sauna and hot-spring spa. With diverse dining experiences at venues like the Brise Verte French Restaurant and Stellar Garden Sky Lounge, visitors can savor exquisite meals while enjoying stunning panoramic vistas.",
+      "highlight": "The Prince Park Tower Tokyo boasts a rooftop bar with stunning panoramic views and diverse dining experiences, alongside luxurious accommodations.",
+      "price": "$245/night",
+      "location": "4-8-1 Shibakoen Minato-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp85306",
+      "name": "Hotel New Otani Tokyo EXECUTIVE HOUSE ZEN",
+      "image": "https://static.cupid.travel/hotels/452597000.jpg",
+      "description": "Experience refined luxury at Hotel New Otani Executive House Zen, featuring elegantly designed rooms equipped with modern amenities, including flat-screen TVs and plush bathrobes. Guests can relax by the seasonal outdoor pool, enjoy gourmet dining on-site, and take advantage of free WiFi. Ideally located just 1.2 km from the National Diet Building, this hotel offers easy access to Tokyo's iconic attractions, ensuring a comfortable and convenient stay.",
+      "highlight": "Offers a rooftop bar with stunning views, a seasonal outdoor pool, and a serene Japanese garden.",
+      "price": "$793/night",
+      "location": "4-1 Kioi-Cho",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b8d5",
+      "name": "Hotel New Otani Tokyo The Main",
+      "image": "https://static.cupid.travel/hotels/452607638.jpg",
+      "description": "Nestled within a serene 400-year-old Japanese garden, Hotel New Otani Tokyo offers a tranquil escape in the heart of the city. Its prime location provides effortless access to five subway lines, allowing guests to explore iconic neighborhoods like Ginza and Shibuya in under ten minutes. With 37 diverse dining options, guests can enjoy a culinary adventure that spans from traditional Japanese tempura to exquisite French cuisine.",
+      "highlight": "Features a rooftop bar with stunning city views, set within a tranquil 400-year-old Japanese garden.",
+      "price": "$374/night",
+      "location": "4-1 Kioi-cho Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-tokyo-with-rooftop-bars",
+  "generatedAt": "2025-11-04T02:36:35.672Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}
