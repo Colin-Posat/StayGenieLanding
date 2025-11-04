@@ -97,8 +97,10 @@ function readJsonSafe<T>(file: string): { data?: T; error?: string } {
   try {
     const raw = fs.readFileSync(file, 'utf8');
     return { data: JSON.parse(raw) as T };
-  } catch (e: any) {
-    return { error: e?.message || 'parse error' };
+  } catch (e) {
+    const message =
+      e instanceof Error ? e.message : 'Unknown JSON parse error';
+    return { error: message };
   }
 }
 
@@ -209,7 +211,8 @@ async function main() {
   console.log(`• URLs in sitemap: ${deduped.length}`);
 }
 
-main().catch(err => {
-  console.error('Fatal error building sitemap:', err);
+main().catch((err: unknown) => {
+  const message = err instanceof Error ? err.message : String(err);
+  console.error('Fatal error building sitemap:', message);
   process.exit(1);
 });
