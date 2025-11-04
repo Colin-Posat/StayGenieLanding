@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "affordable clean hotels in Dubai with breakfast included",
+  "title": "What are the affordable, clean hotels in Dubai with breakfast included",
+  "excerpt": "Navigating the vast options for hotels in Dubai can be overwhelming, especially when looking for affordability and cleanliness. This curated list highlights hotels that not only meet these essential criteria but also include breakfast, ensuring a hassle-free start to your day. By focusing on these key features, travelers can enjoy a comfortable stay without breaking the bank.",
+  "intro": "Discover the best affordable and clean hotels in Dubai that include breakfast, making your trip both enjoyable and budget-friendly.",
+  "hotels": [
+    {
+      "id": "lp5a560",
+      "name": "Howard Johnson by Wyndham Bur Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_1d28a144_z.jpg",
+      "description": "Discover the perfect blend of comfort and convenience at Howard Johnson by Wyndham Bur Dubai, nestled in the vibrant heart of the city. Enjoy a range of amenities, from a refreshing outdoor pool and a fitness center to exquisite dining options at RED DRAGON and a lively bar. Whether traveling for business or leisure, you will appreciate the fully equipped business center, event facilities, and complimentary Wi-Fi that make your stay both enjoyable and efficient.",
+      "highlight": "Offers affordable accommodation with complimentary breakfast options and features a refreshing outdoor pool and free airport transport.",
+      "price": "$87/night",
+      "location": "Khalid Bin Waleed Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34e0a",
+      "name": "Aavri Hotel Deira",
+      "image": "https://static.cupid.travel/hotels/ex_70cfbeaa_z.jpg",
+      "description": "Experience ultimate relaxation at Aavri Hotel Deira, featuring luxurious amenities such as onsite massages, a health club, and an inviting outdoor pool. Enjoy an all-inclusive stay with complimentary meals at the Olive Tree Restaurant and 24-hour room service, along with access to multiple bars and lounges. Conveniently located near top attractions like the Deira Clocktower, this hotel is the perfect base for exploring the vibrant city of Dubai.",
+      "highlight": "Offers affordable accommodations with complimentary breakfast, a health club, and convenient access to Dubai's top attractions.",
+      "price": "$108/night",
+      "location": "45C St, Al Rigga Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp90204",
+      "name": "Al Sarab Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_4248920a_z.jpg",
+      "description": "Experience the ultimate in relaxation at Al Sarab Hotel, featuring luxurious spa services with rejuvenating massages and facials. Enjoy vibrant entertainment options, including a nightclub, outdoor pool, and sauna, along with exquisite international cuisine at Al Naseem restaurant, complemented by 24-hour room service and inviting bars and lounges. Discover a perfect blend of luxury and convenience in the heart of Dubai.",
+      "highlight": "Offers vibrant entertainment, including a nightclub and sauna, along with clean accommodations and breakfast options available.",
+      "price": "$95/night",
+      "location": "Al Rigga Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp60fdc",
+      "name": "Grand Excelsior Hotel Al Barsha",
+      "image": "https://static.cupid.travel/hotels/ex_0ea3098e_z.jpg",
+      "description": "Experience luxury at the Grand Excelsior Hotel Al Barsha, where sophistication and comfort blend seamlessly in Dubai's vibrant heart. Pamper yourself at the full-service spa, indulge in gourmet dining from international cuisine to 24-hour room service, and relax by the outdoor pool with refreshing drinks. With family-friendly amenities and concierge services, this hotel is perfect for everyone looking to enjoy a memorable getaway.",
+      "highlight": "Offers a full-service spa, health club, and paid breakfast options in a sophisticated setting.",
+      "price": "$120/night",
+      "location": "60th Street, Al Barsha 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4b8e1",
+      "name": "Al Manar Grand Hotel Apartments",
+      "image": "https://static.cupid.travel/hotels/ex_7eab7df3_z.jpg",
+      "description": "Discover modern comfort at Al Manar Grand Hotel Apartments, ideally located in the heart of Dubai. Enjoy convenient amenities such as complimentary Wi-Fi, a 24-hour front desk, and business services, all while being just minutes away from popular attractions like BurJuman Mall and Dubai Creek. Relax in one of our 173 cozy guestrooms, featuring inviting fireplaces and free internet access, making it the perfect home base for your Dubai adventures.",
+      "highlight": "Offers 173 cozy guestrooms with complimentary Wi-Fi and a convenient location near BurJuman Mall, with breakfast available for purchase.",
+      "price": "$127/night",
+      "location": "Kuwait Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8a4e6",
+      "name": "Ibis Styles Dragon Mart Dubai",
+      "image": "https://static.cupid.travel/hotels/hd/292001768.jpg",
+      "description": "Experience the vibrant atmosphere of ibis Styles Dragon Mart Dubai, conveniently situated just 15 minutes from the airport and near top attractions like Burj Khalifa and Dubai Mall. Delight your taste buds at The Market restaurant or unwind at The Bricks Sports Lounge, where you can enjoy drinks while watching your favorite sports. Stay active with a well-equipped gym on the second floor, making it easy to maintain your fitness routine during your stay.",
+      "highlight": "Offers complimentary breakfast, family rooms, and a well-equipped gym just 15 minutes from the airport.",
+      "price": "$121/night",
+      "location": "Al Awir Road E44 on Hatta Road",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-dubai-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:30:28.511Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

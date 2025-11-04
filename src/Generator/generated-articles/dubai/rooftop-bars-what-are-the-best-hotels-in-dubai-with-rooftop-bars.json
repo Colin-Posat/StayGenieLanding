@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "hotels in Dubai with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Dubai with rooftop bars",
+  "excerpt": "Finding hotels in Dubai with rooftop bars can be a daunting task, given the city's vast array of luxurious accommodations. This list is invaluable as it highlights the finest options that not only offer stunning views but also provide a unique atmosphere for relaxation and socializing. With the right information, you can elevate your travel experience and enjoy the vibrant nightlife that Dubai has to offer.",
+  "intro": "Discover the best hotels in Dubai that feature breathtaking rooftop bars, perfect for soaking in the city's skyline.",
+  "hotels": [
+    {
+      "id": "lpa7ec6",
+      "name": "FIVE Palm Jumeirah Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_89e31e65_z.jpg",
+      "description": "Experience luxurious relaxation at FIVE Palm Jumeirah Dubai, featuring six inviting outdoor pools, a private beach, and exceptional spa treatments. Delight your palate with exquisite Chinese cuisine at Maiden Shanghai and enjoy 24-hour room service alongside various dining options. With complimentary Wi-Fi, limo service, and spacious guest rooms boasting premium bedding, this hotel is the perfect blend of comfort and opulence for your unforgettable getaway.",
+      "highlight": "Offers a stunning rooftop terrace with panoramic views and a vibrant atmosphere for guests to enjoy.",
+      "price": "$707/night",
+      "location": "No. 1 The Palm",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp57c45",
+      "name": "One&Only The Palm",
+      "image": "https://static.cupid.travel/hotels/ex_4b76295a_z.jpg",
+      "description": "Experience the ultimate luxury at One&Only The Palm, where a full-service spa and private beach await your relaxation. Indulge in gourmet dining at Zest or enjoy drinks at various bars, including a beach bar and poolside options, while a complimentary theme park shuttle adds an extra layer of fun. Each of the 94 elegantly designed rooms features private balconies, flat-screen TVs, and opulent bathrooms with deep soaking tubs, ensuring a rejuvenating stay in Dubai.",
+      "highlight": "Boasts a stunning rooftop terrace offering panoramic views, alongside a luxurious spa and private beach access.",
+      "price": "$1482/night",
+      "location": "Palm Island, The West Crescent",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8ae81",
+      "name": "Hilton Dubai Al Habtoor City",
+      "image": "https://static.cupid.travel/hotels/ex_4c2b74b9_z.jpg",
+      "description": "Experience ultimate relaxation at Hilton Dubai Al Habtoor City, where an on-site spa offers rejuvenating massages, body treatments, and facials. Enjoy three outdoor pools, a well-equipped fitness center, and complimentary bicycle rentals for active leisure. Savor diverse culinary delights across three restaurants, two bars, and 24-hour room service, ensuring a memorable dining experience throughout your stay.",
+      "highlight": "Offers a stunning rooftop bar with panoramic views, alongside a full-service spa and multiple dining options.",
+      "price": "$312/night",
+      "location": "Al Habtoor City, Sheikh Zayed Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp418e6",
+      "name": "Jumeirah Living - World Trade Centre Residence",
+      "image": "https://static.cupid.travel/hotels/ex_4020b6da_z.jpg",
+      "description": "Experience the ultimate in luxury at Jumeirah Living - World Trade Centre Residence, where you can relax in the steam room, stay active in the fitness center, or sip your favorite drink at the bar/lounge. Enjoy convenient services like complimentary Wi-Fi, concierge assistance, and room service to make your stay effortless. With impressive facilities including a 24-hour business center and meeting rooms, this centrally located hotel is perfect for both leisure and business travelers looking to explore Dubai's major attractions.",
+      "highlight": "Offers a stunning rooftop terrace, steam room, and complimentary valet service for an elevated stay in Dubai.",
+      "price": "$342/night",
+      "location": "2nd Zabeel Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp79edb",
+      "name": "Hyatt Regency Dubai Creek Heights",
+      "image": "https://static.cupid.travel/hotels/141437285.jpg",
+      "description": "Experience the height of luxury at Hyatt Regency Dubai Creek Heights, where sleek interiors meet stunning views and top-notch amenities. Guests can unwind by the outdoor pool, indulge in a luxurious spa treatment, or enjoy diverse dining options ranging from gourmet pastries to vibrant Mexican cuisine. Located near Dubai Creek and iconic attractions like Burj Khalifa, this hotel promises an unforgettable blend of comfort and convenience.",
+      "highlight": "Boasting a rooftop bar with stunning views, Hyatt Regency Dubai Creek Heights offers an outdoor pool and luxurious spa treatments.",
+      "price": "$243/night",
+      "location": "20th Street, Dubai Healthcare City",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp66e9c",
+      "name": "JW Marriott Marquis Hotel Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_1dfa5baa_z.jpg",
+      "description": "Discover the epitome of luxury at the JW Marriott Marquis Hotel Dubai, where vibrant city life meets exceptional hospitality. Unwind at the full-service spa or enjoy the outdoor pool and health club, then indulge in international flavors at Kitchen6 among the hotel's 12 dining venues. With seamless connectivity, including complimentary Wi-Fi and airport shuttle service, your stay promises both relaxation and convenience.",
+      "highlight": "Offers a stunning rooftop garden with panoramic views and 12 diverse dining venues.",
+      "price": "$497/night",
+      "location": "Sheikh Zayed Road, Business Bay",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-dubai-with-rooftop-bars",
+  "generatedAt": "2025-11-04T02:25:46.276Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

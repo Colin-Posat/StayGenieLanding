@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "hotels for families with kids in Miami",
+  "title": "Amazing hotels for families with kids in Miami",
+  "excerpt": "Finding the perfect hotel for a family vacation can be a daunting task, especially in a bustling city like Miami where options abound. This list is valuable because it highlights family-friendly hotels that not only cater to the needs of children but also provide comfort and convenience for parents, ensuring a memorable experience for everyone. With amenities designed for kids and activities that engage the whole family, these hotels make vacation planning a breeze.",
+  "intro": "Discover the best family-friendly hotels in Miami that offer fun, comfort, and unforgettable experiences for both kids and parents.",
+  "hotels": [
+    {
+      "id": "lp2f326",
+      "name": "The Ritz-Carlton Key Biscayne, Miami",
+      "image": "https://static.cupid.travel/hotels/494183969.jpg",
+      "description": "Discover the epitome of luxury at The Ritz-Carlton Key Biscayne, Miami, where spacious suites feature separate living areas and private balconies, complemented by marble bathrooms for a truly indulgent stay. Delight your palate with oceanfront dining at Lightkeepers and savor Cuban-inspired dishes at Rumbar, all set in a stunning ambiance. Enhance your relaxation with an expansive 25,000 square feet spa, outdoor pools, and tennis courts, making it the perfect destination for both rejuvenation and recreation.",
+      "highlight": "Features kids meals, an outdoor pool, and a playground for family-friendly enjoyment and relaxation.",
+      "price": "$1611/night",
+      "location": "455 Grand Bay Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f084",
+      "name": "Embassy Suites by Hilton Miami International Airport",
+      "image": "https://static.cupid.travel/hotels/474329044.jpg",
+      "description": "Embassy Suites Miami International Airport offers complimentary shuttle services to and from the airport, ensuring a hassle-free travel experience. Guests can relax by the inviting outdoor pool or indulge in the hot tub, soaking up the Miami sun. Each room is thoughtfully equipped with amenities like a microwave and refrigerator, providing all the comforts of home for a delightful stay.",
+      "highlight": "Embassy Suites by Hilton Miami International Airport offers family rooms, an outdoor pool, and a hot tub for enjoyable relaxation.",
+      "price": "$195/night",
+      "location": "3974 NW South River Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp24762",
+      "name": "Holiday Inn Miami-Doral Area, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/559781960.jpg",
+      "description": "Discover a perfect blend of comfort and convenience at the Holiday Inn Hotel Miami-Doral Area, where you can unwind by the outdoor pool and enjoy complimentary WiFi. Stay active at the 24-hour fitness center and savor delicious meals at Changes Cafe or the Bar & Grille Buffet. Relax in cozy guestrooms equipped with coffee-making facilities and flat-screen TVs, all while being just minutes away from popular shopping destinations like Dolphin Mall and Miami International Mall.",
+      "highlight": "Boasts family rooms, a heated pool, and kids meals, ensuring a comfortable stay for families in Miami.",
+      "price": "$187/night",
+      "location": "3255 NW 87th Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp87d94",
+      "name": "Homewood Suites by Hilton Miami Dolphin Mall",
+      "image": "https://static.cupid.travel/hotels/474383045.jpg",
+      "description": "Homewood Suites by Hilton Miami Dolphin Mall offers a blend of comfort and convenience with amenities like an outdoor pool, fitness center, and on-site dining. Enjoy modern rooms featuring allergy-free options, flat-screen TVs, and coffee machines, alongside 24-hour room service and complimentary WiFi. Located near Dolphin Mall and Miami International Airport, this hotel is ideal for both leisure and business travelers, with fun activities like mini-golf and a business center available.",
+      "highlight": "Homewood Suites by Hilton Miami Dolphin Mall includes family rooms, an outdoor pool, and mini-golf for enjoyable family activities.",
+      "price": "$332/night",
+      "location": "1695 NW 111th Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp24bd5",
+      "name": "Sonesta Simply Suites Miami Airport Doral",
+      "image": "https://static.cupid.travel/hotels/522803284.jpg",
+      "description": "Experience the ultimate comfort at Sonesta Simply Suites Miami Airport Doral, where each luxurious suite features a fully equipped kitchen, ideal for both extended stays and quick getaways. Guests can take advantage of convenient amenities including high-speed internet, an outdoor heated pool, and a 24-hour fitness center, ensuring a relaxing and enjoyable stay. With prime access to Miami's vibrant attractions such as South Beach and Bayside Marketplace, your adventure in this dynamic city awaits.",
+      "highlight": "Offers family rooms, a heated pool, and BBQ facilities for a comfortable and enjoyable stay.",
+      "price": "$247/night",
+      "location": "8855 Nw 27th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20170",
+      "name": "Holiday Inn Express Miami Airport Doral Area, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/583623719.jpg",
+      "description": "Experience convenience and comfort at Holiday Inn Express Miami Airport Doral Area, located just 9 miles from Miami International Airport. Enjoy modern guest rooms equipped with essential amenities, a heated outdoor pool, and a complimentary breakfast buffet to kickstart your day. With a fitness center and a 24-hour business center, this hotel caters to both leisure and business travelers, plus it's just minutes away from Doral Country Club for golf enthusiasts.",
+      "highlight": "Offers family rooms, a heated outdoor pool, and complimentary breakfast for an enjoyable stay in Miami.",
+      "price": "$255/night",
+      "location": "8436 NW 36th Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-miami",
+  "generatedAt": "2025-11-04T01:34:18.969Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "best hotels in Singapore for weddings luxury and affordable",
+  "title": "Best hotels in Singapore for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Singapore can be a daunting task, especially when trying to balance luxury with affordability. This list highlights venues that not only provide stunning settings and exceptional service but also offer packages that won't break the bank. With so many options available, having a curated selection makes the planning process much easier and more enjoyable for couples.",
+  "intro": "Discover the top luxurious yet affordable hotels in Singapore that are ideal for crafting the perfect wedding experience.",
+  "hotels": [
+    {
+      "id": "lp59dce",
+      "name": "Hotel 81 Premier Star",
+      "image": "https://static.cupid.travel/hotels/40718552.jpg",
+      "description": "Hotel 81 (Premier) Star offers a prime location in the lively Geylang area, just a short stroll from Aljunied MRT Station, making it easy to explore Singapore. Guests will appreciate the modern, air-conditioned rooms featuring satellite TV, minibars, and complimentary WiFi, along with private bathrooms equipped with hot showers. The hotel's 24-hour front desk ensures seamless service, including tour arrangements and laundry facilities, for a truly hassle-free stay.",
+      "highlight": "Offers modern air-conditioned rooms with minibars, satellite TV, and 24-hour front desk service in a vibrant location.",
+      "price": "$62/night",
+      "location": "31 Lorong 18 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp92feb",
+      "name": "Hotel 81 Fuji",
+      "image": "https://static.cupid.travel/hotels/63997217.jpg",
+      "description": "Hotel 81 Fuji combines charm and modern comfort in a beautifully restored shop house, featuring air-conditioned rooms with complimentary Wi-Fi and local calls. Conveniently located near bus stops and shopping at Balestier Point, the hotel offers easy access to MRT stations and a quick taxi ride to Changi International Airport. Guests can enjoy amenities such as flat-screen TVs, private bathrooms, and a 24-hour front desk for a seamless stay.",
+      "highlight": "Hotel 81 Fuji offers charming, air-conditioned rooms with modern amenities, complimentary Wi-Fi, and convenient access to public transportation.",
+      "price": "$68/night",
+      "location": "269 Balestier Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcc",
+      "name": "Hotel 81 Orchid",
+      "image": "https://static.cupid.travel/hotels/149395357.jpg",
+      "description": "Hotel 81 Orchid offers a prime location in the vibrant Red Light District, just minutes from popular attractions like Bugis Street and Mustafa Centre. Guests can unwind in cozy, air-conditioned rooms featuring essential amenities such as flat-screen TVs and complimentary WiFi. With 24-hour multilingual assistance, the friendly staff ensures a comfortable and enjoyable experience during your stay.",
+      "highlight": "Offers cozy, air-conditioned rooms with flat-screen TVs, complimentary WiFi, and 24-hour multilingual assistance in a vibrant location.",
+      "price": "$80/night",
+      "location": "21 Lorong 8",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa529f",
+      "name": "Hotel 81 Changi",
+      "image": "https://static.cupid.travel/hotels/80715730.jpg",
+      "description": "Discover a serene retreat at Hotel 81 Changi, where you can escape the city's hustle while being just moments away from Kembangan MRT Station and shopping malls. Each room offers cozy comfort with modern amenities such as a flat-screen TV, en suite bathroom, and complimentary WiFi, ensuring a relaxing stay. Enjoy 24-hour front desk service and explore the vibrant local area filled with dining and shopping options for a memorable experience.",
+      "highlight": "Offers cozy rooms with modern amenities, 24-hour front desk service, and proximity to shopping and dining options.",
+      "price": "$91/night",
+      "location": "428 Changi Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59ddb",
+      "name": "Hotel 81 Selegie",
+      "image": "https://static.cupid.travel/hotels/19197288.jpg",
+      "description": "Hotel 81 Selegie is ideally situated in the vibrant Bugis District, providing effortless access to Rochor MRT Station and nearby attractions such as Little India and the National Museum of Singapore. Guests will appreciate the air-conditioned rooms featuring flat-screen TVs and en suite bathrooms, along with complimentary WiFi throughout the hotel. With traveler-friendly services like a tour desk, laundry, and luggage storage, your stay promises to be both comfortable and convenient.",
+      "highlight": "Offers air-conditioned rooms with flat-screen TVs, free WiFi, and convenient access to attractions in the vibrant Bugis District.",
+      "price": "$76/night",
+      "location": "161 Selegie Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp62418",
+      "name": "Hotel 81 Heritage",
+      "image": "https://static.cupid.travel/hotels/19161959.jpg",
+      "description": "Hotel 81 Heritage offers a prime location just a short walk from Nicoll Highway MRT Station and the vibrant Kampong Glam district, perfect for exploring the city. The cozy, air-conditioned rooms come equipped with modern amenities like free Wi-Fi and satellite TV, ensuring a comfortable stay. With nearby attractions such as Clarke Quay and easy access to Changi International Airport, this hotel is an ideal choice for both leisure and business travelers.",
+      "highlight": "Offers cozy, air-conditioned rooms with free Wi-Fi and satellite TV, located near Nicoll Highway MRT Station.",
+      "price": "$79/night",
+      "location": "71 Jalan Sultan",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-singapore-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:40:12.248Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

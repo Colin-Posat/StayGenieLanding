@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "hotels for families with kids in Barcelona",
+  "title": "Amazing hotels for families with kids in Barcelona",
+  "excerpt": "Finding the perfect hotel that caters to the needs of families with kids can be a daunting task, especially in a vibrant city like Barcelona where choices abound. Our curated list highlights hotels that not only offer family-friendly amenities but also provide a welcoming atmosphere, making your stay enjoyable and stress-free. This resource is invaluable for parents seeking comfortable accommodations that keep children entertained and happy while exploring the city's rich culture.",
+  "intro": "Discover the best family-friendly hotels in Barcelona that combine comfort, fun, and convenience for an unforgettable vacation.",
+  "hotels": [
+    {
+      "id": "lp2a6bb",
+      "name": "Hotel El Palace Barcelona",
+      "image": "https://static.cupid.travel/hotels/125342544.jpg",
+      "description": "Hotel El Palace Barcelona combines luxury and relaxation with its unique Mayan-style spa, offering guests a serene escape. Savor exquisite culinary delights at two exceptional restaurants and unwind in a stylish cocktail bar. Located in the vibrant Eixample District, the hotel provides convenient access to top attractions along with impeccable service, including limousine transportation.",
+      "highlight": "Hotel El Palace Barcelona offers family rooms, kids meals, and gourmet dining options in a luxurious setting.",
+      "price": "$559/night",
+      "location": "Gran Via de les Corts Catalanes 668",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f869",
+      "name": "Le Meridien Barcelona",
+      "image": "https://static.cupid.travel/hotels/456047983.jpg",
+      "description": "Le Méridien Barcelona offers luxurious accommodations favored by celebrities, featuring stylish rooms equipped with high-end amenities such as flat-screen TVs and iPod docks. Guests can delight in a sumptuous international breakfast and Mediterranean cuisine at CentOnze, all while taking in breathtaking views of Las Ramblas. For relaxation, the on-site spa provides a range of treatments, and nearby attractions like Palau Güell enhance your stay with cultural exploration.",
+      "highlight": "Le Méridien Barcelona provides family rooms, kids meals, and spa services alongside luxurious accommodations and stunning Las Ramblas views.",
+      "price": "$598/night",
+      "location": "La Rambla, La 111",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3cf1c",
+      "name": "Hotel Oasis",
+      "image": "https://static.cupid.travel/hotels/91582979.jpg",
+      "description": "Hotel Oasis is a stylish retreat located near França Railway Station and the lively Born district, featuring modern air-conditioned rooms equipped with satellite TV and private bathrooms. Guests can relax on the seasonal terrace by the outdoor pool or enjoy delicious drinks at the café-bar. With Barceloneta beach and popular attractions like Santa Maria del Mar Church just steps away, Hotel Oasis offers the ideal base to explore the vibrant city of Barcelona.",
+      "highlight": "Hotel Oasis features modern air-conditioned rooms, an outdoor pool, and easy access to Barceloneta beach and local attractions.",
+      "price": "$263/night",
+      "location": "Pl de Palau 17",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp364e0",
+      "name": "H10 Universitat",
+      "image": "https://static.cupid.travel/hotels/475559155.jpg",
+      "description": "H10 Universitat boasts a prime location just steps from Plaça Catalunya and Las Ramblas, making it the ideal base for exploring Barcelona's lively city center. The hotel features a stylish fusion of 19th-century architecture and contemporary design, enhanced by striking modern art. With complimentary Wi-Fi throughout, you'll stay connected while enjoying your cultural adventure in this vibrant city.",
+      "highlight": "H10 Universitat offers family rooms, a restaurant, and a snack bar, all in a central location near key attractions.",
+      "price": "$549/night",
+      "location": "Ronda Universitat, 21",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6b924",
+      "name": "Hotel Casa Gardenia",
+      "image": "https://static.cupid.travel/hotels/596609042.jpg",
+      "description": "Hotel Casa Gardenia provides charming air-conditioned accommodations featuring flat-screen TVs and private bathrooms for a cozy experience. Guests can unwind in the refreshing outdoor pool or bask in the sun on the terrace, while the multilingual staff is available 24/7 to cater to all your needs. Discover these fantastic amenities and more by booking your stay today!",
+      "highlight": "Hotel Casa Gardenia offers air-conditioned rooms with flat-screen TVs, private bathrooms, and a refreshing outdoor pool.",
+      "price": "$278/night",
+      "location": "Calle Hospital, 155",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp357f1",
+      "name": "H10 Marina Barcelona",
+      "image": "https://static.cupid.travel/hotels/120101773.jpg",
+      "description": "Experience luxury at the H10 Marina Hotel Barcelona, featuring a rooftop pool with breathtaking city and sea views, a well-equipped gym, and a rejuvenating spa. Delight your palate at the Dionissos restaurant, offering a range of à la carte dishes and tapas, or enjoy a cozy evening at Bar La Llum with an extensive wine selection. With easy access to Bogatell Beach and top-notch amenities, this hotel is the perfect retreat for relaxation and culinary exploration.",
+      "highlight": "Offers family rooms, kids meals, and a rooftop garden for enjoyable family time in Barcelona.",
+      "price": "$342/night",
+      "location": "Avenida Bogatell, 64-68",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-barcelona",
+  "generatedAt": "2025-11-04T02:30:51.482Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

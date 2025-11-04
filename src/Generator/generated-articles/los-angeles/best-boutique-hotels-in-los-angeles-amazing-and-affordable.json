@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "boutique hotels in Los Angeles affordable and stylish",
+  "title": "Best boutique hotels in Los Angeles: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Los Angeles can be a daunting task, as the city is filled with countless options that vary in style and price. This curated list highlights affordable yet stylish accommodations that offer unique charm and personalized experiences, making it easier for travelers to discover hidden gems without breaking the bank. By exploring these handpicked hotels, you can enjoy the vibrant culture of LA while staying in places that reflect the city's artistic spirit.",
+  "intro": "Discover a selection of the best boutique hotels in Los Angeles that combine affordability with undeniable style.",
+  "hotels": [
+    {
+      "id": "lp864db",
+      "name": "Hollywood Roxy Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_ea34bcdb_z.jpg",
+      "description": "Experience a comfortable stay at Hollywood Roxy Hotel, featuring 38 well-appointed guestrooms equipped with flat-screen TVs, free Wi-Fi, and the option for microwaves and refrigerators. Enjoy convenient amenities like complimentary internet access and a vending machine, all while being perfectly situated in the heart of Hollywood, just steps from Hollywood Boulevard and close to renowned attractions like the Hollywood Walk of Fame. Whether you're visiting for business or leisure, your stay promises to be memorable in vibrant Los Angeles.",
+      "highlight": "Offers 38 well-appointed guestrooms with flat-screen TVs, free Wi-Fi, and convenient access to Hollywood Boulevard attractions.",
+      "price": "$120/night",
+      "location": "1655 N Western Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp312f3",
+      "name": "Super 8 by Wyndham Hollywood/LA Area",
+      "image": "https://static.cupid.travel/hotels/537709118.jpg",
+      "description": "Experience the charm of Hollywood at our conveniently located hotel, where stunning views of the iconic Hollywood sign await you. Enjoy comfortable accommodations featuring modern amenities such as free high-speed internet and in-room refrigerators, perfect for both relaxation and productivity. With complimentary on-site parking and a business center, our hotel is ideal for leisure and business travelers alike—book your unforgettable stay today!",
+      "highlight": "Offers stunning views of the Hollywood sign, modern accommodations, free high-speed internet, and a business center.",
+      "price": "$100/night",
+      "location": "1536 N Western Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpf5f8d",
+      "name": "Hollywood Inn Suites Hotel",
+      "image": "https://static.cupid.travel/hotels/171958751.jpg",
+      "description": "Hollywood Inn Suites Hotel offers a prime location in Los Angeles, just minutes from iconic attractions like the LA Memorial Coliseum and Staples Center. Guests can unwind in well-appointed rooms featuring essential amenities, including air conditioning and free WiFi, all while enjoying the attentive service of a bilingual staff ready to provide local insights. Choose Hollywood Inn Suites for a convenient and comfortable stay in the heart of the city.",
+      "highlight": "Offers well-appointed rooms with free WiFi, a lap pool, and attentive bilingual service in a prime Los Angeles location.",
+      "price": "$133/night",
+      "location": "1030 W El Segundo Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1fde3",
+      "name": "The Dixie Hollywood",
+      "image": "https://static.cupid.travel/hotels/46400317.jpg",
+      "description": "The Dixie Hollywood boasts a prime location just a block from the Hollywood-Western Metro Station and a short distance from the Hollywood Walk of Fame, making it ideal for city explorers. Guests can relax in the outdoor pool area, complete with comfortable seating, perfect for soaking up the California sun after a day of adventure. With round-the-clock reception, free WiFi, and additional amenities like car rentals, this hotel promises a seamless and enjoyable stay.",
+      "highlight": "The Dixie Hollywood offers an outdoor pool, free WiFi, and convenient access to the Hollywood-Western Metro Station.",
+      "price": "$140/night",
+      "location": "5410 Hollywood Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp89cfe",
+      "name": "Motel 6 Hollywood",
+      "image": "https://static.cupid.travel/hotels/589409031.jpg",
+      "description": "Nestled in the heart of Hollywood, Motel 6 offers easy access to iconic attractions like the Walk of Fame, making it an ideal base for urban explorers. Guests can enjoy comfortable rooms featuring modern amenities, including flat-screen TVs and free WiFi, while the 24-hour reception and complimentary morning coffee ensure a welcoming experience. Discover the vibrant spirit of Hollywood with a stay at Motel 6, where comfort and convenience meet.",
+      "highlight": "Offers comfortable rooms with modern amenities, including flat-screen TVs, free WiFi, and 24-hour reception in Hollywood.",
+      "price": "$138/night",
+      "location": "1738 Whitley Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b43e",
+      "name": "Hollywood Celebrity Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_1f2286d7_z.jpg",
+      "description": "Discover the vibrant essence of Hollywood at the Hollywood Celebrity Hotel, where modern comfort meets an unbeatable location. Enjoy amenities like complimentary Wi-Fi, air-conditioned rooms with flat-screen TVs, and refrigerators, all while indulging in a delightful continental breakfast each morning. Just steps from the Hollywood Walk of Fame and iconic attractions like the Dolby Theater, this hotel offers the perfect base for your Hollywood adventures.",
+      "highlight": "Offers air-conditioned rooms with flat-screen TVs, complimentary Wi-Fi, and free continental breakfast steps from the Hollywood Walk of Fame.",
+      "price": "$198/night",
+      "location": "1775 Orchid Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-los-angeles-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:22:59.754Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

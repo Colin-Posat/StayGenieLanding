@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "cheap safe clean hotels in Sydney",
+  "title": "Best cheap, safe, and clean hotels in Sydney",
+  "excerpt": "Finding affordable, safe, and clean hotels in Sydney can be a daunting task, especially with so many options available that may not meet your expectations. This list is invaluable for travelers seeking quality accommodations without breaking the bank, ensuring that you can enjoy your stay in this vibrant city with peace of mind. By focusing on these essential criteria, you can make informed decisions that enhance your travel experience.",
+  "intro": "Discover the top budget-friendly hotels in Sydney that prioritize safety and cleanliness, allowing you to explore the city with confidence.",
+  "hotels": [
+    {
+      "id": "lp72543",
+      "name": "ibis budget Sydney Airport",
+      "image": "https://static.cupid.travel/hotels/243255333.jpg",
+      "description": "ibis budget Sydney Airport boasts a prime location just minutes from the domestic terminal and railway station, making it a perfect choice for travelers. The family-friendly accommodations are designed to cater to guests of all ages, while amenities like WiFi, TVs, and shared facilities ensure a convenient and comfortable stay. Book your stay now to enjoy both comfort and accessibility.",
+      "highlight": "ibis budget Sydney Airport offers family rooms, secure parking, and convenient airport pickup, ensuring a comfortable stay near the terminal.",
+      "price": "$103/night",
+      "location": "5 Ross Smith Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9220d",
+      "name": "Campsie Hotel",
+      "image": "https://static.cupid.travel/hotels/134068640.jpg",
+      "description": "Welcome to Campsie Hotel, ideally located just 8km from Bicentennial Park and close to ANZ Stadium and Sydney Showground, making it perfect for both leisure and business travelers. Guests can enjoy complimentary WiFi, a delightful on-site restaurant, and a fun billiards area, ensuring a memorable stay. Each room features shared bathrooms, providing comfort and convenience for all visitors.",
+      "highlight": "Offers complimentary WiFi, an on-site restaurant, and a billiards area, ensuring a clean and enjoyable stay.",
+      "price": "$65/night",
+      "location": "327 Beamish St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp80658",
+      "name": "Grand Hotel Rockdale",
+      "image": "https://static.cupid.travel/hotels/43080565.jpg",
+      "description": "Grand Hotel Rockdale boasts a prime location directly across from Rockdale Train Station, providing effortless access to transportation and nearby attractions, including Sydney Airport. Guests can unwind at the onsite bar and cafe restaurant, perfect for a casual meal and drinks. With complimentary parking and shared facilities, this hotel ensures a comfortable and convenient stay for all visitors.",
+      "highlight": "Grand Hotel Rockdale offers complimentary parking, family rooms, and onsite dining options near Rockdale Train Station.",
+      "price": "$82/night",
+      "location": "482-484 Princes Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpf7ebd",
+      "name": "Hurstville Ritz Hotel",
+      "image": "https://static.cupid.travel/hotels/279557170.jpg",
+      "description": "Experience elegance at Hurstville Ritz Hotel, where beautifully furnished rooms feature flat-screen TVs for your comfort. Ideally situated near Sydney's top attractions like Bicentennial Park and ANZ Stadium, this hotel offers easy access to the city's vibrant entertainment scene. Enjoy modern amenities including complimentary WiFi and a serene garden, perfect for relaxation during your stay.",
+      "highlight": "Offers beautifully furnished rooms with flat-screen TVs, complimentary WiFi, and easy access to Sydney's top attractions.",
+      "price": "$85/night",
+      "location": "350 Forest Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp86725",
+      "name": "Wiley Park Hotel",
+      "image": "https://static.cupid.travel/hotels/53325465.jpg",
+      "description": "Experience comfort and convenience at Wiley Park Hotel, where guests can relax at the on-site bar and enjoy complimentary private parking. With options for both private and shared bathrooms, our accommodations cater to every preference, while billiards provide a fun entertainment option. Located just 10 km from Kingsford Smith Airport, this hotel is a perfect choice for travelers seeking accessibility and enjoyment.",
+      "highlight": "Offers secure parking, complimentary private parking, and accommodations with both private and shared bathrooms for diverse guest needs.",
+      "price": "$91/night",
+      "location": "67-75 Georges Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5adb0",
+      "name": "Marco Polo Motor Inn Sydney",
+      "image": "https://static.cupid.travel/hotels/485158877.jpg",
+      "description": "Experience budget-friendly accommodation at Marco Polo Motor Inn, located in the lively 'Little Italy' district of Leichhardt and just a short drive from Sydney Airport. Each comfortable room features modern amenities such as a microwave, refrigerator, en suite bathroom, and complimentary high-speed WiFi, ensuring a relaxing stay. Enjoy added conveniences like laundry facilities, free parking, and a daily newspaper, all complemented by a new split-system air conditioner for your comfort.",
+      "highlight": "Offers comfortable rooms with modern amenities, including free WiFi, parking, and laundry facilities in Leichhardt.",
+      "price": "$98/night",
+      "location": "42 Parramatta Road",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-sydney",
+  "generatedAt": "2025-11-04T01:16:49.614Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

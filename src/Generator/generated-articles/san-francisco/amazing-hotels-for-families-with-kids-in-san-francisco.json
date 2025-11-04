@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "hotels for families with kids in San Francisco",
+  "title": "Amazing hotels for families with kids in San Francisco",
+  "excerpt": "Finding hotels that cater to families with kids in San Francisco can be a daunting task, especially with the city's diverse offerings and unique landscape. This list is valuable because it highlights accommodations that not only provide comfort and convenience but also ensure that families can enjoy memorable experiences together in the heart of the city. Whether it's spacious rooms or kid-friendly amenities, these hotels make family travel a breeze.",
+  "intro": "Discover the best family-friendly hotels in San Francisco that offer comfort and fun for both parents and kids.",
+  "hotels": [
+    {
+      "id": "lp36238",
+      "name": "Buena Vista Motor Inn",
+      "image": "https://static.cupid.travel/hotels/225501102.jpg",
+      "description": "Buena Vista Motor Inn, nestled in the vibrant Marina District of San Francisco, offers the perfect blend of comfort and convenience just 1.6 km from Fisherman’s Wharf. Guests can unwind in traditional-style rooms equipped with cable TV and some featuring breathtaking views of the Golden Gate Bridge, while enjoying the added perk of free on-site parking. With nearby attractions like Lombard Street and Alcatraz Cruises within easy reach, this inn is an ideal base for exploring the city.",
+      "highlight": "Features family rooms, outdoor furniture, and a Japanese garden, providing a comfortable space for relaxation and play.",
+      "price": "$202/night",
+      "location": "1599 Lombard St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19cb8",
+      "name": "Hotel Riu Plaza Fisherman's Wharf",
+      "image": "https://static.cupid.travel/hotels/ex_fb03adf0_z.jpg",
+      "description": "Experience the enchanting charm of Hotel Riu Plaza Fisherman's Wharf, ideally located in the heart of San Francisco. Guests can relax by the outdoor pool, stay fit in the 24-hour gym, and delight in a complimentary buffet breakfast at the on-site restaurant. With convenient amenities like complimentary Wi-Fi and a dedicated business center, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Offers a heated outdoor pool, complimentary breakfast, and a 24-hour fitness center for family-friendly enjoyment.",
+      "price": "$638/night",
+      "location": "2500 Mason St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1ddea",
+      "name": "Travelodge by Wyndham by Fisherman's Wharf",
+      "image": "https://static.cupid.travel/hotels/602439871.jpg",
+      "description": "Located just three blocks from the iconic Fisherman's Wharf, the Travelodge by Wyndham offers a prime spot for exploring San Francisco's top attractions. Guests can unwind in cozy rooms featuring modern amenities like coffee facilities and complimentary WiFi. With the Aquarium of the Bay and the San Francisco Maritime National Historical Park a short stroll away, this hotel is perfect for an unforgettable city adventure.",
+      "highlight": "Offers soundproof rooms and convenient access to family-friendly attractions like the Aquarium of the Bay.",
+      "price": "$265/night",
+      "location": "1201 Columbus Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65585205",
+      "name": "The LINE San Francisco",
+      "image": "https://static.cupid.travel/hotels/390550254.jpg",
+      "description": "Discover the luxurious comfort of The LINE San Francisco, a 4-star hotel just 1.1 km from City Hall, offering amenities like free bikes, private parking, and a well-equipped fitness center. Guests can enjoy 24-hour room service, complimentary WiFi, and easy access to nearby attractions like Union Square, making it ideal for both business and leisure travelers. Elevate your San Francisco experience by booking your stay at The LINE today.",
+      "highlight": "Offers family rooms, complimentary WiFi, and free bikes, ensuring a comfortable stay for families visiting San Francisco.",
+      "price": "$372/night",
+      "location": "33 Turk St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1e237",
+      "name": "Hilton Parc 55 San Francisco Union Square",
+      "image": "https://static.cupid.travel/hotels/484393476.jpg",
+      "description": "Discover the elegance of Parc 55 Union Square, where luxurious, spacious rooms feature bay-style windows that provide breathtaking views of downtown San Francisco. Enjoy delectable American cuisine at Cable 55 and grab a coffee at the Barbary Coast, all while being steps away from iconic attractions like Union Square and the San Francisco Museum of Art. With amenities such as an outdoor pool and a large fitness center, your ideal urban getaway awaits at this centrally located hotel.",
+      "highlight": "Offers family rooms, kids meals, and an outdoor pool, all within steps of Union Square's attractions.",
+      "price": "$495/night",
+      "location": "55 Cyril Magnin St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b53c",
+      "name": "Axiom Hotel",
+      "image": "https://static.cupid.travel/hotels/76263893.jpg",
+      "description": "Experience a modern retreat at Axiom Hotel, where cutting-edge technology enhances your stay with sensor locks and online check-in. Each luxurious room features a 48-inch Samsung Smart TV, premium linens, and LATHER brand toiletries, ensuring your comfort. Located near iconic attractions like Union Square and Chinatown, Axiom Hotel offers fiber optic WiFi and 24-hour reception for a seamless and enjoyable visit.",
+      "highlight": "Axiom Hotel provides family rooms, a restaurant, and games, enhancing your family's stay in the heart of San Francisco.",
+      "price": "$552/night",
+      "location": "28 Cyril Magnin Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-san-francisco",
+  "generatedAt": "2025-11-04T01:22:16.923Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "affordable clean hotels in Sydney with breakfast included",
+  "title": "What are the affordable, clean hotels in Sydney with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in Sydney that include breakfast can be a daunting task, especially in a city known for its vibrant atmosphere and high accommodation costs. This curated list is valuable for budget-conscious travelers seeking comfort and convenience, as it highlights options that not only fit their financial plans but also ensure a pleasant start to each day with a hearty meal included. You can enjoy the best of Sydney without breaking the bank while starting your mornings right.",
+  "intro": "Discover the top affordable and clean hotels in Sydney that offer breakfast included, making your stay both budget-friendly and hassle-free.",
+  "hotels": [
+    {
+      "id": "lpf7ebd",
+      "name": "Hurstville Ritz Hotel",
+      "image": "https://static.cupid.travel/hotels/279557170.jpg",
+      "description": "Experience the elegance of Hurstville Ritz Hotel, where beautifully furnished rooms equipped with flat-screen TVs provide the ultimate comfort. Ideally situated near Sydney's top attractions like Bicentennial Park and ANZ Stadium, this hotel makes exploring the city effortless. Enjoy modern amenities including complimentary WiFi and a serene garden, perfect for relaxation during your stay.",
+      "highlight": "Hurstville Ritz Hotel offers clean, affordable accommodations with complimentary breakfast, family rooms, and easy access to Sydney's attractions.",
+      "price": "$85/night",
+      "location": "350 Forest Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp75645",
+      "name": "ibis Budget - Enfield",
+      "image": "https://static.cupid.travel/hotels/247701977.jpg",
+      "description": "ibis budget Enfield offers a prime location next to Strathfield Golf Course and just minutes from Sydney Olympic Park, making it an ideal choice for both leisure and business travelers. Guests can enjoy modern, comfortable rooms featuring air conditioning, flat-screen TVs, and en suite bathrooms, along with convenient laundry services. Start your day with a delicious breakfast and stay connected with complimentary Wi-Fi, all while being close to popular attractions like Sydney Showground and Flemington Markets.",
+      "highlight": "ibis Budget - Enfield provides breakfast included, free parking, and modern rooms with air conditioning and flat-screen TVs.",
+      "price": "$88/night",
+      "location": "626-628 Liverpool Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp72c68",
+      "name": "ibis budget Sydney East",
+      "image": "https://static.cupid.travel/hotels/77091366.jpg",
+      "description": "ibis budget Sydney East offers affordable accommodation in the heart of Kings Cross, just a short stroll from iconic attractions like Hyde Park and Oxford Street, with Bondi Beach a quick drive away. Guests can unwind in air-conditioned rooms featuring en suite bathrooms and TVs, with select rooms showcasing breathtaking views of Sydney Harbour. Start your day with a convenient continental breakfast and explore an array of dining options nearby for a delightful stay in Sydney.",
+      "highlight": "Offers affordable, air-conditioned rooms with en suite bathrooms, stunning views, and complimentary continental breakfast in Kings Cross.",
+      "price": "$137/night",
+      "location": "191 - 201 William Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp76db9",
+      "name": "ibis Budget Sydney Olympic Park",
+      "image": "https://static.cupid.travel/hotels/276305090.jpg",
+      "description": "Experience modern comfort at ibis Budget Sydney Olympic Park, where air-conditioned rooms feature flat-screen TVs and work desks, all just moments from Qudos Bank Arena and ANZ Stadium. With the Olympic Park Train Station and Sydney International Aquatic Centre a short stroll away, you can easily explore the vibrant area, including dining and entertainment options within a 10-minute walk. For those wanting to venture further, Sydney's city center is only a 30-minute ride away, making this the perfect base for your Sydney adventure.",
+      "highlight": "Offers clean, air-conditioned rooms with flat-screen TVs and includes breakfast, located near Qudos Bank Arena and public transport.",
+      "price": "$98/night",
+      "location": "8 Edwin Flack Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1e32b0",
+      "name": "Kingsgrove Hotel",
+      "image": "https://static.cupid.travel/hotels/188183778.jpg",
+      "description": "Kingsgrove Hotel offers a prime location in Sydney, with easy access to ANZ Stadium and local attractions. Guests can enjoy modern, air-conditioned rooms featuring flat-screen TVs and private bathrooms, alongside an array of amenities. With an on-site restaurant, bar, and casino, this hotel is perfect for both relaxation and entertainment during your visit.",
+      "highlight": "Kingsgrove Hotel provides modern air-conditioned rooms with flat-screen TVs and includes breakfast along with an on-site restaurant.",
+      "price": "$98/night",
+      "location": "236 Kingsgrove Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7af42",
+      "name": "Southern Cross Hotel",
+      "image": "https://static.cupid.travel/hotels/116521797.jpg",
+      "description": "Southern Cross Hotel in Sydney offers modern rooms featuring elegant designs and luxurious amenities, including natural stone bathrooms and flat-screen TVs for your entertainment. Savor a delightful range of pub favorites and contemporary Australian cuisine at the on-site restaurant, or relax with a drink at the cozy bar. Ideally situated just 1.2 km from Sydneyham train station, the hotel provides easy access to the CBD and nearby attractions, making it the perfect base for your Sydney adventure.",
+      "highlight": "Offers affordable, clean accommodations with breakfast included, modern rooms, and an on-site restaurant serving contemporary Australian cuisine.",
+      "price": "$88/night",
+      "location": "340 Princes Highway",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-sydney-with-breakfast-included",
+  "generatedAt": "2025-11-04T02:26:32.414Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "hotels for families with kids in Rome",
+  "title": "Amazing hotels for families with kids in Rome",
+  "excerpt": "Finding the perfect hotel for a family trip to Rome can be quite challenging, especially with the multitude of options that may not cater to the needs of children. This curated list is valuable as it highlights family-friendly hotels that offer amenities and services designed to make your stay enjoyable and stress-free. From spacious rooms to on-site activities, these hotels ensure that both parents and kids have a memorable experience in the Eternal City.",
+  "intro": "Discover the best family-friendly hotels in Rome that cater to both kids and adults, making your vacation unforgettable.",
+  "hotels": [
+    {
+      "id": "lp1d2f0",
+      "name": "Hotel Ripa Roma",
+      "image": "https://static.cupid.travel/hotels/218759846.jpg",
+      "description": "Hotel Ripa Roma offers a prime location in the vibrant Trastevere district, just steps away from public transport that connects you to Rome's historical center. Guests can enjoy spacious, air-conditioned rooms equipped with modern amenities and charming balconies, along with complimentary WiFi and a gym. Start your day with a delicious breakfast in your room and delight in Roman and international dishes at the on-site Ripa Place restaurant.",
+      "highlight": "Offers spacious family rooms, kids' meals, and e-bike charging in the vibrant Trastevere district.",
+      "price": "$146/night",
+      "location": "Via Degli Orti Di Trastevere 3",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c97a",
+      "name": "Hotel Giolli Nazionale",
+      "image": "https://static.cupid.travel/hotels/28358732.jpg",
+      "description": "Hotel Giolli offers a prime location on Via Nazionale, just steps from Rome's iconic attractions like the Opera House and Trevi Fountain. Guests can relax in spacious rooms equipped with modern amenities, including Wi-Fi, air conditioning, and balconies overlooking the vibrant streets. With excellent services such as a 24-hour front desk and a delightful buffet breakfast in a panoramic dining hall, Hotel Giolli ensures a memorable stay in the heart of the city.",
+      "highlight": "Hotel Giolli Nazionale offers spacious family rooms, soundproof accommodations, and a tour desk to enhance your family's Roman getaway.",
+      "price": "$159/night",
+      "location": "Via Nazionale 69",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1be00",
+      "name": "Best Western Hotel Globus",
+      "image": "https://static.cupid.travel/hotels/619757150.jpg",
+      "description": "Hotel Globus features modern, air-conditioned rooms equipped with flat-screen TVs and private bathrooms, ensuring a comfortable stay for all guests. Enjoy convenient amenities including free Wi-Fi, a delicious buffet breakfast, and travel assistance, along with discounts at a nearby gym and beauty center. Perfectly located in Rome's La Sapienza University district, the hotel is just two metro stops from Termini Train Station, providing easy access to iconic attractions like the Coliseum.",
+      "highlight": "Best Western Hotel Globus offers family rooms, soundproof accommodations, and convenient access to Rome's iconic attractions.",
+      "price": "$186/night",
+      "location": "Viale Ippocrate 119",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp322ae",
+      "name": "TH Roma - Carpegna Palace",
+      "image": "https://static.cupid.travel/hotels/37008203.jpg",
+      "description": "Experience a serene retreat at TH Roma - Carpegna Palace, set amidst ancient trees in a beautiful garden just moments from Cornelia Metro Station. Enjoy modern amenities in your room, including flat-screen TVs, free WiFi, and minibars, with select rooms offering tea and coffee facilities. Conveniently located near Villa Carpegna Park and St. Peter’s Basilica, this historic hotel makes exploring Rome effortless, complete with free parking for easy city access.",
+      "highlight": "Offers family rooms, outdoor furniture, and spa services amid a serene garden setting near key attractions in Rome.",
+      "price": "$101/night",
+      "location": "Via Aurelia 481",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44616",
+      "name": "Hotel Medici",
+      "image": "https://static.cupid.travel/hotels/340530934.jpg",
+      "description": "Hotel Medici, housed in a stunning 19th-century building, offers a blend of luxury and comfort just steps from Villa Borghese Park. Guests can relax in a tranquil garden oasis, complete with a charming patio for enjoying drinks during warmer months. Conveniently located near authentic restaurants and major attractions like the Spanish Steps, this hotel is the perfect base for an unforgettable Roman adventure.",
+      "highlight": "Offers family rooms and a tranquil Japanese garden with outdoor seating for relaxation after exploring nearby attractions.",
+      "price": "$88/night",
+      "location": "Via Flavia 96",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp445cf",
+      "name": "Hotel Canada, BW Premier Collection",
+      "image": "https://static.cupid.travel/hotels/153683535.jpg",
+      "description": "Hotel Canada BW Premier Collection is ideally situated just 150 meters from Rome's Castro Pretorio Metro Stop, providing effortless access to the city's attractions and Termini Train Station. Guests can enjoy air-conditioned rooms equipped with modern amenities like flat-screen TVs and complimentary toiletries, ensuring a comfortable retreat. With a 24-hour front desk, a stylish shared lounge, and a delightful continental breakfast, this hotel combines convenience and exceptional service for a memorable Roman getaway.",
+      "highlight": "Provides family rooms, air-conditioned accommodations with modern amenities, and a 24-hour front desk for convenience.",
+      "price": "$188/night",
+      "location": "Via Vicenza 58",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-rome",
+  "generatedAt": "2025-11-04T01:35:01.159Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

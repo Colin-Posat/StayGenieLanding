@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "best pet friendly hotels in Barcelona",
+  "title": "What are the best pet-friendly hotels in Barcelona",
+  "excerpt": "Finding pet-friendly hotels in Barcelona can be a daunting task, as not all accommodations welcome furry companions with open arms. This curated list not only highlights the best options but also ensures peace of mind for travelers who wish to enjoy the vibrant city alongside their pets. With these recommendations, you can focus on making memories rather than worrying about where to stay.",
+  "intro": "Discover the top pet-friendly hotels in Barcelona that ensure both you and your four-legged friends enjoy a comfortable and memorable stay.",
+  "hotels": [
+    {
+      "id": "lp2a6bb",
+      "name": "Hotel El Palace Barcelona",
+      "image": "https://static.cupid.travel/hotels/125342544.jpg",
+      "description": "Experience the ultimate indulgence at Hotel El Palace Barcelona, featuring a luxurious Mayan-style spa for a serene retreat. Savor gourmet dining at two exquisite restaurants and unwind at a chic cocktail bar, all within the hotel. Located in the vibrant Eixample District, guests enjoy easy access to top attractions and exceptional service, including a limousine service for a truly memorable stay.",
+      "highlight": "Offers pet-friendly accommodations alongside a Mayan-style spa and gourmet dining options in the heart of Barcelona.",
+      "price": "$559/night",
+      "location": "Gran Via de les Corts Catalanes 668",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp36670",
+      "name": "Hotel Casa Fuster",
+      "image": "https://static.cupid.travel/hotels/ex_90409927_z.jpg",
+      "description": "Experience the elegance of Barcelona at Hotel Casa Fuster, an Art Deco gem that combines timeless charm with contemporary comforts. Guests can indulge in a vibrant nightlife scene, rejuvenate in the sauna, or maintain their fitness routine in the well-equipped gym. Enjoy gourmet dining at the on-site restaurant, and relax in stylish rooms featuring espresso makers, LCD TVs, and complimentary Wi-Fi, making it the perfect urban retreat.",
+      "highlight": "Offers pet-friendly accommodations alongside a seasonal outdoor pool and vibrant nightlife options.",
+      "price": "$342/night",
+      "location": "Passeig de Gràcia, 132",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59013",
+      "name": "Hotel Moderno Barcelona",
+      "image": "https://static.cupid.travel/hotels/ex_3034d865_z.jpg",
+      "description": "Hotel Moderno Barcelona offers a prime central location with easy access to major attractions. Guests can enjoy complimentary Wi-Fi, concierge services, and a convenient vending machine, along with delicious buffet breakfasts at the on-site Café Moderno. Each of the 57 well-appointed guestrooms features a flat-screen television and access to a computer station, ensuring a comfortable and enjoyable stay.",
+      "highlight": "Hotel Moderno Barcelona boasts pet-friendly accommodations, complimentary Wi-Fi, and an on-site café serving buffet breakfasts.",
+      "price": "$301/night",
+      "location": "Hospital 11",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp39039",
+      "name": "Hotel 1898",
+      "image": "https://static.cupid.travel/hotels/65347252.jpg",
+      "description": "Discover the elegance of Hotel 1898, located in the vibrant heart of La Rambla, where a beautifully restored 19th-century building showcases a blend of historic charm and modern luxury. Enjoy breathtaking views from the stunning rooftop pool and indulge in exquisite Mediterranean cuisine at the stylish restaurant or bar terrace. Experience a perfect fusion of comfort and culture in this unique hotel, making it an unforgettable destination in Barcelona.",
+      "highlight": "Features pet-friendly accommodations, a stunning rooftop terrace, and a health club for a luxurious stay in Barcelona.",
+      "price": "$599/night",
+      "location": "La Rambla, 109; (entrance on the street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp357f1",
+      "name": "H10 Marina Barcelona",
+      "image": "https://static.cupid.travel/hotels/120101773.jpg",
+      "description": "Experience the ultimate in luxury at H10 Marina Hotel Barcelona, where a modern gym, rejuvenating spa, and a stunning rooftop pool with panoramic views await you. Savor delectable dishes at the Dionissos restaurant or unwind with a drink from Bar La Llum, with room service available for added convenience. Located near Bogatell Beach and well-connected to transportation, this hotel offers the perfect blend of relaxation and accessibility for every traveler.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop garden, and easy access to nearby spa services in Barcelona.",
+      "price": "$342/night",
+      "location": "Avenida Bogatell, 64-68",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45036",
+      "name": "Hotel Balmoral",
+      "image": "https://static.cupid.travel/hotels/43199384.jpg",
+      "description": "Hotel Balmoral offers a prime location near metro stations and top attractions, making it an ideal base for exploring the city. Guests can enjoy modern rooms equipped with air conditioning, flat-screen TVs, and complimentary Wi-Fi, along with a wellness area featuring a sauna and massage cabins. With a delightful breakfast buffet and a range of nearby dining options, this hotel promises a comfortable and luxurious stay in Barcelona.",
+      "highlight": "Hotel Balmoral boasts pet-friendly accommodations alongside modern rooms, a wellness area, and a convenient location near attractions.",
+      "price": "$297/night",
+      "location": "Via Augusta 5",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-barcelona",
+  "generatedAt": "2025-11-04T02:34:49.762Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "affordable clean hotels in San Francisco with breakfast included",
+  "title": "What are the affordable, clean hotels in San Francisco with breakfast included",
+  "excerpt": "Navigating the vibrant city of San Francisco while sticking to a budget can be a daunting task, especially when it comes to finding affordable hotels that also offer cleanliness and complimentary breakfast. This list is valuable as it highlights reliable options that not only save you money but also provide a comfortable stay, allowing you to focus on exploring the city's iconic sights. With these recommendations, you can enjoy a hassle-free trip without compromising on quality or your morning meal.",
+  "intro": "Discover the best affordable and clean hotels in San Francisco that include breakfast, ensuring a delightful start to your day in this iconic city.",
+  "hotels": [
+    {
+      "id": "lpe1259",
+      "name": "Bay Hotel",
+      "image": "https://static.cupid.travel/hotels/205933489.jpg",
+      "description": "Bay Hotel is ideally situated in San Francisco's vibrant Tenderloin district, just a short walk from key attractions like Union Square and Moscone Center. Guests can unwind in comfortable, well-furnished rooms featuring flat-screen TVs and cozy bedding, making it a perfect retreat after a day of sightseeing. With nearby landmarks such as Ghirardelli Square and Oracle Park, plus convenient access to San Francisco International Airport, Bay Hotel is the perfect base for your city adventures.",
+      "highlight": "Offers complimentary breakfast, comfortable rooms with flat-screen TVs, and convenient access to key San Francisco attractions.",
+      "price": "$100/night",
+      "location": "128 Jones St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp656ca3bd",
+      "name": "Hotel Garrett",
+      "image": "https://static.cupid.travel/hotels/ex_b8bcbcfb_z.jpg",
+      "description": "Discover comfort and convenience at Hotel Garrett, nestled in the lively center of San Francisco. Guests can unwind by the outdoor pool or stay active in the modern fitness center, while the thoughtfully designed rooms feature plush pillowtop beds and advanced entertainment options. Begin each day with a complimentary continental breakfast, setting the perfect tone for your city explorations. Book your stay at Hotel Garrett for an unforgettable experience.",
+      "highlight": "Offers a complimentary continental breakfast, outdoor pool, and modern fitness center for a comfortable stay.",
+      "price": "$178/night",
+      "location": "112 7th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b276",
+      "name": "Travelodge by Wyndham Presidio San Francisco",
+      "image": "https://static.cupid.travel/hotels/ex_5c50b30f_z.jpg",
+      "description": "Experience a comfortable stay at Travelodge by Wyndham Presidio San Francisco, where you'll find complimentary Wi-Fi and dedicated concierge services to enhance your visit. Start your mornings right with a delicious continental breakfast served daily, and enjoy the hotel's prime location in the Marina District, just moments from the stunning Presidio and the iconic Palace of Fine Arts. Book your getaway today!",
+      "highlight": "Offers complimentary continental breakfast and free Wi-Fi in a convenient Marina District location near the Presidio.",
+      "price": "$289/night",
+      "location": "2755 Lombard St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp657e75f7",
+      "name": "Fitzgerald Hotel Union Square",
+      "image": "https://static.cupid.travel/hotels/20237235.jpg",
+      "description": "Discover the enchanting Fitzgerald Hotel Union Square, where Victorian charm meets modern amenities in the heart of San Francisco's Theatre District. Enjoy complimentary WiFi and a daily continental breakfast, along with cozy rooms featuring mini-refrigerators and microwaves. Ideally located near Union Square, explore iconic attractions like Chinatown and the Ferry Building, making it the perfect base for your city adventure.",
+      "highlight": "Offers complimentary continental breakfast, soundproof family rooms, and mini-refrigerators in a charming Victorian setting.",
+      "price": "$224/night",
+      "location": "620 Post Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2c66b",
+      "name": "Super 8 by Wyndham San Francisco/Union Square Area",
+      "image": "https://static.cupid.travel/hotels/518156776.jpg",
+      "description": "Super 8 by Wyndham San Francisco/Union Square Area boasts a prime location just steps from Union Square and a short drive to Fisherman’s Wharf, making it ideal for city exploration. Guests can enjoy comfortable rooms equipped with free WiFi, flat-screen TVs, and essential amenities, while each morning begins with a convenient grab and go breakfast. With 24-hour front desk assistance, this hotel provides a welcoming atmosphere for an unforgettable San Francisco experience.",
+      "highlight": "Super 8 by Wyndham San Francisco/Union Square Area provides complimentary breakfast, free WiFi, and flat-screen TVs in a central location.",
+      "price": "$181/night",
+      "location": "415 O'Farrell Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8a263",
+      "name": "Hotel EPIK",
+      "image": "https://static.cupid.travel/hotels/ex_1be72797_z.jpg",
+      "description": "Discover Hotel EPIK, an urban oasis in the heart of San Francisco, featuring 61 elegantly designed rooms equipped with premium pillowtop beds, MP3 docking stations, and LCD televisions. Indulge in delicious on-site dining, including a complimentary continental breakfast to kickstart your day, while enjoying seamless connectivity with free Wi-Fi and attentive concierge services. Book your stay and immerse yourself in the vibrant essence of the city!",
+      "highlight": "Offers complimentary continental breakfast, free Wi-Fi, and concierge services in a stylish setting.",
+      "price": "$154/night",
+      "location": "Address not available",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-san-francisco-with-breakfast-included",
+  "generatedAt": "2025-11-04T02:32:15.551Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

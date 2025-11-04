@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "best hotels in Singapore for women travelers",
+  "title": "Best hotels in Singapore for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels in Singapore that cater specifically to women travelers can be a daunting task, given the myriad of options available. This curated list highlights accommodations that prioritize safety, cleanliness, and exceptional amenities, ensuring a comfortable stay for solo female adventurers. With this guide, you can confidently choose a hotel that meets your needs and enhances your travel experience.",
+  "intro": "Discover the top hotels in Singapore that offer a welcoming environment for women travelers, combining safety and comfort with outstanding services.",
+  "hotels": [
+    {
+      "id": "lp19e76",
+      "name": "Grand Hyatt Singapore",
+      "image": "https://static.cupid.travel/hotels/612336623.jpg",
+      "description": "Experience luxury at Grand Hyatt Singapore with 699 elegantly refreshed guestrooms and suites, each offering stylish baths and versatile seating areas. Ideally located just a three-minute walk from Orchard MRT Station, this hotel provides easy access to Suntec Convention Centre and Changi Airport. Delight your taste buds with four unique dining options and two bars, ensuring a culinary experience for everyone.",
+      "highlight": "Boasts 699 elegantly refreshed guestrooms, four dining options, a saltwater pool, and 24-hour concierge service for enhanced comfort.",
+      "price": "$482/night",
+      "location": "10 Scotts Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1a41a",
+      "name": "Holiday Inn Singapore Orchard City Centre, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/256322302.jpg",
+      "description": "Experience the vibrant energy of Singapore at the Holiday Inn Singapore Orchard City Centre, ideally located near major MRT stations and the bustling Central Business District. Relax in well-appointed rooms featuring a flat-screen TV and customizable pillow options, ensuring a restful stay. Savor exceptional dining at the award-winning Tandoor Restaurant and unwind at the rooftop pool or fitness center, making this hotel a perfect blend of comfort and convenience.",
+      "highlight": "Boasts well-appointed rooms, customizable pillow options, an award-winning restaurant, and a rooftop pool for a comfortable stay.",
+      "price": "$250/night",
+      "location": "11 Cavenagh Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19c11",
+      "name": "Pullman Singapore Orchard",
+      "image": "https://static.cupid.travel/hotels/501927160.jpg",
+      "description": "Experience unparalleled luxury at Pullman Singapore Orchard, where guests can unwind by the outdoor swimming pool or stay active in the modern fitness center. Enjoy exquisite dining at the chic restaurant and bar while benefiting from convenient services like 24-hour concierge and complimentary WiFi. Each elegantly appointed room features contemporary comforts, including a flat-screen TV and premium toiletries, ensuring a memorable stay.",
+      "highlight": "Offers an outdoor pool, a chic restaurant, and 24-hour concierge services for a luxurious stay.",
+      "price": "$391/night",
+      "location": "270 Orchard Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c7d5",
+      "name": "Singapore Marriott Tang Plaza Hotel",
+      "image": "https://static.cupid.travel/hotels/444123708.jpg",
+      "description": "The Singapore Marriott Tang Plaza Hotel boasts a prime location on Orchard Road, placing guests at the heart of the city's vibrant shopping and entertainment scene. Featuring luxurious rooms with modern furnishings, guests can unwind by the outdoor pool, indulge in award-winning dining, and enjoy exclusive access to the M Club lounge. With a 24-hour fitness center and state-of-the-art amenities, this hotel offers a blend of comfort and convenience for an unforgettable stay.",
+      "highlight": "Features luxurious rooms, an outdoor pool, a 24-hour fitness center, and exclusive access to the M Club lounge.",
+      "price": "$522/night",
+      "location": "320 Orchard Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8fd4d",
+      "name": "Oasia Hotel Downtown, Singapore by Far East Hospitality",
+      "image": "https://static.cupid.travel/hotels/188227532.jpg",
+      "description": "Discover Oasia Hotel Downtown, a serene urban retreat in Singapore featuring a stunning green façade that evokes a tropical paradise. Located near Tanjong Pagar MRT station, it offers easy access to attractions while providing exclusive Club Room amenities, including a private lounge and wellness activities. Relax by the rooftop pools with breathtaking skyline views and indulge in diverse culinary delights at the hotel's restaurants, ensuring a memorable stay for all guests.",
+      "highlight": "Offers exclusive Club Room amenities, rooftop pools with skyline views, and a serene urban retreat near Tanjong Pagar MRT station.",
+      "price": "$312/night",
+      "location": "100 Peck Seah Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb584a",
+      "name": "Courtyard by Marriott Singapore Novena",
+      "image": "https://static.cupid.travel/hotels/444178722.jpg",
+      "description": "Experience unparalleled luxury at the Courtyard by Marriott Singapore Novena, featuring an inviting infinity pool with spectacular views of the city's skyline and a stylish rooftop bar perfect for relaxing evenings. Each modern room is equipped with advanced amenities, including a 49-inch HD TV and floor-to-ceiling windows, complemented by exceptional dining options and a well-equipped fitness center. Set in the lively Novena District, the hotel offers easy access to shops and the MRT, making it an ideal base for both leisure and business travelers.",
+      "highlight": "Offers a luxurious infinity pool, stylish rooftop bar, modern rooms with floor-to-ceiling windows, and a well-equipped fitness center.",
+      "price": "$374/night",
+      "location": "99 Irrawaddy Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-singapore-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:07:52.204Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

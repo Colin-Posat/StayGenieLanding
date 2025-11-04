@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "best hotels in San Francisco for weddings luxury and affordable",
+  "title": "Best hotels in San Francisco for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in San Francisco can be a daunting task, especially when trying to balance luxury with affordability. This curated list highlights venues that not only offer stunning backdrops for your special day but also cater to a range of budgets, ensuring that your dream wedding does not break the bank. With the right information, couples can navigate the city's vibrant hospitality scene with ease.",
+  "intro": "Discover the best luxurious yet affordable hotels in San Francisco that make for unforgettable wedding venues.",
+  "hotels": [
+    {
+      "id": "lp47b50",
+      "name": "Aida Plaza Hotel",
+      "image": "https://static.cupid.travel/hotels/29050804.jpg",
+      "description": "Nestled just steps from the 7th Street & Market Street Subway Station, Aida Plaza Hotel offers easy access to San Francisco's iconic attractions. Guests can unwind in traditionally decorated rooms featuring Cable TV and various bathroom options for added convenience. Start your day with complimentary doughnuts and enjoy 24-hour coffee, tea, and reception services to enhance your stay in the city.",
+      "highlight": "Aida Plaza Hotel offers traditionally decorated rooms, complimentary breakfast treats, and 24-hour reception services near key attractions.",
+      "price": "$112/night",
+      "location": "1087 Market Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8777c",
+      "name": "Admiral Hotel",
+      "image": "https://static.cupid.travel/hotels/46487663.jpg",
+      "description": "Discover luxurious accommodations in downtown San Francisco at Admiral Hotel, where chic rooms boast modern amenities like ensuite bathrooms, floor-to-ceiling windows, and plush bed linens. Enjoy convenient services such as 24-hour reception and free WiFi, ensuring a seamless experience. With a prime location just a short walk from Union Square and City Hall, this hotel offers easy access to the city's best attractions for an unforgettable stay.",
+      "highlight": "Offers luxurious rooms with modern amenities, 24-hour reception, and a prime location near Union Square and City Hall.",
+      "price": "$93/night",
+      "location": "608 O'Farrell Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp36ada",
+      "name": "Alpha Inn & Suites",
+      "image": "https://static.cupid.travel/hotels/ex_39dc8d55_z.jpg",
+      "description": "Experience comfort and convenience at Alpha Inn & Suites, featuring 28 air-conditioned rooms equipped with flat-screen TVs, complimentary Wi-Fi, and coffee/tea makers. Enjoy convenient amenities like room service and free self-parking, all while being ideally located in the Marina District, just minutes from iconic attractions such as the Presidio of San Francisco and the Palace of Fine Arts. Plan your stay for an unforgettable San Francisco adventure.",
+      "highlight": "Boasts 28 air-conditioned rooms with flat-screen TVs, complimentary Wi-Fi, and convenient self-parking in the Marina District.",
+      "price": "$105/night",
+      "location": "2505 Lombard Steet",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2812b",
+      "name": "Embassy Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_0aadcfd7_z.jpg",
+      "description": "Experience a hassle-free stay at Embassy Hotel in San Francisco, where you can enjoy complimentary wireless internet, concierge services, and an on-site hair salon. With a 24-hour front desk and multilingual staff, your needs will always be met. Centrally located, you are just minutes away from popular attractions like the Moscone Convention Center and Oracle Park, making it the perfect base for your city adventures.",
+      "highlight": "Offers complimentary wireless internet, concierge services, and an on-site hair salon in a centrally located setting.",
+      "price": "$102/night",
+      "location": "610 Polk St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6be77",
+      "name": "Casa Loma Hotel",
+      "image": "https://static.cupid.travel/hotels/24503109.jpg",
+      "description": "Experience the charm of Casa Loma Hotel, a delightful European-style retreat located just a mile from the lively Haight-Ashbury District and Hayes Valley. Enjoy comfortable accommodations featuring free Wi-Fi and diverse bathroom options, ensuring a convenient stay. With attractions like Golden Gate Park and the De Young Museum within a short distance, this hotel is the perfect base for your San Francisco adventure.",
+      "highlight": "Boasts comfortable accommodations with private bathrooms, free Wi-Fi, and room service, all within a mile of key attractions.",
+      "price": "$112/night",
+      "location": "610 Fillmore St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp37a9c",
+      "name": "Beach Motel",
+      "image": "https://static.cupid.travel/hotels/564417675.jpg",
+      "description": "Beach Motel offers the ideal retreat just a short walk from San Francisco's picturesque Ocean Beach. Each room is thoughtfully designed with modern amenities, including a flat-screen TV, refrigerator, and microwave, ensuring a comfortable stay. With a 24-hour reception and convenient tram access to downtown attractions like Golden Gate Park, guests can easily explore the vibrant city while enjoying a serene beach getaway.",
+      "highlight": "Offers modern rooms with flat-screen TVs and convenient tram access to downtown attractions, just steps from Ocean Beach.",
+      "price": "$122/night",
+      "location": "4211 Judah Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-san-francisco-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:49:04.858Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

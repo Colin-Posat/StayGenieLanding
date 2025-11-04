@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "cheap safe clean hotels in Los Angeles",
+  "title": "Best cheap, safe, and clean hotels in Los Angeles",
+  "excerpt": "Navigating the vast landscape of Los Angeles hotels can be overwhelming, especially when you're on a budget and seeking safety and cleanliness. This curated list highlights the best affordable options that maintain high standards in these crucial areas, ensuring you can enjoy your stay without compromise. Discovering these hidden gems can make all the difference in your travel experience, allowing you to focus on exploring the vibrant city rather than worrying about where to rest your head at night.",
+  "intro": "In this article, readers will uncover the top cheap, safe, and clean hotels in Los Angeles that offer great value without sacrificing comfort.",
+  "hotels": [
+    {
+      "id": "lp31486",
+      "name": "Super 8 by Wyndham Los Angeles Downtown",
+      "image": "https://static.cupid.travel/hotels/137132864.jpg",
+      "description": "Super 8 by Wyndham Los Angeles Downtown offers a prime location just steps from Dodger Stadium and a wealth of attractions, making it an ideal base for exploring the vibrant city. Each comfortable room features essential amenities like a microwave, refrigerator, and cable TV, ensuring a relaxing stay. With nearby sights including Chinatown, Beverly Hills, and the Hollywood Walk of Fame, guests can easily immerse themselves in the diverse culture of Los Angeles.",
+      "highlight": "Offers comfortable rooms with microwaves and refrigerators, secure parking, and convenient access to major Los Angeles attractions.",
+      "price": "$101/night",
+      "location": "1341 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp420f4",
+      "name": "Hollywood Stars Inn",
+      "image": "https://static.cupid.travel/hotels/264423202.jpg",
+      "description": "The Hollywood Stars Inn offers a prime location just two miles from iconic attractions like Grauman’s Chinese Theatre and the Hollywood Wax Museum, making it an ideal base for exploring the vibrant culture of Los Angeles. Guests can enjoy comfortable accommodations featuring modern amenities such as free Wi-Fi, cable TV, and in-room refrigerators. With exceptional services like a 24-hour front desk and complimentary parking, this hotel ensures a convenient and enjoyable stay for all travelers.",
+      "highlight": "Offers modern amenities including free Wi-Fi, cable TV, and in-room refrigerators, with discounted self-parking available.",
+      "price": "$105/night",
+      "location": "5435 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpf5f8d",
+      "name": "Hollywood Inn Suites Hotel",
+      "image": "https://static.cupid.travel/hotels/171958751.jpg",
+      "description": "Experience the heart of Los Angeles at Hollywood Inn Suites Hotel, ideally situated near popular attractions like the LA Memorial Coliseum and Staples Center. Enjoy comfortable rooms equipped with essential amenities, including air conditioning and free WiFi, ensuring a relaxing stay. With a helpful bilingual staff ready to assist with local insights and inquiries, your visit will be smooth and enjoyable.",
+      "highlight": "Offers secure parking, outdoor CCTV, and comfortable rooms with essential amenities like air conditioning and free WiFi.",
+      "price": "$133/night",
+      "location": "1030 W El Segundo Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp89cfe",
+      "name": "Motel 6 Hollywood",
+      "image": "https://static.cupid.travel/hotels/589409031.jpg",
+      "description": "Located in the vibrant heart of Hollywood, Motel 6 offers easy access to the iconic Walk of Fame and other popular attractions. Guests can enjoy comfortable accommodations featuring modern amenities like flat-screen TVs and free WiFi, along with exceptional services including 24-hour reception and complimentary morning coffee. Experience the essence of Hollywood with a stay at Motel 6, where convenience and comfort meet.",
+      "highlight": "Offers comfortable accommodations with free WiFi, 24-hour reception, and pet-friendly options in the heart of Hollywood.",
+      "price": "$138/night",
+      "location": "1738 Whitley Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp37f43",
+      "name": "Days Inn by Wyndham Los Angeles LAX/VeniceBch/Marina DelRay",
+      "image": "https://static.cupid.travel/hotels/135439394.jpg",
+      "description": "Discover the ideal base for your Los Angeles adventure at Days Inn by Wyndham, conveniently situated near popular attractions and easily accessible from the motorway. Enjoy thoughtful amenities like complimentary Wi-Fi, in-room microwaves, refrigerators, and coffeemakers, alongside attentive 24-hour front desk service to ensure your stay is both comfortable and hassle-free. Experience the charm of Los Angeles with us and book your memorable getaway today.",
+      "highlight": "Offers secure parking, outdoor CCTV, and family rooms alongside complimentary Wi-Fi and in-room amenities for a comfortable stay.",
+      "price": "$134/night",
+      "location": "901 W Manchester Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20b40",
+      "name": "Days Inn by Wyndham Santa Monica",
+      "image": "https://static.cupid.travel/hotels/383740268.jpg",
+      "description": "Welcome to the Days Inn by Wyndham Santa Monica, where convenience meets comfort just two miles from the stunning Santa Monica Beach and Pier. With easy access to iconic landmarks such as UCLA, Beverly Hills, and Hollywood, you can explore the vibrant attractions of Los Angeles with ease. Plus, a quick 15-mile drive takes you to Universal Studios for a day of fun and adventure. Book your stay today and immerse yourself in the best of Santa Monica!",
+      "highlight": "Offers convenient access to Santa Monica Beach and attractions, featuring self-parking and a relaxing terrace.",
+      "price": "$188/night",
+      "location": "3007 Santa Monica Blvd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-los-angeles",
+  "generatedAt": "2025-11-04T01:58:47.377Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

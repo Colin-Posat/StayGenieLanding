@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "boutique hotels in Barcelona affordable and stylish",
+  "title": "Best boutique hotels in Barcelona: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Barcelona can be a daunting task, especially with the city’s vibrant array of options. This list is valuable because it narrows down stylish yet affordable choices, ensuring you experience the charm and uniqueness of local hospitality without breaking the bank. Each hotel on this selection offers a distinct ambiance, making your stay as memorable as the city itself.",
+  "intro": "Discover a curated selection of the best boutique hotels in Barcelona that combine style and affordability for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp5cb12",
+      "name": "Hostal Alogar",
+      "image": "https://static.cupid.travel/hotels/96097765.jpg",
+      "description": "Hostal Alogar boasts a prime location in Barcelona's Sant Gervasi district, just a short walk from the Corte Inglés Shopping Centre and close to Muntaner Metro Station for easy access to the city. Guests will find cozy and affordable rooms with personal cupboards, along with a well-equipped communal kitchen for budget-friendly meals. The attentive staff is on hand to assist with services like car rentals and local advice, ensuring a comfortable stay with free Wi-Fi throughout the property.",
+      "highlight": "Hostal Alogar offers cozy rooms, a shared kitchen, and free Wi-Fi in a prime Sant Gervasi location.",
+      "price": "$170/night",
+      "location": "Carrer de Laforja, 98",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6501b",
+      "name": "Hostal Martinval",
+      "image": "https://static.cupid.travel/hotels/43525008.jpg",
+      "description": "Hostal Martinval is ideally situated in the vibrant Eixample neighborhood, just a short stroll from renowned avenues like Diagonal and Passeig de Gracia, with easy access to the Verdaguer metro station. Choose from modern rooms or apartments featuring flat-screen TVs, free Wi-Fi, and some with private balconies, ensuring a comfortable stay. With iconic attractions such as La Pedrera, Casa Batlló, and the Sagrada Familia Temple within walking distance, you can dive into Barcelona's rich culture right from your doorstep.",
+      "highlight": "Hostal Martinval offers modern rooms and apartments with flat-screen TVs and free Wi-Fi in the vibrant Eixample neighborhood.",
+      "price": "$199/night",
+      "location": "Carrer de Bruc 117",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7bb7a",
+      "name": "Hostal Balmes Centro",
+      "image": "https://static.cupid.travel/hotels/69380276.jpg",
+      "description": "Hostal Balmes Centro offers a prime location just a short walk from Barcelona's famous Paseo de Gracia and Gaudi's la Pedrera, ensuring guests enjoy both comfort and convenience. The modern rooms come equipped with flat-screen TVs, fridges, and a choice of bed configurations, while the hotel also provides complimentary WiFi and 24-hour reception. Explore local dining options, arrange exciting excursions, and benefit from easy transportation to and from Barcelona El Prat Airport for a memorable stay.",
+      "highlight": "Offers modern rooms with flat-screen TVs, fridges, complimentary WiFi, and 24-hour reception near Paseo de Gracia.",
+      "price": "$138/night",
+      "location": "Balmes 83, 1-2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6e9c7",
+      "name": "Hostal Petit Príncep",
+      "image": "https://static.cupid.travel/hotels/465683626.jpg",
+      "description": "Hostal Petit Príncep features modern, air-conditioned rooms along Diagonal Avenue in Barcelona, complete with free Wi-Fi and vibrant decor, some offering breathtaking city views. Guests can enjoy convenient amenities like private bathrooms, a communal fridge, and a microwave, all while being steps away from shops, bars, and restaurants. Perfectly located just a 15-minute stroll from iconic sites such as Gaudi’s Pedrera and Sagrada Familia, this hotel is an excellent choice for immersing yourself in Barcelona's rich culture.",
+      "highlight": "Hostal Petit Príncep boasts modern air-conditioned rooms, free Wi-Fi, and a prime location near iconic Barcelona attractions.",
+      "price": "$212/night",
+      "location": "Avd. Diagonal, 578, piso 2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5bc6c",
+      "name": "Hostal Las Flores",
+      "image": "https://static.cupid.travel/hotels/ex_e5f21d48_z.jpg",
+      "description": "Discover the vibrant essence of Barcelona at Hostal Las Flores, your ideal urban getaway. Enjoy modern comforts in one of the 15 stylish rooms featuring plush pillowtop beds and LED televisions, while benefiting from 24-hour front desk service and complimentary Wi-Fi. Located just steps from La Rambla and close to iconic attractions like the Gran Teatre del Liceu and Boqueria Market, this hotel offers the perfect base for exploring the city.",
+      "highlight": "Boasts 15 stylish rooms with pillowtop beds, LED TVs, and 24-hour front desk service near La Rambla.",
+      "price": "$250/night",
+      "location": "La Rambla, 79",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp63301",
+      "name": "Hostal Delfos",
+      "image": "https://static.cupid.travel/hotels/7808918.jpg",
+      "description": "Hostal Delfos offers a prime location in the heart of Barcelona, just a short walk from the bustling Ramblas and Plaza Catalunya. Guests can enjoy cozy accommodations with options for private or shared bathrooms, ensuring comfort after a day of exploration. With the Gothic Quarter nearby and a helpful tour desk, your stay is both convenient and enriching.",
+      "highlight": "Hostal Delfos offers cozy accommodations with private or shared bathrooms, a tour desk, and family rooms in a central location.",
+      "price": "$166/night",
+      "location": "Ronda De Sant Antoni, 61",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-barcelona-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:35:40.493Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

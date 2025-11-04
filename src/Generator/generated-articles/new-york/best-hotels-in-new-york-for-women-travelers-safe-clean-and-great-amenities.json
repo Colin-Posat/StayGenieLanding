@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "best hotels in New York for women travelers",
+  "title": "Best hotels in New York for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels that cater specifically to women travelers can be a daunting task, especially in a bustling city like New York. This list is valuable because it highlights safe, clean accommodations that provide excellent amenities tailored to enhance the comfort and security of women, ensuring a more enjoyable stay in the city that never sleeps.",
+  "intro": "Discover the top hotels in New York that prioritize safety, cleanliness, and exceptional amenities for women travelers.",
+  "hotels": [
+    {
+      "id": "lp1f7ff",
+      "name": "The Carlyle, A Rosewood Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_d756e583_z.jpg",
+      "description": "Experience unparalleled luxury at The Carlyle, A Rosewood Hotel, where a full-service spa awaits to rejuvenate your senses with an array of indulgent treatments. Delight your palate at two exquisite restaurants and a cozy café, then unwind with a cocktail at the chic bar/lounge. Nestled in the heart of New York, you are just steps away from renowned attractions like Central Park and the Metropolitan Museum of Art, making it the ideal retreat for both relaxation and exploration.",
+      "highlight": "Boasts a full-service spa, health club, and concierge services, ensuring a luxurious and secure stay in New York.",
+      "price": "$1231/night",
+      "location": "35 E 76th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp29ca9",
+      "name": "The Muse New York",
+      "image": "https://static.cupid.travel/hotels/309356671.jpg",
+      "description": "Experience the perfect blend of luxury and sustainability at The Muse New York, a boutique hotel nestled in Manhattan's vibrant Theater District. Enjoy modern amenities in your comfortable room, complete with a 37-inch flat-screen TV and a work desk, while staying active in the state-of-the-art fitness center. With iconic attractions like Central Park, Radio City Music Hall, and Times Square just steps away, this hotel offers an ideal location for both relaxation and adventure.",
+      "highlight": "The Muse New York offers modern amenities, a state-of-the-art fitness center, and is located steps from iconic attractions.",
+      "price": "$307/night",
+      "location": "130 W 46th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7d0c0",
+      "name": "The Standard, High Line New York",
+      "image": "https://static.cupid.travel/hotels/59767031.jpg",
+      "description": "Experience luxury at The Standard, High Line New York, where stunning city and river views await from floor-to-ceiling windows in the heart of the Meatpacking District. Enjoy exceptional dining with new American cuisine at The Standard Grill and cocktails at the rooftop bar, Le Bain, or unwind at the laid-back biergarten. With 24-hour front desk service, pet-friendly accommodations, and complimentary bike hire, this hotel promises a memorable stay for every guest.",
+      "highlight": "Boasts floor-to-ceiling windows with stunning views, 24-hour front desk service, and a rooftop bar for a vibrant experience.",
+      "price": "$509/night",
+      "location": "848 Washington St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp52c45",
+      "name": "Kimpton Hotel Eventi, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/235058949.jpg",
+      "description": "Discover the Kimpton Hotel Eventi, a luxury boutique hotel in Chelsea that seamlessly blends modern amenities with comfort. Enjoy stylish rooms featuring flat-screen TVs and minibars, along with access to a 24-hour fitness center and exceptional dining at The Vine restaurant. With complimentary morning coffee and an evening wine hour, this hotel offers an inviting atmosphere just moments away from New York City's iconic landmarks.",
+      "highlight": "Features stylish rooms with flat-screen TVs, a 24-hour fitness center, and complimentary coffee and wine hour.",
+      "price": "$345/night",
+      "location": "851 Avenue of the Americas",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp83844",
+      "name": "The William powered by Sonder",
+      "image": "https://static.cupid.travel/hotels/408972152.jpg",
+      "description": "Sonder The William seamlessly blends modern elegance with stunning panoramic views of New York City. Guests can enjoy stylish monochromatic rooms featuring luxurious bedding and deluxe rain showers, with select suites offering private terraces. Located near Fifth Avenue and Grand Central Station, the hotel also provides convenient amenities, including a fitness center, dining options like The Shakespeare Pub, and easy access to iconic attractions like Times Square and Central Park.",
+      "highlight": "Offers stylish rooms with luxurious bedding, deluxe rain showers, and convenient amenities including a fitness center and onsite dining.",
+      "price": "$267/night",
+      "location": "24 E 39th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp27d7a",
+      "name": "The Gallivant Times Square",
+      "image": "https://static.cupid.travel/hotels/108195138.jpg",
+      "description": "Experience the epitome of luxury at The Gallivant Times Square, where modern amenities like flat-screen TVs and elegant bathrooms enhance your stay. Enjoy convenient facilities, including a 24-hour front desk, a fitness center, and diverse dining options featuring Vietnamese, Japanese, and Spanish cuisine. Nestled in a prime location, the hotel is just moments away from iconic attractions like Rockefeller Center and Central Park, making it the perfect base for your New York City adventure.",
+      "highlight": "Offers a 24-hour front desk, fitness center, and diverse dining options near iconic New York attractions.",
+      "price": "$110/night",
+      "location": "234 48Th Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-new-york-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:09:17.891Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

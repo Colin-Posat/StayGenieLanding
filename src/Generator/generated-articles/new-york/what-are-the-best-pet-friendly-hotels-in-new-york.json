@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "best pet friendly hotels in New York",
+  "title": "What are the best pet-friendly hotels in New York",
+  "excerpt": "Finding pet-friendly hotels in New York can be a challenge, especially with the city's bustling atmosphere and varying policies on pets. This curated list is invaluable for pet owners looking to enjoy their stay without compromising on comfort or convenience, ensuring that both you and your furry companion feel right at home. Discovering the right accommodations can transform your trip into a stress-free experience, allowing for memorable adventures together in the city that never sleeps.",
+  "intro": "Explore the top pet-friendly hotels in New York that welcome both you and your four-legged friends, offering comfort and convenience in the heart of the city.",
+  "hotels": [
+    {
+      "id": "lpff95f",
+      "name": "The Times Square EDITION New York",
+      "image": "https://static.cupid.travel/hotels/596257501.jpg",
+      "description": "Experience the epitome of modern luxury at The Times Square EDITION, featuring 452 stylish guest rooms, a high-tech fitness center, and an exciting performance venue. Delight in an extraordinary culinary experience with six unique dining options crafted by Michelin-starred Chef John Fraser. Perfectly located steps from Times Square and Restaurant Row, this hotel offers easy access to the vibrant energy of New York City and is just 13 km from LaGuardia Airport.",
+      "highlight": "Boasts pet-friendly accommodations, a high-tech fitness center, and six unique dining options by a Michelin-starred chef.",
+      "price": "$453/night",
+      "location": "20 Times Square, 701 7th Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp530bc",
+      "name": "InterContinental New York Times Square, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/234454878.jpg",
+      "description": "Experience the luxury of our 36-story hotel, where each room features floor-to-ceiling windows that offer stunning views of the Manhattan skyline and Broadway. Enjoy state-of-the-art amenities, including a 24-hour gym with panoramic views, and a convenient location just steps from Times Square and a nearby subway station. Savor craft cocktails and a delicious menu at The Stinger Cocktail Bar & Kitchen for an unforgettable dining experience during your stay at InterContinental New York Times Square.",
+      "highlight": "Offers pet-friendly accommodations with stunning Manhattan skyline views and a vibrant on-site dining experience.",
+      "price": "$244/night",
+      "location": "300 W 44th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5db5a",
+      "name": "Dream Downtown, by Hyatt",
+      "image": "https://static.cupid.travel/hotels/43860221.jpg",
+      "description": "Experience modern luxury at Dream Downtown, located in the vibrant heart of Manhattan. Enjoy stunning skyline views from the rooftop lounge while savoring gourmet Mexican cuisine and crafted cocktails at Bodega Negra. Unwind in stylish rooms featuring designer furnishings, porthole windows, and plush bedding for a truly comfortable stay.",
+      "highlight": "Offers pet-friendly accommodations alongside a heated pool and a rooftop lounge with skyline views.",
+      "price": "$465/night",
+      "location": "355 W 16th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1ea45",
+      "name": "Loews Regency New York Hotel",
+      "image": "https://static.cupid.travel/hotels/30729785.jpg",
+      "description": "Discover the elegance of Loews Regency New York Hotel, where modern guest rooms are equipped with stylish furnishings and essential amenities for your comfort. Located just two blocks from Central Park and in close proximity to iconic attractions like Rockefeller Center and The Metropolitan Museum of Art, this hotel serves as an ideal base for your New York adventure. Enjoy exceptional services, including on-site dining, a 24-hour concierge, and a well-stocked minibar, ensuring that every aspect of your stay is memorable.",
+      "highlight": "Loews Regency New York Hotel offers pet-friendly accommodations, a sauna, and convenient e-bike charging facilities for all guests.",
+      "price": "$555/night",
+      "location": "540 Park Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65431",
+      "name": "Hyatt Place New York/Midtown-South",
+      "image": "https://static.cupid.travel/hotels/535387426.jpg",
+      "description": "Hyatt Place New York boasts a prime location just a five-minute stroll from the iconic Empire State Building, making it perfect for exploring the heart of Manhattan. Guests can unwind in modern rooms equipped with a corner sofa, refrigerator, and flat-screen TV, ensuring a comfortable retreat after a busy day. With an on-site fitness center and business facilities, this hotel caters to both leisure and business travelers, promising a convenient and enjoyable stay.",
+      "highlight": "Offers pet-friendly accommodations, a fitness center, and modern rooms with refrigerators and flat-screen TVs.",
+      "price": "$191/night",
+      "location": "52 West 36th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5b86f",
+      "name": "Hotel 48LEX New York",
+      "image": "https://static.cupid.travel/hotels/57155032.jpg",
+      "description": "Experience the elegance of Hotel 48LEX New York, where apartment-style accommodations feature floor-to-ceiling windows and fully-equipped kitchenettes. Enjoy exclusive amenities like an on-site restaurant, a cozy lounge with complimentary breakfast and evening wine receptions, and attentive 24-hour concierge services. Ideally located just a short walk from iconic attractions like Rockefeller Center and Times Square, this hotel is the perfect urban retreat.",
+      "highlight": "Hotel 48LEX New York offers pet-friendly accommodations along with fully-equipped kitchenettes and 24-hour concierge services.",
+      "price": "$269/night",
+      "location": "517 Lexington Avenue",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-new-york",
+  "generatedAt": "2025-11-04T02:29:24.895Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

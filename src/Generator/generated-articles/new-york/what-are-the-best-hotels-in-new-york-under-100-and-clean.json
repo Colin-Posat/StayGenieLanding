@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "hotels in New York under 100 dollars and clean",
+  "title": "What are the best hotels in New York under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in New York can be a daunting task, especially with the city's high demand and prices. This curated list not only highlights budget-friendly options but also ensures that travelers don’t have to compromise on cleanliness and comfort. By exploring these selections, visitors can enjoy their stay without breaking the bank, making their New York experience both enjoyable and accessible.",
+  "intro": "Discover the best clean hotels in New York City that won’t stretch your budget beyond $100.",
+  "hotels": [
+    {
+      "id": "lp4780b",
+      "name": "OYO Times Square",
+      "image": "https://static.cupid.travel/hotels/454416244.jpg",
+      "description": "Experience the vibrant heart of Manhattan at OYO Times Square, conveniently located just steps from iconic attractions like Times Square and Central Park. Enjoy a culinary delight at The Gramercy, the hotel's chic onsite restaurant specializing in steakhouse favorites and fine seafood. Relax in stylish rooms featuring modern amenities, fresh artwork, and comfortable feather beds, making your stay truly unforgettable.",
+      "highlight": "Offers stylish rooms with modern amenities, an onsite restaurant, and allergy-free accommodations in the heart of Manhattan.",
+      "price": "$95/night",
+      "location": "157 West 47th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6585c",
+      "name": "Pod 39",
+      "image": "https://static.cupid.travel/hotels/52735814.jpg",
+      "description": "Pod 39 Hotel is ideally situated just 483 meters from Grand Central Terminal, making it a perfect base for exploring iconic attractions like Times Square and Rockefeller Center. Guests can savor flavorful bar snacks and tacos at Empellón, enjoy cocktails at the Rooftop Lounge with stunning city views, or relax in the cozy Lobby Lounge. With a game room and seasonal rooftop bar, this hotel combines entertainment and relaxation for a vibrant Manhattan experience.",
+      "highlight": "Pod 39 offers clean rooms, a rooftop bar with stunning views, and a lively game room for guest entertainment.",
+      "price": "$105/night",
+      "location": "145 East 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpb5622",
+      "name": "Pod Times Square",
+      "image": "https://static.cupid.travel/hotels/ex_fd79e6d9_z.jpg",
+      "description": "Discover the vibrant energy of New York City at Pod Times Square, where modern comforts meet an unbeatable location. Indulge in delicious cuisine at Serafina in the Sky while enjoying stunning views, and relax in one of 665 stylish guestrooms equipped with flat-screen TVs and rainfall showerheads. With easy access to iconic attractions like Times Square and Broadway, along with 24-hour concierge services, your urban adventure awaits at Pod Times Square.",
+      "highlight": "Features 665 stylish guestrooms with flat-screen TVs, rainfall showerheads, and easy access to Times Square and Broadway.",
+      "price": "$109/night",
+      "location": "400 W 42nd Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp42c3a",
+      "name": "Hampton Inn Manhattan - Times Square South",
+      "image": "https://static.cupid.travel/hotels/484618026.jpg",
+      "description": "The Hampton Inn Manhattan Times Square South boasts a prime location just minutes from Times Square and a short stroll from the 42nd Street Port Authority Subway Station, making city exploration effortless. Guests will enjoy modern rooms featuring flat-screen TVs, coffee facilities, and complimentary Wi-Fi, along with a daily hot continental breakfast and access to a well-equipped gym and business center. Experience the vibrant energy of New York City while enjoying comfort and convenience at this welcoming hotel.",
+      "highlight": "Offers modern rooms with flat-screen TVs, free Wi-Fi, complimentary breakfast, and a convenient location near Times Square.",
+      "price": "$143/night",
+      "location": "337 West 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp32922",
+      "name": "Hampton Inn Manhattan Chelsea",
+      "image": "https://static.cupid.travel/hotels/484617964.jpg",
+      "description": "Hampton Inn Manhattan Chelsea offers a prime location just a two-minute walk from the 23rd Street Subway Station, making it an ideal base for exploring New York City. Guests can enjoy modern amenities like free Wi-Fi, a fitness center, and contemporary rooms equipped with 32-inch flat-screen TVs, coffee makers, and city views. Start your day with a complimentary hot breakfast and utilize the business center for a seamless stay in the heart of Manhattan.",
+      "highlight": "Offers contemporary rooms with 32-inch flat-screen TVs, free Wi-Fi, a fitness center, and complimentary hot breakfast.",
+      "price": "$184/night",
+      "location": "108 W 24th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65d13",
+      "name": "Hotel Richland LES",
+      "image": "https://static.cupid.travel/hotels/398713529.jpg",
+      "description": "Hotel Richland offers a luxurious retreat just 805 meters from the vibrant Little Italy, featuring elegantly furnished petite rooms complete with TVs and private bathrooms for a cozy stay. Guests benefit from convenient wall-hooks for clothing and easy access to transportation options within a kilometer, making it an ideal base for exploring iconic attractions like Brooklyn Bridge and Wall Street. Experience the best of New York City with a stay at this centrally located gem.",
+      "highlight": "Offers elegantly furnished petite rooms with private bathrooms, Wi-Fi, and convenient access to transportation within a kilometer.",
+      "price": "$125/night",
+      "location": "5 Allen St",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-new-york-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:21:44.538Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

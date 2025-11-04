@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "hotels in Singapore with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Singapore with rooftop bars",
+  "excerpt": "Finding hotels in Singapore with rooftop bars can be a daunting task due to the city's vast options and the multitude of unique experiences each venue offers. This curated list serves as a valuable resource, ensuring you can enjoy breathtaking views and vibrant atmospheres while relaxing in style. Whether you seek a romantic evening or a lively night out, these rooftop bars provide the perfect backdrop for unforgettable memories.",
+  "intro": "Discover the top hotels in Singapore that not only offer luxurious accommodations but also stunning rooftop bars perfect for soaking in the skyline.",
+  "hotels": [
+    {
+      "id": "lp1ed7e",
+      "name": "Pan Pacific Singapore",
+      "image": "https://static.cupid.travel/hotels/85960609.jpg",
+      "description": "Experience unparalleled luxury at the Pan Pacific Singapore, a 5-star hotel seamlessly connected to Marina Square Mall and Suntec Convention Centre. Enjoy stunning panoramic city views from your room, relax by the outdoor swimming pool, and indulge in a variety of culinary delights at eight diverse dining venues. With top-notch amenities including a fitness center and the award-winning St. Gregory Spa, your stay promises to be both rejuvenating and memorable.",
+      "highlight": "Boasts a rooftop bar offering stunning panoramic city views along with luxurious spa services and a state-of-the-art fitness center.",
+      "price": "$1164/night",
+      "location": "7 Raffles Boulevard",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp226ac",
+      "name": "Naumi Hotel",
+      "image": "https://static.cupid.travel/hotels/55047993.jpg",
+      "description": "Naumi Hotel Singapore offers a luxurious boutique stay with a rooftop infinity pool that provides stunning views of the city skyline. Guests can enjoy personalized service, stylish rooms equipped with Nespresso machines, and a prime location just minutes from City Hall MRT and local eateries. Delight in a buffet breakfast, unwind during happy hour, or savor drinks and canapes at the Cloud 9 Pool & Bar for a truly memorable experience.",
+      "highlight": "Boasts a rooftop infinity pool and Cloud 9 Pool & Bar, offering stunning skyline views and a vibrant happy hour experience.",
+      "price": "$413/night",
+      "location": "41 Seah Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b795",
+      "name": "Orchard Rendezvous Hotel by Far East Hospitality",
+      "image": "https://static.cupid.travel/hotels/271690946.jpg",
+      "description": "Discover luxury at Orchard Rendezvous Hotel, nestled in the vibrant heart of Orchard Road. Enjoy a refreshing swim in the stunning rooftop pool and indulge in a variety of culinary delights from seven in-house dining options. With a perfect blend of historically-inspired decor and modern amenities, each air-conditioned room promises comfort, while the hotel's prime location near Orchard MRT Station ensures easy access to iconic shopping destinations.",
+      "highlight": "Boasts a stunning rooftop swimming pool and outdoor seating with views, complemented by seven diverse dining options.",
+      "price": "$287/night",
+      "location": "1 Tanglin Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpaf0dc",
+      "name": "Hotel NuVe Urbane",
+      "image": "https://static.cupid.travel/hotels/457392311.jpg",
+      "description": "Experience luxury at Hotel NuVe Urbane, located in the lively Lavender district, where air-conditioned rooms come equipped with flat-screen TVs and complimentary minibars for your comfort. Enjoy convenient access to popular attractions like Bugis Village and Lavender MRT Station, all within a short walk, while the hotel’s inviting swimming pool and on-site restaurant offer perfect spots to relax and dine. Book your stay today to enjoy a seamless blend of comfort and convenience in Singapore.",
+      "highlight": "Features a rooftop garden, lap pool, and an on-site restaurant with a vegetarian menu for a relaxing experience.",
+      "price": "$159/night",
+      "location": "3 King George's Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp73e7b",
+      "name": "JEN Singapore Orchardgateway by Shangri-La",
+      "image": "https://static.cupid.travel/hotels/35254156.jpg",
+      "description": "Experience stunning panoramic views of the city skyline from the rooftop infinity pool at JEN Singapore Orchardgateway by Shangri-La. Situated in the vibrant heart of Orchard Road, this hotel offers easy access to public transport, shopping, and entertainment. Enjoy modern amenities including complimentary WiFi, air-conditioned rooms, and a well-equipped fitness center for a truly comfortable stay.",
+      "highlight": "Boasts a rooftop bar and infinity-edged pool with stunning panoramic views of the Singapore skyline.",
+      "price": "$346/night",
+      "location": "277 Orchard Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp52e1e",
+      "name": "Marina Bay Sands",
+      "image": "https://static.cupid.travel/hotels/611676302.jpg",
+      "description": "Experience unparalleled luxury at Marina Bay Sands, a five-star hotel in Singapore featuring elegantly air-conditioned rooms equipped with modern amenities. Savor a delicious buffet breakfast each morning and unwind at the on-site bar, all while enjoying a prime location just steps away from top attractions like The Shoppes at Marina Bay Sands and the Sands SkyPark Observation Deck. Book your stay for an unforgettable escape in the heart of the city.",
+      "highlight": "Boasts a stunning rooftop infinity pool and bar with panoramic views of Singapore's skyline.",
+      "price": "$936/night",
+      "location": "BAYFRONT AVENUE,10",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-singapore-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:18:14.608Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "hotels in Sydney with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Sydney with rooftop bars",
+  "excerpt": "Finding hotels in Sydney that feature stunning rooftop bars can be a daunting task, as many options often go unnoticed among the bustling cityscape. This curated list highlights the best hotels that offer not only breathtaking views but also a vibrant atmosphere, ensuring you can unwind in style after a day of exploration. Discovering these hidden gems will elevate your travel experience and provide the perfect backdrop for memorable evenings.",
+  "intro": "Explore the top hotels in Sydney that boast incredible rooftop bars, offering breathtaking views and unforgettable experiences.",
+  "hotels": [
+    {
+      "id": "lp34740e",
+      "name": "Crowne Plaza Sydney Darling Harbour, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/345372150.jpg",
+      "description": "Experience luxury at Crowne Plaza Sydney Darling Harbour, featuring a stunning rooftop heated pool and a 24-hour fitness centre to keep you refreshed and active. Savor diverse dining options at the on-site restaurant, bar, and café, all while enjoying complimentary WiFi throughout the hotel. Relax in spacious guest rooms adorned with marble bathrooms, modern decor, and the latest technology, making your stay both comfortable and convenient near Sydney's premier attractions.",
+      "highlight": "Offers a stunning rooftop garden and heated pool, alongside spacious guest rooms and diverse dining options.",
+      "price": "$390/night",
+      "location": "58 BATHURST STREET",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpac2ef",
+      "name": "Sofitel Sydney Darling Harbour",
+      "image": "https://static.cupid.travel/hotels/243790146.jpg",
+      "description": "Sofitel Sydney Darling Harbour offers breathtaking views of the Sydney skyline from its stunning rooftop infinity pool, complemented by state-of-the-art facilities for an exceptional stay. Ideally situated just a minute from the International Convention Centre, the hotel features elegant rooms equipped with modern amenities and luxurious bathrooms. Guests can savor fine dining and enjoy the vibrant atmosphere at three bars, including the rooftop pool bar, while the on-site Sofitel SPA provides a serene escape with a variety of treatments and relaxation options.",
+      "highlight": "Boasts a stunning rooftop infinity pool and vibrant rooftop bar with breathtaking views of the Sydney skyline.",
+      "price": "$502/night",
+      "location": "12 Darling Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c741",
+      "name": "Park Regis City Centre",
+      "image": "https://static.cupid.travel/hotels/495488000.jpg",
+      "description": "Experience the ultimate urban retreat at Park Regis City Centre, where a stunning rooftop swimming pool offers refreshing dips with panoramic views of Sydney Harbour and Darling Harbour. Located in the vibrant heart of Sydney CBD, this hotel provides easy access to premier shopping and iconic attractions. Enjoy modern, spacious rooms equipped with LCD TVs, en suite bathrooms, and complimentary unlimited WiFi for a comfortable and convenient stay.",
+      "highlight": "Boasts a stunning rooftop swimming pool with panoramic views of Sydney Harbour and Darling Harbour.",
+      "price": "$221/night",
+      "location": "27 Park Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21469",
+      "name": "Vibe Hotel Sydney",
+      "image": "https://static.cupid.travel/hotels/182980367.jpg",
+      "description": "Vibe Hotel in Sydney CBD offers a luxurious retreat with a stunning rooftop pool, a well-equipped fitness center, and complimentary WiFi. Just steps away from vibrant Oxford Street and only minutes from Hyde Park, this prime location allows guests to easily explore the city's dining and shopping scene. Savor Mediterranean cuisine at the on-site Storehouse restaurant, complemented by a selection of local beverages for a truly delightful dining experience.",
+      "highlight": "Boasts a stunning rooftop pool and garden, alongside an on-site restaurant serving Mediterranean cuisine.",
+      "price": "$219/night",
+      "location": "111 Goulburn Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65536",
+      "name": "The Darling at The Star",
+      "image": "https://static.cupid.travel/hotels/71387962.jpg",
+      "description": "The Darling at The Star is a luxurious retreat that combines opulence with vibrant entertainment, featuring a casino, day spa, and 20 diverse bars and restaurants. Guests can unwind in modern rooms with breathtaking city skyline views, enjoy a Turkish bath, or take a dip in the aromatic outdoor pool. Conveniently located near Cockle Bay, this hotel offers easy access to Sydney's iconic attractions, making it the perfect base for an unforgettable stay.",
+      "highlight": "Features a stunning rooftop bar with panoramic views of Sydney's skyline and easy access to vibrant entertainment options.",
+      "price": "$408/night",
+      "location": "80 Pyrmont Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2157c",
+      "name": "Sydney Harbour Hotel",
+      "image": "https://static.cupid.travel/hotels/310826070.jpg",
+      "description": "Rydges Sydney Harbour is ideally located in the historic Rocks district, featuring a rooftop swimming pool that offers breathtaking views of the iconic Sydney Opera House and Harbour Bridge. Each room is equipped with modern comforts such as flat-screen TVs, refrigerators, and customizable pillows, ensuring a relaxing stay. Guests can explore nearby attractions like Circular Quay and indulge in delightful meals and drinks at the Lobby Lounge and Bar, making it the perfect choice for an unforgettable Sydney getaway.",
+      "highlight": "Boasts a rooftop swimming pool with stunning views of the Sydney Opera House and Harbour Bridge.",
+      "price": "$263/night",
+      "location": "55 George Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-sydney-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:21:19.129Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

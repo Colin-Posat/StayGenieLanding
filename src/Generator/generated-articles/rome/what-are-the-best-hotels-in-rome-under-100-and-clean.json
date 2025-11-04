@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "hotels in Rome under 100 dollars and clean",
+  "title": "What are the best hotels in Rome under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in Rome can often feel like searching for a needle in a haystack, especially with the city's rich history and tourist appeal driving prices up. This curated list not only highlights budget-friendly options but also ensures that cleanliness and comfort are prioritized, making your stay enjoyable without breaking the bank. Whether you are a solo traveler or on a family vacation, these selections will help you experience the charm of the Eternal City without overspending.",
+  "intro": "Discover the best budget-friendly hotels in Rome that combine affordability and cleanliness to enhance your travel experience.",
+  "hotels": [
+    {
+      "id": "lp2f7e4",
+      "name": "Hotel Donatello",
+      "image": "https://static.cupid.travel/hotels/93027553.jpg",
+      "description": "Hotel Donatello is perfectly located between the historic basilicas of San Giovanni in Laterano and Santa Maria Maggiore, just two stops from Termini Station on the Metro A line, providing easy access to Rome's main attractions. Guests will enjoy personalized service from a dedicated staff, ready to assist with local recommendations and dining options. The elegantly decorated rooms offer a blend of modern comfort and classic charm, with some featuring private balconies for a serene escape.",
+      "highlight": "Hotel Donatello offers elegantly decorated rooms with modern comfort, private balconies, and personalized service near major attractions.",
+      "price": "$81/night",
+      "location": "Via Di Porta Maggiore 83",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4cb2d",
+      "name": "MDM Guesthouse",
+      "image": "https://static.cupid.travel/hotels/ex_74c1be29_z.jpg",
+      "description": "MDM Guesthouse offers a serene escape in the heart of Rome, just a short stroll from iconic landmarks like the Vatican Museums and St. Peter's Square. Enjoy stylish accommodations with air-conditioned rooms featuring memory foam beds and luxury linens, complemented by modern amenities including minibars and Smart TVs. With convenient services such as complimentary Wi-Fi and express check-in, your stay promises to be both comfortable and hassle-free.",
+      "highlight": "MDM Guesthouse offers air-conditioned rooms with memory foam beds, luxury linens, and complimentary Wi-Fi in the heart of Rome.",
+      "price": "$79/night",
+      "location": "Via Degli Scipioni 71",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp48933",
+      "name": "Guest House Laocoonte",
+      "image": "https://static.cupid.travel/hotels/54376064.jpg",
+      "description": "B&B Laocoonte offers a luxurious retreat just moments from the Vatican Museums and St. Peter's Square, featuring modern amenities like free WiFi, air conditioning, and flat-screen TVs. Guests can enjoy a comfortable stay with fully equipped private bathrooms and a delightful Italian breakfast. This prime location makes it an ideal choice for those eager to explore the rich history and culture of Rome.",
+      "highlight": "Offers modern amenities including free WiFi, air conditioning, flat-screen TVs, and fully equipped private bathrooms.",
+      "price": "$78/night",
+      "location": "Via Francesco Caracciolo 10",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4a2e5",
+      "name": "Anthony Guesthouse",
+      "image": "https://static.cupid.travel/hotels/122715518.jpg",
+      "description": "Anthony Guesthouse is ideally situated just a 10-minute stroll from Rome Termini Train Station, making it perfect for travelers seeking convenience. Guests will appreciate modern comforts, including air conditioning, flat-screen TVs, and complimentary WiFi in well-appointed rooms. With the Castro Petrorio Metro Station a short 5-minute walk away and key attractions like La Sapienza University and Piazza della Repubblica within easy reach, this guesthouse is an excellent base for exploring the enchanting city of Rome.",
+      "highlight": "Offers modern rooms with air conditioning, flat-screen TVs, and complimentary WiFi, just a short walk from major attractions.",
+      "price": "$98/night",
+      "location": "Via Palestro 30",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp36d84",
+      "name": "c-hotels Club House Roma",
+      "image": "https://static.cupid.travel/hotels/196199490.jpg",
+      "description": "Hotel Club House Roma offers a serene escape just 100 meters from Cornelia Metro Station, making Vatican City only three stops away. Guests can relax in comfortable, air-conditioned rooms equipped with free WiFi and satellite TV, some featuring delightful balconies, while enjoying a buffet breakfast filled with fresh pastries. The hotel also boasts 24-hour multilingual staff and a chic bar where visitors can unwind with a variety of wines and cocktails after exploring the iconic sights of Rome.",
+      "highlight": "Offers comfortable, air-conditioned rooms with free WiFi, breakfast, and a chic bar just 100 meters from Cornelia Metro Station.",
+      "price": "$84/night",
+      "location": "Via Andrea Alciato 14-16",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp32ceb",
+      "name": "Hotel Alessandrino",
+      "image": "https://static.cupid.travel/hotels/5196008.jpg",
+      "description": "Hotel Alessandrino features a stunning rooftop terrace that provides breathtaking views of St. Peter's Basilica, perfect for enjoying a serene evening with drinks. Each comfortable room is equipped with modern amenities like satellite TV and some even include private balconies to soak in the beautiful surroundings. With convenient amenities such as free Wi-Fi and a welcoming staff ready to share local insights, this hotel is ideally located near the Vatican for an unforgettable stay.",
+      "highlight": "Hotel Alessandrino offers clean rooms, a rooftop terrace with views of St. Peter's Basilica, and family-friendly accommodations.",
+      "price": "$80/night",
+      "location": "Via Clemente Alessandrino 9",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-rome-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:00:28.561Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "cheap safe clean hotels in Las Vegas",
+  "title": "Best cheap, safe, and clean hotels in Las Vegas",
+  "excerpt": "Finding affordable, safe, and clean accommodations in Las Vegas can feel like searching for a needle in a haystack, especially with the city's reputation for luxury and extravagance. This curated list of hotels not only highlights budget-friendly options but also ensures peace of mind and comfort, making your stay enjoyable without breaking the bank. Whether you're visiting for a weekend getaway or an extended stay, these selections offer the best of value in a vibrant city.",
+  "intro": "Discover the top cheap, safe, and clean hotels in Las Vegas that provide exceptional value for your stay.",
+  "hotels": [
+    {
+      "id": "lp22e10",
+      "name": "Super 8 by Wyndham Las Vegas",
+      "image": "https://static.cupid.travel/hotels/156634835.jpg",
+      "description": "Super 8 Las Vegas offers a convenient location just off Interstate 25, featuring comfortable rooms equipped with free Wi-Fi, cable TV, and daily continental breakfast. Guests can unwind in the sunroom, utilize the on-site business center, or explore nearby attractions like the Las Vegas Museum and Gene Torres Golf Course. Whether traveling for leisure or business, this hotel ensures a relaxing stay with essential amenities at your fingertips.",
+      "highlight": "Offers comfortable rooms with free Wi-Fi, cable TV, daily breakfast, pet-friendly policies, and discounted parking.",
+      "price": "$92/night",
+      "location": "2029 North Grand Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22667",
+      "name": "Fremont Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/ex_5a4fc18e_z.jpg",
+      "description": "Experience the thrill of the Fremont Hotel & Casino, where you can try your luck at the casino and enjoy a variety of recreational amenities, including a fitness center. Savor diverse dining options across four restaurants and unwind at one of the two bars, while complimentary valet parking and express check-out add convenience to your stay. Each of the 447 air-conditioned rooms features flat-screen TVs and free Wi-Fi, ensuring a comfortable retreat in the heart of Las Vegas.",
+      "highlight": "Offers 447 air-conditioned rooms with flat-screen TVs, free Wi-Fi, a casino, a pool, and complimentary valet parking.",
+      "price": "$68/night",
+      "location": "200 Fremont St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f2c0",
+      "name": "El Cortez Hotel & Casino - 21 and over only",
+      "image": "https://static.cupid.travel/hotels/622063357.jpg",
+      "description": "El Cortez Hotel & Casino offers an exhilarating stay with its on-site restaurant, bar, and casino, ensuring vibrant nightlife and endless entertainment. Located in the heart of Las Vegas, guests can easily explore nearby attractions like the Mob Museum and Fremont Street Experience. With convenient services like a 24-hour front desk and airport transfers, your comfort is our priority—making it the perfect getaway for guests aged 21 and over.",
+      "highlight": "El Cortez Hotel & Casino boasts an on-site restaurant, bar, casino, and 24-hour front desk for guest convenience.",
+      "price": "$47/night",
+      "location": "600 Fremont St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1e0c1",
+      "name": "Downtown Grand Las Vegas",
+      "image": "https://static.cupid.travel/hotels/ex_b1cd358b_z.jpg",
+      "description": "Discover the excitement of Las Vegas at Downtown Grand, where entertainment and relaxation meet in the city's vibrant heart. Enjoy thrilling casino games, unwind by the outdoor pool, or indulge in American cuisine at Freedom Beat, alongside several other dining options. With modern rooms featuring pillowtop beds and convenient amenities like complimentary Wi-Fi and a 24-hour fitness center, your stay promises both comfort and adventure.",
+      "highlight": "Offers modern rooms with pillowtop beds, a casino, outdoor pool, and 24-hour fitness center in downtown Las Vegas.",
+      "price": "$66/night",
+      "location": "206 North 3rd Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp85dcc",
+      "name": "Longhorn Casino & Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_4c2ee340_z.jpg",
+      "description": "Experience excitement at Longhorn Casino & Hotel, where you can try your luck at the onsite casino or unwind by the outdoor pool and spa tub. Enjoy delightful dining at Chuckwagon and start your day with a hearty complimentary breakfast. With 24-hour front desk service and close proximity to attractions like the Boulder Strip, this hotel offers the perfect mix of entertainment and convenience.",
+      "highlight": "Boasts an onsite casino, outdoor pool, complimentary breakfast, and 24-hour front desk service for convenience and enjoyment.",
+      "price": "$66/night",
+      "location": "5288 Boulder Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f2bc",
+      "name": "California Hotel and Casino",
+      "image": "https://static.cupid.travel/hotels/ex_671f7a0f_z.jpg",
+      "description": "Experience a luxurious getaway at the California Hotel and Casino, where you can enjoy thrilling casino action alongside a well-equipped fitness center and a seasonal outdoor pool. Delight in diverse dining options, including the acclaimed Redwood Steakhouse, and relax with drinks at stylish bars and lounges. With convenient services like complimentary Wi-Fi, valet parking, and a prime location near top attractions, your stay promises to be both memorable and enjoyable.",
+      "highlight": "Boasts a casino, seasonal outdoor pool, and a gym for an engaging and comfortable stay.",
+      "price": "$68/night",
+      "location": "12 E Ogden Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-las-vegas",
+  "generatedAt": "2025-11-04T01:09:12.480Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

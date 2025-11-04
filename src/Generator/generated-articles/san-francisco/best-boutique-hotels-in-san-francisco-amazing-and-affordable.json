@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "boutique hotels in San Francisco affordable and stylish",
+  "title": "Best boutique hotels in San Francisco: Amazing and affordable",
+  "excerpt": "Finding boutique hotels in San Francisco that are both stylish and affordable can be a daunting task, as many options either come with a hefty price tag or lack the unique charm that defines true boutique accommodations. This curated list serves as a valuable resource, highlighting hidden gems that offer character and comfort without breaking the bank. Each hotel not only reflects the vibrant spirit of the city but also provides an unforgettable experience for travelers seeking something special.",
+  "intro": "Explore a selection of San Francisco's best boutique hotels that combine style and affordability, perfect for your next getaway.",
+  "hotels": [
+    {
+      "id": "lp2812b",
+      "name": "Embassy Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_0aadcfd7_z.jpg",
+      "description": "Experience a hassle-free stay at the Embassy Hotel, featuring complimentary Wi-Fi, concierge services, and an on-site hair salon. Located in the heart of San Francisco, you'll be just minutes away from iconic attractions like the Moscone Convention Center and Oracle Park. Enjoy around-the-clock assistance from the multilingual staff and a convenient computer station to elevate your travel experience.",
+      "highlight": "Offers complimentary Wi-Fi, concierge services, and a convenient computer station in the heart of San Francisco.",
+      "price": "$102/night",
+      "location": "610 Polk St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp77106",
+      "name": "Amsterdam Hostel",
+      "image": "https://static.cupid.travel/hotels/422325864.jpg",
+      "description": "Amsterdam Hostel boasts a prime location just an 8-minute walk from Union Square, placing you at the heart of San Francisco's vibrant attractions like Chinatown and The Masonic. Enjoy a lively atmosphere with organized group activities and unwind with free films in the hostel's theatre. With nearby gems such as the Haight Ashbury District and the Fillmore music venue, immerse yourself in the rich culture and nightlife of the city.",
+      "highlight": "Amsterdam Hostel offers family rooms, a shared kitchen, and organized group activities in a vibrant location near Union Square.",
+      "price": "$98/night",
+      "location": "749 Taylor Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp224881",
+      "name": "HI San Francisco Downtown Hostel",
+      "image": "https://static.cupid.travel/hotels/36092062.jpg",
+      "description": "Discover the vibrant heart of San Francisco at HI San Francisco Downtown Hostel, ideally located just a short walk from Union Square's shopping and dining. Enjoy modern accommodations featuring large windows and contemporary decor, with some rooms offering private en suite facilities for added convenience. Guests can take advantage of a well-equipped kitchen, cozy lounge, complimentary WiFi, secure lockers, and on-site laundry facilities, making it the perfect base for your city adventure.",
+      "highlight": "Offers modern accommodations with large windows, a shared kitchen, cozy lounge, and complimentary WiFi in downtown San Francisco.",
+      "price": "$90/night",
+      "location": "312 Mason Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa3af6",
+      "name": "Warfield Hotel",
+      "image": "https://static.cupid.travel/hotels/92360367.jpg",
+      "description": "Experience the vibrant atmosphere of San Francisco at the Warfield Hotel, located in the lively Tenderloin District, just steps from the famous Warfield concert venue and Golden Gate Theatre. Enjoy modern comforts in smoke-free rooms equipped with flat-screen TVs, microwaves, and mini-refrigerators, along with complimentary coffee and pastries in the lobby to start your day. With iconic attractions like North Beach and Coit Tower nearby, plus shopping at the Westfield San Francisco Center, your stay promises both relaxation and adventure.",
+      "highlight": "Boasts smoke-free, soundproof rooms with flat-screen TVs and mini-refrigerators, plus complimentary coffee and pastries in the lobby.",
+      "price": "$137/night",
+      "location": "118 Taylor St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp225dd",
+      "name": "Hotel Bijou",
+      "image": "https://static.cupid.travel/hotels/ex_b295abe0_z.jpg",
+      "description": "Discover the charm of Hotel Bijou, ideally situated in the heart of San Francisco, just moments from iconic attractions like Union Square and the Moscone Convention Center. Enjoy luxurious accommodations in one of the 65 elegantly designed guestrooms, complete with deep soaking bathtubs and modern amenities, ensuring a relaxing stay. With complimentary Wi-Fi and a dedicated multilingual staff, your every need is met, making it the perfect base for both leisure and business travelers.",
+      "highlight": "Hotel Bijou offers 65 elegantly designed guestrooms with deep soaking bathtubs and complimentary Wi-Fi in a prime location.",
+      "price": "$134/night",
+      "location": "111 Mason St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8a263",
+      "name": "Hotel EPIK",
+      "image": "https://static.cupid.travel/hotels/ex_1be72797_z.jpg",
+      "description": "Experience the vibrant charm of San Francisco at Hotel EPIK, where comfort meets urban convenience. Enjoy well-appointed rooms featuring premium pillowtop beds and modern amenities, alongside a delightful on-site restaurant offering a complimentary continental breakfast. With complimentary Wi-Fi and attentive concierge services, Hotel EPIK is your perfect base for exploring the city.",
+      "highlight": "Offers well-appointed rooms with premium pillowtop beds, complimentary breakfast, and attentive concierge services for an enjoyable stay.",
+      "price": "$154/night",
+      "location": "Address not available",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-san-francisco-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:15:39.194Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

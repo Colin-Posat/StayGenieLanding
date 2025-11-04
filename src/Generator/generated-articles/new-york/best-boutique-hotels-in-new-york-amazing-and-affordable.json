@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "boutique hotels in New York affordable and stylish",
+  "title": "Best boutique hotels in New York: Amazing and affordable",
+  "excerpt": "Finding boutique hotels in New York that are both stylish and affordable can be a daunting task, as the city is filled with options that often come with a hefty price tag. This curated list highlights hidden gems that not only offer unique charm but also fit within your budget, making your stay in the Big Apple a memorable experience without breaking the bank. With these selections, travelers can enjoy the best of both worlds: aesthetic appeal and financial sensibility.",
+  "intro": "Discover the top boutique hotels in New York that combine exceptional style with affordability, ensuring a delightful stay in the city.",
+  "hotels": [
+    {
+      "id": "lp6585c",
+      "name": "Pod 39",
+      "image": "https://static.cupid.travel/hotels/52735814.jpg",
+      "description": "Pod 39 Hotel boasts a prime location just 483 meters from Grand Central Terminal, making it easy to explore iconic sites like Times Square and Rockefeller Center. Guests can savor delectable bar snacks and tacos at Empellón, enjoy cocktails with stunning views at the Rooftop Lounge, or relax in the inviting Lobby Lounge. With a game room and a seasonal rooftop bar, Pod 39 Hotel promises both entertainment and a stylish retreat in the heart of Manhattan.",
+      "highlight": "Pod 39 Hotel offers a rooftop lounge with stunning views, a game room, and a vibrant restaurant serving bar snacks and tacos.",
+      "price": "$101/night",
+      "location": "145 East 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4780b",
+      "name": "OYO Times Square",
+      "image": "https://static.cupid.travel/hotels/454416244.jpg",
+      "description": "Experience the vibrant energy of Manhattan at OYO Times Square, ideally located just steps from Times Square and iconic attractions like the Empire State Building and Central Park. Savor exquisite dining at The Gramercy, where delectable steakhouse favorites and fine seafood await in a stylish setting. Relax in comfortable rooms featuring fresh artwork, modern amenities, and plush feather beds, making your stay both enjoyable and memorable.",
+      "highlight": "Features comfortable rooms with modern amenities, fresh artwork, and on-site dining at The Gramercy, just steps from Times Square.",
+      "price": "$95/night",
+      "location": "157 West 47th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp110e37",
+      "name": "Staypineapple, An Artful Hotel, Midtown New York",
+      "image": "https://static.cupid.travel/hotels/204960134.jpg",
+      "description": "Staypineapple, An Artful Hotel, Midtown New York is ideally situated in the heart of the city, just steps from iconic attractions like Penn Station and the Empire State Building. Guests can unwind in modern, air-conditioned rooms featuring amenities such as coffee machines and flat-screen TVs, while the dedicated staff provide 24-hour assistance in English and Spanish. Enjoy complimentary WiFi and explore the city on free bikes, ensuring a comfortable and memorable stay in the vibrant Big Apple.",
+      "highlight": "Offers modern rooms with coffee machines, flat-screen TVs, complimentary WiFi, and free bike rentals in a prime Midtown location.",
+      "price": "$127/night",
+      "location": "337 W 36th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp38098",
+      "name": "Hotel 57 by LuxUrban",
+      "image": "https://static.cupid.travel/hotels/235284577.jpg",
+      "description": "Hotel 57 by LuxUrban is ideally situated in the vibrant heart of New York, allowing guests to easily access popular attractions like Rockefeller Center and the Chrysler Building. This 4-star hotel features modern amenities, including air-conditioned rooms, complimentary WiFi, and a fitness center for a comfortable stay. Book your experience at Hotel 57 and immerse yourself in the best of the city.",
+      "highlight": "Offers modern amenities, including air-conditioned rooms, complimentary WiFi, and a fitness center in a vibrant New York location.",
+      "price": "$206/night",
+      "location": "130 East 57th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp27d7a",
+      "name": "The Gallivant Times Square",
+      "image": "https://static.cupid.travel/hotels/108195138.jpg",
+      "description": "Experience unparalleled luxury at The Gallivant Times Square, where modern amenities like flat-screen TVs and elegant bathrooms enhance your stay. Enjoy 24-hour front desk service, a well-equipped fitness center, and diverse on-site dining options featuring Vietnamese, Japanese, and Spanish cuisine. Nestled in the heart of New York City, the hotel offers easy access to iconic attractions such as Rockefeller Center and Central Park, making it the ideal retreat for exploring the vibrant city.",
+      "highlight": "Offers modern amenities, diverse on-site dining, a fitness center, and easy access to iconic New York attractions.",
+      "price": "$110/night",
+      "location": "234 48Th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34500",
+      "name": "Chelsea Inn",
+      "image": "https://static.cupid.travel/hotels/172335366.jpg",
+      "description": "Experience the charm of Chelsea Inn, a delightful 19th-century townhouse featuring uniquely decorated European-style rooms equipped with cable TV and cozy shared bathrooms. Ideally situated just minutes from Greenwich Village and the 14th Street subway station, this inn makes city exploration effortless. Enjoy modern amenities like complimentary Wi-Fi and business services for a comfortable and productive stay in the heart of Chelsea.",
+      "highlight": "Chelsea Inn boasts uniquely decorated European-style rooms, complimentary Wi-Fi, and a prime location near Greenwich Village.",
+      "price": "$185/night",
+      "location": "46 W 17th St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-new-york-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:13:29.121Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

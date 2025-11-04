@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "affordable hotels in Bangkok with free parking",
+  "title": "Affordable hotels in Bangkok with free parking",
+  "excerpt": "In a bustling city like Bangkok, where every corner offers a new adventure, finding affordable hotels that also provide free parking can be a daunting task. This curated list not only saves you time but also ensures you can explore the vibrant streets without the worry of additional costs. Discovering these hidden gems allows travelers to enjoy both convenience and savings, making your trip even more enjoyable.",
+  "intro": "Uncover the best budget-friendly hotels in Bangkok that offer free parking, perfect for a hassle-free stay in this vibrant city.",
+  "hotels": [
+    {
+      "id": "lp4fddf",
+      "name": "Convenient Park Bangkok Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_0cbf73c0_z.jpg",
+      "description": "Experience a culinary journey at Krua Yay Hom, where you can savor delectable local and international dishes or enjoy the convenience of in-room dining. Unwind in the fitness center, stay connected with complimentary Wi-Fi, or relax at the stylish bar/lounge. Located near the Chao Praya River and Gateway Ekamai Mall, this hotel offers a 24-hour front desk, airport shuttle, and free self-parking for a seamless visit to Bangkok.",
+      "highlight": "Convenient Park Bangkok Hotel offers free self-parking, a fitness center, and in-room dining options for guests.",
+      "price": "$31/night",
+      "location": "No. 12 Sukhumvit 62/3",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6f847",
+      "name": "The European Place",
+      "image": "https://static.cupid.travel/hotels/9739900.jpg",
+      "description": "Experience the comfort of The European Place, just a short stroll from Dhurakij Pundit University. These spacious, fully air-conditioned apartments feature free Wi-Fi, private balconies, and modern amenities like cable TV and hot-water showers. With a fitness center, business services, and proximity to key locations like Kasetsart University and shopping malls, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "The European Place offers free parking, spacious air-conditioned apartments, and a fitness center for guests' convenience.",
+      "price": "$21/night",
+      "location": "11 soi Ngamwongwan 47 Yak 41",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5b613",
+      "name": "Ton Aor Place Hotel Ratchada",
+      "image": "https://static.cupid.travel/hotels/ex_2df5e27b_z.jpg",
+      "description": "Ton Aor Place Hotel Ratchada offers a prime location in Bangkok's Huai Khwang district, putting major attractions and shopping centers within easy reach for both leisure and business travelers. Guests can enjoy modern comforts in one of the 75 air-conditioned rooms, each equipped with LCD televisions and free Wi-Fi, along with convenient amenities like a 24-hour front desk and free self-parking. Experience a hassle-free stay that combines comfort and accessibility at this inviting hotel.",
+      "highlight": "Offers free self-parking, modern air-conditioned rooms, and complimentary Wi-Fi in a convenient location in Huai Khwang.",
+      "price": "$31/night",
+      "location": "67/2 Soi Chareonsak",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4cd4f",
+      "name": "The Great Residence Suvarnabhumi Airport",
+      "image": "https://static.cupid.travel/hotels/ex_bd0744da_z.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at The Great Residence Suvarnabhumi Airport in Bangkok. Enjoy leisure activities like swimming in the outdoor pool or renting bicycles to explore the area. With a delightful on-site restaurant, café, and bar, plus modern air-conditioned rooms featuring private balconies and complimentary Wi-Fi, your stay is sure to be both relaxing and enjoyable.",
+      "highlight": "Offers free self parking, an outdoor pool, and modern air-conditioned rooms with private balconies and complimentary Wi-Fi.",
+      "price": "$29/night",
+      "location": "1892/1 Ladkabang District Ladkabang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp70ae0",
+      "name": "King Royal Garden Inn",
+      "image": "https://static.cupid.travel/hotels/25244915.jpg",
+      "description": "Discover the King Royal Garden Inn, where you can unwind in a luxurious rooftop swimming pool that boasts breathtaking views of Bangkok's skyline. Ideally situated just moments from the Surasak BTS Skytrain Station, the hotel offers convenient access to iconic attractions like the Chao Phraya River and Siam Square. Enjoy a soothing massage, maintain your fitness routine, and delight in authentic Thai cuisine at the on-site food court for a truly memorable stay.",
+      "highlight": "Offers discounted parking and a rooftop swimming pool with stunning views of Bangkok's skyline.",
+      "price": "$39/night",
+      "location": "245 South Sathorn Road, Yannawa, Sathorn",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp64e98",
+      "name": "The Phoenix Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/ex_04009dbb_z.jpg",
+      "description": "Discover The Phoenix Hotel Bangkok, an urban oasis in the vibrant Lat Krabang district. Enjoy stunning rooftop views from the terrace, savor authentic Thai dishes at Catch Up Cafe, and start your day with a delicious English breakfast. With 65 comfortable rooms equipped with private balconies, refrigerators, and free Wi-Fi, this hotel offers the perfect blend of relaxation and convenience, just minutes from Suvarnabhumi International Airport.",
+      "highlight": "Offers free parking, a rooftop terrace with stunning views, and comfortable rooms with private balconies and refrigerators.",
+      "price": "$33/night",
+      "location": "88 Ladkrabang Soi 7",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "affordable-hotels-in-bangkok-with-free-parking",
+  "generatedAt": "2025-11-04T00:58:43.704Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

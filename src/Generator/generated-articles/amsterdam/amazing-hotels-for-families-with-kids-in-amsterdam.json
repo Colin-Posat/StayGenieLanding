@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "hotels for families with kids in Amsterdam",
+  "title": "Amazing hotels for families with kids in Amsterdam",
+  "excerpt": "Finding the perfect hotel that caters to families with kids can be a daunting task, especially in a vibrant city like Amsterdam, where options abound but not all are family-friendly. This list is invaluable as it highlights hotels that not only offer comfortable accommodations but also provide amenities and activities specifically designed for children, making your family trip enjoyable and stress-free.",
+  "intro": "Discover the best family-friendly hotels in Amsterdam that cater to kids and ensure a memorable stay for everyone.",
+  "hotels": [
+    {
+      "id": "lp36f48",
+      "name": "Hotel Campanile Amsterdam Zuidoost",
+      "image": "https://static.cupid.travel/hotels/ex_3cdc6e71_z.jpg",
+      "description": "Hotel Campanile Amsterdam Zuidoost offers a blend of comfort and convenience with 74 well-appointed guestrooms featuring modern amenities. Guests can enjoy recreational activities like bicycle rentals and complimentary Wi-Fi, along with a satisfying dining experience at the on-site restaurant and bar. Located near popular attractions such as Gaasperpark and the Academic Medical Centre, this hotel is perfect for both relaxation and exploration.",
+      "highlight": "Features 74 comfortable guestrooms, bicycle rentals, complimentary Wi-Fi, and an on-site restaurant near Gaasperpark.",
+      "price": "$109/night",
+      "location": "Loosdrechtdreef 3",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp399af",
+      "name": "Hotel Plantage",
+      "image": "https://static.cupid.travel/hotels/81396237.jpg",
+      "description": "Hotel Plantage offers a serene retreat right across from the lively Artis Zoo, featuring soundproof rooms equipped with double glazing and light-proof curtains for ultimate relaxation. Guests can enjoy comfortable box-spring beds, private bathrooms, and a selection of nearby dining options, along with 24-hour access to fresh coffee and cold drinks in the lobby. With convenient public transportation just steps away, you can easily explore Amsterdam's iconic attractions, including the Red Light District, which is only a 15-minute walk from the hotel.",
+      "highlight": "Hotel Plantage offers soundproof rooms, box-spring beds, and easy access to Artis Zoo and public transportation.",
+      "price": "$121/night",
+      "location": "Plantage Kerklaan 25",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b874",
+      "name": "Hotel Amsterdam De Roode Leeuw",
+      "image": "https://static.cupid.travel/hotels/184609490.jpg",
+      "description": "Nestled in a historic monumental building just steps from Dam Square, De Roode Leeuw offers guests a unique blend of charm and modern convenience. Enjoy easy access to the city's attractions and public transport, including direct trains to Schiphol Airport. Each room is designed for comfort, featuring climate control, free Wi-Fi, and soundproof windows to ensure a peaceful stay.",
+      "highlight": "Offers soundproof rooms, kids meals, and convenient access to attractions and public transport.",
+      "price": "$228/night",
+      "location": "Damrak 93-94",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp480ac",
+      "name": "Hotel Alexander",
+      "image": "https://static.cupid.travel/hotels/255044838.jpg",
+      "description": "Discover the enchanting Hotel Alexander, a boutique gem nestled in the heart of Amsterdam, just a short stroll from Vondelpark and Leidseplein. This tranquil hotel features a lovely courtyard garden perfect for unwinding, alongside comfortable rooms equipped with modern amenities and complimentary internet access. With a 24-hour reception, concierge services, and easy access to iconic attractions like the Van Gogh Museum, Hotel Alexander is your ideal base for exploring the vibrant city.",
+      "highlight": "Offers family rooms, a tranquil courtyard garden, and convenient access to iconic attractions in Amsterdam.",
+      "price": "$96/night",
+      "location": "Vondelstraat 44-46",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c03c",
+      "name": "NH Collection Amsterdam Flower Market",
+      "image": "https://static.cupid.travel/hotels/328270810.jpg",
+      "description": "Discover the NH Collection Amsterdam Flower Market, ideally situated in the heart of the city with stunning views of the vibrant flower market and just moments from the bustling Kalverstraat shopping area. Enjoy modern comforts in air-conditioned rooms with satellite TV and complimentary WiFi, making your stay both relaxing and convenient. With key attractions like Rembrandtplein and Dam Square nearby, plus easy access to Amsterdam Central Railway Station, this hotel is perfect for those looking to explore the best of Amsterdam.",
+      "highlight": "Offers family rooms, air conditioning, satellite TV, and complimentary WiFi in a central location near key attractions.",
+      "price": "$225/night",
+      "location": "Vijzelstraat 4",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp473eb",
+      "name": "Hotel Oscar",
+      "image": "https://static.cupid.travel/hotels/333528106.jpg",
+      "description": "Hotel Oscar is ideally situated in the heart of Amsterdam, offering comfortable air-conditioned rooms with modern amenities including free WiFi and flat-screen TVs. Just a short walk from major attractions like Beurs van Berlage and Rembrandt House, this 3-star hotel provides a convenient base for both business and leisure travelers. Enjoy 24-hour room service and a cozy, non-smoking environment, making it the perfect choice for your Amsterdam getaway.",
+      "highlight": "Offers family rooms, 24-hour room service, and a bike-friendly environment in the heart of Amsterdam.",
+      "price": "$138/night",
+      "location": "AMSTEL 60",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-amsterdam",
+  "generatedAt": "2025-11-04T02:31:33.563Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

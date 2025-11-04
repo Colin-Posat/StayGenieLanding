@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "hotels for families with kids in Paris",
+  "title": "Amazing hotels for families with kids in Paris",
+  "excerpt": "Finding the perfect hotel for families with kids in Paris can be a daunting task, as not all accommodations cater to the unique needs of families traveling with children. This curated list of amazing hotels is invaluable, as it highlights options that offer family-friendly amenities, convenient locations, and activities to keep the little ones entertained. With these recommendations, you can focus on creating lasting memories in the City of Light rather than worrying about your stay.",
+  "intro": "Discover the best family-friendly hotels in Paris that make traveling with kids a breeze.",
+  "hotels": [
+    {
+      "id": "lp3a926",
+      "name": "Novotel Paris Centre Gare Montparnasse",
+      "image": "https://static.cupid.travel/hotels/612283779.jpg",
+      "description": "Experience luxury at the Novotel Paris Centre Gare Montparnasse, where air-conditioned rooms feature modern amenities like flat-screen HD TVs and minibars. Enjoy exquisite dining at Halle 4 restaurant, relax on the shaded terrace with drinks, and savor a delightful buffet breakfast. With convenient facilities such as private parking, free WiFi, and a lobby iMac, this hotel ensures a comfortable and enjoyable stay in the heart of Paris.",
+      "highlight": "Offers family rooms, kids meals, and outdoor furniture for a comfortable stay in Paris.",
+      "price": "$310/night",
+      "location": "17 Rue Du Cotentin",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1fb4e",
+      "name": "Hotel Antin Trinité",
+      "image": "https://static.cupid.travel/hotels/157961114.jpg",
+      "description": "Hôtel Antin Trinité boasts a prime location directly across from Galeries Lafayette, placing guests near the iconic Opéra Garnier and the fashionable Madeleine district. The hotel features bright and comfortable rooms equipped with modern amenities like satellite TV and en suite bathrooms. Guests can enjoy a delicious buffet breakfast, convenient room service, and easy access to transportation with the nearby Chaussée d'Antin - La Fayette Metro Station, making it the ideal choice for a luxurious stay in Paris.",
+      "highlight": "Hotel Antin Trinité offers family rooms, a buffet breakfast, and convenient access to transportation near Galeries Lafayette.",
+      "price": "$197/night",
+      "location": "74 Rue de Provence",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2cbec",
+      "name": "Hôtel des 3 Poussins",
+      "image": "https://static.cupid.travel/hotels/61946135.jpg",
+      "description": "Hôtel 3 Poussins offers a charming stay in the vibrant 9th district of Paris, just steps from Montmartre and the iconic Opera Garnier. Guests can unwind in spacious, uniquely decorated rooms with modern amenities, while enjoying a delightful continental breakfast in the cozy attic dining area. With a welcoming 24-hour front desk and a relaxing shared living room complete with a library, this hotel promises a memorable Parisian experience.",
+      "highlight": "Offers family rooms, a cozy attic dining area, and a relaxing shared living room with a library.",
+      "price": "$165/night",
+      "location": "15 Rue Clauzel",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3c0b9",
+      "name": "Amiral Hôtel",
+      "image": "https://static.cupid.travel/hotels/25397261.jpg",
+      "description": "Amiral Hôtel offers a prime location just a minute's stroll from Tolbiac Metro Station, providing easy access to the Louvre and other Parisian landmarks. Guests can relax in the indoor heated swimming pool and enjoy well-appointed rooms complete with minibars and complimentary toiletries. Start your day with a delightful continental breakfast and unwind at the elegant lounge bar, all while being steps away from the vibrant dining scene of Buttes aux Cailles.",
+      "highlight": "Boasts family rooms, an indoor heated swimming pool, and a tranquil Japanese garden for relaxation.",
+      "price": "$151/night",
+      "location": "98 Avenue d'Italie",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3a8d8",
+      "name": "Hôtel de Genève",
+      "image": "https://static.cupid.travel/hotels/28785468.jpg",
+      "description": "Hotel De Geneve is ideally located just 300 meters from Saint Lazare Train Station, making it easy to explore Paris's iconic attractions. With 30 cozy rooms designed for comfort, guests can unwind after a day of sightseeing. The helpful multilingual staff is dedicated to enhancing your stay, offering personalized recommendations and assistance. Experience the charm of Paris from this welcoming hotel.",
+      "highlight": "Offers family rooms, kids meals, and room service, ensuring a comfortable stay for families visiting Paris.",
+      "price": "$133/night",
+      "location": "36, rue de Londres",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2da0f",
+      "name": "Hotel Corona -Rodier-",
+      "image": "https://static.cupid.travel/hotels/280924249.jpg",
+      "description": "Hotel Corona Rodier offers a prime location in Paris's vibrant 9th district, just steps away from the enchanting Montmartre and close to two metro stations for easy city exploration. Guests can enjoy modern air-conditioned rooms equipped with essential amenities, including satellite TV and private bathrooms. With famous attractions like Opera Garnier and Galeries Lafayette within walking distance, this hotel is the perfect base for unforgettable Parisian adventures.",
+      "highlight": "Offers family rooms, board games, and a prime location near Montmartre and key attractions in Paris.",
+      "price": "$134/night",
+      "location": "4 Rue Rodier",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-paris",
+  "generatedAt": "2025-11-04T01:38:42.223Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

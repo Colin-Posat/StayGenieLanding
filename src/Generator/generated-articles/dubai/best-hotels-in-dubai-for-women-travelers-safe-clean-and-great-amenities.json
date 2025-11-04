@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "best hotels in Dubai for women travelers",
+  "title": "Best hotels in Dubai for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels in Dubai that cater specifically to women travelers can be a challenge, as safety, cleanliness, and amenities are top priorities. This curated list highlights hotels that not only meet these essential criteria but also provide a welcoming atmosphere and unique experiences tailored for women. By showcasing these options, we aim to empower female travelers to explore Dubai with confidence and ease.",
+  "intro": "Discover the best hotels in Dubai designed with women travelers in mind, offering safety, comfort, and exceptional amenities.",
+  "hotels": [
+    {
+      "id": "lp418e6",
+      "name": "Jumeirah Living - World Trade Centre Residence",
+      "image": "https://static.cupid.travel/hotels/ex_4020b6da_z.jpg",
+      "description": "Experience unparalleled luxury at Jumeirah Living - World Trade Centre Residence, where you can relax in the steam room, stay active in the fitness center, or enjoy a drink at the bar/lounge. This hotel offers convenient services such as complimentary Wi-Fi, concierge assistance, and room service, ensuring a seamless stay. With impressive facilities including a 24-hour business center and versatile meeting spaces, it's perfect for both leisure and business travelers. Book your unforgettable Dubai getaway today.",
+      "highlight": "Jumeirah Living - World Trade Centre Residence offers a steam room, rooftop terrace, and 24-hour concierge services for a luxurious stay.",
+      "price": "$342/night",
+      "location": "2nd Zabeel Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp60fdc",
+      "name": "Grand Excelsior Hotel Al Barsha",
+      "image": "https://static.cupid.travel/hotels/ex_0ea3098e_z.jpg",
+      "description": "Experience the elegance of the Grand Excelsior Hotel Al Barsha, where luxury and comfort blend seamlessly in Dubai's vibrant heart. Indulge in a rejuvenating spa experience, savor gourmet cuisine at A La Grand, or relax by the pool with refreshing drinks. With family-friendly amenities and a range of recreational facilities, this hotel ensures an unforgettable stay for guests of all ages.",
+      "highlight": "Offers a full spa, concierge services, and a vibrant nightclub for a luxurious stay in Dubai.",
+      "price": "$120/night",
+      "location": "60th Street, Al Barsha 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34e0a",
+      "name": "Aavri Hotel Deira",
+      "image": "https://static.cupid.travel/hotels/ex_70cfbeaa_z.jpg",
+      "description": "Experience luxury at Aavri Hotel Deira, where you can indulge in onsite massages, facials, and relax by the outdoor pool or sauna. Enjoy an all-inclusive stay with complimentary meals at the Olive Tree Restaurant, 24-hour room service, and a variety of bars to unwind. Conveniently located, the hotel provides easy access to popular attractions like Deira Clocktower and City Centre Deira, making it the perfect upscale retreat in Dubai.",
+      "highlight": "Offers luxury amenities including a health club, sauna, onsite dining, and 24-hour room service in a secure environment.",
+      "price": "$93/night",
+      "location": "45C St, Al Rigga Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2a16d",
+      "name": "J5 Hotels - Port Saeed",
+      "image": "https://static.cupid.travel/hotels/ex_fafc2181_z.jpg",
+      "description": "Experience ultimate comfort at J5 Hotels - Port Saeed, a stylish aparthotel located in the vibrant heart of Dubai. Enjoy top-notch amenities including a luxurious outdoor pool, a modern health club, and a rejuvenating sauna, perfect for relaxation after a day of exploring. With exceptional dining options at Le Restaurant, 24-hour room service, and a prime location near major attractions like the Gold Souk and Dubai World Trade Centre, your stay promises both convenience and culinary delight.",
+      "highlight": "Offers a luxurious outdoor pool, modern health club, and 24-hour concierge services for enhanced comfort and safety.",
+      "price": "$144/night",
+      "location": "Al Garhoud Road, Deira City Centre",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f75c",
+      "name": "Grand Millennium Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_9febc6d3_z.jpg",
+      "description": "Discover unparalleled luxury at Grand Millennium Dubai, where elegance and comfort harmoniously blend. Indulge in revitalizing treatments at the opulent spa, savor exquisite international cuisine in three distinct restaurants, and relax with cocktails at the vibrant bar or poolside. With extensive event facilities and a complimentary shuttle to nearby attractions, this hotel is perfect for both business and leisure travelers.",
+      "highlight": "Offers a full spa, health club, and rooftop terrace alongside elegant accommodations and three international restaurants.",
+      "price": "$265/night",
+      "location": "Sheikh Zayed Road, Exit 36",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp730c4",
+      "name": "ARMADA AVENUE HOTEL",
+      "image": "https://static.cupid.travel/hotels/ex_0281d4b1_z.jpg",
+      "description": "Experience luxury at ARMADA AVENUE HOTEL, featuring a full-service spa for rejuvenating treatments, an outdoor pool, and a fitness center for your wellness needs. Savor exquisite dining options at the on-site restaurant or relax with drinks by the pool, complemented by 24-hour room service for ultimate convenience. With complimentary shuttle service and modern amenities in every room, your stay in Dubai promises both comfort and ease.",
+      "highlight": "Offers a full-service spa, outdoor pool, and 24-hour room service for a luxurious and convenient stay.",
+      "price": "$201/night",
+      "location": "Armada Towers, Jumeira Lake Towers",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-dubai-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:19:15.609Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

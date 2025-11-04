@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "best dog friendly hotels in Los Angeles",
+  "title": "What are the best dog-friendly hotels in Los Angeles",
+  "excerpt": "Finding a dog-friendly hotel in Los Angeles can be a daunting task, as many places either don't allow pets or have strict restrictions. This curated list highlights the best options that welcome your furry friends and provide amenities to keep both you and your pet comfortable during your stay. By showcasing these hotels, we aim to make your travel planning easier and ensure that your canine companion enjoys the trip just as much as you do.",
+  "intro": "Discover the top dog-friendly hotels in Los Angeles that cater to both you and your four-legged friend.",
+  "hotels": [
+    {
+      "id": "lp72e28",
+      "name": "Hotel Figueroa, Unbound Collection by Hyatt",
+      "image": "https://static.cupid.travel/hotels/450259144.jpg",
+      "description": "Experience luxury at Hotel Figueroa, located in the heart of downtown LA, where historic Spanish architecture meets modern amenities. Relax by the tranquil outdoor pool, savor gourmet Mediterranean dishes at Breva, or enjoy creative cocktails at The Alta Room. With elegantly designed rooms featuring high-speed WiFi and smart technology, this independently owned hotel offers personalized service just steps from top attractions like the Staples Center and Microsoft Theatre.",
+      "highlight": "Offers pet-friendly accommodations with outdoor furniture and free pool cabanas for a relaxing stay.",
+      "price": "$225/night",
+      "location": "939 S Figueroa St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b8e6",
+      "name": "Hilton Los Angeles Airport",
+      "image": "https://static.cupid.travel/hotels/490862436.jpg",
+      "description": "Experience a stress-free stay at Hilton Los Angeles Airport with a complimentary 24-hour shuttle service to LAX. Savor diverse dining options, from American favorites at The Café to northern Italian delights at Andiamo. Unwind in the outdoor pool, relax at the whirlpool, and enjoy modern amenities, including a fitness center and well-appointed rooms.",
+      "highlight": "Offers pet-friendly accommodations, an outdoor pool, and a hot tub for relaxation after exploring Los Angeles.",
+      "price": "$157/night",
+      "location": "5711 W Century Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp20486",
+      "name": "Hilton Los Angeles-Culver City, CA",
+      "image": "https://static.cupid.travel/hotels/484593862.jpg",
+      "description": "Experience unparalleled comfort at Hilton Los Angeles-Culver City, where luxurious amenities meet a prime location. Enjoy a heated outdoor pool, spacious rooms, and a well-equipped gym, along with over 21,000 square feet of versatile meeting space. Savor delicious meals at West & Co, our on-site restaurant, featuring a diverse menu and an impressive selection of 32 wines.",
+      "highlight": "Offers pet-friendly accommodations, a heated outdoor pool, and an on-site restaurant with a diverse menu.",
+      "price": "$234/night",
+      "location": "6161 W Centinela Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7d265",
+      "name": "Level Los Angeles - Downtown South Olive",
+      "image": "https://static.cupid.travel/hotels/521154570.jpg",
+      "description": "Discover the luxurious suites at Level Los Angeles - Downtown South Olive, where spacious designs and modern amenities are complemented by private balconies offering stunning city views. Enjoy top-notch facilities, including an outdoor pool, basketball court, and a relaxing sauna, perfect for unwinding after a day of exploring the vibrant Downtown LA, just minutes from attractions like Staples Center. Experience exceptional service and convenience with car hire options and weekly housekeeping to enhance your stay.",
+      "highlight": "Offers pet-friendly accommodations with spacious suites, private balconies, and amenities like a heated pool and outdoor furniture.",
+      "price": "$304/night",
+      "location": "888 S. Olive St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1aeae0",
+      "name": "The Hotel Hollywood",
+      "image": "https://static.cupid.travel/hotels/74261323.jpg",
+      "description": "Hotel Hollywood boasts a prime location just steps from the famed Hollywood Walk of Fame, offering spacious rooms complete with free Wi-Fi and flat-screen TVs for a comfortable stay. Each inviting room features convenient amenities such as a table, chairs, and a refrigerator, while on-site laundry facilities add to the ease of your visit. Perfectly situated for exploring nearby attractions like Universal Studios and the iconic Hollywood Sign, this hotel is your gateway to experiencing the glamour of Tinseltown.",
+      "highlight": "The Hotel Hollywood offers dog-friendly rooms, outdoor furniture, and concierge services for a comfortable stay in Los Angeles.",
+      "price": "$140/night",
+      "location": "6364 Yucca St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5b836",
+      "name": "Hotel Koxie",
+      "image": "https://static.cupid.travel/hotels/25712939.jpg",
+      "description": "Hotel Koxie offers stylish, comfortable rooms equipped with modern amenities, including flat-screen TVs and free Wi-Fi, ensuring a relaxing stay. Guests can savor delectable Korean dishes at Yeo Soo restaurant or enjoy a drink at The Bar Café, with convenient room service available. With a 24-hour reception and essential facilities, this hotel promises a hassle-free experience in the vibrant Koreatown, Los Angeles.",
+      "highlight": "Hotel Koxie offers a dog-friendly policy, stylish rooms, a Korean restaurant, and a coffee shop for a delightful stay.",
+      "price": "$179/night",
+      "location": "3411 W Olympic Blvd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-los-angeles",
+  "generatedAt": "2025-11-04T02:05:00.064Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "best hotels in Rome for weddings luxury and affordable",
+  "title": "Best hotels in Rome for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Rome can be a daunting task, especially when balancing luxury with affordability. This curated list highlights venues that not only offer stunning settings and exceptional service but also fit within a reasonable budget. Couples can save time and stress by exploring these options, ensuring their special day is both memorable and financially feasible.",
+  "intro": "Discover a selection of Rome's best hotels that beautifully blend luxury and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp3d8c4",
+      "name": "Hotel Capannelle Roma",
+      "image": "https://static.cupid.travel/hotels/84852453.jpg",
+      "description": "Experience comfort and modern design at Hotel Capannelle, where air-conditioned rooms come with free WiFi and flat-screen TVs for your entertainment. Start your day effortlessly with convenient breakfast boxes and enjoy a prime location just 6 km from Rome Ciampino Airport, making it easy to explore historic sites and nearby attractions like Quintili Villa and Capannelle Racecourse. Book your stay for an unforgettable Roman getaway.",
+      "highlight": "Hotel Capannelle Roma boasts a charming reception hall, refreshing pool, and attentive concierge services for memorable wedding celebrations.",
+      "price": "$81/night",
+      "location": "Via Siderno 37",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44d3d",
+      "name": "Hotel Ferrari",
+      "image": "https://static.cupid.travel/hotels/23761358.jpg",
+      "description": "Hotel Ferrari features modern rooms with complimentary Wi-Fi, a TV, and private bathrooms equipped with essential toiletries. Guests can enjoy a delightful buffet breakfast each morning, offering a variety of sweet and savory options. Ideally located just 100 meters from Rome Termini Station and a short stroll from major attractions like the Basilica di Santa Maria Maggiore and the Coliseum, this hotel provides the perfect base for exploring the vibrant city.",
+      "highlight": "Hotel Ferrari offers modern rooms with complimentary Wi-Fi, a delightful buffet breakfast, and a prime location near major attractions.",
+      "price": "$98/night",
+      "location": "Via Giovanni Amendola 95, 4th Floor",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp461a8",
+      "name": "Hotel Virginia",
+      "image": "https://static.cupid.travel/hotels/137197612.jpg",
+      "description": "Hotel Virginia boasts a prime location between two Metro lines, providing easy access to explore the wonders of Rome while offering affordable, air-conditioned rooms in a serene setting. Guests are greeted with warm hospitality and efficient service, including a 24-hour reception and complimentary tourist maps. Just a short 10-minute walk from local markets and iconic attractions, Hotel Virginia is the perfect base for immersing yourself in the vibrant culture of the city.",
+      "highlight": "Hotel Virginia offers affordable, air-conditioned rooms, a 24-hour reception, and easy access to Rome's iconic attractions.",
+      "price": "$109/night",
+      "location": "Via Montebello 94",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4461e",
+      "name": "Hotel Orazia",
+      "image": "https://static.cupid.travel/hotels/503996587.jpg",
+      "description": "Hotel Orazia is perfectly situated just 20 meters from the Vittorio Emanuele Metro Station, making it an ideal base for exploring Rome's iconic sights, including the Coliseum, which is only a 10-minute walk away. Guests will enjoy modern, air-conditioned rooms featuring marble floors, satellite flat-screen TVs, and private bathrooms, with some offering charming views of the garden square. Each morning, a delicious buffet breakfast awaits, featuring a variety of options from fresh pastries to cold cuts, ensuring a delightful start to your Roman adventure.",
+      "highlight": "Hotel Orazia offers modern rooms with marble floors, air conditioning, and a buffet breakfast, all just steps from the metro.",
+      "price": "$109/night",
+      "location": "Via Buonarroti, 51",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31060",
+      "name": "Hotel Delle Muse",
+      "image": "https://static.cupid.travel/hotels/8200773.jpg",
+      "description": "Nestled in the tranquil Parioli District of Rome, Hotel Delle Muse offers a cozy escape with comfortable rooms featuring air conditioning and flat-screen TVs. Guests can indulge in a delightful breakfast buffet in the garden during summer and enjoy authentic Italian cuisine on the spacious covered terrace. Just a short stroll from Villa Ada park and a quick drive to Auditorium Parco della Musica, this family-run hotel combines charm with easy access to the city's vibrant attractions.",
+      "highlight": "Offers comfortable rooms with air conditioning, a restaurant with authentic Italian cuisine, and a charming terrace for dining.",
+      "price": "$108/night",
+      "location": "Via Tommaso Salvini 18",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp30abb",
+      "name": "Hotel Scott House",
+      "image": "https://static.cupid.travel/hotels/4832366.jpg",
+      "description": "Experience the charm of the 19th-century Hotel Scott House, located on the upper floors of a historic building in central Rome. Just steps away from Termini Station, this hotel provides easy access to iconic attractions like the Coliseum and the Spanish Steps, ensuring a seamless travel experience. Enjoy modern amenities, including free Wi-Fi and well-equipped rooms, all while soaking in the unique ambiance of this timeless setting.",
+      "highlight": "Offers soundproof rooms and modern amenities, all within a charming 19th-century setting in central Rome.",
+      "price": "$114/night",
+      "location": "Via Gioberti 30",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-rome-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:13:29.081Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

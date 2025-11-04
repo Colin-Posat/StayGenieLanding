@@ -1,7 +1,7 @@
-// src/app/Blog/BlogHomeClient.tsx
 'use client'
 
 import { useState } from 'react'
+import Image from 'next/image'
 import Link from 'next/link'
 
 interface CityWithCount {
@@ -13,9 +13,6 @@ interface BlogHomeClientProps {
   cities: CityWithCount[]
 }
 
-/**
- * Client Component - Handles search and rendering
- */
 export function BlogHomeClient({ cities }: BlogHomeClientProps) {
   const [searchTerm, setSearchTerm] = useState('')
 
@@ -25,8 +22,8 @@ export function BlogHomeClient({ cities }: BlogHomeClientProps) {
 
   return (
     <div className="min-h-screen bg-white">
+      <HeroSection />
       <div className="mx-auto max-w-4xl px-4 py-12">
-        <PageHeader />
         <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
 
         {filteredCities.length > 0 ? (
@@ -41,20 +38,47 @@ export function BlogHomeClient({ cities }: BlogHomeClientProps) {
   )
 }
 
-/** ---------------------- Layout Components ---------------------- */
-function PageHeader() {
+/** ---------------------- Hero Section ---------------------- */
+function HeroSection() {
   return (
-    <header className="mb-8 border-b border-gray-200 pb-6">
-      <h1 className="mb-2 text-3xl font-bold text-gray-900">
-        Hotel Travel Guides
-      </h1>
-      <p className="text-gray-600">
-        Browse destinations and find the perfect hotel
-      </p>
-    </header>
+    <section className="relative">
+      {/* Background image */}
+      <div className="absolute inset-0 z-0">
+        <Image
+          src="/images/hero-travel.jpg"
+          alt="Colin from StayGenie"
+          fill
+          priority
+          className="object-cover"
+          style={{ objectPosition: '69% 70%' }} // adjust if needed
+          sizes="100vw"
+        />
+        {/* Gradient overlay for readability */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-transparent" />
+      </div>
+
+      {/* Foreground content */}
+      <div className="relative z-10 mx-auto max-w-4xl px-4">
+        {/* Compact height */}
+        <div className="min-h-[260px] md:min-h-[360px] flex items-end pb-6 md:pb-8">
+          {/* Soft text backdrop on mobile */}
+          <div className="w-full max-w-2xl rounded-2xl bg-black/20 px-4 py-4 backdrop-blur-[2px] md:bg-transparent md:px-0 md:py-0">
+            <h1 className="mb-2 text-3xl md:text-4xl font-extrabold tracking-tight leading-tight text-white">
+              Hey, I’m Colin 👋
+            </h1>
+            <p className="max-w-2xl text-sm md:text-base leading-snug text-white/90">
+              Founder of <span className="font-semibold">StayGenie</span>. These are my
+              personally curated hotel lists across top cities worldwide to help you find the perfect stay for any occasion.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
   )
 }
 
+
+/** ---------------------- Search Bar ---------------------- */
 function SearchBar({ searchTerm, setSearchTerm }: { searchTerm: string; setSearchTerm: (value: string) => void }) {
   return (
     <div className="mb-6">
@@ -79,7 +103,7 @@ function Footer() {
   )
 }
 
-/** ---------------------- Content Sections ---------------------- */
+/** ---------------------- Cities List ---------------------- */
 function CitiesList({ cities }: { cities: CityWithCount[] }) {
   return (
     <div className="mb-8">
@@ -108,7 +132,6 @@ function EmptyState({ searchTerm }: { searchTerm: string }) {
   )
 }
 
-/** ---------------------- List Item Component ---------------------- */
 function CityListItem({ city, count }: { city: string; count: number }) {
   const cityName = city.replace(/-/g, ' ')
 
@@ -122,9 +145,7 @@ function CityListItem({ city, count }: { city: string; count: number }) {
           <span className="text-gray-400">
             <PinIcon className="h-5 w-5" />
           </span>
-          <span className="font-medium capitalize text-gray-900">
-            {cityName}
-          </span>
+          <span className="font-medium capitalize text-gray-900">{cityName}</span>
         </div>
         <div className="flex items-center gap-2">
           <span className="text-sm text-gray-500">

@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "best hotels in Sydney for women travelers",
+  "title": "Best hotels in Sydney for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding the right hotel in Sydney can be a daunting task, especially for women travelers seeking safety and comfort. This curated list highlights accommodations that prioritize security, cleanliness, and exceptional amenities, ensuring peace of mind while exploring the vibrant city. By choosing from these options, travelers can focus on creating memorable experiences without the added stress of their lodging arrangements.",
+  "intro": "Discover a selection of top hotels in Sydney that cater specifically to the needs of women travelers, offering a perfect blend of safety, comfort, and luxury.",
+  "hotels": [
+    {
+      "id": "lp3a52c",
+      "name": "Pullman Quay Grand Sydney Harbour",
+      "image": "https://static.cupid.travel/hotels/255604783.jpg",
+      "description": "Experience unparalleled luxury at Pullman Quay Grand Sydney, where spacious apartments feature gourmet kitchens and private balconies with stunning views of Sydney Harbour and the Royal Botanic Gardens. Savor modern Australian cuisine at Q-Dining, complemented by an extensive wine list, or unwind with unique Cuban-inspired cocktails at Hyde Hacienda bar amidst a lush botanical setting. Conveniently located in Circular Quay, this hotel offers exceptional service and easy access to iconic attractions like the Opera House, ensuring a memorable stay in Sydney's vibrant harbor precinct.",
+      "highlight": "Offers spacious apartments with gourmet kitchens, private balconies, and easy access to iconic Sydney attractions.",
+      "price": "$533/night",
+      "location": "61 Macquarie Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20142",
+      "name": "Shangri-La Sydney",
+      "image": "https://static.cupid.travel/hotels/328134331.jpg",
+      "description": "Experience the ultimate in luxury at Shangri-La Hotel, where stunning views of the Sydney Opera House and Harbour Bridge greet you each morning. Immerse yourself in relaxation at CHI, The Spa, or enjoy exquisite dining at the award-winning Altitude Restaurant, followed by cocktails at the Blu Bar on 36 with panoramic city skyline views. Book your stay for a truly indulgent escape in the heart of Sydney.",
+      "highlight": "Offers luxurious accommodations with stunning views, a full-service spa, heated pool, and exceptional dining experiences.",
+      "price": "$415/night",
+      "location": "176 Cumberland Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b9c4",
+      "name": "Hilton Sydney",
+      "image": "https://static.cupid.travel/hotels/483823157.jpg",
+      "description": "Discover luxury at Hilton Hotel Sydney, where spacious rooms feature modern amenities like luxury bathrooms and LCD TVs, with select rooms offering black-out blinds and dedicated workspaces. Enjoy access to the city's largest hotel health club, complete with a 25-metre indoor lap pool, state-of-the-art fitness center, and soothing spa facilities. Indulge in award-winning dining at the Brasserie, sip cocktails on Zeta Bar's rooftop terrace, or relax in the elegant Marble Bar, ensuring your culinary cravings are met in style.",
+      "highlight": "Hilton Sydney provides spacious rooms with luxury bathrooms, access to the largest hotel health club, and award-winning dining options.",
+      "price": "$386/night",
+      "location": "488 George Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20eb4",
+      "name": "Adina Apartment Hotel Sydney Surry Hills",
+      "image": "https://static.cupid.travel/hotels/434527116.jpg",
+      "description": "Discover the Adina Apartment Hotel Sydney Surry Hills, where modern living meets comfort in the heart of the trendy Surry Hills district. Enjoy luxurious amenities including a serene garden courtyard with a swimming pool, free WiFi, and stylish, fully-equipped apartments that feature separate living areas and kitchen facilities. Enhance your stay with access to a fitness center and in-room massages, all while being steps away from the vibrant culture of Oxford Street.",
+      "highlight": "Offers fully-equipped apartments, a serene garden courtyard with a swimming pool, and a fitness center for enhanced comfort and convenience.",
+      "price": "$229/night",
+      "location": "359 Crown Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2e0ef",
+      "name": "Mercure Sydney Manly Warringah",
+      "image": "https://static.cupid.travel/hotels/574993151.jpg",
+      "description": "Experience the newly refurbished Mercure Sydney Manly Warringah, ideally situated for your Northern Beaches adventures. Enjoy luxurious rooms featuring modern amenities like private kitchenettes and air conditioning, along with convenient services such as free Wi-Fi and 24-hour reception. Savor a delicious buffet breakfast or in-room dining, and explore nearby attractions like Warringah Mall and ferry access to Sydney CBD for an unforgettable getaway.",
+      "highlight": "Offers newly refurbished rooms with modern amenities, free Wi-Fi, 24-hour reception, and easy access to local attractions.",
+      "price": "$138/night",
+      "location": "4-10 Victor Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3b2f4",
+      "name": "Rydges Camperdown",
+      "image": "https://static.cupid.travel/hotels/310819926.jpg",
+      "description": "Rydges Camperdown Hotel offers stunning city skyline views, including iconic sights like the Sydney Harbour Bridge and Sydney Tower. Guests can savor modern Australian cuisine at Rowleys Restaurant, with breakfast served daily and dinner available during the week. Conveniently located near Sydney's city center and the lively King Street in Newtown, this hotel provides easy access to transportation and a variety of local dining and shopping options.",
+      "highlight": "Offers stunning city skyline views, modern Australian cuisine, and convenient access to transportation and local dining options.",
+      "price": "$172/night",
+      "location": "9 Missenden Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-sydney-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T01:10:54.753Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

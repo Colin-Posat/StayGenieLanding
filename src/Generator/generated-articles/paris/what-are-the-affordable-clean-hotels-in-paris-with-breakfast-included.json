@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "affordable clean hotels in Paris with breakfast included",
+  "title": "What are the affordable, clean hotels in Paris with breakfast included",
+  "excerpt": "Navigating the vast options for accommodation in Paris can be overwhelming, especially when searching for affordable hotels that also offer cleanliness and breakfast. This curated list is invaluable for travelers looking to enjoy the charm of the city without breaking the bank, ensuring a comfortable stay that starts with a satisfying meal each morning.",
+  "intro": "Discover the best affordable and clean hotels in Paris that include breakfast, making your stay both enjoyable and budget-friendly.",
+  "hotels": [
+    {
+      "id": "lp2eda6",
+      "name": "Hôtel Exquis",
+      "image": "https://static.cupid.travel/hotels/ex_b9186579_z.jpg",
+      "description": "Hôtel Exquis offers a prime location in the heart of Paris, making it easy to visit iconic sites like Opera Bastille and Père Lachaise Cemetery. Guests can relax in one of the 42 modern, air-conditioned rooms equipped with complimentary Wi-Fi and convenient amenities. With services like express check-in and a 24-hour multilingual front desk, your stay promises both comfort and ease.",
+      "highlight": "Hôtel Exquis provides modern, air-conditioned rooms with complimentary Wi-Fi and a convenient location near iconic Parisian sites.",
+      "price": "$136/night",
+      "location": "71 Rue De Charonne",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b3f8",
+      "name": "Hôtel de Charonne",
+      "image": "https://static.cupid.travel/hotels/529745706.jpg",
+      "description": "Hotel de Charonne is ideally located in the heart of Paris, allowing guests to easily access popular attractions and transportation. The modern guest rooms are designed for comfort and productivity, featuring amenities like a TV and work desk, with accessibility options available. Enjoy a delightful buffet breakfast each morning, along with 24-hour reception, free Wi-Fi, and convenient private parking for a seamless stay.",
+      "highlight": "Hôtel de Charonne offers a delightful buffet breakfast, modern guest rooms, and free Wi-Fi in the heart of Paris.",
+      "price": "$123/night",
+      "location": "12 Rue Leon Frot",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d4d4",
+      "name": "Hôtel de Bellevue Paris Gare du Nord",
+      "image": "https://static.cupid.travel/hotels/98727279.jpg",
+      "description": "Hotel de Bellevue offers a prime location between the vibrant Montmartre and the serene Parc de la Villette, making it easy to explore Paris with nearby Metro access and proximity to Gare du Nord. Guests can unwind in soundproofed rooms featuring modern amenities like flat-screen TVs and free WiFi, while the charming 18th-century cellar serves a delightful buffet breakfast. With a 24-hour reception and seminar rooms, this hotel ensures a comfortable and convenient stay in the heart of the city.",
+      "highlight": "Offers soundproofed rooms, free WiFi, and a buffet breakfast in a charming 18th-century cellar.",
+      "price": "$121/night",
+      "location": "67 Rue Philippe De Girard",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44d1d",
+      "name": "Hôtel Moulin Vert",
+      "image": "https://static.cupid.travel/hotels/45020196.jpg",
+      "description": "Moulin Vert offers a prime location near Gare Montparnasse and Pernety Metro Station, making it easy to explore Paris's famed attractions, including the Champs-Elysees. Guests will appreciate the soundproofed rooms featuring cable TV and en suite bathrooms, along with 24/7 assistance from the friendly reception staff. With convenient transport options nearby, your Parisian adventure will be effortless and enjoyable.",
+      "highlight": "Hôtel Moulin Vert provides soundproofed rooms, family accommodations, and complimentary breakfast in a convenient location near public transport.",
+      "price": "$121/night",
+      "location": "74 Rue Du Moulin Vert",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31e86",
+      "name": "Hôtel R. Kipling by Happyculture",
+      "image": "https://static.cupid.travel/hotels/ex_ef12bb1e_z.jpg",
+      "description": "Experience the charm of Hôtel R. Kipling by Happyculture, where complimentary wireless internet and concierge services enhance your stay. Enjoy delicious buffet breakfasts and unwind at the bar/lounge, all while being conveniently located near iconic attractions like the Moulin Rouge and Palais Garnier, with easy access to public transportation. Book now for a delightful Parisian getaway!",
+      "highlight": "Offers complimentary buffet breakfast, free Wi-Fi, and concierge services in a charming setting near iconic Paris attractions.",
+      "price": "$145/night",
+      "location": "65 Rue Blanche",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41a58",
+      "name": "Hôtel Soft",
+      "image": "https://static.cupid.travel/hotels/150392562.jpg",
+      "description": "Hôtel Soft features contemporary décor and offers complimentary WiFi, creating a modern and inviting atmosphere just steps from Place de la République and Gare de l'Est Train Station. With a 24-hour front desk for round-the-clock assistance and a prime location near iconic landmarks like the Pompidou Centre and La Cigale Concert Hall, this hotel ensures a convenient and enjoyable stay in the heart of Paris. Book now for an unforgettable experience.",
+      "highlight": "Hôtel Soft offers complimentary breakfast, modern decor, and 24-hour front desk service in a central Paris location.",
+      "price": "$857/night",
+      "location": "52 bis, rue des Vinaigriers",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-paris-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:37:50.015Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

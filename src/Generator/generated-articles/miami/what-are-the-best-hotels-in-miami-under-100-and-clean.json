@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "hotels in Miami under 100 dollars and clean",
+  "title": "What are the best hotels in Miami under $100 and clean",
+  "excerpt": "Finding clean and affordable hotels in Miami can be quite a challenge, especially with the city's popularity drawing in tourists from all over the world. This curated list highlights budget-friendly options that do not compromise on cleanliness or comfort, ensuring you enjoy your stay without breaking the bank. Whether you're traveling for business or leisure, these selections will help you make the most of your Miami experience.",
+  "intro": "Discover the best budget-friendly hotels in Miami that offer both cleanliness and comfort, all for under $100.",
+  "hotels": [
+    {
+      "id": "lp22d62",
+      "name": "Days Inn by Wyndham Miami",
+      "image": "https://static.cupid.travel/hotels/603762844.jpg",
+      "description": "Experience modern comfort at Days Inn Miami, where every room is equipped with a 48-inch smart TV, microwave, and refrigerator for your convenience. Enjoy leisure amenities like an indoor swimming pool and 24-hour front desk service. With nearby attractions such as Buffalo Run Casino and Classic Route 66 just a short drive away, this hotel offers the perfect base for your adventures.",
+      "highlight": "Offers family rooms, a hot tub, and modern amenities like smart TVs, microwaves, and refrigerators.",
+      "price": "$92/night",
+      "location": "2120 E Steve Owens Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp41f8e",
+      "name": "Hampton Inn Miami",
+      "image": "https://static.cupid.travel/hotels/ex_fc2cb216_z.jpg",
+      "description": "Experience comfort at Hampton Inn Miami, where you can unwind in the indoor pool and stay active in the fitness center. Enjoy a complimentary buffet breakfast each morning and stay connected with free Wi-Fi throughout the hotel. Ideally located near popular attractions like Northeastern Oklahoma A&M College and Buffalo Run Casino, this hotel promises a convenient and enjoyable stay.",
+      "highlight": "Hampton Inn Miami offers free breakfast, an indoor pool, and a fitness center for a comfortable stay.",
+      "price": "$101/night",
+      "location": "115 S Deacan Turner Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41f8e",
+      "name": "Hampton Inn Miami",
+      "image": "https://static.cupid.travel/hotels/ex_fc2cb216_z.jpg",
+      "description": "Experience a comfortable stay at Hampton Inn Miami, featuring an indoor pool and a fitness center for both relaxation and exercise. Start your mornings with a complimentary buffet breakfast and enjoy free wireless internet access throughout the hotel. Conveniently located near popular attractions like Northeastern Oklahoma A&M College and Buffalo Run Casino, this hotel is the perfect base for exploring the best of Miami.",
+      "highlight": "Offers clean accommodations with an indoor pool, fitness center, complimentary breakfast, and free Wi-Fi access.",
+      "price": "$101/night",
+      "location": "115 S Deacan Turner Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp22d62",
+      "name": "Days Inn by Wyndham Miami",
+      "image": "https://static.cupid.travel/hotels/603762844.jpg",
+      "description": "Experience modern comfort at Days Inn Miami, where each room is equipped with a 48-inch smart TV, microwave, and refrigerator for your convenience. Enjoy leisure facilities such as an indoor swimming pool and a 24-hour front desk to ensure a stress-free getaway. Conveniently located near attractions like Buffalo Run Casino and Classic Route 66, this hotel promises a memorable stay.",
+      "highlight": "Offers modern rooms with smart TVs, microwaves, refrigerators, an indoor pool, and 24-hour front desk service.",
+      "price": "$92/night",
+      "location": "2120 E Steve Owens Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp358fa5",
+      "name": "Deluxe Inn",
+      "image": "https://static.cupid.travel/hotels/ex_a044f77b_z.jpg",
+      "description": "Experience comfort and convenience at Deluxe Inn, where complimentary wireless internet and a vending machine enhance your stay. With a 24-hour front desk ready to assist you, your visit will be stress-free. Located in the historical district, you are just a short walk away from popular attractions like Stables Casino and Northeastern Oklahoma A&M College.",
+      "highlight": "Offers complimentary wireless internet, a 24-hour front desk, and free self-parking in a historical district setting.",
+      "price": "$76/night",
+      "location": "1307 E Steve Owens Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31fdc",
+      "name": "Rodeway Inn South Miami - Coral Gables",
+      "image": "https://static.cupid.travel/hotels/169822000.jpg",
+      "description": "Rodeway Inn South Miami - Coral Gables offers a prime location just an 8-minute stroll from The Shops at Sunset Place, making it ideal for shopping enthusiasts. Guests can enjoy comfortable accommodations featuring flat-screen TVs and private bathrooms, along with complimentary WiFi. Relax and soak up the Miami sun at the inviting outdoor pool and terrace area, promising a delightful stay.",
+      "highlight": "Offers comfortable accommodations with flat-screen TVs, private bathrooms, free WiFi, and an outdoor pool for relaxation.",
+      "price": "$111/night",
+      "location": "5959 SW 71st Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-miami-under-100-and-clean",
+  "generatedAt": "2025-11-04T01:10:01.686Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

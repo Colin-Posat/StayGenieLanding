@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "affordable clean hotels in Miami with breakfast included",
+  "title": "What are the affordable, clean hotels in Miami with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in Miami that include breakfast can be a daunting task, especially with the city's bustling tourism scene. This list is valuable as it highlights top options that provide comfort and convenience without breaking the bank, ensuring that your stay is both enjoyable and budget-friendly. Whether you are traveling for business or leisure, these hotels help set the stage for a memorable Miami experience.",
+  "intro": "Discover the best affordable hotels in Miami that offer cleanliness and complimentary breakfast, making your stay both pleasant and economical.",
+  "hotels": [
+    {
+      "id": "lp41f8e",
+      "name": "Hampton Inn Miami",
+      "image": "https://static.cupid.travel/hotels/ex_fc2cb216_z.jpg",
+      "description": "Experience comfort and convenience at Hampton Inn Miami, where you can unwind in the indoor pool or keep active in the fitness center. Start your mornings with a complimentary buffet breakfast and enjoy free wireless internet throughout the hotel. Ideally situated near popular attractions like Northeastern Oklahoma A&M College and Buffalo Run Casino, your stay promises easy access to all that Miami has to offer.",
+      "highlight": "Offers complimentary buffet breakfast, free wireless internet, an indoor pool, and a fitness center for a comfortable stay.",
+      "price": "$101/night",
+      "location": "115 S Deacan Turner Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp69a1b",
+      "name": "Holiday Inn Express Miami Airport-Blue Lagoon Area, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/576871781.jpg",
+      "description": "Experience the elegance of the Cambria Hotel Miami Airport - Blue Lagoon, located in the desirable Blue Lagoon district with quick access to Miami’s top attractions. Guests can indulge in premium amenities, including a heated outdoor pool, a vibrant Lobby Bar, and a well-equipped fitness center, all while enjoying spacious, modern non-smoking suites equipped with flat-screen TVs and coffee machines. Elevate your Miami getaway with luxurious comfort and convenience at this all-suites hotel.",
+      "highlight": "Offers free breakfast, spacious non-smoking suites, and a heated outdoor pool in a convenient Miami location.",
+      "price": "$202/night",
+      "location": "6750 Nw 7th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20170",
+      "name": "Holiday Inn Express Miami Airport Doral Area, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/583623719.jpg",
+      "description": "Holiday Inn Express Miami Airport Doral Area offers an ideal location just 9 miles from Miami International Airport, complete with a convenient transfer service. Guests can unwind in the heated outdoor pool and enjoy modern amenities in spacious rooms, some featuring a desk and seating area. Start your day with a hearty breakfast buffet, and take advantage of the fitness center and 24-hour business facilities, all while being minutes away from the Doral Country Club.",
+      "highlight": "Offers a complimentary breakfast buffet, heated outdoor pool, and modern amenities just 9 miles from Miami International Airport.",
+      "price": "$255/night",
+      "location": "8436 NW 36th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp29976",
+      "name": "Hampton Inn & Suites Miami Airport South/Blue Lagoon",
+      "image": "https://static.cupid.travel/hotels/485528772.jpg",
+      "description": "The Hampton Inn and Suites Miami Airport South/Blue Lagoon offers a prime location just five minutes from Miami International Airport, complete with a complimentary shuttle for hassle-free travel. Guests can easily explore Miami's attractions, enjoy world-class dining, and venture into nature at Everglades National Park. With soundproofed rooms, a refreshing outdoor pool, and a modern fitness center, this hotel ensures a comfortable stay complemented by a delicious complimentary hot breakfast.",
+      "highlight": "Offers complimentary hot breakfast, soundproofed rooms, an outdoor pool, and a modern fitness center.",
+      "price": "$197/night",
+      "location": "777 Nw 57th Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp40939",
+      "name": "Holiday Inn Express & Suites - Miami, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/226124201.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Holiday Inn Express Hotel & Suites Miami. Enjoy a complimentary hot breakfast, relax in the heated indoor pool and whirlpool, or stay active in the fitness center. Ideally located near attractions like the Vintage Iron Motorcycle Museum and Historic Route 66, our well-appointed rooms offer everything you need for a stress-free stay, including workspaces and in-room entertainment. Book your memorable getaway today!",
+      "highlight": "Offers complimentary hot breakfast, a heated indoor pool, and whirlpool, along with comfortable, well-appointed rooms.",
+      "price": "$188/night",
+      "location": "509 Hendley Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp33a21a",
+      "name": "Comfort Inn & Suites Miami International Airport",
+      "image": "https://static.cupid.travel/hotels/238966991.jpg",
+      "description": "Comfort Inn & Suites Miami International Airport combines luxury and convenience with amenities like an inviting outdoor swimming pool, a well-equipped fitness center, and a relaxing sun terrace. Just steps from the airport, the hotel offers essential services such as private parking, complimentary WiFi, and a 24-hour front desk, making it perfect for both leisure and business travelers. Its prime location near popular attractions like Marlins Park and the Adrienne Arsht Center ensures an enjoyable stay in vibrant Miami.",
+      "highlight": "Offers free breakfast, an outdoor pool, and a fitness center just steps from Miami International Airport.",
+      "price": "$202/night",
+      "location": "665 Mokena Drive",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-miami-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:40:57.681Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

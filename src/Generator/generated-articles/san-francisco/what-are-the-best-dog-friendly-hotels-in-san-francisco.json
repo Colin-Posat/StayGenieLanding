@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "best dog friendly hotels in San Francisco",
+  "title": "What are the best dog-friendly hotels in San Francisco",
+  "excerpt": "Finding the perfect dog-friendly hotel can be a daunting task, especially in a vibrant city like San Francisco, where options may be limited and vary widely in quality. This list is invaluable for pet owners looking to enjoy a stress-free stay, as it highlights accommodations that not only welcome your furry friends but also provide the amenities and comfort needed for a memorable trip. Whether you're seeking luxury or budget options, these hotels ensure both you and your dog feel right at home.",
+  "intro": "Discover the top dog-friendly hotels in San Francisco, where both you and your furry companion can enjoy a comfortable and welcoming stay.",
+  "hotels": [
+    {
+      "id": "lp1bfb5",
+      "name": "Hotel G San Francisco",
+      "image": "https://static.cupid.travel/hotels/43713337.jpg",
+      "description": "Hotel G San Francisco offers a blend of luxury and convenience, featuring contemporary rooms equipped with Nespresso coffee machines and premium Metis toiletries. Situated just steps from Union Square and iconic cable car lines, it's an ideal hub for exploring the city's attractions. Guests can also enjoy modern amenities like a 42-inch Smart TV, air-conditioning, and access to a techno gym, ensuring a comfortable and enjoyable stay.",
+      "highlight": "Hotel G San Francisco boasts dog-friendly accommodations, contemporary rooms, and modern amenities just steps from Union Square.",
+      "price": "$517/night",
+      "location": "386 Geary Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b331",
+      "name": "Hotel Zephyr San Francisco",
+      "image": "https://static.cupid.travel/hotels/51805897.jpg",
+      "description": "Hotel Zephyr San Francisco features uniquely designed nautical-themed rooms that include porthole windows and fishnet accents, along with modern amenities like satellite TV and WiFi. Guests can enjoy a range of facilities including a games room, mini-market, and 24-hour reception, as well as activities like cycling. Located just a short stroll from Pier 39 and other attractions, this hotel offers convenience and charm in the heart of the city.",
+      "highlight": "Hotel Zephyr San Francisco provides pet-friendly accommodations with nautical-themed rooms, a games room, and a relaxing Japanese garden.",
+      "price": "$379/night",
+      "location": "250 Beach St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp182748",
+      "name": "Hyatt Place San Francisco/Downtown",
+      "image": "https://static.cupid.travel/hotels/194581161.jpg",
+      "description": "Discover modern comfort at Hyatt Place San Francisco/Downtown, where stylish rooms offer air conditioning, flat-screen TVs, and private bathrooms with complimentary toiletries. Located just 400 meters from Oracle Park, this hotel is ideal for sports fans and provides easy access to attractions like Moscone Center and Union Square. Enjoy a range of amenities including a fitness center, private parking, and a relaxing terrace with free WiFi, making your stay both convenient and enjoyable.",
+      "highlight": "Offers pet-friendly accommodations, a fitness center, and easy access to top San Francisco attractions.",
+      "price": "$1386/night",
+      "location": "701 3rd St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2fb6f",
+      "name": "The Clancy, Autograph Collection",
+      "image": "https://static.cupid.travel/hotels/602029888.jpg",
+      "description": "Experience the vibrant spirit of San Francisco at The Clancy, Autograph Collection, where each detail is designed to echo the city's artistic essence. This pet-friendly hotel features a lively outdoor patio and convenient access to top attractions, making it an ideal retreat for families, business travelers, and explorers. Enjoy a range of on-site amenities, including a fitness center and a stylish taproom, ensuring a memorable stay in the heart of the city.",
+      "highlight": "Offers a pet-friendly environment with an outdoor patio and charcoal grill for a comfortable stay.",
+      "price": "$1107/night",
+      "location": "299 2nd St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp23753",
+      "name": "Kimpton Hotel Enso, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/422932553.jpg",
+      "description": "Experience the allure of Japantown at Kimpton Enso Hotel, where spacious rooms are beautifully decorated with Japanese art and equipped with modern amenities. Savor delicious dishes at the hotel’s restaurant or venture out to nearby sushi bars and cafes. With the Fillmore District and Union Square just a stroll away, this hotel offers the perfect base for exploring San Francisco’s vibrant culture and attractions.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms and nearby outdoor seating for guests and their dogs.",
+      "price": "$915/night",
+      "location": "1800 Sutter St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c406",
+      "name": "Hotel Triton",
+      "image": "https://static.cupid.travel/hotels/454251715.jpg",
+      "description": "Hotel Triton captures the artistic essence of San Francisco, featuring designs by local artists that reflect the city's vibrant pop culture. Ideally located near Chinatown and Union Square, guests can enjoy thoughtful amenities such as WiFi, wine receptions, and a fitness center. Delight in welcome treats, gourmet coffee, and on-site dining, ensuring a memorable and comfortable stay in the heart of the city.",
+      "highlight": "Offers pet-friendly accommodations, welcome treats for dogs, and an art gallery showcasing local artists.",
+      "price": "$398/night",
+      "location": "342 Grant Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-san-francisco",
+  "generatedAt": "2025-11-04T01:57:21.289Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "best pet friendly hotels in Amsterdam",
+  "title": "What are the best pet-friendly hotels in Amsterdam",
+  "excerpt": "Finding pet-friendly hotels in Amsterdam can be a challenge, as many accommodations have restrictions or lack the amenities needed for furry companions. This curated list not only highlights the best options for you and your pet but also ensures a comfortable and enjoyable stay in this vibrant city. Knowing where to stay can transform your trip from stressful to seamless, allowing you to explore Amsterdam together without worry.",
+  "intro": "Discover the top pet-friendly hotels in Amsterdam, ensuring a delightful stay for both you and your four-legged friend.",
+  "hotels": [
+    {
+      "id": "lp65578c83",
+      "name": "Pillows Grand Boutique Hotel Maurits at the Park - Small Luxury Hotels",
+      "image": "https://static.cupid.travel/hotels/409415976.jpg",
+      "description": "Experience luxury at Pillows Grand Boutique Hotel Maurits at the Park, ideally situated in the vibrant Oosterpark area. Delight your palate with exquisite dining at VanOost Restaurant, Spring Cafe Brasserie, or Fitz's Bar, and enjoy breathtaking views from the rooftop bar. With top-notch amenities, including underground parking and proximity to cultural landmarks like the Royal Theater Carré and Rembrandt House, your stay promises both comfort and convenience.",
+      "highlight": "Offers pet bowls, a serene Japanese garden, and luxurious amenities in a prime location near Oosterpark.",
+      "price": "$415/night",
+      "location": "61 Mauritskade",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2fd20",
+      "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
+      "image": "https://static.cupid.travel/hotels/470251896.jpg",
+      "description": "Experience the perfect blend of historic charm and modern luxury at Anantara Grand Hotel Krasnapolsky Amsterdam, located right at the edge of Dam Square. This 5-star hotel features spacious rooms with elegant parquet floors and top-notch amenities, ensuring a comfortable stay. Delight your palate at the Michelin-starred White Room or the Grand Cafe Krasnapolsky, where classic dishes are reimagined with contemporary flair, all while enjoying easy access to the city's public transport and nearby attractions.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms and easy access to public transport and nearby attractions.",
+      "price": "$889/night",
+      "location": "Dam 9",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpd0511",
+      "name": "Hotel van de Vijsel",
+      "image": "https://static.cupid.travel/hotels/173259263.jpg",
+      "description": "Discover the charm of our hotel in Oud-West, Amsterdam, where luxurious rooms feature modern amenities like flat-screen TVs and private bathrooms for your comfort. Start your day with a delicious buffet breakfast and receive expert local guidance from our friendly staff to enhance your city exploration. Ideally located near popular attractions such as the Van Gogh Museum and Vondelpark, our hotel is the perfect base for an unforgettable Amsterdam experience.",
+      "highlight": "Offers pet-friendly accommodations with modern amenities, private check-in/out, and kids meals in a charming Oud-West setting.",
+      "price": "$133/night",
+      "location": "Overtoom 13-17",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b874",
+      "name": "Hotel Amsterdam De Roode Leeuw",
+      "image": "https://static.cupid.travel/hotels/184609490.jpg",
+      "description": "Nestled in a historic building just steps from Dam Square, De Roode Leeuw offers a charming blend of heritage and modern comfort in the heart of Amsterdam. Guests can enjoy easy access to top attractions, including the nearby De Bijenkorf department store, as well as convenient public transport options to Schiphol Airport. Each room features climate control, free Wi-Fi, and soundproof windows, ensuring a restful stay while you explore the vibrant city.",
+      "highlight": "Provides pet-friendly accommodations with climate control, free Wi-Fi, and soundproof windows in a historic setting near Dam Square.",
+      "price": "$228/night",
+      "location": "Damrak 93-94",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65f24",
+      "name": "Hotel Vossius Vondelpark",
+      "image": "https://static.cupid.travel/hotels/10834085.jpg",
+      "description": "Hotel Vossius offers a unique blend of historic charm and modern comforts, conveniently located near Vondelpark and just steps from the lively Leidseplein and Museumplein. Each cozy room is equipped with amenities like flat-screen cable TV and complimentary toiletries, ensuring a comfortable stay. Explore the vibrant neighborhood filled with luxury boutiques and renowned museums, making this hotel the perfect base for your Amsterdam adventure.",
+      "highlight": "Offers a pet-friendly environment along with a tranquil Japanese garden and convenient bike-friendly amenities.",
+      "price": "$1023/night",
+      "location": "Vossiusstraat 8",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp73b73",
+      "name": "Hotel Fine Harmony",
+      "image": "https://static.cupid.travel/hotels/37390662.jpg",
+      "description": "Hotel Fine Harmony offers a perfect blend of modern comfort and convenience, situated just steps from Amsterdam Central Station. Guests can enjoy complimentary WiFi, Nespresso machines, and a 24-hour front desk, all while being close to iconic attractions like Dam Square and the Royal Palace. With added safety features such as a safety deposit box and laptop safe in each room, this hotel ensures a secure and relaxing stay.",
+      "highlight": "Hotel Fine Harmony boasts pet-friendly accommodations, family rooms, and convenient E-bike charging facilities near Amsterdam Central Station.",
+      "price": "$131/night",
+      "location": "Prins Hendrikkade 120",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-amsterdam",
+  "generatedAt": "2025-11-04T01:26:54.533Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

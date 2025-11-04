@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "hotels in London with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in London with rooftop bars",
+  "excerpt": "Finding hotels in London with rooftop bars can be a daunting task, as the city is brimming with options that often overlook this unique feature. This curated list is valuable for travelers seeking not just a place to stay, but an experience that combines stunning views, vibrant atmospheres, and exceptional hospitality. By highlighting these select hotels, you can elevate your visit and enjoy some of the best panoramas the city has to offer.",
+  "intro": "Discover the top hotels in London that feature breathtaking rooftop bars, perfect for unwinding after a day of exploration.",
+  "hotels": [
+    {
+      "id": "lp35cf8",
+      "name": "One Hundred Shoreditch",
+      "image": "https://static.cupid.travel/hotels/350702154.jpg",
+      "description": "One Hundred Shoreditch offers a vibrant escape in the heart of Shoreditch, featuring 258 stylish bedrooms and a variety of dining options, including a chic cocktail bar and a rooftop bar with stunning views of East London. The thoughtfully designed rooms provide a peaceful retreat with minimalist decor, comfortable seating, and luxurious DS & Durga amenities. Experience the essence of this lively neighborhood while enjoying restful nights and unique culinary experiences at One Hundred Shoreditch.",
+      "highlight": "Boasts a rooftop bar with stunning views of East London and 258 stylish bedrooms for a vibrant escape.",
+      "price": "$304/night",
+      "location": "100 Shoreditch High Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2fa49",
+      "name": "The Trafalgar St. James, London Curio collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/499912315.jpg",
+      "description": "Immerse yourself in the elegance of our historic hotel, featuring 131 meticulously designed bedrooms and 15 luxurious suites that showcase stunning Art Deco aesthetics. Located just 400 meters from Charing Cross Tube Station, you can easily explore iconic attractions like Leicester Square and the West End. Enjoy a diverse array of dining options and beautifully designed venues, perfect for any occasion, ensuring your stay is both relaxing and memorable.",
+      "highlight": "Boasts a stylish rooftop bar offering panoramic views of London alongside 131 elegantly designed bedrooms and 15 luxurious suites.",
+      "price": "$409/night",
+      "location": "2 Spring Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5146f",
+      "name": "W London",
+      "image": "https://static.cupid.travel/hotels/513669582.jpg",
+      "description": "Discover the epitome of luxury at W London – Leicester Square, where 5-star accommodations offer breathtaking views alongside modern amenities like iPod docks and flat-screen TVs. Indulge in rejuvenating treatments at the Away Spa, featuring a sauna and steam room, then savor expertly crafted cocktails at The Perception Bar as you soak in the vibrant atmosphere of Soho. With unique dining options and live music just steps away, your stay promises unforgettable experiences in the heart of London's bustling Theatreland.",
+      "highlight": "W London boasts a vibrant rooftop bar, The Perception, offering stunning views and expertly crafted cocktails in a luxurious setting.",
+      "price": "$544/night",
+      "location": "10 Wardour Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2152d",
+      "name": "The Chelsea Harbour Hotel and Spa",
+      "image": "https://static.cupid.travel/hotels/612222115.jpg",
+      "description": "Experience unparalleled luxury at The Chelsea Harbour Hotel, featuring 154 elegantly appointed suites and 4 exclusive penthouses with breathtaking views of Chelsea Harbour Marina and the River Thames. Delight in alfresco dining at the Harbour Bar and Terrace, where British and Mediterranean flavors come alive alongside expertly crafted cocktails. For ultimate relaxation, indulge in therapeutic treatments at the spa or rejuvenate in the health club, complete with a 17-meter indoor swimming pool.",
+      "highlight": "Boasts a stunning rooftop bar offering alfresco dining with panoramic views of Chelsea Harbour and the River Thames.",
+      "price": "$232/night",
+      "location": "Chelsea Harbour",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1bea4",
+      "name": "The Montague On The Gardens",
+      "image": "https://static.cupid.travel/hotels/544784972.jpg",
+      "description": "Experience the elegance of The Montague on the Garden, where individually decorated rooms feature satellite TV and luxurious marble bathrooms. Delight your palate at The Blue Door Bistro with its exquisite blend of modern and classic British cuisine, or relax with afternoon tea in the sun room. Ideally located just minutes from Russell Square Underground Station, this hotel offers easy access to iconic attractions like The British Museum and Covent Garden.",
+      "highlight": "Boasts a stunning rooftop terrace and gourmet dining options at The Blue Door Bistro, enhancing your stay in London.",
+      "price": "$308/night",
+      "location": "15 Montague Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp36a51",
+      "name": "The Soho Hotel, Firmdale Hotels",
+      "image": "https://static.cupid.travel/hotels/500481932.jpg",
+      "description": "The Soho Hotel boasts a prime location just a five-minute stroll from Oxford Street, with attractions like Piccadilly Circus and Leicester Square nearby. Guests can enjoy upscale amenities, including a fully equipped gym, rejuvenating beauty treatments, and elegantly appointed rooms featuring modern comforts. Delight in exquisite modern European cuisine at the hotel’s restaurant and unwind at the award-winning bar for a perfect evening retreat.",
+      "highlight": "The Soho Hotel features a stylish rooftop bar, a luxurious spa, and a selection of engaging board games for guests.",
+      "price": "$950/night",
+      "location": "4 Richmond Mews",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-london-with-rooftop-bars",
+  "generatedAt": "2025-11-04T02:17:27.222Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

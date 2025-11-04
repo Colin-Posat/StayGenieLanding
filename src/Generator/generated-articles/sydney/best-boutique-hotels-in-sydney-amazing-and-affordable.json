@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "boutique hotels in Sydney affordable and stylish",
+  "title": "Best boutique hotels in Sydney: Amazing and affordable",
+  "excerpt": "Finding boutique hotels in Sydney that balance affordability and style can be a daunting task, as many options either compromise on charm or push the budget limits. This curated list highlights unique and inviting accommodations that not only offer a memorable experience but also fit within your budget. Discovering these hidden gems can elevate your stay, turning an ordinary trip into an extraordinary adventure.",
+  "intro": "Explore a selection of Sydney's best boutique hotels that combine affordability with stylish charm, perfect for your next getaway.",
+  "hotels": [
+    {
+      "id": "lp76db9",
+      "name": "ibis Budget Sydney Olympic Park",
+      "image": "https://static.cupid.travel/hotels/276305090.jpg",
+      "description": "Experience modern comfort at ibis Budget Sydney Olympic Park, featuring air-conditioned rooms equipped with flat-screen TVs and work desks. Conveniently located just minutes from Qudos Bank Arena and ANZ Stadium, the hotel offers easy access to Olympic Park Train Station and a variety of dining and entertainment options within walking distance. Enjoy the vibrant atmosphere of Sydney, with the city center only a short drive or train ride away.",
+      "highlight": "Offers air-conditioned rooms with flat-screen TVs, family rooms, and a snack bar, all minutes from Olympic Park attractions.",
+      "price": "$96/night",
+      "location": "8 Edwin Flack Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9220d",
+      "name": "Campsie Hotel",
+      "image": "https://static.cupid.travel/hotels/134068640.jpg",
+      "description": "Welcome to Campsie Hotel, ideally located just 8km from Bicentennial Park, ANZ Stadium, and Sydney Showground, making it perfect for both leisure and business travelers. Guests can enjoy complimentary WiFi, an on-site restaurant, and a fun billiards area, all while staying in comfortable rooms with shared bathrooms. Experience the perfect blend of comfort and convenience by booking your stay today!",
+      "highlight": "Offers complimentary WiFi, an on-site restaurant, and a billiards area in comfortable rooms with shared bathrooms.",
+      "price": "$65/night",
+      "location": "327 Beamish St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpf7ebd",
+      "name": "Hurstville Ritz Hotel",
+      "image": "https://static.cupid.travel/hotels/279557170.jpg",
+      "description": "Experience luxury at Hurstville Ritz Hotel, where elegantly furnished rooms feature flat-screen TVs for your comfort. Conveniently situated near Sydney's top attractions like Bicentennial Park and ANZ Stadium, this hotel offers easy access to the city's vibrant landmarks. Enjoy modern amenities, including free WiFi and a serene garden, making it the perfect retreat for relaxation and connectivity.",
+      "highlight": "Offers elegantly furnished rooms with flat-screen TVs, free WiFi, and a serene garden near top Sydney attractions.",
+      "price": "$85/night",
+      "location": "350 Forest Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp76db7",
+      "name": "ibis Budget - St Peters",
+      "image": "https://static.cupid.travel/hotels/247702042.jpg",
+      "description": "ibis budget - St Peters offers a convenient location just minutes from Sydney's city center and the airport, making it an ideal starting point for your Sydney adventures. Enjoy comfortable, air-conditioned rooms featuring a TV, work desk, and complimentary WiFi, ensuring a restful stay. Immerse yourself in the vibrant local culture of St Peters with its unique shops and eateries, all while enjoying the comfort and charm of this budget-friendly hotel.",
+      "highlight": "Offers comfortable, air-conditioned rooms with complimentary WiFi and secure parking, all minutes from Sydney's city center.",
+      "price": "$107/night",
+      "location": "178 Princes Highway",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp75645",
+      "name": "ibis Budget - Enfield",
+      "image": "https://static.cupid.travel/hotels/247701977.jpg",
+      "description": "Experience comfort and convenience at ibis budget Enfield, ideally situated next to Strathfield Golf Course and just minutes from Sydney Olympic Park. Enjoy modern rooms with essential amenities, including air conditioning and flat-screen TVs, along with complimentary breakfast options and Wi-Fi. With free parking and easy access to local attractions like Sydney Showground and Flemington Markets, your stay promises to be both enjoyable and hassle-free.",
+      "highlight": "Offers modern rooms with air conditioning, flat-screen TVs, free parking, and complimentary Wi-Fi near local attractions.",
+      "price": "$88/night",
+      "location": "626-628 Liverpool Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65878",
+      "name": "Cambridge Lodge",
+      "image": "https://static.cupid.travel/hotels/20746590.jpg",
+      "description": "Cambridge Lodge offers a prime location just a five-minute walk from Stanmore Railway Station, making it easy to explore Sydney's attractions. Guests can unwind in cozy accommodations featuring private and dormitory rooms complete with essential amenities like fridges and TVs. Enjoy on-site facilities such as a barbecue area, shared kitchen, and helpful tour desk services for a memorable and convenient stay.",
+      "highlight": "Cambridge Lodge provides cozy accommodations with essential amenities, a shared kitchen, and an inviting barbecue area for guests.",
+      "price": "$69/night",
+      "location": "109 Cambridge Street",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-sydney-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:06:23.423Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

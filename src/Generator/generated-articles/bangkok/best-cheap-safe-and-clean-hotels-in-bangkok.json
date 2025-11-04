@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "cheap safe clean hotels in Bangkok",
+  "title": "Best cheap, safe, and clean hotels in Bangkok",
+  "excerpt": "Finding affordable, safe, and clean hotels in Bangkok can be a daunting task, especially with the city’s vast options and varying standards. This list is invaluable for travelers seeking comfort without breaking the bank, ensuring a pleasant stay in this vibrant metropolis. With our curated selections, you can confidently explore Bangkok while enjoying peace of mind and budget-friendly accommodations.",
+  "intro": "Discover the top budget-friendly hotels in Bangkok that prioritize safety and cleanliness without sacrificing comfort.",
+  "hotels": [
+    {
+      "id": "lp6a45a",
+      "name": "Tara Lake Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_7c1d72b7_z.jpg",
+      "description": "Experience the epitome of luxury at Tara Lake Hotel in Bangkok, where you can indulge in rejuvenating spa treatments and savor exquisite Thai cuisine at the on-site restaurant. Enjoy modern comforts in individually furnished rooms complete with minibars and spacious bathrooms, while complimentary Wi-Fi and concierge services ensure a seamless stay. Book now to elevate your travel experience with top-notch amenities and unparalleled convenience.",
+      "highlight": "Offers free Wi-Fi, concierge services, and a sauna for a comfortable and convenient stay in Bangkok.",
+      "price": "$25/night",
+      "location": "88 Ratpattana Road, Sapansong",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6e72c",
+      "name": "Delight Residence",
+      "image": "https://static.cupid.travel/hotels/9124064.jpg",
+      "description": "Delight Residence offers modern, air-conditioned rooms with private balconies and complimentary Wi-Fi, creating a cozy retreat for travelers. Enjoy convenient amenities like an on-site minimart and laundry service, making your stay hassle-free. Ideally situated near Donmuang Airport and local attractions, this residence is perfect for exploring the area or attending events.",
+      "highlight": "Delight Residence provides modern, air-conditioned rooms with private balconies, free Wi-Fi, and convenient on-site amenities for a comfortable stay.",
+      "price": "$32/night",
+      "location": "54/9 Chaengwattana Soi15",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp52dbb",
+      "name": "Arawana Express Chinatown",
+      "image": "https://static.cupid.travel/hotels/240702986.jpg",
+      "description": "Experience the vibrant culture of Bangkok at Arawana Express Chinatown, perfectly situated in the heart of Chinatown. Enjoy comfortable, air-conditioned rooms featuring kitchenettes, modern amenities, and elegant wooden accents, providing a cozy retreat after a day of exploration. With convenient guest services like laundry, car rentals, and a 24-hour front desk, your stay will be both enjoyable and hassle-free.",
+      "highlight": "Offers comfortable, air-conditioned rooms with kitchenettes, 24-hour front desk service, and outdoor CCTV for enhanced safety.",
+      "price": "$30/night",
+      "location": "204-208 Soi Charoenkrung 14",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp70c9c",
+      "name": "Pannee Lodge Khaosan - SHA Plus",
+      "image": "https://static.cupid.travel/hotels/232725588.jpg",
+      "description": "Experience the charm of Bangkok at OYO 482 Pannee Lodge Khaosan - SHA Plus, ideally situated in the vibrant Old Town district. Enjoy cozy, air-conditioned rooms featuring modern amenities like satellite flat-screen TVs and free WiFi, all within walking distance of iconic attractions such as the Grand Palace and Wat Pho. Book your stay today and immerse yourself in the rich culture and history of this captivating city.",
+      "highlight": "Offers cozy, air-conditioned rooms with free WiFi and outdoor CCTV for enhanced safety in the vibrant Old Town district.",
+      "price": "$25/night",
+      "location": "52 Chakrapong Road, Banglampoo",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp62295",
+      "name": "The Embassy Sathorn",
+      "image": "https://static.cupid.travel/hotels/32184019.jpg",
+      "description": "The Embassy Sathorn boasts a central location in Bangkok, just minutes from Lumpini Park and key subway stations, making it easy to explore the city's vibrant attractions. Guests can unwind in modern, colorful rooms featuring flat-screen TVs and rain showers, ensuring a comfortable stay. The Jungle Cafe offers a delightful array of Thai and international cuisine, while a complimentary tuk-tuk shuttle enhances your experience by providing convenient access to local transport options.",
+      "highlight": "The Embassy Sathorn offers modern rooms with flat-screen TVs, a restaurant, and a complimentary tuk-tuk shuttle for convenient transportation.",
+      "price": "$31/night",
+      "location": "31/1 South Sathorn Road, Thungmahamek",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp51683",
+      "name": "The Victory Executive Residences",
+      "image": "https://static.cupid.travel/hotels/ex_7d435100_z.jpg",
+      "description": "Discover a luxurious retreat at The Victory Executive Residences, nestled in the vibrant heart of Bangkok. Enjoy rejuvenating spa treatments, a modern fitness center, and a refreshing outdoor pool for ultimate relaxation. Savor delicious cuisine at the on-site restaurant or unwind with a cocktail at the bar, all while benefiting from convenient amenities like complimentary Wi-Fi and seamless airport shuttle services.",
+      "highlight": "Offers free Wi-Fi, a full spa, and a modern gym for a comfortable stay in Bangkok.",
+      "price": "$44/night",
+      "location": "37 Soi Sri Ayuthaya 12",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-bangkok",
+  "generatedAt": "2025-11-04T02:10:03.101Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

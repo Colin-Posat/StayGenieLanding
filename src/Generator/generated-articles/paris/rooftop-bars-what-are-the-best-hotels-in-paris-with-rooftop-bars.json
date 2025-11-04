@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "hotels in Paris with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Paris with rooftop bars",
+  "excerpt": "Finding hotels in Paris with rooftop bars can be a daunting task, as not all establishments promote their stunning views and vibrant atmospheres. This curated list highlights the best options, ensuring you enjoy breathtaking panoramas of the City of Light while sipping on expertly crafted cocktails. By choosing from these selections, you can elevate your travel experience and create unforgettable memories in one of the most beautiful cities in the world.",
+  "intro": "Discover the top hotels in Paris that offer breathtaking rooftop bars, perfect for unwinding with a view.",
+  "hotels": [
+    {
+      "id": "lp27e2f",
+      "name": "Pullman Paris Tour Eiffel",
+      "image": "https://static.cupid.travel/hotels/530737198.jpg",
+      "description": "Experience luxury at the Pullman Paris Tour Eiffel, where modern rooms offer breathtaking views of the Eiffel Tower and the Paris skyline. Savor innovative Californian-French cuisine at the stylish Frame restaurant and start your day with a wide array of breakfast options. Located near iconic landmarks, this hotel also features a 24-hour fitness center and a connectivity lounge for guests to remain connected throughout their stay.",
+      "highlight": "Offers a rooftop terrace with stunning views of the Eiffel Tower and a contemporary restaurant serving Californian-French cuisine.",
+      "price": "$394/night",
+      "location": "18 avenue de Suffren",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp370e8",
+      "name": "Hôtel de Sers",
+      "image": "https://static.cupid.travel/hotels/ex_bf140562_z.jpg",
+      "description": "Experience the elegance of Hôtel de Sers, where luxurious amenities include a 24-hour fitness center, bicycle rentals, and babysitting services. Savor fine dining at the on-site restaurant or unwind at the bar/lounge, while versatile event spaces cater to your business needs. Nestled in the heart of Paris, just steps from the iconic Champs-Élysées and Arc de Triomphe, this hotel promises a memorable stay in a prime location.",
+      "highlight": "Hôtel de Sers boasts a rooftop bar with stunning views, along with a 24-hour fitness center and concierge services.",
+      "price": "$701/night",
+      "location": "41 Avenue Pierre 1er de Serbie",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp430fc",
+      "name": "InterContinental Paris Champs Elysées Etoile, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/263899951.jpg",
+      "description": "Experience the epitome of luxury at our 5-star hotel located near the iconic Champs-Elysées and Arc de Triomphe. Enjoy elegant rooms adorned with refined materials, premium Treca beds, and indulgent amenities, including Nespresso machines and Diptyque products. With a top-notch restaurant and personalized concierge services, your stay promises to be a memorable Parisian escape.",
+      "highlight": "Boasts a stunning rooftop terrace offering panoramic views of Paris, alongside luxurious rooms and exceptional dining options.",
+      "price": "$429/night",
+      "location": "64 Avenue Marceau",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b44a",
+      "name": "Hôtel Regina Louvre",
+      "image": "https://static.cupid.travel/hotels/16678967.jpg",
+      "description": "Experience the epitome of luxury at Hôtel Regina Louvre, located in the heart of Paris. Enjoy elegantly appointed rooms with stunning views of Tuileries Gardens and the Louvre, complemented by modern amenities like flat-screen TVs and free WiFi. Delight in fine dining at Salon Rivoli, relax on the terrace, and take advantage of exceptional services including room service and a 24-hour concierge, all just steps from Tuileries Metro Station for easy exploration of the city.",
+      "highlight": "Features a rooftop terrace offering stunning views of the Paris skyline and Tuileries Gardens.",
+      "price": "$580/night",
+      "location": "2 Place Des Pyramides",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f12b",
+      "name": "Hôtel de Banville",
+      "image": "https://static.cupid.travel/hotels/332612188.jpg",
+      "description": "Hôtel de Banville is ideally situated just a 15-minute stroll from the iconic Champs-Elysées and Arc de Triomphe, offering modern accommodations with complimentary Wi-Fi. Guests can enjoy comfortable rooms featuring private bathrooms, air conditioning, and flat-screen TVs, with some rooms boasting breathtaking views of the Eiffel Tower. Start your day with a delightful breakfast buffet of homemade pastries, and unwind in the cozy bar by the fireplace for a truly enchanting Parisian experience.",
+      "highlight": "Hôtel de Banville boasts a rooftop bar with stunning views of Paris and offers spa services and wine events for guests.",
+      "price": "$193/night",
+      "location": "166, Boulevard Berthier",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f831",
+      "name": "Hôtel 34B - Astotel",
+      "image": "https://static.cupid.travel/hotels/ex_70377685_z.jpg",
+      "description": "Hôtel 34B - Astotel is ideally located in the vibrant heart of Paris, providing a perfect blend of comfort and convenience. Guests can enjoy rejuvenating amenities like a sauna and a 24-hour fitness center, as well as luxurious rooms equipped with complimentary minibars, flat-screen TVs, and free Wi-Fi. Start your day with a delicious buffet breakfast before unwinding at the stylish bar/lounge with expertly crafted cocktails in the evening.",
+      "highlight": "Boasts a rooftop bar offering expertly crafted cocktails along with 24-hour fitness and sauna facilities for ultimate relaxation.",
+      "price": "$207/night",
+      "location": "34 Rue Bergere",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-paris-with-rooftop-bars",
+  "generatedAt": "2025-11-04T02:25:01.067Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

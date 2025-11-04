@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "boutique hotels in Paris affordable and stylish",
+  "title": "Best boutique hotels in Paris: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Paris can be a daunting task, especially with the myriad of options that range from luxurious to budget-friendly. This curated list highlights stylish yet affordable hotels that capture the essence of Parisian charm, ensuring you get the most value for your stay. By narrowing down these hidden gems, you can focus on enjoying your trip without the stress of endless searching.",
+  "intro": "Discover a selection of the best boutique hotels in Paris that combine style and affordability for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp2a1c8",
+      "name": "Hôtel Gaston",
+      "image": "https://static.cupid.travel/hotels/466138689.jpg",
+      "description": "Experience the elegance of Hôtel Gaston in Paris’ 17th arrondissement, featuring contemporary design by renowned decorator Anne Lise Dees. The soundproofed rooms provide a comfortable retreat with modern amenities, while the artistic decor from the Splendens Factory adds a unique charm. Enjoy a delicious breakfast in the inviting lobby or opt for room service, and take advantage of the hotel’s prime location near major attractions and convenient services like an airport shuttle and 24-hour reception.",
+      "highlight": "Hôtel Gaston offers soundproof rooms, contemporary design, and convenient services including airport shuttle and 24-hour reception.",
+      "price": "$132/night",
+      "location": "51 Boulevard Péreire",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp352f0",
+      "name": "Ibis Styles Paris Crimée La Villette",
+      "image": "https://static.cupid.travel/hotels/46725696.jpg",
+      "description": "The ibis Styles Paris Crimée La Villette offers a prime location just a short stroll from Parc de la Villette, making it easy to explore the city's attractions. Guests can relax in modern rooms featuring LCD TVs, free Wi-Fi, and soundproofing for ultimate comfort. Start your day with a delightful buffet breakfast or indulge in nearby authentic Parisian dining options for a true taste of the city.",
+      "highlight": "Features modern soundproof rooms with LCD TVs, free Wi-Fi, and a delightful buffet breakfast in a prime Paris location.",
+      "price": "$134/night",
+      "location": "219 rue de Crimée",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2a1cb",
+      "name": "Hôtel Le 209 Paris Bercy",
+      "image": "https://static.cupid.travel/hotels/ex_b45fa5e8_z.jpg",
+      "description": "Experience luxury at Hôtel Le 209 Paris Bercy, where you can take advantage of a 24-hour fitness center, complimentary Wi-Fi, and dedicated concierge services. Dine at the snack bar or enjoy 24-hour room service, and relax with drinks in the bar/lounge. With a versatile conference space, dry cleaning services, and a welcoming 24-hour front desk, this hotel perfectly blends comfort and convenience in the heart of Paris.",
+      "highlight": "Offers a 24-hour fitness center, complimentary Wi-Fi, and dedicated concierge services in the heart of Paris.",
+      "price": "$139/night",
+      "location": "209/211 Rue De Charenton",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d471",
+      "name": "Hôtel Alane",
+      "image": "https://static.cupid.travel/hotels/28191003.jpg",
+      "description": "Hotel Alane offers a prime location just minutes from Gare de l'Est and Gare du Nord, making it easy to explore Paris' famous attractions and shopping areas. Guests can unwind in soundproofed rooms featuring modern amenities, including flat-screen TVs and complimentary WiFi. Start your day with a delightful continental breakfast, giving you the energy to discover nearby landmarks like the Opera Garnier and Pompidou Centre.",
+      "highlight": "Offers soundproofed rooms with modern amenities, complimentary WiFi, and a continental breakfast near Gare de l'Est and Gare du Nord.",
+      "price": "$110/night",
+      "location": "72 Boulevard De Magenta",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d031",
+      "name": "Hotel Bailli de Suffren",
+      "image": "https://static.cupid.travel/hotels/ex_w8183h5464x0y0-928eb85c_z.jpg",
+      "description": "Discover the enchanting atmosphere of Hotel Bailli de Suffren, perfectly situated in the heart of Paris. This stylish hotel features 25 modern guest rooms equipped with flat-screen TVs and complimentary Wi-Fi, alongside convenient amenities like concierge services and a cozy bar/lounge. Just a short walk from iconic sights such as the Eiffel Tower, this hotel offers an ideal base for exploring the city's rich culture and history.",
+      "highlight": "Features 25 modern guest rooms with flat-screen TVs, complimentary Wi-Fi, and a cozy bar/lounge in central Paris.",
+      "price": "$209/night",
+      "location": "149 Avenue De Suffren",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp32bc7",
+      "name": "Hôtel des Arts Montmartre",
+      "image": "https://static.cupid.travel/hotels/230012644.jpg",
+      "description": "Experience the charm of Montmartre at Hôtel des Arts, where luxurious amenities such as soundproofed rooms, air conditioning, and complimentary WiFi await. Indulge in a delightful buffet breakfast each morning before stepping out to explore nearby attractions like Sacré-Coeur Basilica and Moulin Rouge. With stunning views and a prime location just minutes from metro stations, your unforgettable Parisian getaway starts here.",
+      "highlight": "Offers soundproof rooms, a hammam, and complimentary WiFi, along with a prime location near Montmartre's attractions.",
+      "price": "$247/night",
+      "location": "5 Rue Tholoze",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-paris-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:44:59.008Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

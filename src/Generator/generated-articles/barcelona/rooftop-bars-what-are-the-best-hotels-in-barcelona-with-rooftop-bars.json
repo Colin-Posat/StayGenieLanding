@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "hotels in Barcelona with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Barcelona with rooftop bars",
+  "excerpt": "Finding hotels in Barcelona with rooftop bars can be a daunting task, as many places may not highlight these hidden gems in their descriptions. This list is invaluable for travelers seeking to enjoy stunning views of the city while sipping on a cocktail, offering a perfect blend of relaxation and ambiance after a day of exploration. With so many options available, this guide will help you pinpoint the best spots to unwind high above the bustling streets of Barcelona.",
+  "intro": "Discover the top hotels in Barcelona that not only provide luxurious accommodations but also feature breathtaking rooftop bars for the ultimate city experience.",
+  "hotels": [
+    {
+      "id": "lp4fac1",
+      "name": "Novotel Barcelona City",
+      "image": "https://static.cupid.travel/hotels/562800590.jpg",
+      "description": "Discover luxury at Novotel Barcelona City, where you can enjoy complimentary access to a fully equipped gym and a rooftop terrace featuring a seasonal outdoor pool with stunning views of the city. Our modern, air-conditioned rooms come with free Wi-Fi and flat-screen satellite TVs, making them perfect for families with up to two children under 16 staying free. Savor Mediterranean cuisine at our restaurant and unwind with cocktails at the rooftop bar, all while soaking in breathtaking panoramic vistas of Barcelona.",
+      "highlight": "Boasts a rooftop terrace with a seasonal outdoor pool and a bar offering stunning panoramic views of Barcelona.",
+      "price": "$431/night",
+      "location": "Avinguda Diagonal 201",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp357f1",
+      "name": "H10 Marina Barcelona",
+      "image": "https://static.cupid.travel/hotels/120101773.jpg",
+      "description": "The H10 Marina Hotel Barcelona combines luxury and relaxation with top-notch amenities including a gym, spa, and a stunning rooftop pool that offers breathtaking views of the city and sea. Guests can savor delectable dishes at the Dionissos restaurant or enjoy a cozy evening at Bar La Llum, complete with an extensive wine selection. With its proximity to Bogatell Beach and convenient transportation access, this hotel is the perfect choice for an unforgettable stay.",
+      "highlight": "Boasts a stunning rooftop garden and pool with breathtaking views, alongside a luxurious spa and dining options.",
+      "price": "$342/night",
+      "location": "Avenida Bogatell, 64-68",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2fbc9",
+      "name": "Hotel Barcelona Universal",
+      "image": "https://static.cupid.travel/hotels/47862607.jpg",
+      "description": "Barcelona Universal features a stunning rooftop pool that offers breathtaking views of the city, ideal for unwinding after a day of sightseeing. Situated near Parallel Metro Station and just a short walk from Las Ramblas, this hotel provides effortless access to Barcelona's main attractions. Start your day with a delicious buffet breakfast at Medea, which includes a variety of healthy options to fuel your adventures.",
+      "highlight": "Boasts a stunning rooftop pool with breathtaking city views and a convenient location near major attractions.",
+      "price": "$509/night",
+      "location": "Del Paral.lel, Del 76-78",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3593b",
+      "name": "Hotel Jazz",
+      "image": "https://static.cupid.travel/hotels/154424404.jpg",
+      "description": "Experience stylish accommodation at Hotel Jazz, located in the vibrant heart of Barcelona. Relax by the rooftop pool and terrace while enjoying breathtaking city views, and unwind in contemporary rooms featuring modern amenities like free Wi-Fi and flat-screen TVs. With Universitat Metro Station and iconic attractions like the Gothic Quarter just a short walk away, this hotel is the perfect starting point for your Barcelona adventures.",
+      "highlight": "Boasts a rooftop pool and terrace offering breathtaking city views, alongside contemporary rooms with free Wi-Fi.",
+      "price": "$448/night",
+      "location": "Pelayo 3",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp474d3",
+      "name": "Hotel Constanza",
+      "image": "https://static.cupid.travel/hotels/15443285.jpg",
+      "description": "Hotel Constanza offers a stunning rooftop terrace with magnificent views of Barcelona, perfect for relaxing from May to October. Conveniently located near Plaza Catalunya and the Gothic Quarter, the hotel provides easy access to iconic landmarks and metro stations. With 24-hour reception and on-site bicycle and car hire services, your Barcelona adventure is just a booking away.",
+      "highlight": "Hotel Constanza boasts a stunning rooftop terrace with magnificent views of Barcelona and easy access to iconic landmarks.",
+      "price": "$332/night",
+      "location": "Calle Bruc 33",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45087",
+      "name": "Hotel Lleó",
+      "image": "https://static.cupid.travel/hotels/33493041.jpg",
+      "description": "Hotel Lleó offers a delightful rooftop pool and sun terrace, providing a serene escape to enjoy the Barcelona sun. The elegantly designed, spacious rooms come with modern amenities, ensuring a comfortable stay. Ideally situated near Plaza Catalunya and Las Ramblas, guests can savor Mediterranean cuisine at the on-site restaurant or unwind with a drink at the lounge and snack bar.",
+      "highlight": "Hotel Lleó boasts a rooftop pool and sun terrace, alongside a rooftop garden for relaxation and scenic views.",
+      "price": "$351/night",
+      "location": "C/ Pelai, 22-24",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-barcelona-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:51:33.201Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

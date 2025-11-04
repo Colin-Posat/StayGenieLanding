@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "boutique hotels in Tokyo affordable and stylish",
+  "title": "Best boutique hotels in Tokyo: Amazing and affordable",
+  "excerpt": "Finding affordable boutique hotels in Tokyo can be quite a challenge, as the city is filled with options that often come with a hefty price tag. This curated list highlights stylish accommodations that not only fit your budget but also offer unique experiences and local charm. Discovering these hidden gems can elevate your trip, providing a blend of comfort and character that enhances your stay in this vibrant metropolis.",
+  "intro": "Explore the best boutique hotels in Tokyo that combine affordability with style, ensuring a memorable experience in this dynamic city.",
+  "hotels": [
+    {
+      "id": "lp77beb",
+      "name": "HOTEL LiVEMAX Nihonbashi Hakozaki",
+      "image": "https://static.cupid.travel/hotels/362032573.jpg",
+      "description": "Experience a blend of modern convenience and a cozy atmosphere at HOTEL LiVEMAX 日本橋箱崎, which has been welcoming guests since 2015. Located just a 3-minute walk from Suitengumae Subway Station, this hotel offers easy access to central Tokyo attractions and essential amenities in each room, including a fridge and microwave. With complimentary WiFi and additional services like laundry, your stay will be both comfortable and convenient.",
+      "highlight": "Offers cozy accommodations with modern amenities, including complimentary WiFi, private bathrooms, and convenient access to subway stations.",
+      "price": "$73/night",
+      "location": "29 Nihonbashihakozakicho Chuo-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp69d85",
+      "name": "Juyoh Hotel",
+      "image": "https://static.cupid.travel/hotels/366169796.jpg",
+      "description": "Juyoh Hotel offers a variety of private room options, including traditional Japanese-style and Western-style accommodations, ensuring comfort for every guest. Convenient amenities like a coin-operated laundrette and a shared kitchen with a microwave enhance your stay. Located just a short walk from Minami-Senju Subway Station, the hotel provides easy access to iconic attractions such as Senso-ji Temple and direct routes to Tsukiji and Ginza.",
+      "highlight": "Juyoh Hotel features private rooms in both Japanese and Western styles, a shared kitchen, and a tranquil Japanese garden.",
+      "price": "$53/night",
+      "location": "2-15-3 Kiyokawa, Taito-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp72531",
+      "name": "FLEXSTAY INN Shirogane",
+      "image": "https://static.cupid.travel/hotels/31389019.jpg",
+      "description": "Experience modern self-catering at Flexstay Inn Shirogane, where comfort meets convenience just minutes from Tokyo's iconic attractions. Each apartment features essential amenities including a kitchen and air conditioning, allowing for an independent stay. With easy access to major subway stations and thoughtful facilities like a coin-operated launderette, this hotel is perfect for hassle-free city exploration.",
+      "highlight": "Offers self-catering apartments with air conditioning and a coin-operated launderette, ensuring convenience and comfort in Tokyo.",
+      "price": "$65/night",
+      "location": "5-10-15, Shirogane, Minato-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50271",
+      "name": "Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki",
+      "image": "https://static.cupid.travel/hotels/164527493.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki features modern rooms equipped with complimentary WiFi, just steps away from Suitengumae Subway Station. Its prime location near Tokyo Sky Tree and easy access to major transportation hubs make it perfect for both exploring the city and catching flights. Enjoy on-site amenities like a coin-launderette and 24-hour front desk services, ensuring your stay is both comfortable and convenient.",
+      "highlight": "Hotel Villa Fontaine Tokyo-Nihombashi Hakozaki offers modern rooms with free WiFi and 24-hour front desk services, near Suitengumae Subway Station.",
+      "price": "$92/night",
+      "location": "20-10 Nihombashi Hakozaki-cho, Chuo-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50217",
+      "name": "Hotel Villa Fontaine Tokyo-Nihombashi Mitsukoshimae",
+      "image": "https://static.cupid.travel/hotels/165968667.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Nihombashi Mitsukoshimae offers a prime location just a short stroll from Mitsukoshi-mae Subway Station, making it easy to explore nearby attractions like Tsukiji Fish Market and Akihabara. Each room features a soothing natural color palette and comes equipped with modern amenities, including a flat-screen TV and a small fridge. Guests can unwind with in-room massage services, enjoy complimentary luggage storage, and benefit from convenient on-site facilities like a coin-operated launderette and parking options for a seamless stay.",
+      "highlight": "Offers modern rooms with soothing color palettes, in-room massage services, and convenient amenities like a coin-operated launderette.",
+      "price": "$98/night",
+      "location": "1-7-6 Nihonbashi Honcho",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp40261",
+      "name": "Comfort Hotel Tokyo Kanda",
+      "image": "https://static.cupid.travel/hotels/593717872.jpg",
+      "description": "Comfort Hotel Kanda is ideally situated just a short four-minute walk from JR Kanda Train Station, making it a fantastic base for exploring Tokyo. The hotel features comfortable, air-conditioned rooms equipped with modern amenities, ensuring a pleasant stay. Guests will appreciate the 24-hour front desk, complimentary breakfast buffet, and luggage storage services that contribute to a seamless experience in the vibrant city.",
+      "highlight": "Offers comfortable, air-conditioned rooms, a complimentary breakfast buffet, and a 24-hour front desk for seamless city exploration.",
+      "price": "$92/night",
+      "location": "11-2 Kanda Higashimatsushita-cho",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-tokyo-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:27:39.697Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "best dog friendly hotels in Miami",
+  "title": "What are the best dog-friendly hotels in Miami",
+  "excerpt": "Finding dog-friendly hotels in Miami can be a daunting task, as not all accommodations welcome our four-legged friends with open arms. This list is invaluable for pet owners seeking to ensure a comfortable and enjoyable stay for both themselves and their dogs. By highlighting the best options, we make it easier to plan a memorable getaway without having to compromise on comfort or convenience for your furry companion.",
+  "intro": "Discover the top dog-friendly hotels in Miami where both you and your pup can enjoy a fabulous stay together.",
+  "hotels": [
+    {
+      "id": "lp9a0d6",
+      "name": "Aloft Miami Airport",
+      "image": "https://static.cupid.travel/hotels/461638067.jpg",
+      "description": "Aloft Miami Airport features modern guestrooms equipped with free WiFi and flat-screen TVs, with select rooms offering a refreshing pool view. Guests can relax by the outdoor pool or enjoy a game of billiards at the bar, while an American breakfast is served daily to kickstart your day. With a 24-hour front desk and close proximity to Miami International Airport, this hotel provides convenience and comfort for every traveler.",
+      "highlight": "Aloft Miami Airport offers pet-friendly accommodations, an outdoor pool, and convenient access to Miami International Airport.",
+      "price": "$297/night",
+      "location": "7220 Northwest 36th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpbc022",
+      "name": "Staybridge Suites - Miami International Airport, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/251167161.jpg",
+      "description": "Staybridge Suites - Miami International Airport offers luxurious, air-conditioned rooms equipped with modern amenities, including kitchens and flat-screen TVs, ensuring a comfortable stay. Guests can enjoy a refreshing outdoor pool, a well-equipped fitness center, and convenient complimentary services like an airport shuttle and daily breakfast. With an onsite bar and evening receptions featuring light fare, this hotel provides ample opportunities for relaxation and socializing.",
+      "highlight": "Offers pet-friendly accommodations with an outdoor pool, BBQ area, and modern amenities like kitchens and flat-screen TVs.",
+      "price": "$187/night",
+      "location": "3651 NW 25th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp28489",
+      "name": "Extended Stay America Suites - Miami - Airport - Doral",
+      "image": "https://static.cupid.travel/hotels/297237677.jpg",
+      "description": "Extended Stay America - Miami - Airport - Doral is ideally situated just 15 minutes from Miami International Airport, offering convenient access to popular attractions like Miami International Mall. Each room features a kitchenette with essential amenities for a home-like experience, along with cable TV and a complimentary grab-and-go breakfast. Guests can enjoy exceptional services, including 24-hour reception and weekly housekeeping, ensuring a comfortable and hassle-free stay.",
+      "highlight": "Offers pet-friendly accommodations with family rooms, kitchenettes, and room food delivery services for a convenient stay.",
+      "price": "$249/night",
+      "location": "8720 Nw 33rd St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7780a",
+      "name": "Hyatt Place Miami Airport East",
+      "image": "https://static.cupid.travel/hotels/535389138.jpg",
+      "description": "Hyatt Place Miami Airport East offers stylish accommodations just 11 minutes from The Shops of Midtown Miami, featuring an inviting outdoor pool and a delightful on-site restaurant. Each room is equipped with a 42-inch flat-screen TV, granite countertop bathrooms, and cozy seating for ultimate relaxation. Ideal for both business and leisure travelers, the hotel also provides versatile meeting spaces and a well-equipped fitness center for your convenience.",
+      "highlight": "Hyatt Place Miami Airport East offers pet-friendly accommodations, a heated outdoor pool, and family rooms for a comfortable stay.",
+      "price": "$178/night",
+      "location": "3549 NW Le Jeune Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1efb3",
+      "name": "Trump National Doral Miami",
+      "image": "https://static.cupid.travel/hotels/ex_95f5dbda_z.jpg",
+      "description": "Experience a luxurious retreat at Trump National Doral Miami, where you can unwind at the full-service spa, play a round of golf, and relax in one of three outdoor pools. Savor exquisite dining at BLT Prime or enjoy cocktails by the pool, all complemented by elegant guestrooms featuring modern amenities. With convenient access to local attractions like Dolphin Mall and Frost Art Museum, this hotel promises both comfort and excitement for every guest.",
+      "highlight": "Offers dog-friendly accommodations alongside a full-service spa and a golf range for a luxurious stay.",
+      "price": "$582/night",
+      "location": "4400 N.W. 87th Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19e21",
+      "name": "Hyatt Regency Miami",
+      "image": "https://static.cupid.travel/hotels/199181767.jpg",
+      "description": "Experience breathtaking views of Biscayne Bay at the Hyatt Regency Miami, ideally located near top attractions like the Miami Convention Center and the Port of Miami. Enjoy luxurious amenities including a heated outdoor pool, a fitness center, and comfortable rooms featuring flat-screen TVs. Savor delicious Latin cuisine at the Riverview Bar and Grill, all while benefiting from conveniences like free WiFi and easy access to the vibrant city.",
+      "highlight": "Offers pet-friendly accommodations along with a heated outdoor pool and on-site dining at Riverview Bar and Grill.",
+      "price": "$775/night",
+      "location": "400 Se 2nd Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-miami",
+  "generatedAt": "2025-11-04T02:20:52.867Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

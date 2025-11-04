@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "best hotels in Tokyo for women travelers",
+  "title": "Best hotels in Tokyo for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding hotels in Tokyo that cater specifically to women travelers can be challenging, given the vast array of options available. This curated list highlights accommodations that prioritize safety, cleanliness, and exceptional amenities, ensuring a comfortable and enjoyable stay. It serves as a valuable guide for those seeking peace of mind while exploring this vibrant city.",
+  "intro": "Discover the best hotels in Tokyo that provide a welcoming and secure environment for women travelers, complete with top-notch amenities.",
+  "hotels": [
+    {
+      "id": "lp54a0b",
+      "name": "remm Hibiya",
+      "image": "https://static.cupid.travel/hotels/48572601.jpg",
+      "description": "Experience a modern retreat at Remm Hibiya, just five minutes from JR Yurakucho Train Station. Each room features a luxurious in-room massage chair and a flat-screen TV with a VOD system, ensuring your relaxation is a priority. Enjoy complimentary breakfast with Japanese and Western options, as well as convenient amenities like free Wi-Fi and 24/7 laundry services, all while being steps away from iconic attractions like the Imperial Palace.",
+      "highlight": "Offers luxurious in-room massage chairs, complimentary breakfast, and 24/7 laundry services in a safe, central location.",
+      "price": "$283/night",
+      "location": "1-2-1 Yuraku-cho Chiyoda-ku",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp50272",
+      "name": "Hotel Villa Fontaine Tokyo-Jimbocho",
+      "image": "https://static.cupid.travel/hotels/85560954.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Jimbocho offers a prime location just a two-minute walk from Jimbocho Subway Station, making it easy to explore nearby attractions like Tokyo Dome and Nihon Budokan. The rooms, adorned in soothing natural tones, come equipped with free wired internet, flat-screen TVs, and en suite bathrooms with complimentary toiletries. Guests can also take advantage of convenient amenities such as free WiFi, a coin-operated launderette, laptop rentals, and complimentary luggage storage for a hassle-free stay.",
+      "highlight": "Offers a central location with free WiFi, luggage storage, and a coin-operated launderette for a comfortable and convenient stay.",
+      "price": "$176/night",
+      "location": "1-30 Jimbou-cho, Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50320",
+      "name": "Hotel Villa Fontaine Grand Tokyo-Shiodome",
+      "image": "https://static.cupid.travel/hotels/240106982.jpg",
+      "description": "Hotel Villa Fontaine Grand Tokyo-Shiodome features modern rooms equipped with flat-screen TVs and free WiFi, along with en suite bathrooms that include bathtubs and complimentary toiletries. Guests can take advantage of the business center, 24-hour front desk services, and on-site coin-launderette for added convenience. Ideally located near major train stations and attractions like Hamarikyu Garden, this hotel offers easy access to Tokyo's highlights and is just a short monorail ride from Haneda International Airport.",
+      "highlight": "Hotel Villa Fontaine Grand Tokyo-Shiodome boasts modern rooms with complimentary toiletries, free WiFi, and a convenient on-site coin-launderette.",
+      "price": "$209/night",
+      "location": "1-9-2 Higashi-shinbashi, Minato-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp394d6",
+      "name": "Mandarin Oriental, Tokyo",
+      "image": "https://static.cupid.travel/hotels/565155779.jpg",
+      "description": "Experience the epitome of luxury at Mandarin Oriental, Tokyo, featuring spacious rooms with breathtaking city views and a design that celebrates Japanese aesthetics. Indulge in ultimate relaxation at the award-winning spa on the 37th floor, or maintain your fitness routine with stunning views in the gym above. Savor culinary excellence with Michelin-starred dining options and unwind at the Mandarin Bar with a cocktail overlooking the vibrant skyline.",
+      "highlight": "Offers spacious rooms with city views, an award-winning spa, and Michelin-starred dining for a luxurious stay in Tokyo.",
+      "price": "$1081/night",
+      "location": "2-1-1 Nihonbashi Muromachi",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp9c35b",
+      "name": "Anshin oyado woman Tokyo Ginza shiodome",
+      "image": "https://static.cupid.travel/hotels/85293161.jpg",
+      "description": "Experience a modern capsule stay at Anshin Oyado Tokyo Shinbashi Shiodometen, located just 1.1 km from the iconic Tokyo Tower. Enjoy 24-hour front desk service, complimentary amenities like miso soup, green tea, and soft drinks, along with free internet access and a relaxing public bath. With its prime location near key attractions and only 12 km from Tokyo Haneda International Airport, this hotel offers a unique blend of comfort and convenience for your Tokyo adventure.",
+      "highlight": "Offers modern capsule accommodations with 24-hour front desk service, complimentary drinks, and a relaxing public bath.",
+      "price": "$114/night",
+      "location": "2-7-8, Higashi-Shinbashi",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp357ee",
+      "name": "Daiichi Hotel Tokyo",
+      "image": "https://static.cupid.travel/hotels/ex_da67f2d1_z.jpg",
+      "description": "Discover the ultimate luxury at Daiichi Hotel Tokyo, where relaxation meets vibrant city life. Enjoy indulgent amenities such as soothing massages, a state-of-the-art fitness center, and a variety of exquisite dining options, including the acclaimed French restaurant, ENCHANT. Retreat to one of our 278 elegantly designed guestrooms, complete with modern comforts and luxurious bathrooms, ensuring a memorable stay in the heart of Tokyo.",
+      "highlight": "Offers 278 elegantly designed guestrooms, a state-of-the-art fitness center, and a dedicated concierge service for enhanced convenience.",
+      "price": "$225/night",
+      "location": "1-2-6 Shimbashi, Minato",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-tokyo-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T01:31:15.144Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "hotels in London under 100 dollars and clean",
+  "title": "What are the best hotels in London under $100 and clean",
+  "excerpt": "Finding affordable hotels in London that are also clean can feel like searching for a needle in a haystack. With so many options available, it is crucial to sift through them to discover the gems that offer both comfort and value. This list will guide you to some of the best budget-friendly accommodations that don’t compromise on cleanliness, ensuring you have a pleasant stay without breaking the bank.",
+  "intro": "Discover the best hotels in London that are both clean and budget-friendly, all under $100 per night.",
+  "hotels": [
+    {
+      "id": "lp39df0",
+      "name": "Gresham Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_3d594dac_z.jpg",
+      "description": "Discover comfort and convenience at Gresham Hotel, located in the vibrant heart of London. Enjoy 56 modern guestrooms with 24-hour front desk service and start your day with a complimentary breakfast that energizes your adventures. With prime access to Hyde Park, Kensington Gardens, and renowned shopping destinations, your perfect London getaway awaits.",
+      "highlight": "Offers 56 modern guestrooms, complimentary breakfast, and 24-hour front desk service in central London.",
+      "price": "$95/night",
+      "location": "116 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp74e68",
+      "name": "Charlotte Guest House",
+      "image": "https://static.cupid.travel/hotels/476978365.jpg",
+      "description": "Charlotte Guest House offers charming accommodations in a tranquil residential area, just a short walk from West Hampstead transport links for quick access to central London in 20 minutes. Guests can enjoy comfortable rooms with TV and tea/coffee facilities, as well as options for en-suite or shared bathrooms. With excellent bus connectivity to iconic landmarks and major airports, this guest house ensures a convenient and enjoyable stay in the heart of the city.",
+      "highlight": "Offers comfortable rooms with TV, tea/coffee facilities, and both en-suite and shared bathroom options in a tranquil area.",
+      "price": "$97/night",
+      "location": "195 - 197 Sumatra Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp51d1c",
+      "name": "Elmwood Hotel",
+      "image": "https://static.cupid.travel/hotels/15541920.jpg",
+      "description": "The Elmwood Hotel offers a budget-friendly escape in the heart of London, just minutes from King's Cross and St Pancras International stations. With 35 newly decorated en suite rooms that provide a cozy retreat, guests can enjoy complimentary high-speed Wi-Fi and a delicious breakfast featuring a variety of hearty options. Perfectly situated for exploring iconic attractions like the British Museum and Covent Garden, The Elmwood Hotel promises a memorable stay.",
+      "highlight": "Offers 35 newly decorated en suite rooms, complimentary high-speed Wi-Fi, and a hearty breakfast in central London.",
+      "price": "$81/night",
+      "location": "19 Argyle Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7310e",
+      "name": "United Lodge Hotel",
+      "image": "https://static.cupid.travel/hotels/618844260.jpg",
+      "description": "Experience the heart of London at The ULH, conveniently located near Wood Green Metro Station and popular attractions like Tottenham Hale and Emirates Stadium. Enjoy modern comforts such as allergy-free rooms, free WiFi, and a shared lounge, with accommodations featuring flat-screen TVs and kitchenettes for added convenience. Discover vibrant nearby spots like Camden Market and iconic King's Cross Station during your stay for an unforgettable London adventure.",
+      "highlight": "Offers modern amenities including allergy-free rooms, free WiFi, flat-screen TVs, and kitchenettes near Wood Green Metro Station.",
+      "price": "$79/night",
+      "location": "368-370 Green Lanes",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6c58c",
+      "name": "OYO London Guest House",
+      "image": "https://static.cupid.travel/hotels/210768395.jpg",
+      "description": "OYO London Guest House boasts a prime location in Acton, just a short stroll from North Acton Underground Station, making it easy to navigate the city. The bright and airy rooms are equipped with Wi-Fi, tea and coffee facilities, and modern private bathrooms, ensuring a comfortable stay. With major attractions like Wembley Stadium and Westfield Shopping Centre nearby, it's an ideal base for experiencing the best of London.",
+      "highlight": "OYO London Guest House provides clean rooms, family accommodations, and convenient access to North Acton Underground Station.",
+      "price": "$83/night",
+      "location": "167 Horn Lane",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4b29b",
+      "name": "Chiswick Lodge Hotel",
+      "image": "https://static.cupid.travel/hotels/228479616.jpg",
+      "description": "Chiswick Lodge Hotel offers a prime location next to Turnham Green Tube Station, ensuring easy access to Central London and Heathrow Airport in just 20 minutes. Guests can enjoy the vibrant local scene, with award-winning restaurants and charming cafés right at their doorstep. The cozy, clean rooms provide a comfortable retreat, and nearby attractions like Kew Gardens and Chiswick House are perfect for exploration.",
+      "highlight": "Offers cozy, clean rooms with private bathrooms, Wi-Fi, and easy access to Central London via the nearby Turnham Green Tube Station.",
+      "price": "$74/night",
+      "location": "104 Turnham Green Terrace",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-london-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:33:06.509Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

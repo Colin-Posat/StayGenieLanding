@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "best dog friendly hotels in Singapore",
+  "title": "What are the best dog-friendly hotels in Singapore",
+  "excerpt": "Finding dog-friendly hotels in Singapore can be quite a challenge, as not all accommodations welcome furry companions. This curated list showcases hotels that not only allow dogs but also provide special amenities and services to ensure both you and your pet have a memorable stay. With the right options at your fingertips, you can enjoy a stress-free getaway with your beloved canine by your side.",
+  "intro": "Discover the best dog-friendly hotels in Singapore that cater to both you and your four-legged friend, ensuring a delightful travel experience.",
+  "hotels": [
+    {
+      "id": "lp1f3d6",
+      "name": "Sofitel Singapore Sentosa Resort & Spa",
+      "image": "https://static.cupid.travel/hotels/561710351.jpg",
+      "description": "Discover unparalleled luxury at the Sofitel Singapore Sentosa Resort & Spa, where 211 elegantly designed rooms and four lavish villas await amidst tropical woodlands. Indulge in rejuvenating treatments at the largest Sofitel SPA in the world and delight in exquisite dining experiences across three restaurants, all set against a backdrop of lush greenery. With versatile event spaces including 12 meeting rooms and two grand ballrooms, this resort is perfect for both unforgettable getaways and memorable gatherings.",
+      "highlight": "Offers pet-friendly accommodations, a luxurious spa, multiple dining options, and outdoor spaces amidst lush tropical surroundings.",
+      "price": "$324/night",
+      "location": "2 Bukit Manis Road Sentosa Island",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4b708",
+      "name": "Capella Singapore",
+      "image": "https://static.cupid.travel/hotels/618565008.jpg",
+      "description": "Experience a luxurious getaway at Capella Hotel, Singapore, located in the serene rainforests of Sentosa Island. Guests can unwind by choosing from three outdoor pools, indulge in an award-winning spa, and enjoy complimentary refreshments and newspaper delivery. With stunning views, easy access to attractions like Universal Studios, and convenient proximity to Changi International Airport, this hotel promises an unforgettable escape.",
+      "highlight": "Capella Singapore offers pet-friendly accommodations, three outdoor pools, and an award-winning spa set in lush rainforests.",
+      "price": "$1093/night",
+      "location": "1 The Knolls, Sentosa Island",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp656db2d5",
+      "name": "Conrad Singapore Orchard",
+      "image": "https://static.cupid.travel/hotels/560049963.jpg",
+      "description": "Experience the height of luxury at Conrad Singapore Orchard, just steps from the vibrant Orchard Road shopping district. Delight in a diverse culinary adventure with ten exquisite dining options, from Italian specialties at Basilico to authentic Japanese and Korean dishes. Enjoy top-notch amenities including free WiFi, a 24-hour fitness center, and convenient services to ensure a seamless stay.",
+      "highlight": "Offers pet-friendly accommodations alongside free WiFi and a 24-hour fitness center near Orchard Road's shopping district.",
+      "price": "$431/night",
+      "location": "1 Cuscaden Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19c06",
+      "name": "Shangri-La Singapore",
+      "image": "https://static.cupid.travel/hotels/176487374.jpg",
+      "description": "Discover the luxurious Shangri-La Singapore, nestled within lush tropical gardens and just moments from Orchard Road. Indulge in rejuvenating treatments at Chi, The Spa, or stay active in the well-equipped fitness center. Savor an array of dining experiences, from award-winning Cantonese cuisine to authentic Southern Italian dishes, ensuring a memorable getaway for the whole family.",
+      "highlight": "Offers family rooms and private check-in/out, along with lush gardens for dog-friendly relaxation.",
+      "price": "$611/night",
+      "location": "22 Orange Grove Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp73e7b",
+      "name": "JEN Singapore Orchardgateway by Shangri-La",
+      "image": "https://static.cupid.travel/hotels/35254156.jpg",
+      "description": "Experience stunning panoramic city views from the rooftop infinity pool at JEN Singapore Orchardgateway by Shangri-La. Nestled in the vibrant heart of Orchard Road, this hotel offers easy access to public transport, shopping, and entertainment. Enjoy modern amenities including free WiFi, air-conditioned rooms, and a fully equipped fitness center for a comfortable stay.",
+      "highlight": "Offers dog-friendly rooms alongside a rooftop infinity pool and modern amenities like free WiFi and a fitness center.",
+      "price": "$346/night",
+      "location": "277 Orchard Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp23603",
+      "name": "Hilton Singapore Orchard",
+      "image": "https://static.cupid.travel/hotels/498851467.jpg",
+      "description": "Discover a blend of luxury and sustainability at Hilton Singapore Orchard, featuring 1,080 beautifully designed rooms inspired by nature. Savor exquisite dining experiences at our all-day restaurant and renowned venues like Shisen Hanten and Osteria Mozza. With over 26,000 square feet of adaptable event space, including two pillarless ballrooms, this hotel is the perfect backdrop for both celebrations and business meetings in Singapore's bustling shopping district.",
+      "highlight": "Offers pet-friendly rooms with outdoor furniture and a refreshing lap pool for a comfortable stay with your dog.",
+      "price": "$348/night",
+      "location": "333 Orchard Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-singapore",
+  "generatedAt": "2025-11-04T01:15:59.675Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "affordable clean hotels in London with breakfast included",
+  "title": "What are the affordable, clean hotels in London with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in London that offer breakfast can be a daunting task, especially in a city known for its high prices and diverse options. This curated list is valuable because it narrows down your choices to establishments that not only fit your budget but also ensure a pleasant stay with a hearty meal to start your day. With this guide, you can explore London without breaking the bank while enjoying the comforts of a well-reviewed hotel.",
+  "intro": "Discover the best budget-friendly hotels in London that offer cleanliness and complimentary breakfasts, making your stay both enjoyable and economical.",
+  "hotels": [
+    {
+      "id": "lp534d5",
+      "name": "Dolphin Hotel",
+      "image": "https://static.cupid.travel/hotels/492214844.jpg",
+      "description": "Dolphin Hotel, located just 200 meters from Paddington Tube Station, offers guests easy access to transportation and local attractions. Each room is equipped with a private bathroom, tea and coffee facilities, and a fridge for added convenience. Guests can enjoy a complimentary breakfast in a bright dining area, along with 24-hour access to hot beverages and soft drinks, making it a perfect choice for a comfortable and convenient stay.",
+      "highlight": "Offers complimentary breakfast, private bathrooms, and convenient access to Paddington Tube Station.",
+      "price": "$97/night",
+      "location": "32-34 Norfolk Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp39df0",
+      "name": "Gresham Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_3d594dac_z.jpg",
+      "description": "Discover comfort and convenience at the Gresham Hotel, ideally located in central London. Enjoy modern amenities in our 56 well-appointed rooms and start your day with a complimentary breakfast before exploring nearby attractions like Hyde Park and Oxford Street. With 24-hour front desk service and easy access to iconic sites, your perfect London getaway awaits.",
+      "highlight": "Offers complimentary breakfast, free Wi-Fi, and 24-hour front desk service in central London.",
+      "price": "$95/night",
+      "location": "116 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp54a50",
+      "name": "The Harrison",
+      "image": "https://static.cupid.travel/hotels/ex_05e65130_z.jpg",
+      "description": "Experience the charm of The Harrison, where complimentary Wi-Fi and multilingual staff ensure a seamless stay. Savor delicious meals at the on-site restaurant and start your day with a free breakfast before exploring nearby attractions like The British Museum and St. Paul's Cathedral, all just a short walk away. Book now to elevate your London adventure!",
+      "highlight": "Offers free breakfast, complimentary Wi-Fi, and an on-site restaurant, all within walking distance of major attractions.",
+      "price": "$256/night",
+      "location": "28 Harrison Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2a0d6",
+      "name": "St Martins Lane London",
+      "image": "https://static.cupid.travel/hotels/376349813.jpg",
+      "description": "Experience the innovative design of St Martins Lane London, where Philippe Starck's artistic touch enhances stylish rooms with floor-to-ceiling windows and captivating light installations. Guests can enjoy complimentary gym access, laundry services for workout gear, and free bicycle rentals for exploring the city. Delight in a variety of dining options, from All-Day Dining at The Den to creative cocktails at Blind Spot London, all while being just moments away from London's top attractions.",
+      "highlight": "Offers stylish rooms with floor-to-ceiling windows, complimentary breakfast, and access to diverse dining options.",
+      "price": "$346/night",
+      "location": "45 St Martin's Lane",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp327e4",
+      "name": "Holiday Inn Express London Stratford, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/362104561.jpg",
+      "description": "Experience the ideal combination of comfort and convenience at Holiday Inn Express London Stratford, perfectly situated near the Olympic Stadium and Westfield Stratford City. Enjoy bright, airy rooms with air conditioning, complimentary WiFi, and entertainment options that include flat-screen TVs. Savor traditional British dishes and hearty breakfasts at The Great Room Restaurant, or relax with international wines and fresh coffee at the bar while watching your favorite shows.",
+      "highlight": "Offers complimentary breakfast, bright air-conditioned rooms, and a restaurant serving traditional British dishes near Olympic Stadium.",
+      "price": "$118/night",
+      "location": "196 High Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41f59",
+      "name": "King Solomon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_fb0d967a_z.jpg",
+      "description": "Discover the King Solomon Hotel, a charming retreat in Golders Green, London, where modern comfort meets exceptional convenience. With complimentary Wi-Fi, a 24-hour front desk, and an inviting café and bar, you can unwind effortlessly. Enjoy well-appointed rooms equipped with LCD TVs and coffee makers, providing a restful sanctuary after exploring the city's iconic attractions.",
+      "highlight": "Offers well-appointed rooms, complimentary Wi-Fi, and a café, with a breakfast option available for guests.",
+      "price": "$80/night",
+      "location": "155-159 Golders Green Road",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-london-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:54:01.384Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

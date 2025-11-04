@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "hotels for families with kids in London",
+  "title": "Amazing hotels for families with kids in London",
+  "excerpt": "Finding the perfect hotel for families with kids in London can be a daunting task, as not all accommodations cater to the unique needs of families. This list stands out by highlighting hotels that offer family-friendly amenities, spacious rooms, and convenient locations, ensuring a stress-free stay in the bustling city. By focusing on these options, parents can relax and enjoy their adventure without worrying about their children's comfort and entertainment.",
+  "intro": "Discover the best hotels in London that cater specifically to families, making your trip enjoyable and hassle-free.",
+  "hotels": [
+    {
+      "id": "lp2fa49",
+      "name": "The Trafalgar St. James, London Curio collection by Hilton",
+      "image": "https://static.cupid.travel/hotels/499912315.jpg",
+      "description": "Stay in the heart of London at The Trafalgar St. James, where historic charm meets Art Deco elegance in 131 uniquely designed rooms and luxurious suites. Just a short walk from key attractions like Leicester Square and Piccadilly Circus, this hotel offers a prime location for exploration. Enjoy a variety of dining venues tailored for every occasion, ensuring a delightful experience throughout your stay.",
+      "highlight": "Offers family rooms, kids meals, and a gym, all within walking distance of major London attractions.",
+      "price": "$409/night",
+      "location": "2 Spring Gardens",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp23128",
+      "name": "Novotel London Waterloo",
+      "image": "https://static.cupid.travel/hotels/251757395.jpg",
+      "description": "Novotel London Waterloo offers luxurious and spacious air-conditioned rooms featuring queen-size beds and breathtaking views of the London skyline. Guests can savor international cuisine at Elements Restaurant or enjoy a drink at the lively Elements Bar, open until 1:00 AM, with 24-hour room service for added convenience. Families will appreciate the complimentary amenities for children under 16, including Xbox consoles, as well as access to the wellness center complete with a sauna and steam room.",
+      "highlight": "Offers spacious rooms with skyline views, complimentary amenities for kids, and access to a wellness center with sauna.",
+      "price": "$280/night",
+      "location": "113 Lambeth Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp49047",
+      "name": "Chester Hotel",
+      "image": "https://static.cupid.travel/hotels/68229847.jpg",
+      "description": "The Chester Hotel is a delightful Georgian townhouse located just a three-minute stroll from Victoria Station, offering easy access to Buckingham Palace and superb transport connections. Guests can unwind in comfortable en-suite rooms featuring modern amenities like free high-speed WiFi and digital TV, along with perks such as daily room service and complimentary weekend parking. Explore the lively neighborhood filled with shops, pubs, and restaurants, and enjoy nearby attractions like the Victoria Palace Shopping Centre and Westminster Cathedral for an unforgettable London experience.",
+      "highlight": "Offers family rooms, outdoor play areas for kids, and board games to enhance your family's stay in London.",
+      "price": "$83/night",
+      "location": "27-29 Longmoore Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3c218",
+      "name": "Clayton Hotel Chiswick",
+      "image": "https://static.cupid.travel/hotels/70315026.jpg",
+      "description": "Discover modern luxury at Clayton Hotel Chiswick, featuring air-conditioned rooms with flat-screen TVs and stylish bathrooms for your comfort. Savor exquisite dining at the Grill Restaurant and Globe Bar, where vibrant settings enhance your culinary experience. Stay active with a fully-equipped gym and scenic jogging paths along the Thames, all while enjoying complimentary Wi-Fi and 24-hour room service, making your stay truly memorable.",
+      "highlight": "Offers family rooms, kids meals, a fitness center, and scenic jogging paths along the Thames for an enjoyable stay.",
+      "price": "$161/night",
+      "location": "626 Chiswick High Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1eba0",
+      "name": "Americana Hotel",
+      "image": "https://static.cupid.travel/hotels/59737904.jpg",
+      "description": "The Americana Hotel offers a prime location just a short stroll from Regent's Park and Baker Street Tube Station, making it an ideal choice for sightseeing in London. Guests will enjoy modern en suite rooms featuring multi-channel TVs and free Wi-Fi, along with access to a cozy lounge area serving complimentary coffee, hot chocolate, and tea throughout the day. With attractions like Lords Cricket Ground and Madame Tussauds within walking distance, plus bike rentals available nearby, exploring the city has never been easier.",
+      "highlight": "Offers family rooms, a tour desk, and a shared lounge with complimentary beverages for a comfortable stay in London.",
+      "price": "$159/night",
+      "location": "172 Gloucester Place",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45d3e",
+      "name": "KingswayPark Hotel at Park Avenue",
+      "image": "https://static.cupid.travel/hotels/7844686.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at our hotel, located just a three-minute stroll from Paddington Station. Our modern rooms, refurbished in 2014, offer free WiFi, Sky TV, and private bathrooms, ensuring a relaxing stay. With Hyde Park and iconic attractions like Marble Arch and Oxford Street nearby, you can easily explore the best of London during your visit.",
+      "highlight": "Offers family rooms, free WiFi, and easy access to Hyde Park and major attractions for an enjoyable stay.",
+      "price": "$171/night",
+      "location": "139 Sussex Gardens",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-london",
+  "generatedAt": "2025-11-04T02:14:55.585Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

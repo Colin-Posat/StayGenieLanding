@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "best hotels in New York for weddings luxury and affordable",
+  "title": "Best hotels in New York for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding can be a daunting task, especially in a city as vibrant and diverse as New York. This list highlights luxurious yet affordable options that make it easier for couples to celebrate their special day without breaking the bank. By showcasing these hotels, we aim to simplify your search and help you create unforgettable memories in a stunning setting.",
+  "intro": "Discover a curated selection of New York's best hotels that combine elegance and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp4780b",
+      "name": "OYO Times Square",
+      "image": "https://static.cupid.travel/hotels/454416244.jpg",
+      "description": "Experience a modern retreat in the heart of Manhattan at OYO Times Square, just steps from iconic attractions like Times Square and Central Park. Enjoy a delightful dining experience at The Gramercy, where you can savor exquisite steak and seafood in a stylish atmosphere. Relax in well-appointed rooms featuring contemporary artwork, flat-screen TVs, and luxurious feather beds, perfect for unwinding after a day in the city.",
+      "highlight": "OYO Times Square offers well-appointed rooms with luxurious feather beds and a stylish restaurant serving exquisite steak and seafood.",
+      "price": "$95/night",
+      "location": "157 West 47th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6585c",
+      "name": "Pod 39",
+      "image": "https://static.cupid.travel/hotels/52735814.jpg",
+      "description": "Pod 39 Hotel is ideally situated just a short walk from Grand Central Terminal, making it a perfect base for exploring iconic attractions like Times Square and Rockefeller Center. Guests can savor tasty bar snacks and tacos at Empellón, enjoy cocktails at the Rooftop Lounge, or relax in the inviting Lobby Lounge. With a game room and a seasonal rooftop bar offering stunning city views, Pod 39 Hotel ensures a delightful blend of entertainment and relaxation during your Manhattan getaway.",
+      "highlight": "Pod 39 offers a seasonal rooftop bar with stunning city views, a game room, and inviting lounges for relaxation.",
+      "price": "$101/night",
+      "location": "145 East 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp84012",
+      "name": "Orchard Street Hotel",
+      "image": "https://static.cupid.travel/hotels/407341027.jpg",
+      "description": "Nestled in the vibrant Lower East Side of Manhattan, the Orchard Street Hotel offers guests easy access to a variety of restaurants and shopping venues. Enjoy stunning city views from the rooftop lounge, while luxurious rooms feature elegant walnut furnishings and modern amenities like wall-mounted HD TVs. With daily housekeeping, a 24-hour business center, and complimentary WiFi, this hotel is perfect for both leisure and business travelers looking to explore nearby attractions like Little Italy.",
+      "highlight": "Offers luxurious rooms with elegant furnishings, stunning city views, and convenient access to dining and shopping in Manhattan.",
+      "price": "$129/night",
+      "location": "163 Orchard Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp110e37",
+      "name": "Staypineapple, An Artful Hotel, Midtown New York",
+      "image": "https://static.cupid.travel/hotels/204960134.jpg",
+      "description": "Staypineapple, An Artful Hotel, is perfectly situated in the heart of New York, offering easy access to iconic attractions like Penn Station and the Empire State Building. Guests can unwind in comfortable, air-conditioned rooms equipped with modern amenities, while enjoying convenient services such as complimentary WiFi and bike rentals. With a dedicated 24-hour front desk and a friendly staff fluent in English and Spanish, this non-smoking hotel ensures a delightful and memorable stay in the vibrant city.",
+      "highlight": "Offers comfortable, air-conditioned rooms with modern amenities, complimentary WiFi, and convenient bike rentals in Midtown New York.",
+      "price": "$127/night",
+      "location": "337 W 36th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp24b86",
+      "name": "Night Hotel Broadway",
+      "image": "https://static.cupid.travel/hotels/288204692.jpg",
+      "description": "Nestled in the vibrant Upper West Side of Manhattan, our hotel is just a short walk from Central Park and key attractions like Lincoln Center and Times Square. Guests can enjoy a range of convenient amenities, including an on-site fitness room, free WiFi, and a full-service business center, ensuring a comfortable and productive stay. Each room is designed for relaxation, featuring cable TV, a coffee maker, and a cozy ambiance that invites restful nights.",
+      "highlight": "Boasts family rooms, E-bike charging, and private check-in/out for a luxurious yet affordable wedding experience in Manhattan.",
+      "price": "$123/night",
+      "location": "215 W 94th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp70e33",
+      "name": "West Side YMCA",
+      "image": "https://static.cupid.travel/hotels/204079324.jpg",
+      "description": "Experience the ideal blend of convenience and comfort at West Side YMCA, located just 50 meters from Central Park on Manhattan's Upper West Side. Enjoy access to a state-of-the-art 65,000 square-foot fitness center featuring two indoor pools and complimentary group exercise classes, all while being steps away from cultural hotspots like Lincoln Center and the American Museum of Natural History. Book your stay now to immerse yourself in the vibrant energy of New York City.",
+      "highlight": "Offers spacious family rooms, a sauna, and access to two indoor pools within a vibrant cultural setting.",
+      "price": "$111/night",
+      "location": "5 West 63rd Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-new-york-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:54:51.104Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

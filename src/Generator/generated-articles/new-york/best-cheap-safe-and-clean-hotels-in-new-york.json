@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "cheap safe clean hotels in New York",
+  "title": "Best cheap, safe, and clean hotels in New York",
+  "excerpt": "Navigating the bustling streets of New York City in search of budget-friendly accommodations can be overwhelming, especially with the myriad of options available. This list is invaluable because it highlights hotels that not only fit your budget but also prioritize safety and cleanliness, ensuring a comfortable stay in the heart of the city. With these recommendations, travelers can enjoy all that New York has to offer without breaking the bank or sacrificing peace of mind.",
+  "intro": "Discover the best cheap, safe, and clean hotels in New York that make your city adventure both affordable and enjoyable.",
+  "hotels": [
+    {
+      "id": "lp4780b",
+      "name": "OYO Times Square",
+      "image": "https://static.cupid.travel/hotels/454416244.jpg",
+      "description": "Experience a modern retreat in the heart of Manhattan at OYO Times Square, conveniently located just steps from iconic attractions like Times Square and Central Park. Enjoy a delightful dining experience at The Gramercy, the hotel's chic onsite restaurant offering a menu of steakhouse favorites and exquisite seafood. Relax in stylishly appointed rooms featuring fresh artwork, flat-screen TVs, and plush feather beds, making your stay both comfortable and memorable.",
+      "highlight": "Boasts clean family rooms, a chic onsite restaurant, and a prime location near Times Square and Central Park.",
+      "price": "$95/night",
+      "location": "157 West 47th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2266f",
+      "name": "Doxie Hotel",
+      "image": "https://static.cupid.travel/hotels/223783060.jpg",
+      "description": "Doxie Hotel offers a prime location just a short stroll from 34th Street-Penn Station and the Port Authority Bus Terminal, making it an ideal choice for travelers seeking easy transportation access. Guests can unwind in modern rooms featuring flat-screen TVs, complimentary WiFi, and a business center for staying connected. With major attractions like Madison Square Garden, Times Square, and the Empire State Building nearby, Doxie Hotel is the perfect base for exploring the vibrant sights of New York City.",
+      "highlight": "Doxie Hotel provides clean, family-friendly rooms with modern amenities, and is conveniently located near major transportation hubs and attractions.",
+      "price": "$137/night",
+      "location": "273 W 38th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65d13",
+      "name": "Hotel Richland LES",
+      "image": "https://static.cupid.travel/hotels/398713529.jpg",
+      "description": "Experience luxury at Hotel Richland, situated just 805 meters from the vibrant Little Italy. The elegantly furnished rooms feature modern amenities, including a TV and private bathroom, while practical touches like wall-hooks enhance your stay. With easy access to transportation and nearby attractions such as Brooklyn Bridge and Wall Street, this hotel is the perfect base for exploring the best of New York City.",
+      "highlight": "Boasts elegantly furnished rooms with modern amenities, including Wi-Fi and private bathrooms, just minutes from popular attractions.",
+      "price": "$125/night",
+      "location": "5 Allen St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb5622",
+      "name": "Pod Times Square",
+      "image": "https://static.cupid.travel/hotels/ex_fd79e6d9_z.jpg",
+      "description": "Discover the vibrant energy of New York City at Pod Times Square, where modern comfort meets an unbeatable location. Indulge in exceptional dining at Serafina in the Sky, offering stunning views alongside exquisite meals, and unwind in contemporary guestrooms equipped with flat-screen TVs and luxurious rainfall showerheads. With iconic attractions like Times Square and Broadway just a short stroll away, plus 24-hour concierge services, your stay promises both convenience and excitement.",
+      "highlight": "Offers contemporary guestrooms with flat-screen TVs, luxurious rainfall showerheads, and 24-hour concierge services in a prime location.",
+      "price": "$128/night",
+      "location": "400 W 42nd Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp42c3a",
+      "name": "Hampton Inn Manhattan - Times Square South",
+      "image": "https://static.cupid.travel/hotels/484618026.jpg",
+      "description": "Experience the vibrant energy of New York City at the Hampton Inn Manhattan Times Square South, just a short walk from iconic Times Square and close to the 42nd Street Port Authority Subway Station for effortless exploration. Enjoy modern comforts in contemporary rooms featuring flat-screen TVs, complimentary Wi-Fi, and convenient amenities, along with a daily hot continental breakfast and access to an on-site gym and business center. Book your unforgettable stay in the heart of the city today!",
+      "highlight": "Boasts clean rooms, complimentary Wi-Fi, and 24/7 outdoor CCTV for enhanced safety in the heart of New York City.",
+      "price": "$143/night",
+      "location": "337 West 39th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp27d7a",
+      "name": "The Gallivant Times Square",
+      "image": "https://static.cupid.travel/hotels/108195138.jpg",
+      "description": "Experience unmatched luxury at The Gallivant Times Square, where modern amenities like flat-screen TVs and elegant bathrooms enhance your stay. Enjoy convenient facilities, including a 24-hour front desk, a fitness center, and diverse dining options featuring Vietnamese, Japanese, and Spanish cuisine. Perfectly located just steps from iconic New York landmarks such as Rockefeller Center and Central Park, this hotel offers a blend of comfort and convenience in the vibrant heart of the city.",
+      "highlight": "Boasts family rooms, a restaurant with diverse cuisines, and a 24-hour front desk in a central location.",
+      "price": "$110/night",
+      "location": "234 48Th Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-new-york",
+  "generatedAt": "2025-11-04T02:07:08.906Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

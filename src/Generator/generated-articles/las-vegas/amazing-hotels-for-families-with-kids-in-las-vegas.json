@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "hotels for families with kids in Las Vegas",
+  "title": "Amazing hotels for families with kids in Las Vegas",
+  "excerpt": "Finding the perfect hotel for a family trip to Las Vegas can be quite a challenge, especially with so many options that may not cater to children's needs. This curated list highlights hotels that offer family-friendly amenities and activities, ensuring that both kids and parents can enjoy a memorable vacation together. By focusing on these dedicated spaces, families can make the most of their time in this vibrant city without the stress of unsuitable accommodations.",
+  "intro": "Discover the top family-friendly hotels in Las Vegas that promise fun and comfort for both kids and parents alike.",
+  "hotels": [
+    {
+      "id": "lp3f631",
+      "name": "Tahiti Village Resort & Spa",
+      "image": "https://static.cupid.travel/hotels/ex_3c7df4c6_z.jpg",
+      "description": "Escape to Tahiti Village Resort & Spa, a serene oasis in the vibrant heart of Las Vegas. Enjoy the full-service spa, unwind in the outdoor pool and lazy river, and savor delectable cuisine at the on-site restaurant. With spacious guest rooms featuring Smart TVs and convenient amenities, this resort ensures a perfect blend of relaxation and entertainment for your ideal getaway.",
+      "highlight": "Tahiti Village Resort & Spa offers a lazy river, arcade, and full-service spa for family-friendly fun and relaxation.",
+      "price": "$129/night",
+      "location": "7200 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb9a80",
+      "name": "Home2 Suites By Hilton Las Vegas Strip South",
+      "image": "https://static.cupid.travel/hotels/485514275.jpg",
+      "description": "Home2 Suites By Hilton Las Vegas Strip South features spacious suites equipped with HDTVs, kitchen facilities, and cozy bedding, ensuring a comfortable stay. Guests can enjoy a complimentary hot buffet breakfast and unwind at the outdoor saline pool, while the laundry and fitness center provide added convenience. Ideally situated near the Mandalay Bay Convention Center and just 4 km from McCarran International Airport, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Home2 Suites By Hilton Las Vegas Strip South offers spacious family suites with kitchen facilities, an outdoor saline pool, and complimentary breakfast.",
+      "price": "$171/night",
+      "location": "7740 Las Vegas Blvd South",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f454",
+      "name": "Hampton Inn & Suites Las Vegas-Henderson",
+      "image": "https://static.cupid.travel/hotels/485513967.jpg",
+      "description": "Experience luxury at the Hampton Inn & Suites Las Vegas-Henderson, where spacious rooms and suites come equipped with modern amenities, including free WiFi and a hot breakfast buffet. Enjoy the outdoor pool, hot tub, and barbecue area, all while being conveniently located near a variety of restaurants and attractions like Galleria Mall and Lake Mead Recreation Area. Book your stay for a memorable getaway filled with comfort and adventure.",
+      "highlight": "Offers family rooms, an outdoor pool, and board games for an engaging stay in Las Vegas-Henderson.",
+      "price": "$174/night",
+      "location": "421 Astaire Dr.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp21d89",
+      "name": "Embassy Suites by Hilton Las Vegas",
+      "image": "https://static.cupid.travel/hotels/484877445.jpg",
+      "description": "Embassy Suites Las Vegas boasts a prime location just minutes from the lively Las Vegas Strip and directly across from the University of Nevada. Guests can unwind in spacious suites featuring two flat-screen TVs, a microwave, and a refrigerator, along with access to an outdoor pool and fitness center. Enjoy a delicious cooked-to-order breakfast and relax with complimentary evening snacks at the Three Palms Café, making your stay both convenient and enjoyable.",
+      "highlight": "Embassy Suites by Hilton Las Vegas provides spacious family suites, a kids' menu, and an outdoor pool for family enjoyment.",
+      "price": "$240/night",
+      "location": "4315 University Center Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp35366",
+      "name": "Courtyard By Marriott Las Vegas Stadium Area",
+      "image": "https://static.cupid.travel/hotels/520947917.jpg",
+      "description": "Experience the ultimate relaxation at Courtyard By Marriott Las Vegas Stadium Area with its stunning outdoor pool and soothing hot tub, ideal for unwinding after a day on the lively Las Vegas Strip. The hotel features modern, spacious guestrooms equipped with amenities like free Wi-Fi, cable TV, and mini-refrigerators for your convenience. Stay active in the well-equipped gym and enjoy hassle-free parking during your stay for an effortless getaway.",
+      "highlight": "Offers family rooms, an outdoor pool, and kids meals to accommodate families visiting Las Vegas.",
+      "price": "$215/night",
+      "location": "5845 Dean Martin Dr.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f62e",
+      "name": "Jockey Resort Suites Center Strip",
+      "image": "https://static.cupid.travel/hotels/46264205.jpg",
+      "description": "Experience the luxury of all-suite accommodations at Jockey Resorts, located on the vibrant Las Vegas Strip. Each suite features fully equipped kitchens and modern amenities, including free high-speed internet, ensuring a comfortable stay. Enjoy refreshing swims in the outdoor pool, a well-equipped fitness center, and easy access to a variety of dining and entertainment options just moments away.",
+      "highlight": "Offers family suites with fully equipped kitchens, an outdoor pool, and easy access to dining and entertainment.",
+      "price": "$165/night",
+      "location": "3700 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-las-vegas",
+  "generatedAt": "2025-11-04T01:17:31.312Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

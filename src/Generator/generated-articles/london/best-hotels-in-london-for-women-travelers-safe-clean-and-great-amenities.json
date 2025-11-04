@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "best hotels in London for women travelers",
+  "title": "Best hotels in London for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Navigating the vast options of accommodations in London can be daunting, especially for women travelers seeking safety, cleanliness, and comfort. This curated list highlights hotels that prioritize the unique needs of female guests, making it easier to find a welcoming and secure environment. With amenities designed to enhance your stay, these selections promise not just a place to rest, but a supportive atmosphere to explore the vibrant city.",
+  "intro": "Discover the top hotels in London tailored specifically for women travelers, ensuring a safe and enjoyable stay without compromising on quality.",
+  "hotels": [
+    {
+      "id": "lp3e139",
+      "name": "Haymarket Hotel, Firmdale Hotels",
+      "image": "https://static.cupid.travel/hotels/501783869.jpg",
+      "description": "Experience luxury at the Haymarket Hotel, located in the heart of London's vibrant theatre district. Enjoy elegantly styled rooms with modern amenities, relax in the spa or swimming pool, and indulge in delightful dining options, including afternoon tea and seasonal dishes. Book your stay to immerse yourself in the best of entertainment and hospitality that London has to offer.",
+      "highlight": "Boasts elegantly styled rooms, a spa, a heated pool, and exceptional dining options in London's theatre district.",
+      "price": "$820/night",
+      "location": "1 Suffolk Place",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp30cd0",
+      "name": "Sofitel London St James",
+      "image": "https://static.cupid.travel/hotels/422088699.jpg",
+      "description": "Discover the luxurious Sofitel London St James, a 5-star neoclassical gem in the heart of the West End. Indulge in rejuvenating spa treatments and savor Michelin-starred cuisine at Wild Honey St James, while enjoying elegantly redesigned rooms that combine bold British design with French sophistication. With stunning views and a historic ambiance complemented by modern amenities, your stay promises an unforgettable experience.",
+      "highlight": "Boasts elegantly redesigned rooms, Michelin-starred dining, and rejuvenating spa treatments in a central West End location.",
+      "price": "$545/night",
+      "location": "6 Waterloo Place",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19f23",
+      "name": "The Biltmore Mayfair",
+      "image": "https://static.cupid.travel/hotels/552331197.jpg",
+      "description": "The Biltmore Mayfair offers a luxurious retreat with spacious rooms featuring elegant Italian marble bathrooms and top-tier amenities, including a Ruark sound system and smart TV. Culinary enthusiasts will delight in the seasonal menu at Café Biltmore, crafted by Executive Chef Luis Campos, while the exquisite afternoon tea and premium spirits at The Pine Bar provide perfect moments of indulgence. Stay active at the 24/7 modern gym, ensuring your fitness routine continues uninterrupted during your unforgettable London getaway.",
+      "highlight": "The Biltmore Mayfair offers spacious rooms with marble bathrooms, a 24/7 gym, and exquisite dining options including afternoon tea.",
+      "price": "$702/night",
+      "location": "44 Grosvenor Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45e17",
+      "name": "The Queen's Gate Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_969c601a_z.jpg",
+      "description": "Discover the elegance of The Queen's Gate Hotel, ideally located in the heart of London. Delight in international flavors at the \"Q\" Bar/Restaurant, and enjoy the comfort of 90 air-conditioned rooms equipped with modern amenities. With versatile event spaces perfect for any occasion, this hotel is an exceptional choice for both leisure and business travelers.",
+      "highlight": "Offers 90 air-conditioned rooms, a gym, and a terrace, ensuring a safe and comfortable stay for women travelers.",
+      "price": "$256/night",
+      "location": "31-34 Queens Gate",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2ad20",
+      "name": "St. Ermin's Hotel, Autograph Collection",
+      "image": "https://static.cupid.travel/hotels/598569431.jpg",
+      "description": "Discover the elegance and innovative design of St Ermin's, featuring a picturesque tree-lined courtyard that welcomes you into a sophisticated ambiance. This vibrant hotel serves as a social hub, offering guests the opportunity to connect over high teas or find tranquility with a good book in its dramatic ballroom. Each luxurious room is equipped with stylish furnishings, crisp linens, and modern amenities, ensuring a comfortable and memorable stay.",
+      "highlight": "Boasts a picturesque courtyard, luxurious rooms with modern amenities, and private check-in/out for enhanced guest security.",
+      "price": "$527/night",
+      "location": "Caxton Street 2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1bea4",
+      "name": "The Montague On The Gardens",
+      "image": "https://static.cupid.travel/hotels/544784972.jpg",
+      "description": "Experience luxury at The Montague on the Garden, where individually decorated rooms offer satellite TV and elegant marble bathrooms. Delight your palate at The Blue Door Bistro with its modern and classic British cuisine, or relax in the sun room with afternoon tea and cocktails. Ideally located just minutes from Russell Square Underground Station, this hotel provides easy access to iconic London attractions like The British Museum and Covent Garden.",
+      "highlight": "The Montague on the Gardens offers individually decorated rooms, a sun room for afternoon tea, and easy access to Russell Square Underground Station.",
+      "price": "$308/night",
+      "location": "15 Montague Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-london-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T01:48:07.603Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

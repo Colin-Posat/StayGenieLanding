@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "hotels in Miami with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Miami with rooftop bars",
+  "excerpt": "Finding hotels in Miami with rooftop bars can be a daunting task, as the city boasts a plethora of options that may not always be easy to navigate. This curated list highlights the best hotels that offer stunning views, vibrant atmospheres, and unique experiences, making it easier for travelers to discover the perfect spot to unwind. Whether you are looking to sip cocktails while watching the sunset or enjoy a lively evening with friends, these hotels provide the ultimate blend of luxury and nightlife.",
+  "intro": "Discover the top hotels in Miami that feature breathtaking rooftop bars, perfect for enjoying the city's vibrant skyline.",
+  "hotels": [
+    {
+      "id": "lp4b5f5",
+      "name": "W Miami",
+      "image": "https://static.cupid.travel/hotels/ex_w3997h2661x3y6-d6181390_z.jpg",
+      "description": "Experience the luxurious allure of W Miami, perfectly situated to offer easy access to shopping and nightlife. Enjoy rejuvenating moments at the stunning outdoor pool or on the rooftop terrace, where you can soak in panoramic views of the skyline. Indulge in culinary delights at Panther Coffee and relax in stylish guest rooms equipped with modern amenities and designer toiletries for a truly comfortable stay.",
+      "highlight": "Offers a stunning rooftop terrace with panoramic skyline views and stylish guest rooms featuring modern amenities.",
+      "price": "$1078/night",
+      "location": "485 Brickell Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp84ad1",
+      "name": "EAST Miami",
+      "image": "https://static.cupid.travel/hotels/493547913.jpg",
+      "description": "EAST Miami offers a lavish retreat featuring four distinct pools on a stunning 20,000-square-foot outdoor deck, alongside a 24-hour fitness center and an inviting on-site restaurant. Guests can savor diverse culinary options, from authentic Uruguayan dishes at Quinto to light bites at Domain lounge, and enjoy spectacular city views with a drink at the rooftop bar, Sugar. Perfectly located in Brickell City Centre, visitors can easily explore upscale shops, cultural attractions, and the vibrant energy of South Beach.",
+      "highlight": "EAST Miami boasts a rooftop bar, Sugar, offering stunning city views along with diverse dining options and four luxurious pools.",
+      "price": "$572/night",
+      "location": "788 Brickell Plaza",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8a284",
+      "name": "Novotel Miami Brickell",
+      "image": "https://static.cupid.travel/hotels/294498726.jpg",
+      "description": "Experience the ultimate relaxation at Novotel Miami Brickell, featuring a stunning rooftop pool where you can soak up the vibrant Miami sun. Each modern room ensures your comfort with amenities like air conditioning, a flat-screen TV, and a private bathroom stocked with essentials. Whether for business or leisure, enjoy convenient facilities including meeting rooms, an on-site bar, and a restaurant that caters to all your needs.",
+      "highlight": "Offers a stunning rooftop garden and heated pool, along with live shows for an unforgettable experience.",
+      "price": "$371/night",
+      "location": "1500 SW 1st Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42e7e",
+      "name": "Kimpton EPIC Hotel, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/242170411.jpg",
+      "description": "Experience eco-friendly luxury at Kimpton EPIC Hotel, where every guestroom features floor-to-ceiling windows and a private balcony for stunning views. Unwind at the rooftop pool or rejuvenate in the spa, while enjoying easy access to Miami's vibrant attractions. With pet-friendly policies and a full-service marina, this hotel is perfect for a memorable getaway.",
+      "highlight": "Boasts a stunning rooftop garden and pool, offering breathtaking views along with a vibrant happy hour experience.",
+      "price": "$772/night",
+      "location": "270 Biscayne Blvd Way",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3b8da",
+      "name": "The Ritz-Carlton Coconut Grove, Miami",
+      "image": "https://static.cupid.travel/hotels/ex_969591ef_z.jpg",
+      "description": "Discover unparalleled luxury at The Ritz-Carlton Coconut Grove, Miami, where indulgence meets relaxation. Treat yourself to rejuvenating spa services, unwind in elegantly designed rooms complete with private balconies and plush bedding, and savor delectable dining options. Enjoy a refreshing outdoor pool, a fully equipped fitness center, and a vibrant bar scene for a truly memorable stay.",
+      "highlight": "Offers a rooftop bar with stunning views, private balconies, and a full-service spa for ultimate relaxation.",
+      "price": "$957/night",
+      "location": "3300 Southwest 27th Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp35259",
+      "name": "Hotel AKA Brickell",
+      "image": "https://static.cupid.travel/hotels/ex_0fe85eda_z.jpg",
+      "description": "Discover the ultimate luxury at Hotel AKA Brickell, located in the lively heart of Miami. Enjoy rejuvenating treatments at the serene spa, relax by the outdoor pool or hot tub, and savor gourmet cuisine at the renowned Adrift Mare restaurant. Each of the 215 stylish guestrooms offers pillowtop beds, spacious bathrooms with deep soaking tubs, and modern amenities, ensuring a comfortable and memorable stay.",
+      "highlight": "Boasts a stunning rooftop terrace with panoramic views, complemented by a full-service spa and 24-hour fitness center.",
+      "price": "$525/night",
+      "location": "1395 Brickell Avenue",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-miami-with-rooftop-bars",
+  "generatedAt": "2025-11-04T02:12:44.498Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

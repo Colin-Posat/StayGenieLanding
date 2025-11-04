@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "cheap safe clean hotels in London",
+  "title": "Best cheap, safe, and clean hotels in London",
+  "excerpt": "Finding affordable, safe, and clean hotels in London can be a daunting task, especially with the city's vast options and varying standards. This list is invaluable for budget-conscious travelers who want to explore the capital without compromising their comfort and security. By highlighting these top picks, you can confidently navigate your stay and enjoy all that London has to offer without breaking the bank.",
+  "intro": "Discover the best budget-friendly hotels in London that prioritize safety and cleanliness, ensuring a worry-free stay in this vibrant city.",
+  "hotels": [
+    {
+      "id": "lp22421",
+      "name": "Wedgewood Hotel",
+      "image": "https://static.cupid.travel/hotels/78908793.jpg",
+      "description": "Experience the charm of The Wedgewood Hotel, a delightful Victorian townhouse located in the heart of Bayswater. Just a short walk from Queensway and Bayswater Underground Stations, this hotel offers cozy rooms with en suite facilities and lovely garden views. With Paddington Train Station nearby, guests enjoy easy access to Heathrow Airport, making this the perfect base for exploring London.",
+      "highlight": "Boasts cozy en suite rooms with lovely garden views and convenient access to public transport in Bayswater.",
+      "price": "$82/night",
+      "location": "49-51 Leinster Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41f59",
+      "name": "King Solomon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_fb0d967a_z.jpg",
+      "description": "Discover the King Solomon Hotel, a charming retreat in Golders Green, London, where comfort meets convenience. Enjoy modern amenities like complimentary Wi-Fi and 24-hour concierge services, while indulging in delightful dining options at the café or bar. With 90 well-appointed rooms offering LCD televisions and coffee makers, this hotel provides a peaceful haven after a day of exploring the city's iconic attractions.",
+      "highlight": "Offers 90 well-appointed rooms with LCD televisions, coffee makers, and complimentary Wi-Fi in a safe, clean environment.",
+      "price": "$80/night",
+      "location": "155-159 Golders Green Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp52ca9",
+      "name": "Lords Hotel",
+      "image": "https://static.cupid.travel/hotels/299747178.jpg",
+      "description": "Lords Hotel, nestled in a tranquil garden square, offers a perfect blend of comfort and convenience with easy access to Bayswater and Queensway Underground Stations. Guests can enjoy modern en suite rooms equipped with flat-screen TVs and free Wi-Fi, along with a delightful continental breakfast to start their day. Explore the vibrant local dining scene and iconic attractions like Notting Hill and Hyde Park for an unforgettable London experience.",
+      "highlight": "Lords Hotel offers modern en suite rooms, complimentary Wi-Fi, and a continental breakfast in a tranquil garden square.",
+      "price": "$90/night",
+      "location": "20-22 Leinster Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp53677",
+      "name": "Shakespeare Hotel",
+      "image": "https://static.cupid.travel/hotels/273584201.jpg",
+      "description": "Shakespeare Hotel, nestled in the picturesque Norfolk Square, is just 200 meters from Paddington Tube Station, making it an ideal base for exploring London. Each comfortable room includes a private bathroom, tea and coffee facilities, and a fridge for added convenience. Guests can savor a complimentary breakfast in the cheerful dining area and enjoy 24-hour access to hot beverages, with a variety of nearby dining options just a short stroll away.",
+      "highlight": "Offers comfortable rooms with private bathrooms, complimentary breakfast, and 24-hour access to hot beverages in a secure environment.",
+      "price": "$97/night",
+      "location": "22-28 Norfolk Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4f865",
+      "name": "Central Hotel Golders Green",
+      "image": "https://static.cupid.travel/hotels/ex_w2880h1559x0y180-88f59819_z.jpg",
+      "description": "Central Hotel Golders Green offers a charming retreat in the heart of London, ideal for both relaxation and adventure. Guests can enjoy modern accommodations with flat-screen TVs, private bathrooms, and complimentary toiletries, along with essential amenities like free Wi-Fi and a cozy library. Its prime location provides easy access to iconic attractions like Camden Markets and Regent's Park, making it the perfect base for exploring the city.",
+      "highlight": "Central Hotel Golders Green provides modern accommodations with flat-screen TVs, private bathrooms, free Wi-Fi, and a cozy library.",
+      "price": "$85/night",
+      "location": "35 Hoop Lane",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4b00b",
+      "name": "White House Hotel",
+      "image": "https://static.cupid.travel/hotels/14448815.jpg",
+      "description": "Discover the charm of the White House Hotel, a delightful Victorian townhouse located in the stylish Paddington area. Enjoy comfortable rooms equipped with private bathrooms and modern amenities, along with a hearty continental breakfast served in the spacious dining room. With easy access to Paddington Rail Station and vibrant attractions like Oxford Street, this hotel perfectly combines comfort and convenience for your London getaway.",
+      "highlight": "Offers comfortable rooms with private bathrooms, outdoor CCTV for safety, and easy access to Paddington Rail Station.",
+      "price": "$93/night",
+      "location": "102 Sussex Gardens",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-london",
+  "generatedAt": "2025-11-04T02:08:34.985Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

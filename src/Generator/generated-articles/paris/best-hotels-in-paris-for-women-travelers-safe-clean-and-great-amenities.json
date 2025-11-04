@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "best hotels in Paris for women travelers",
+  "title": "Best hotels in Paris for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding the perfect hotel in Paris can be a daunting task, especially for women travelers who prioritize safety and comfort. This curated list highlights hotels that not only offer a secure environment but also feature cleanliness and excellent amenities, making it easier to choose a place that feels like a home away from home. By focusing on these key factors, travelers can enjoy their Parisian adventure with peace of mind and convenience.",
+  "intro": "Discover the best hotels in Paris tailored for women travelers, ensuring a blend of safety, comfort, and exceptional services.",
+  "hotels": [
+    {
+      "id": "lp1ee27",
+      "name": "Château des Fleurs Hôtel & Spa Paris",
+      "image": "https://static.cupid.travel/hotels/436362582.jpg",
+      "description": "Experience luxury at Château des Fleurs - Hôtel & Spa - Paris Champs-Elysées, where each elegantly designed room offers premium amenities and a private bathroom. Perfectly situated near iconic attractions like the Arc de Triomphe and Eiffel Tower, this hotel also features a serene on-site spa, a stylish bar, and 24-hour room service for your utmost convenience. Book your stay now for an unforgettable Parisian getaway.",
+      "highlight": "Boasts elegantly designed rooms with premium amenities, a serene on-site spa, and 24-hour room service for added convenience.",
+      "price": "$457/night",
+      "location": "19 Rue Vernet",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp32bc7",
+      "name": "Hôtel des Arts Montmartre",
+      "image": "https://static.cupid.travel/hotels/230012644.jpg",
+      "description": "Discover Hôtel des Arts Montmartre, a charming retreat nestled in the heart of Montmartre, where luxurious amenities like air conditioning and soundproofed rooms ensure a comfortable stay. Enjoy a delightful buffet breakfast each morning and take in stunning views of the Parisian rooftops from select rooms. With iconic landmarks like Sacré-Coeur Basilica and Moulin Rouge just a short walk away, this hotel offers the perfect base for exploring the enchanting streets of Paris.",
+      "highlight": "Boasts soundproof rooms, a hammam, and private check-in/out for a secure and comfortable stay in Montmartre.",
+      "price": "$247/night",
+      "location": "5 Rue Tholoze",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp309de",
+      "name": "Hôtel Beauregard",
+      "image": "https://static.cupid.travel/hotels/436245299.jpg",
+      "description": "Hôtel Beauregard boasts a prime location near the Vaugirard Metro station, providing effortless access to explore the vibrant city of Paris. Guests can unwind in modern rooms, many featuring private balconies with stunning views of the Eiffel Tower. With major attractions like the Eiffel Tower and Porte de Versailles Exhibition Centre just moments away, this hotel is the perfect base for an unforgettable Parisian getaway.",
+      "highlight": "Hôtel Beauregard offers modern rooms with private balconies, a coffee shop, and easy access to the Vaugirard Metro station.",
+      "price": "$161/night",
+      "location": "14 Rue Petel",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3d7b7",
+      "name": "Hôtel Saint-Louis Marais",
+      "image": "https://static.cupid.travel/hotels/ex_e03b2c06_z.jpg",
+      "description": "Experience the charm of Paris at Hôtel Saint-Louis Marais, where modern amenities meet luxurious accommodations. Enjoy complimentary Wi-Fi, iPads, and stylish bathrooms in one of the 15 well-appointed guestrooms, and start your day with a delicious buffet breakfast. Ideally located near Rue de Rivoli and within walking distance of iconic sites like Île Saint-Louis and Place de la Bastille, this hotel offers the perfect base for your Parisian adventure.",
+      "highlight": "Hôtel Saint-Louis Marais offers complimentary Wi-Fi, stylish bathrooms, and tour assistance in a charming Parisian location.",
+      "price": "$286/night",
+      "location": "1 rue Charles V",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp44eaf",
+      "name": "Hôtel Thérèse",
+      "image": "https://static.cupid.travel/hotels/26804315.jpg",
+      "description": "Experience luxurious accommodations in the heart of Paris at our 4-star hotel, where elegantly designed air-conditioned rooms feature modern amenities like a minibar and flat-screen TV. Enjoy a delightful breakfast in our cozy dining area or in the comfort of your room, and let our tour desk assist you with planning your perfect Parisian itinerary. With iconic landmarks like the Louvre Museum and Opéra Garnier just moments away, plus a convenient airport shuttle, your unforgettable Parisian getaway awaits at Hôtel Thérèse.",
+      "highlight": "Hôtel Thérèse offers elegantly designed air-conditioned rooms, a tour desk, and a convenient airport shuttle near iconic Paris landmarks.",
+      "price": "$295/night",
+      "location": "5/7 rue Thérèse",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2da4c",
+      "name": "Hôtel Belloy Saint Germain",
+      "image": "https://static.cupid.travel/hotels/26440575.jpg",
+      "description": "Experience luxurious accommodation in the historic Saint Germain district at Hôtel Belloy Saint Germain. Our modern, soundproofed rooms feature air conditioning, free Wi-Fi, and flat-screen TVs, ensuring a comfortable stay. Enjoy a delightful buffet breakfast and relax at our honesty bar, all while being steps away from iconic Paris landmarks and the metro station for easy exploration.",
+      "highlight": "Offers soundproofed rooms, free Wi-Fi, an honesty bar, and a central location near Paris landmarks and the metro.",
+      "price": "$226/night",
+      "location": "2 Rue Racine/bd St Michel",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-paris-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T01:20:37.081Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

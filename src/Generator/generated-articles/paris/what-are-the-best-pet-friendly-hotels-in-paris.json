@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "best pet friendly hotels in Paris",
+  "title": "What are the best pet-friendly hotels in Paris",
+  "excerpt": "Finding truly pet-friendly hotels in Paris can be a daunting task, as many establishments have strict policies that may not accommodate our furry companions. This curated list not only highlights the best options that welcome pets with open arms but also ensures a comfortable and enjoyable stay for both you and your beloved animal. Discovering these hotels can transform your Parisian getaway into a memorable experience filled with shared adventures.",
+  "intro": "In this article, readers will uncover the top pet-friendly hotels in Paris, ensuring a delightful stay for both you and your four-legged friends.",
+  "hotels": [
+    {
+      "id": "lp430fc",
+      "name": "InterContinental Paris Champs Elysées Etoile, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/263899951.jpg",
+      "description": "Experience luxury in the heart of Paris at our 5-star hotel, ideally located near the iconic Champs-Elysées and Arc de Triomphe. Enjoy contemporary decor and elegant rooms that feature premium Treca beds and stylish bathrooms with high-end amenities. With a top-notch restaurant and a fully equipped gym, plus a concierge ready to unveil the city's hidden treasures, your Parisian getaway promises to be unforgettable.",
+      "highlight": "Offers pet-friendly accommodations with amenities including pet bowls and baskets for your furry companions.",
+      "price": "$429/night",
+      "location": "64 Avenue Marceau",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3a10e",
+      "name": "Hôtel Riesner",
+      "image": "https://static.cupid.travel/hotels/490948130.jpg",
+      "description": "Hôtel Riesner boasts a central location just 350 meters from Gare de Lyon RER Station, making it the perfect base for exploring Paris. Guests can enjoy comfortable air-conditioned rooms equipped with satellite TV, free Wi-Fi, and convenient tea and coffee facilities. Start your day with a delicious buffet breakfast and take advantage of easy access to nearby attractions like Saint-Martin Canal and Jardin des Plantes for an unforgettable Parisian experience.",
+      "highlight": "Hôtel Riesner includes pet-friendly accommodations, family rooms, and a sauna, ensuring a comfortable stay in Paris.",
+      "price": "$223/night",
+      "location": "19 rue d'Austerlitz",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1aece",
+      "name": "Mercure Paris Porte De Versailles Expo",
+      "image": "https://static.cupid.travel/hotels/522467788.jpg",
+      "description": "Discover the Mercure Paris Porte De Versailles Expo, ideally located near the Exhibition Centre and a Metro station for effortless travel. Enjoy luxurious rooms and suites featuring modern amenities like air conditioning, satellite TV, and select rooms with minibars and Nespresso machines. With quick access to the city center and the business district, your stay promises both comfort and convenience in the heart of Paris.",
+      "highlight": "Offers pet-friendly accommodations with soundproof rooms and convenient access to E-bike charging stations.",
+      "price": "$305/night",
+      "location": "36-38 Rue Du Moulin",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b892",
+      "name": "25hours Hotel Terminus Nord",
+      "image": "https://static.cupid.travel/hotels/217781280.jpg",
+      "description": "Experience the charm of Paris at 25hours Hotel Terminus Nord, ideally situated overlooking Gare du Nord for easy access to the city. Enjoy modern, comfortable rooms equipped with flat-screen TVs and air conditioning, alongside an on-site restaurant and bar. With multilingual staff and convenient bike rentals, you can effortlessly explore nearby attractions like the Pompidou Centre and Opéra Garnier during your stay.",
+      "highlight": "Offers pet-friendly accommodations with modern amenities, an on-site restaurant, and convenient bike rentals for exploring Paris.",
+      "price": "$300/night",
+      "location": "12 Boulevard de Denain",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c8f6",
+      "name": "Novotel Paris Centre Tour Eiffel",
+      "image": "https://static.cupid.travel/hotels/276090071.jpg",
+      "description": "Discover the Novotel Paris Centre Tour Eiffel, ideally situated just a short walk from the magnificent Eiffel Tower, making it perfect for city exploration. Savor a unique dining experience at the hotel's two restaurants, Greem and Benkay, which feature delightful French and Japanese dishes with stunning views of the Seine. Enjoy wellness amenities like an indoor heated pool and a fitness center, all while benefiting from the hotel's commitment to sustainability, including the elimination of plastic bottles.",
+      "highlight": "Offers pet-friendly accommodations, an indoor heated pool, and amenities like pet bowls for your furry companions.",
+      "price": "$318/night",
+      "location": "61 Quai De Grenelle",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31b32",
+      "name": "Hôtel le Derby Alma by Inwood Hotels",
+      "image": "https://static.cupid.travel/hotels/19308825.jpg",
+      "description": "Experience the charm of Paris at Derby Alma, a luxurious 4-star hotel located just steps from the famous Champs-Élysées and the Eiffel Tower. Enjoy elegantly designed air-conditioned rooms with modern amenities, including free WiFi and plush bedding, ensuring a comfortable stay. Start your day with a delightful buffet breakfast and unwind at the hotel's bar, all while benefiting from convenient access to public transportation for exploring the city.",
+      "highlight": "Offers pet-friendly accommodations with soundproof rooms, room service, and a prime location near the Champs-Élysées and Eiffel Tower.",
+      "price": "$289/night",
+      "location": "8 Avenue Rapp",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-paris",
+  "generatedAt": "2025-11-04T02:04:20.201Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

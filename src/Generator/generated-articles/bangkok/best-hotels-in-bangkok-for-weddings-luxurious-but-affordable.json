@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "best hotels in Bangkok for weddings luxury and affordable",
+  "title": "Best hotels in Bangkok for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Bangkok can be a daunting task, especially when trying to balance luxury with affordability. This curated list highlights venues that offer stunning settings and exceptional services without breaking the bank, making it easier for couples to plan their dream celebration. By focusing on these unique options, readers can ensure they choose a venue that enhances their special day while staying within budget.",
+  "intro": "Discover the best luxurious yet affordable hotels in Bangkok that are perfect for creating unforgettable wedding memories.",
+  "hotels": [
+    {
+      "id": "lp70c9c",
+      "name": "Pannee Lodge Khaosan - SHA Plus",
+      "image": "https://static.cupid.travel/hotels/232725588.jpg",
+      "description": "Experience the charm of Bangkok at OYO 482 Pannee Lodge Khaosan - SHA Plus, ideally situated in the bustling Old Town district. Enjoy cozy, air-conditioned rooms equipped with modern amenities like satellite flat-screen TVs and free WiFi, perfect for both relaxation and productivity. With iconic landmarks such as Wat Saket, the Grand Palace, and Khao San Road just a short walk away, you will be immersed in the vibrant culture of the city.",
+      "highlight": "Offers cozy, air-conditioned rooms with modern amenities and is located near iconic landmarks in Bangkok's vibrant Old Town.",
+      "price": "$25/night",
+      "location": "52 Chakrapong Road, Banglampoo",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4cd4f",
+      "name": "The Great Residence Suvarnabhumi Airport",
+      "image": "https://static.cupid.travel/hotels/ex_bd0744da_z.jpg",
+      "description": "Experience a welcoming haven at The Great Residence Suvarnabhumi Airport, perfectly situated in Bangkok for both comfort and convenience. Enjoy a refreshing outdoor pool, bicycle rentals for local exploration, and a variety of dining options, including an on-site restaurant and a cozy cafe. Each of the 100 air-conditioned rooms features a private balcony and modern amenities, with 24/7 attentive service to ensure a delightful stay.",
+      "highlight": "Boasts a banquet hall, rooftop terrace, and garden for elegant wedding celebrations in a luxurious yet affordable setting.",
+      "price": "$29/night",
+      "location": "1892/1 Ladkabang District Ladkabang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5c73e",
+      "name": "DT Hotel Pratunam (Dream Town)",
+      "image": "https://liteapi-travel-static-data.s3.amazonaws.com/images/hotels/main/378686.jpg",
+      "description": "Unfortunately, there is no description provided for the hotel. Please share specific details or features, and I will create an engaging summary for you.",
+      "highlight": "Offers spacious rooms with private bathrooms, complimentary Wi-Fi, and attentive room service for a memorable wedding experience.",
+      "price": "$34/night",
+      "location": "33 Soi Petchburi 11, Petchburi Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655c1",
+      "name": "Cozy Villa",
+      "image": "https://static.cupid.travel/hotels/28755520.jpg",
+      "description": "Cozy Villa is perfectly located just minutes from popular shopping spots like Platinum Fashion Mall and Pantip Plaza, making it easy to explore Bangkok. Guests can unwind in fully air-conditioned rooms that come with modern amenities, including a TV and minibar, with some rooms featuring a cozy sofa for extra comfort. Enjoy complimentary Wi-Fi, a 24-hour front desk, and an on-site restaurant serving delicious Thai cuisine, ensuring a pleasant and hassle-free stay.",
+      "highlight": "Cozy Villa offers fully air-conditioned rooms with modern amenities, complimentary Wi-Fi, and an on-site restaurant serving Thai cuisine.",
+      "price": "$33/night",
+      "location": "90/41-44,90/79-81 Ratchaprarop Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6f8a8",
+      "name": "Bangkok 68",
+      "image": "https://static.cupid.travel/hotels/45116072.jpg",
+      "description": "Bangkok 68 offers modern comfort right in the vibrant heart of Bangkok, just minutes from Central Plaza Grand Rama 9 Mall and within easy reach of both airports. Guests can unwind by the outdoor pool or relax in air-conditioned rooms featuring flat-screen TVs and en suite bathrooms, with select rooms boasting luxurious bathtubs. Enjoy complimentary Wi-Fi and explore nearby dining options for an authentic taste of local cuisine.",
+      "highlight": "Bangkok 68 boasts air-conditioned rooms with flat-screen TVs, an outdoor pool, and family rooms, all within vibrant city surroundings.",
+      "price": "$31/night",
+      "location": "68 Soi Intamara 45 (Ratchada 17)",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp64e98",
+      "name": "The Phoenix Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/ex_04009dbb_z.jpg",
+      "description": "Discover the enchanting Phoenix Hotel Bangkok, an urban oasis in Lat Krabang that offers stunning rooftop views and a tranquil garden terrace. Savor authentic Thai cuisine at Catch Up Cafe or enjoy room service, with a hearty English breakfast to kickstart your day. Our 65 air-conditioned rooms come with private balconies and complimentary Wi-Fi, ensuring comfort and connectivity just minutes from Suvarnabhumi International Airport.",
+      "highlight": "Offers stunning rooftop views, a tranquil garden terrace, and 65 air-conditioned rooms with private balconies and complimentary Wi-Fi.",
+      "price": "$33/night",
+      "location": "88 Ladkrabang Soi 7",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-bangkok-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:44:05.396Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "best dog friendly hotels in Barcelona",
+  "title": "What are the best dog-friendly hotels in Barcelona",
+  "excerpt": "Finding dog-friendly hotels in Barcelona can be a challenge, as many accommodations often overlook the needs of our four-legged companions. This list is valuable because it highlights the best options that welcome pets with open arms, ensuring both you and your dog can enjoy a comfortable stay while exploring the vibrant city together.",
+  "intro": "Discover the top dog-friendly hotels in Barcelona that cater to both you and your furry friend, ensuring a memorable stay in this beautiful city.",
+  "hotels": [
+    {
+      "id": "lp1a958",
+      "name": "Hesperia Barcelona Presidente",
+      "image": "https://static.cupid.travel/hotels/560117420.jpg",
+      "description": "Hesperia Barcelona Presidente offers luxurious, spacious rooms equipped with air conditioning, free Wi-Fi, and flat-screen TVs to ensure a comfortable stay. Guests can take in breathtaking city views from the gym and terrace, while the hotel's prime location on Diagonal Avenue provides easy access to shopping, sightseeing, and public transport. Book your stay for an unforgettable Barcelona experience.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms, a terrace, and easy access to local attractions on Diagonal Avenue.",
+      "price": "$294/night",
+      "location": "Avinguda Diagonal 570",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp40c11",
+      "name": "Ilunion Barcelona",
+      "image": "https://static.cupid.travel/hotels/213172105.jpg",
+      "description": "Ilunion Barcelona offers a blend of modern luxury and accessibility, featuring rooms with air conditioning, desks, and TVs, while superior rooms include furnished terraces with breathtaking sea or city views. With a commitment to inclusivity, the hotel provides specialized services and adapted accommodations for guests with mobility or sensory impairments. Conveniently located near Bogatell Beach and Rambla de Poblenou, guests can indulge in a delicious breakfast at the on-site restaurant or explore diverse dining options nearby.",
+      "highlight": "Ilunion Barcelona boasts pet-friendly accommodations, a rooftop garden, and a vegetarian menu for all guests.",
+      "price": "$353/night",
+      "location": "Calle Ramon Turó 196-198",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4502b",
+      "name": "Catalonia Diagonal Centro",
+      "image": "https://static.cupid.travel/hotels/331811485.jpg",
+      "description": "Catalonia Diagonal Centro is ideally situated in Barcelona's Eixample district, just 300 meters from Diagonal Metro Station, making it easy to explore the city's attractions. Guests will enjoy modern, stylish rooms featuring smart TVs with Chromecast and elegant marble bathrooms, along with complimentary Wi-Fi. After discovering local highlights like La Pedrera and the lively Ramblas, unwind at the seasonal outdoor pool or venture into the trendy Gràcia neighborhood for unique shopping and dining experiences.",
+      "highlight": "Offers pet-friendly accommodations, a saltwater pool, and modern rooms with smart TVs in Barcelona's Eixample district.",
+      "price": "$333/night",
+      "location": "Balmes 142-146",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp357f1",
+      "name": "H10 Marina Barcelona",
+      "image": "https://static.cupid.travel/hotels/120101773.jpg",
+      "description": "Discover the H10 Marina Hotel Barcelona, where luxury meets relaxation with a rooftop pool offering breathtaking views and a well-equipped gym and spa. Savor delectable cuisine at the Dionissos restaurant or unwind with a drink at Bar La Llum, while the hotel's prime location near Bogatell Beach ensures easy access to sun and sea. Experience the perfect blend of comfort and convenience during your stay.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop garden, and proximity to a nearby spa for ultimate relaxation.",
+      "price": "$342/night",
+      "location": "Avenida Bogatell, 64-68",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp39719",
+      "name": "Hotel Ronda Lesseps",
+      "image": "https://static.cupid.travel/hotels/560206887.jpg",
+      "description": "Discover a tranquil oasis in the heart of Barcelona at Hotel Ronda Lesseps, featuring two lush interior terraces that provide a peaceful escape from the city's hustle. With a prime location near the historic Gràcia district and iconic Park Güell, guests enjoy easy access to public transport and local attractions. Experience personalized service and cozy accommodations designed to make your stay truly memorable.",
+      "highlight": "Hotel Ronda Lesseps provides dog-friendly rooms and personalized service in a tranquil setting near iconic attractions.",
+      "price": "$280/night",
+      "location": "Carrer Ballester,77-81",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp450b0",
+      "name": "Hotel Lyon",
+      "image": "https://static.cupid.travel/hotels/622642637.jpg",
+      "description": "Experience the charm of Barceloneta at our centrally located hotel, just steps away from the beautiful city beach. After a day of exploring nearby attractions like the Gothic Quarter and Born district, unwind in our cozy social lounge, perfect for relaxing or connecting with fellow travelers. Book your stay now for an unforgettable Barcelona getaway filled with sun and culture.",
+      "highlight": "Hotel Lyon offers dog-friendly accommodations and a cozy social lounge just steps from Barceloneta beach.",
+      "price": "$208/night",
+      "location": "Calle General Castaños 6",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-barcelona",
+  "generatedAt": "2025-11-04T01:50:45.321Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

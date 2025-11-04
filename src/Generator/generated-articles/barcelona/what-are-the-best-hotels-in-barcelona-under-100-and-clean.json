@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "hotels in Barcelona under 100 dollars and clean",
+  "title": "What are the best hotels in Barcelona under $100 and clean",
+  "excerpt": "Finding clean and affordable hotels in Barcelona can be a daunting task, especially with so many options available. This list is invaluable for travelers on a budget who still want a comfortable stay in this vibrant city. By focusing on quality and affordability, these selections help ensure you can enjoy Barcelona without breaking the bank.",
+  "intro": "Discover the best budget-friendly hotels in Barcelona that offer cleanliness and comfort for under $100.",
+  "hotels": [
+    {
+      "id": "lp56bf3",
+      "name": "Hostal Mont Thabor",
+      "image": "https://static.cupid.travel/hotels/98312036.jpg",
+      "description": "Hostal Mont Thabor places you in the lively heart of Barcelona, mere steps from the famous Boqueria Market. Enjoy modern rooms with balconies offering city views, alongside convenient amenities like free Wi-Fi and a 24-hour reception. With nearby attractions such as the Barcelona Cathedral and MACBA, this guest house is the ideal base for exploring the vibrant streets of the city.",
+      "highlight": "Hostal Mont Thabor offers modern rooms with balconies, free Wi-Fi, and a 24-hour reception in central Barcelona.",
+      "price": "$84/night",
+      "location": "La Rambla, 86",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp76c16",
+      "name": "BcnSportHostels",
+      "image": "https://static.cupid.travel/hotels/269240053.jpg",
+      "description": "Experience the vibrant atmosphere of BcnSportHostels, nestled in the heart of Barcelona's Gracia Neighbourhood. Enjoy cozy accommodation with air conditioning, free WiFi, and unique features like individual reading lamps in mixed or female dormitories. Take advantage of discounted gym access and a soothing spa, while being just steps away from attractions like La Sagrada Familia and the trendy Paseo de Gracia Avenue.",
+      "highlight": "Offers cozy accommodation with air conditioning, free WiFi, and a shared kitchen in Barcelona's vibrant Gracia Neighbourhood.",
+      "price": "$76/night",
+      "location": "Carrer Perill, 26",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5cb12",
+      "name": "Hostal Alogar",
+      "image": "https://static.cupid.travel/hotels/96097765.jpg",
+      "description": "Hostal Alogar is ideally situated in Barcelona’s Sant Gervasi district, just a short walk from the Corte Inglés Shopping Centre and near Muntaner Metro Station for easy city exploration. The hotel offers comfortable and affordable rooms, complete with personal cupboards, and features a modern communal kitchen for budget-friendly meals. Enjoy helpful services from the friendly staff, along with free Wi-Fi to keep you connected during your stay.",
+      "highlight": "Offers affordable, clean rooms with a shared kitchen, free Wi-Fi, and helpful staff in the Sant Gervasi district.",
+      "price": "$170/night",
+      "location": "Carrer de Laforja, 98",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp63301",
+      "name": "Hostal Delfos",
+      "image": "https://static.cupid.travel/hotels/7808918.jpg",
+      "description": "Hostal Delfos offers a fantastic central location in Barcelona, just a short walk from the bustling Ramblas and Plaza Catalunya. Guests can choose from cozy rooms with either private or shared bathrooms, all equipped with essential comforts. Explore nearby attractions like the Gothic Quarter and take advantage of the on-site tour desk to enhance your stay, all while enjoying the convenience of easy access to the airport.",
+      "highlight": "Hostal Delfos offers cozy rooms with private or shared bathrooms, a tour desk, and a central location near major attractions.",
+      "price": "$166/night",
+      "location": "Ronda De Sant Antoni, 61",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp7bb7a",
+      "name": "Hostal Balmes Centro",
+      "image": "https://static.cupid.travel/hotels/69380276.jpg",
+      "description": "Hostal Balmes Centro is ideally located just minutes from Barcelona's famous Paseo de Gracia and Gaudi's la Pedrera, offering modern rooms equipped with flat-screen TVs, fridges, and options for private or shared bathrooms. Guests can indulge in the local culinary scene with nearby tapas bars and enjoy convenient services like car rentals and bicycle tours to top attractions. With easy access to transportation and the airport, this hotel is perfect for an unforgettable Barcelona getaway.",
+      "highlight": "Offers modern rooms with flat-screen TVs, fridges, and options for private or shared bathrooms near Paseo de Gracia.",
+      "price": "$138/night",
+      "location": "Balmes 83, 1-2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6501b",
+      "name": "Hostal Martinval",
+      "image": "https://static.cupid.travel/hotels/43525008.jpg",
+      "description": "Hostal Martinval is perfectly situated in Barcelona's vibrant Eixample neighborhood, just a short stroll from the renowned Diagonal and Passeig de Gracia avenues. Guests can choose from modern rooms or apartments, all featuring flat-screen TVs and free Wi-Fi, with select options including private balconies. With major attractions like La Pedrera and Sagrada Familia within walking distance, this hotel offers an ideal base to explore the city's rich cultural tapestry.",
+      "highlight": "Offers modern rooms and apartments with flat-screen TVs, free Wi-Fi, and select private balconies in Eixample.",
+      "price": "$199/night",
+      "location": "Carrer de Bruc 117",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-barcelona-under-100-and-clean",
+  "generatedAt": "2025-11-04T01:56:37.306Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

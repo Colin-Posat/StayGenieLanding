@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "best dog friendly hotels in Bangkok",
+  "title": "What are the best dog-friendly hotels in Bangkok",
+  "excerpt": "Finding dog-friendly hotels in Bangkok can be quite a challenge, as many accommodations do not cater to our furry friends. This list is valuable because it highlights the best options that welcome dogs, ensuring that both you and your pet can enjoy a comfortable stay in the vibrant city. With these recommendations, you can explore Bangkok without leaving your beloved companion behind.",
+  "intro": "Discover the top dog-friendly hotels in Bangkok that ensure a perfect getaway for you and your four-legged friend.",
+  "hotels": [
+    {
+      "id": "lp650f3",
+      "name": "Riva Surya Bangkok",
+      "image": "https://static.cupid.travel/hotels/306048214.jpg",
+      "description": "Riva Surya Bangkok features stylish air-conditioned rooms equipped with modern amenities, including complimentary WiFi and flat-screen TVs, with some offering private balconies for added luxury. Guests can relax at the fitness center or enjoy the two swimming pools while dining on exquisite Thai, Asian, and European dishes at the on-site restaurant with stunning river views. Conveniently located near Khao San Road and the Bangkok National Museum, the hotel also provides 24-hour front desk service and free private parking for a seamless stay.",
+      "highlight": "Riva Surya Bangkok offers pet-friendly accommodations alongside stylish rooms, two swimming pools, and an on-site restaurant with river views.",
+      "price": "$180/night",
+      "location": "23 Phra Arthit Road Pranakorn",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp20165",
+      "name": "Rembrandt Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/502843770.jpg",
+      "description": "Experience a culinary delight at Rembrandt Hotel Bangkok with three award-winning restaurants that cater to diverse tastes. Unwind at the luxurious spa or keep fit in the state-of-the-art fitness center, all while enjoying stunning city views from modern rooms equipped with floor-to-ceiling windows. Book your stay now for a perfect blend of luxury, comfort, and convenience.",
+      "highlight": "Offers pet-friendly accommodations alongside three award-winning restaurants and a luxurious spa with stunning city views.",
+      "price": "$86/night",
+      "location": "19 Sukhumvit Soi 18, Klong Toei",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6e210",
+      "name": "Ad Lib Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/563613025.jpg",
+      "description": "Experience luxury at Ad Lib Hotel Bangkok, featuring a serene salted outdoor pool, a well-equipped fitness center, and complimentary Wi-Fi. Nestled in the vibrant heart of the city, the hotel provides easy access to shopping and dining, with a free Tuk Tuk shuttle to nearby attractions. Enjoy 24-hour services, including an on-site restaurant serving Thai and international cuisine, ensuring a comfortable and convenient stay.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop garden, and a serene outdoor pool for a relaxing stay in Bangkok.",
+      "price": "$147/night",
+      "location": "230/5 Sukhumvit Soi 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp66ab9",
+      "name": "W Bangkok Hotel",
+      "image": "https://static.cupid.travel/hotels/591835855.jpg",
+      "description": "Experience luxury at W Bangkok Hotel, located just steps from Chong Nonsi BTS Skytrain Station. Enjoy stylish rooms equipped with modern amenities, a rejuvenating spa, and an inviting outdoor pool, all complemented by a 24-hour reception for your convenience. Savor diverse culinary delights at The Kitchen Table and Paii, and unwind with live music at The Bar at The House on Sathorn for a truly unforgettable stay.",
+      "highlight": "Offers pet-friendly accommodations along with a rejuvenating spa and an inviting outdoor pool.",
+      "price": "$212/night",
+      "location": "106 North Sathorn Road, Silom",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22750",
+      "name": "The Peninsula Bangkok",
+      "image": "https://static.cupid.travel/hotels/254672677.jpg",
+      "description": "The Peninsula Bangkok offers luxurious accommodations with breathtaking views of the Chao Phraya River, featuring elegantly designed rooms equipped with modern amenities for a comfortable stay. Guests can relax by the outdoor pool, stay fit at the fitness center, or indulge in pampering treatments at the spa. With diverse dining options, including international cuisine and authentic Thai dishes, every meal is a scenic delight, making it the perfect destination for a memorable getaway.",
+      "highlight": "The Peninsula Bangkok provides a dog-friendly environment alongside luxurious accommodations and an outdoor pool for relaxation.",
+      "price": "$457/night",
+      "location": "333 Charoennakorn Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f3d5",
+      "name": "The Sukhothai Bangkok",
+      "image": "https://static.cupid.travel/hotels/212328424.jpg",
+      "description": "Experience unparalleled luxury at The Sukhothai Bangkok, where spacious rooms feature elegant teakwood furnishings and Thai silks, complemented by modern amenities. Pamper yourself at Spa Botanica with rejuvenating treatments, stay active in the 24-hour fitness center, or enjoy a game of tennis. Delight your palate with award-winning Thai cuisine at Celadon Restaurant and indulge in a sophisticated Italian dining experience at La Scala.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms and luxurious amenities, plus private check-in and nearby spa services.",
+      "price": "$317/night",
+      "location": "13/3 South Sathorn Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-bangkok",
+  "generatedAt": "2025-11-04T02:30:08.729Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

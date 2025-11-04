@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "hotels in Rome with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Rome with rooftop bars",
+  "excerpt": "Finding hotels in Rome with rooftop bars can be a daunting task, given the city's vast options and the unique charm each establishment offers. This curated list is invaluable for travelers seeking not only stunning views but also vibrant atmospheres where they can unwind after a day of exploring. Discovering these hidden gems can elevate your Roman holiday, providing memorable experiences that go beyond traditional accommodations.",
+  "intro": "Explore the best hotels in Rome that feature breathtaking rooftop bars, perfect for enjoying the city's enchanting skyline.",
+  "hotels": [
+    {
+      "id": "lp445fa",
+      "name": "Hotel Genio",
+      "image": "https://static.cupid.travel/hotels/26258990.jpg",
+      "description": "Hotel Genio features a captivating rooftop terrace that offers panoramic views of Rome, making it an ideal place to relax and soak in the cityscape. Each air-conditioned room is designed for comfort with modern amenities, including a TV and minibar. Guests can enjoy a delicious continental breakfast buffet and benefit from the hotel's prime location just 120 meters from Piazza Navona, surrounded by charming streets filled with wine bars and restaurants, perfect for exploring the city's vibrant attractions.",
+      "highlight": "Hotel Genio boasts a stunning rooftop terrace with panoramic views of Rome and offers air-conditioned rooms with modern amenities.",
+      "price": "$159/night",
+      "location": "Via Giuseppe Zanardelli 28",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35fec",
+      "name": "Hotel Concordia",
+      "image": "https://static.cupid.travel/hotels/22236928.jpg",
+      "description": "Hotel Concordia invites you to enjoy breathtaking views from its rooftop terrace, where you can admire the historic center and St. Peter's Dome. The elegantly designed air-conditioned rooms, housed in an 18th-century building, feature modern amenities like satellite TV and private bathrooms, with some offering charming balconies. Perfectly situated in the heart of Rome, the hotel is just a stroll away from iconic attractions like the Spanish Steps and Trevi Fountain, complemented by personalized services including buffet breakfast and tour organization.",
+      "highlight": "Hotel Concordia boasts a stunning rooftop terrace offering panoramic views of Rome's historic center and St. Peter's Dome.",
+      "price": "$161/night",
+      "location": "Via di Capo Le Case 14",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp31f37",
+      "name": "Hotel Santa Costanza",
+      "image": "https://static.cupid.travel/hotels/ex_fb38167d_z.jpg",
+      "description": "Discover the elegance of Hotel Santa Costanza, perfectly situated in the heart of Rome and just minutes from iconic landmarks. Enjoy the comfort of our 74 air-conditioned rooms, complete with modern amenities, and start your day with a delightful continental breakfast before exploring the city's rich history. With a stylish bar, attentive concierge services, and easy access to public transportation, your stay promises to be both relaxing and enriching.",
+      "highlight": "Offers a rooftop bar with stunning views, alongside 74 air-conditioned rooms and attentive concierge services.",
+      "price": "$138/night",
+      "location": "Viale 21 Aprile, 4",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp20a07",
+      "name": "Hotel Imperiale by OMNIA hotels",
+      "image": "https://static.cupid.travel/hotels/18193682.jpg",
+      "description": "Experience unparalleled luxury at Hotel Imperiale, nestled in a stunning 19th-century building on the famous Via Veneto. Enjoy elegantly designed rooms featuring fine fabrics and modern amenities, including hydromassage baths and flat-screen TVs. Savor gourmet dining at the Gazebo restaurant while being just steps away from iconic attractions like the Spanish Steps and Villa Borghese park, making it the perfect base for your Roman adventure.",
+      "highlight": "Boasts a rooftop bar offering stunning views and gourmet dining in a luxurious 19th-century setting.",
+      "price": "$264/night",
+      "location": "Via Vittorio Veneto 24",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2c23d",
+      "name": "Hotel Capo d´África – Colosseo",
+      "image": "https://static.cupid.travel/hotels/197616695.jpg",
+      "description": "Experience a luxurious retreat just steps from the iconic Coliseum at Hotel Capo D’Africa, where contemporary Italian art meets modern comfort in air-conditioned rooms. Enjoy breathtaking city views while indulging in a buffet breakfast on the rooftop terrace, or unwind with cocktails at the Centrum Bar and traditional Roman dishes at L'Attico restaurant. With complimentary Wi-Fi, a fitness center, and easy access to public transport, your stay promises both convenience and exceptional service.",
+      "highlight": "Boasts a stunning rooftop terrace offering breathtaking city views, along with a bar and restaurant serving traditional Roman dishes.",
+      "price": "$221/night",
+      "location": "Via Capo d'Africa 54",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44b99",
+      "name": "Hotel Azzurra",
+      "image": "https://static.cupid.travel/hotels/576010802.jpg",
+      "description": "Hotel Azzurra boasts a prime location just steps from Barberini Metro Station, making it an excellent starting point for discovering Rome's renowned sights. Guests can unwind in air-conditioned rooms featuring modern conveniences like flat-screen TVs and private bathrooms. With attractions such as the Spanish Steps and Quirinal Hill within walking distance, this hotel offers both comfort and easy access to the city's vibrant culture.",
+      "highlight": "Hotel Azzurra features a rooftop bar that offers stunning views of Rome's skyline, along with soundproof rooms for tranquility.",
+      "price": "$478/night",
+      "location": "Via Del Boccaccio 25",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-rome-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:41:48.465Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

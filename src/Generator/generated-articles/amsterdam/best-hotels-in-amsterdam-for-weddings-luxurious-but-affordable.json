@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "best hotels in Amsterdam for weddings luxury and affordable",
+  "title": "Best hotels in Amsterdam for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Amsterdam can be a daunting task, especially when balancing luxury and affordability. This curated list highlights some of the best venues that offer exquisite settings without breaking the bank, ensuring couples can create unforgettable memories in a stunning city. Whether you desire a romantic canal view or a chic urban backdrop, these hotels provide both elegance and budget-friendly options.",
+  "intro": "Discover the ideal blend of luxury and affordability with our guide to the best hotels in Amsterdam for weddings.",
+  "hotels": [
+    {
+      "id": "lp4517a",
+      "name": "Hotel de Munck",
+      "image": "https://static.cupid.travel/hotels/58605607.jpg",
+      "description": "Experience the perfect blend of riverside tranquility and city excitement at Hotel de Munck, located along the scenic Amstel River. Each guest room features a private bathroom for maximum comfort, with family-friendly options available as well. Just a short walk from tram stops and vibrant shopping streets, this hotel also boasts a beautiful garden that bursts with color in the summer, making it an ideal retreat for all travelers.",
+      "highlight": "Boasts a serene Japanese garden, private bathrooms in every room, and family-friendly accommodations near vibrant shopping and tram access.",
+      "price": "$200/night",
+      "location": "Achtergracht 1-3",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp379db",
+      "name": "Hotel Artemis Amsterdam",
+      "image": "https://static.cupid.travel/hotels/76561285.jpg",
+      "description": "Experience contemporary elegance at Dutch Design Hotel Artemis, where stylish rooms showcase natural materials and Dutch art, complete with designer desk chairs and complimentary WiFi. Stay active in the well-equipped gym or unwind on the serene waterside terrace. With 11 multifunctional meeting spaces, this hotel is perfect for business travelers seeking a productive stay just minutes from Amsterdam's city center.",
+      "highlight": "Features 11 multifunctional meeting spaces, soundproof rooms, and a serene waterside terrace for a memorable wedding experience.",
+      "price": "$76/night",
+      "location": "John M. Keynesplein 2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp351e5",
+      "name": "ibis Amsterdam City West",
+      "image": "https://static.cupid.travel/hotels/11826910.jpg",
+      "description": "Experience modern comfort at ibis Amsterdam City West, conveniently located just 1 km from Amsterdam Sloterdijk Station. Enjoy a vibrant bar and a delightful à-la-carte restaurant with a terrace, plus a weekend breakfast buffet until 11:00. With easy access to public transportation and city bikes for hire, exploring Amsterdam's attractions has never been easier.",
+      "highlight": "Offers soundproof rooms, a vibrant bar, and an à-la-carte restaurant with terrace dining for wedding celebrations.",
+      "price": "$92/night",
+      "location": "Transformatorweg 36",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp23657c",
+      "name": "Hotel van Gelder",
+      "image": "https://static.cupid.travel/hotels/440591181.jpg",
+      "description": "Hotel van Gelder boasts a prime location in the heart of Amsterdam, just steps from iconic attractions like Beurs van Berlage and Rembrandt House. Guests can enjoy comfortable rooms equipped with modern amenities, including cozy seating areas, flat-screen TVs, and free WiFi. With inviting common areas and cycling opportunities nearby, this hotel is the perfect base for a relaxing and culturally enriching stay in the city.",
+      "highlight": "Hotel van Gelder offers comfortable rooms with modern amenities, a prime location near iconic attractions, and exclusive wine events.",
+      "price": "$138/night",
+      "location": "Damrak 34",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6ed67",
+      "name": "Hotel Amsterdam Inn",
+      "image": "https://static.cupid.travel/hotels/36439733.jpg",
+      "description": "Hotel Amsterdam Inn is ideally situated just 200 meters from the lively Leidseplein, providing easy access to major attractions like Museumplein, which is only a short 9-minute stroll away. Guests can enjoy functional, brightly colored rooms with free Wi-Fi and private bathrooms, ensuring comfort during their stay. With a 24-hour front desk and an array of nearby cafes and restaurants, this hotel is the perfect base for exploring Amsterdam's vibrant culture.",
+      "highlight": "Boasts functional, brightly colored rooms with free Wi-Fi and private bathrooms, just 200 meters from Leidseplein.",
+      "price": "$94/night",
+      "location": "Leidsegracht 111",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp53b3d",
+      "name": "Hotel Flipper Amsterdam",
+      "image": "https://static.cupid.travel/hotels/178533561.jpg",
+      "description": "Hotel Flipper Amsterdam is ideally located in the Berlage Quarter, offering budget-friendly accommodations near the scenic Amstel River and easy access to the Amsterdam RAI Congress Centre. Guests can choose from rooms with shared or private bathrooms, all featuring LED TVs and complimentary Wi-Fi, while the cozy lobby lounge with a fireplace provides a perfect spot to unwind. With 24-hour reception services, free internet access, and bike rentals available, this hotel ensures a convenient and enjoyable stay in the vibrant city of Amsterdam.",
+      "highlight": "Offers budget-friendly accommodations with family rooms, private check-in/out, and convenient access to the Amstel River.",
+      "price": "$89/night",
+      "location": "Borssenburgstraat 5",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-amsterdam-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:46:29.273Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

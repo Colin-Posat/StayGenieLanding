@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "cheap safe clean hotels in Amsterdam",
+  "title": "Best cheap, safe, and clean hotels in Amsterdam",
+  "excerpt": "Finding affordable, safe, and clean hotels in Amsterdam can be a daunting task, especially with the city's vibrant yet bustling atmosphere. This curated list not only highlights budget-friendly options but also ensures that travelers can enjoy peace of mind while exploring the rich culture and stunning canals of the city. Each selection has been vetted for quality, making it easier for you to focus on your adventure rather than your accommodations.",
+  "intro": "Discover the top budget-friendly hotels in Amsterdam that prioritize safety and cleanliness without compromising on comfort.",
+  "hotels": [
+    {
+      "id": "lp66c30",
+      "name": "XO Hotels Park West",
+      "image": "https://static.cupid.travel/hotels/274397740.jpg",
+      "description": "XO Hotels Park West boasts a prime location in the Sloterdijk district, providing easy access to iconic sites like the Anne Frank House and Royal Palace Amsterdam. Guests can relax in modern, air-conditioned rooms featuring free WiFi and flat-screen TVs, while enjoying amenities such as a shared lounge and private parking. With attentive multilingual staff available 24/7 and convenient on-site vending machines, your stay promises both comfort and exceptional service.",
+      "highlight": "XO Hotels Park West offers modern, air-conditioned rooms with free WiFi and flat-screen TVs, plus 24/7 multilingual staff service.",
+      "price": "$88/night",
+      "location": "Molenwerf 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp53b3d",
+      "name": "Hotel Flipper Amsterdam",
+      "image": "https://static.cupid.travel/hotels/178533561.jpg",
+      "description": "Hotel Flipper Amsterdam is ideally located in the charming Berlage Quarter, just steps from the Amstel River and close to the Amsterdam RAI Congress Centre, making it perfect for both business and leisure travelers. Guests can choose from budget-friendly rooms with shared or private bathrooms, all featuring LED TVs and free Wi-Fi, and relax in the cozy lobby lounge by the fireplace. With 24-hour reception, complimentary internet access, bicycle rentals, and easy tram links to city attractions, Hotel Flipper ensures a convenient and enjoyable stay in Amsterdam.",
+      "highlight": "Offers budget-friendly rooms with free Wi-Fi, LED TVs, and 24-hour reception in the charming Berlage Quarter.",
+      "price": "$89/night",
+      "location": "Borssenburgstraat 5",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6a51c",
+      "name": "Hotel Old Quarter",
+      "image": "https://static.cupid.travel/hotels/583388170.jpg",
+      "description": "Nestled in a historic building just 300 meters from Amsterdam Central Station, Hotel Old Quarter blends charm and convenience for an unforgettable stay. Guests can unwind in cozy, individually decorated rooms and indulge in a delicious breakfast or traditional Dutch snacks at the on-site restaurant and bar. With the bustling Red Light District and iconic attractions like Dam Square within walking distance, this hotel offers easy access to the vibrant heart of Amsterdam.",
+      "highlight": "Offers cozy, individually decorated rooms and a convenient location just 300 meters from Amsterdam Central Station.",
+      "price": "$88/night",
+      "location": "Warmoesstraat 22",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6ed67",
+      "name": "Hotel Amsterdam Inn",
+      "image": "https://static.cupid.travel/hotels/36439733.jpg",
+      "description": "Hotel Amsterdam Inn is ideally situated just 200 meters from the lively Leidseplein, providing easy access to major attractions like Museumplein within a short walk. Guests can unwind in brightly colored, simply furnished rooms, each featuring a private bathroom and some equipped with a TV and desk. With a 24-hour front desk and a variety of nearby cafes and restaurants, you can enjoy both comfort and convenience during your stay in Amsterdam.",
+      "highlight": "Offers brightly colored rooms with private bathrooms, a 24-hour front desk, and outdoor CCTV for enhanced security.",
+      "price": "$94/night",
+      "location": "Leidsegracht 111",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa7e1b",
+      "name": "Hotel Heye 130",
+      "image": "https://static.cupid.travel/hotels/93821638.jpg",
+      "description": "Hotel Heye 130 offers a prime location in Amsterdam, just steps away from iconic attractions like Leidseplein and the Anne Frank House. Guests will enjoy modern, non-smoking rooms with amenities such as flat-screen TVs and complimentary WiFi, along with access to a shared lounge and concierge services. With bike rentals available and a multilingual staff ready to assist, exploring the city's enchanting canals and vibrant streets is both easy and enjoyable.",
+      "highlight": "Hotel Heye 130 features modern, non-smoking rooms, complimentary WiFi, and bike rentals near iconic Amsterdam attractions.",
+      "price": "$90/night",
+      "location": "Jan Pieter Heijestraat 130",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5434c",
+      "name": "Hotel Tourist Inn",
+      "image": "https://static.cupid.travel/hotels/ex_06eee0e2_z.jpg",
+      "description": "Experience the charm of Amsterdam at Hotel Tourist Inn, a cozy retreat featuring 36 modern, air-conditioned rooms with LCD televisions and free Wi-Fi. Start your mornings with a complimentary continental breakfast and enjoy a drink at the inviting bar or coffee shop. Ideally located just minutes from iconic attractions like Dam Square and the Anne Frank House, this hotel is the perfect base for your city adventures.",
+      "highlight": "Offers 36 modern, air-conditioned rooms, free Wi-Fi, and complimentary breakfast minutes from Dam Square and the Anne Frank House.",
+      "price": "$198/night",
+      "location": "Spuistraat 52",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-amsterdam",
+  "generatedAt": "2025-11-04T02:20:08.124Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

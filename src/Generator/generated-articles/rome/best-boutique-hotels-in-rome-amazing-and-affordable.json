@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "boutique hotels in Rome affordable and stylish",
+  "title": "Best boutique hotels in Rome: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Rome can be a daunting task, especially when balancing style and affordability. This curated list highlights charming accommodations that not only offer unique aesthetics but also fit within your budget, ensuring you experience the rich culture of the city without overspending. Whether you seek modern elegance or classic charm, these hotels provide an unforgettable stay in the heart of Italy's capital.",
+  "intro": "Discover a selection of Rome's best boutique hotels that combine style and affordability, making your Italian getaway both memorable and budget-friendly.",
+  "hotels": [
+    {
+      "id": "lp46dcf",
+      "name": "Hotel Cassia",
+      "image": "https://static.cupid.travel/hotels/159134473.jpg",
+      "description": "Nestled in the serene northern part of Rome, Hotel Cassia offers a peaceful retreat away from the city's hustle and bustle. Guests can easily access major attractions such as the archaeological park of Veio, Lake Bracciano, and the Vatican City, making it an ideal base for exploration. With elegantly decorated rooms and attentive service, this hotel guarantees a comfortable and memorable stay for every traveler.",
+      "highlight": "Boasts elegantly decorated rooms, a Japanese garden, and convenient access to major attractions like the Vatican City.",
+      "price": "$84/night",
+      "location": "Via Cassia 1736",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44d3d",
+      "name": "Hotel Ferrari",
+      "image": "https://static.cupid.travel/hotels/23761358.jpg",
+      "description": "Experience comfort at Hotel Ferrari, where modern rooms feature complimentary Wi-Fi, TVs, and private bathrooms with essential amenities. Begin your day with a delightful buffet breakfast offering a variety of sweet and savory options, all served fresh each morning. Ideally located just 100 meters from Rome Termini Train and Metro Station, you can easily explore nearby attractions, including the stunning Basilica di Santa Maria Maggiore and the iconic Coliseum.",
+      "highlight": "Offers modern rooms with complimentary Wi-Fi, TVs, private bathrooms, and a daily buffet breakfast, just 100 meters from Termini Station.",
+      "price": "$98/night",
+      "location": "Via Giovanni Amendola 95, 4th Floor",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d8c4",
+      "name": "Hotel Capannelle Roma",
+      "image": "https://static.cupid.travel/hotels/84852453.jpg",
+      "description": "Experience comfort at Hotel Capannelle, where modern air-conditioned rooms feature stylish décor, free WiFi, and options for serene garden views or private terraces. Start your day with convenient breakfast boxes, perfect for guests on the go or those who prefer the luxury of breakfast in bed. Ideally situated just 6 km from Rome Ciampino Airport and 10 km from the historic center, the hotel provides easy access to nearby attractions like Quintili Villa and Capannelle Racecourse.",
+      "highlight": "Hotel Capannelle Roma offers modern air-conditioned rooms, free WiFi, serene garden views, and convenient breakfast boxes.",
+      "price": "$81/night",
+      "location": "Via Siderno 37",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4522b",
+      "name": "Hotel Gabriele",
+      "image": "https://static.cupid.travel/hotels/83609716.jpg",
+      "description": "Hotel Gabriele offers a prime location in Rome's Central Station district, just a short walk from iconic sites such as Santa Maria Maggiore and the Termini Train Station. Guests can enjoy modern comforts, including free WiFi, air-conditioned rooms with essential amenities, and convenient access to nearby metro stations. With Rome Ciampino Airport only 14 km away, exploring the city is both easy and enjoyable at this welcoming hotel.",
+      "highlight": "Hotel Gabriele provides air-conditioned rooms, free WiFi, and easy access to metro stations in Rome's Central Station district.",
+      "price": "$87/night",
+      "location": "Via Principe Amedeo 76",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42e8e",
+      "name": "Hotel Antico Acquedotto",
+      "image": "https://static.cupid.travel/hotels/119270875.jpg",
+      "description": "Hotel Antico Acquedotto provides budget-friendly accommodations in a serene residential area near a historic aqueduct, with excellent transport links to Rome's famous attractions. Guests can unwind in comfortable rooms featuring free Wi-Fi and some with private balconies, while the hotel's three terraces offer breathtaking city views. Enjoy a tranquil retreat just a short stroll from the vibrant Pigneto district, known for its trendy nightlife and dining options.",
+      "highlight": "Hotel Antico Acquedotto offers budget-friendly rooms with free Wi-Fi, three scenic terraces, and easy access to public transport.",
+      "price": "$97/night",
+      "location": "Via Di Villa Serventi 9",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp36305",
+      "name": "Hotel Raganelli",
+      "image": "https://static.cupid.travel/hotels/575420951.jpg",
+      "description": "Hotel Raganelli combines luxury and comfort with its elegant rooftop terrace and attentive staff, ensuring a memorable experience. Ideally located near Ergife Congress Centre and the Vatican, the hotel features modern rooms equipped with satellite TV and soundproof windows. Guests can relax in the serene garden and enjoy a delightful buffet breakfast while taking in stunning views, making it the perfect retreat in Rome.",
+      "highlight": "Hotel Raganelli offers a rooftop terrace, modern soundproof rooms, and a serene garden for guests to enjoy.",
+      "price": "$87/night",
+      "location": "Via Aurelia 734/8",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-rome-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:59:36.660Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

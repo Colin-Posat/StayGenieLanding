@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "hotels for families with kids in Singapore",
+  "title": "Amazing hotels for families with kids in Singapore",
+  "excerpt": "Finding the perfect family-friendly hotel in Singapore can be a daunting task, as parents seek accommodations that cater to both comfort and fun for their children. This curated list highlights hotels that not only provide essential amenities but also offer unique experiences to keep kids entertained, making your family vacation both enjoyable and stress-free. With options ranging from themed rooms to engaging activities, these hotels ensure that the whole family has a memorable stay in the vibrant city.",
+  "intro": "Discover a selection of amazing hotels in Singapore that are perfect for families traveling with kids, combining comfort, convenience, and plenty of fun.",
+  "hotels": [
+    {
+      "id": "lp35dc5",
+      "name": "Shangri-La Rasa Sentosa, Singapore",
+      "image": "https://static.cupid.travel/hotels/606515327.jpg",
+      "description": "Experience the tropical charm of Shangri-La Rasa Sentosa in Singapore, a beachfront paradise designed for families and sun enthusiasts alike. With thrilling sea sports, fun-filled pools, and a 24-hour gym amidst lush surroundings, there's something for everyone. Relish exquisite dining options, including the Silver Shell Cafe, and unwind in spacious guestrooms featuring private balconies with stunning views of the South China Sea.",
+      "highlight": "Offers thrilling sea sports, outdoor kids play areas, and spacious guestrooms with private balconies overlooking the South China Sea.",
+      "price": "$311/night",
+      "location": "101 Siloso Road Sentosa",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9b7e8",
+      "name": "D'Resort @ Downtown East",
+      "image": "https://static.cupid.travel/hotels/441631547.jpg",
+      "description": "Discover the serene D'Resort @ Downtown East, where nature meets adventure in a lush setting. Enjoy endless fun at the integrated water park, indulge in delectable dishes at the on-site restaurant, and relax in modern, air-conditioned rooms equipped with essential amenities. Experience the ideal getaway that combines relaxation and excitement—book your stay today to embrace the tranquility of nature.",
+      "highlight": "D'Resort @ Downtown East offers family rooms, a water park, and a serene Japanese garden for an adventurous stay.",
+      "price": "$141/night",
+      "location": "1 Pasir Ris Close",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp79831",
+      "name": "Resorts World Sentosa - Equarius Villas",
+      "image": "https://static.cupid.travel/hotels/31814633.jpg",
+      "description": "Experience the ultimate luxury at Equarius Villas located in Resorts World Sentosa, where each air-conditioned villa features a private pool and breathtaking views of the sea and forest. Enjoy exclusive amenities including spacious pool terraces, a rainshower, and plush bedding, while being just moments away from attractions like Universal Studios Singapore. With personalized service, 24-hour butlers, and diverse dining options, your stay promises to be both comfortable and unforgettable.",
+      "highlight": "Offers luxurious air-conditioned villas with private pools, spacious terraces, and 24-hour butler service near Universal Studios Singapore.",
+      "price": "$1388/night",
+      "location": "8 Sentosa Gateway",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp59dce",
+      "name": "Hotel 81 Premier Star",
+      "image": "https://static.cupid.travel/hotels/40718552.jpg",
+      "description": "Hotel 81 (Premier) Star is ideally located in the lively Geylang area, just a short stroll from Aljunied MRT Station, making it perfect for city exploration. Guests will enjoy modern air-conditioned rooms equipped with satellite TV, a minibar, and free WiFi, along with private bathrooms featuring hot showers. With a 24-hour front desk offering tour arrangements and laundry services, your stay promises to be comfortable and hassle-free.",
+      "highlight": "Features modern air-conditioned rooms with free WiFi, satellite TV, and 24-hour front desk services for a comfortable family stay.",
+      "price": "$62/night",
+      "location": "31 Lorong 18 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp226a0",
+      "name": "Holiday Inn Singapore Atrium, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/457336125.jpg",
+      "description": "Experience the heart of Singapore at Holiday Inn Singapore Atrium, where Havelock MRT Station is just steps away, making it easy to explore the city's attractions. Savor diverse dining options, from a halal-certified buffet to an award-winning Cantonese restaurant, and unwind by the pools or in the 24-hour gym. Ideal for events with 13 versatile function rooms, the hotel also welcomes families with complimentary stays and dining for kids, ensuring a comfortable and enjoyable stay for all.",
+      "highlight": "Offers complimentary stays and dining for kids, along with a pool and diverse dining options.",
+      "price": "$250/night",
+      "location": "317 Outram Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c49d",
+      "name": "Goodwood Park Hotel",
+      "image": "https://static.cupid.travel/hotels/13769170.jpg",
+      "description": "Goodwood Park Hotel offers a luxurious retreat with two inviting pools, a rejuvenating spa, and complimentary Wi-Fi, ensuring a comfortable stay. Guests can indulge in a diverse culinary journey with six dining options, ranging from local favorites at The Coffee Lounge to European delicacies at Gordon Grill. Situated near Far East Plaza and Orchard MRT Station, the hotel provides easy access to vibrant shopping and nightlife, making it the perfect base for an unforgettable experience.",
+      "highlight": "Goodwood Park Hotel boasts family rooms, two inviting pools, and diverse dining options, ensuring a comfortable and enjoyable stay.",
+      "price": "$355/night",
+      "location": "22 Scotts Road",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-singapore",
+  "generatedAt": "2025-11-04T01:35:43.686Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

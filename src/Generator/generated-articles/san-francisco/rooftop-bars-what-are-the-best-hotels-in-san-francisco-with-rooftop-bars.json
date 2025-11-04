@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "hotels in San Francisco with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in San Francisco with rooftop bars",
+  "excerpt": "Finding hotels in San Francisco that feature rooftop bars can be a daunting task, as many establishments overlook this unique offering in favor of more traditional amenities. This curated list highlights the best hotels where you can enjoy stunning skyline views while sipping a cocktail, making it a valuable resource for travelers seeking a memorable experience. Whether you're in the city for business or leisure, these rooftop bars add an extra layer of enjoyment to your stay.",
+  "intro": "Discover the top hotels in San Francisco that not only provide luxurious accommodations but also feature breathtaking rooftop bars for an unforgettable experience.",
+  "hotels": [
+    {
+      "id": "lpa7752",
+      "name": "Hotel Via",
+      "image": "https://static.cupid.travel/hotels/101238725.jpg",
+      "description": "Experience modern luxury at Hotel Via, where stylish accommodations feature custom-made furniture and breathtaking views of Oracle Park and the city skyline. Enjoy the stunning rooftop bar, offering 360-degree vistas and a menu of seasonal cocktails and small plates. With convenient amenities like a 24-hour front desk, fitness center, and proximity to attractions such as Union Square, your stay will be both comfortable and unforgettable.",
+      "highlight": "Hotel Via boasts a stunning rooftop bar with 360-degree views and a menu of seasonal cocktails and small plates.",
+      "price": "$557/night",
+      "location": "138 King St.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f958",
+      "name": "Galleria Park Hotel",
+      "image": "https://static.cupid.travel/hotels/141143783.jpg",
+      "description": "Experience the elegance of Galleria Park, A Joie de Vivre Hotel, where custom-furnished rooms feature marble-topped desks and contemporary art, alongside modern amenities like flat-screen TVs and espresso machines. Relax on the rooftop terrace, complete with an urban garden and walking track, offering stunning views and a peaceful retreat in the city. Ideally situated in Union Square, guests can easily explore nearby shopping, dining, and entertainment, as well as access transportation options for effortless travel.",
+      "highlight": "Boasts a rooftop terrace with an urban garden and stunning views, providing a serene escape in the heart of San Francisco.",
+      "price": "$571/night",
+      "location": "191 Sutter St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3c9d4",
+      "name": "Orchard Garden Hotel",
+      "image": "https://static.cupid.travel/hotels/160901492.jpg",
+      "description": "Discover tranquility in the bustling city at Orchard Garden Hotel, where a rooftop garden and patio provide breathtaking views for a serene escape. Savor sustainable American cuisine at Roots, the on-site restaurant, featuring a delectable breakfast menu crafted from fresh, eco-friendly ingredients. Enjoy modern amenities like free WiFi, a fully equipped cardio room, and personalized concierge services to elevate your stay.",
+      "highlight": "Offers a rooftop garden with stunning views and an on-site restaurant serving sustainable American cuisine.",
+      "price": "$646/night",
+      "location": "466 Bush St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp36e1d",
+      "name": "1 Hotel San Francisco",
+      "image": "https://static.cupid.travel/hotels/314106052.jpg",
+      "description": "Experience breathtaking waterfront views at 1 Hotel San Francisco, ideally situated along the Embarcadero. Each room offers plush amenities, including cozy bathrobes and a flat-screen TV, while the outdoor rooftop terrace provides a perfect spot to unwind. With a 24-hour business center and proximity to iconic attractions like Oracle Park and the Golden Gate Bridge, this hotel combines luxury and convenience for an unforgettable stay.",
+      "highlight": "Boasts a stunning rooftop terrace with outdoor furniture and panoramic waterfront views, enhancing your stay at 1 Hotel San Francisco.",
+      "price": "$2611/night",
+      "location": "8 Mission St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19efc",
+      "name": "InterContinental Mark Hopkins San Francisco, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/413363356.jpg",
+      "description": "Experience the elegance of the InterContinental Mark Hopkins San Francisco, a historic landmark offering luxurious rooms equipped with modern amenities such as mini-bars and bathrobes. Savor gourmet dishes and breathtaking views at the Top of the Mark sky lounge, featuring an impressive selection of 100 martinis. With 24-hour fitness facilities, a business center, and attentive services, this hotel is perfect for both business travelers and vacationers seeking comfort and style.",
+      "highlight": "Boasts the Top of the Mark rooftop bar, offering gourmet dining and stunning views alongside an extensive martini selection.",
+      "price": "$930/night",
+      "location": "999 California Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1c406",
+      "name": "Hotel Triton",
+      "image": "https://static.cupid.travel/hotels/454251715.jpg",
+      "description": "Hotel Triton captures the artistic essence of San Francisco with its vibrant design by local artists, reflecting the dynamic Bay Area culture. Ideally located near Chinatown and Union Square, guests can enjoy complimentary WiFi, wine receptions, and a well-equipped fitness center, ensuring both convenience and value. Delight in sweet treats, gourmet coffee, and on-site dining, making your stay at Hotel Triton a memorable blend of art, culture, and comfort.",
+      "highlight": "Boasts a rooftop bar with stunning views, an art gallery showcasing local artists, and a well-equipped fitness center.",
+      "price": "$398/night",
+      "location": "342 Grant Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-san-francisco-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:28:16.454Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

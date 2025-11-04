@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "hotels in Los Angeles under 100 dollars and clean",
+  "title": "What are the best hotels in Los Angeles under $100 and clean",
+  "excerpt": "Finding clean and affordable hotels in Los Angeles can feel like searching for a needle in a haystack, especially with the city's reputation for luxury accommodations. This curated list not only highlights budget-friendly options but also ensures that each hotel meets cleanliness standards, making your stay comfortable and worry-free. By focusing on these criteria, travelers can enjoy the vibrant culture of LA without breaking the bank or compromising on quality.",
+  "intro": "Explore the top hotels in Los Angeles that offer both affordability and cleanliness, perfect for budget-conscious travelers seeking a memorable stay.",
+  "hotels": [
+    {
+      "id": "lp65584464",
+      "name": "Kings Castle Motel",
+      "image": "https://static.cupid.travel/hotels/ex_c545163f_z.jpg",
+      "description": "Experience the Kings Castle Motel in Los Angeles, a prime location just minutes from attractions like the University of Southern California and BMO Stadium. Enjoy the comfort of 19 air-conditioned rooms featuring LED TVs and free Wi-Fi, along with daily housekeeping for a hassle-free stay. With nearby highlights such as Exposition Park and SoFi Stadium, this motel is the perfect base for exploring the best of the city.",
+      "highlight": "Offers 19 air-conditioned rooms with LED TVs, free Wi-Fi, and daily housekeeping in a clean environment.",
+      "price": "$97/night",
+      "location": "7006 S Broadway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa5271",
+      "name": "Satellite Motel",
+      "image": "https://static.cupid.travel/hotels/ex_233bb84d_z.jpg",
+      "description": "Experience the convenience of free self-parking at Satellite Motel, where you can unwind in one of our 17 air-conditioned rooms equipped with complimentary Wi-Fi and cable TV. Located just a short drive from iconic attractions like the University of Southern California and SoFi Stadium, this motel offers a comfortable and accessible base for your Los Angeles adventure. Make Satellite Motel your ideal home away from home during your stay.",
+      "highlight": "Offers 17 air-conditioned rooms with complimentary Wi-Fi, cable TV, and free self-parking for a comfortable stay.",
+      "price": "$86/night",
+      "location": "12012 S Figueroa St.",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp420f4",
+      "name": "Hollywood Stars Inn",
+      "image": "https://static.cupid.travel/hotels/264423202.jpg",
+      "description": "The Hollywood Stars Inn offers a prime location just 2 miles from Grauman’s Chinese Theatre and close to iconic sites like the Hollywood Sign and Wax Museum, making it an ideal base for exploring Los Angeles. Guests will appreciate the modern amenities in each room, including free Wi-Fi, cable TV, and in-room refrigerators, ensuring a comfortable stay. With exceptional services like 24-hour front desk support and free private parking, this hotel perfectly combines convenience and comfort in the heart of Hollywood.",
+      "highlight": "Offers modern rooms with free Wi-Fi, cable TV, and in-room refrigerators, along with 24-hour front desk support and secure parking.",
+      "price": "$105/night",
+      "location": "5435 W Sunset Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp312f3",
+      "name": "Super 8 by Wyndham Hollywood/LA Area",
+      "image": "https://static.cupid.travel/hotels/537709118.jpg",
+      "description": "Experience the magic of Hollywood at our conveniently located hotel, offering breathtaking views of the iconic Hollywood sign. Relax in our cozy guestrooms, complete with modern amenities like free high-speed internet and in-room refrigerators. Perfect for both leisure and business travelers, enjoy complimentary on-site parking and a business center for a seamless stay.",
+      "highlight": "Offers cozy guestrooms with modern amenities, free high-speed internet, and complimentary on-site parking in a prime Hollywood location.",
+      "price": "$100/night",
+      "location": "1536 N Western Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpc69cc",
+      "name": "4 Star Motel",
+      "image": "https://static.cupid.travel/hotels/500357706.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at 4 Star Motel, located in the lively South Los Angeles district near attractions like the California Science Center and Staples Center. Our modern rooms come equipped with flat-screen TVs, air conditioning, and cozy bedding, providing an ideal retreat for both leisure and business travelers. Enjoy exceptional services such as 24-hour front desk assistance and complimentary WiFi, ensuring a seamless stay in the heart of the city.",
+      "highlight": "Offers modern rooms with flat-screen TVs, air conditioning, and complimentary WiFi in South Los Angeles.",
+      "price": "$100/night",
+      "location": "7400 S Figueroa st",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655d4bf9",
+      "name": "Culver City Hostel",
+      "image": "https://static.cupid.travel/hotels/361396329.jpg",
+      "description": "Culver City Hostel boasts a stunning terrace where guests can unwind and soak in breathtaking views of Los Angeles. Enjoy convenient shared amenities like a kitchen and lounge, perfect for socializing with fellow travelers. Ideally situated near Venice Beach and top attractions, this hostel offers the perfect base to experience the vibrant energy of the City of Angels.",
+      "highlight": "Culver City Hostel offers a stunning terrace, shared kitchen, and secure parking in a prime location near Venice Beach.",
+      "price": "$107/night",
+      "location": "4321 Sepulveda Boulevard",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-los-angeles-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:33:58.542Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

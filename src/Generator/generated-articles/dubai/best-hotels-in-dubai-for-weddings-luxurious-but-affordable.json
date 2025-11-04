@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "best hotels in Dubai for weddings luxury and affordable",
+  "title": "Best hotels in Dubai for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel in Dubai for a wedding can be a daunting task, especially when balancing luxury with affordability. This curated list is invaluable for couples seeking stunning venues without breaking the bank, ensuring a memorable celebration that fits their budget. With a range of options, from breathtaking views to exquisite amenities, this guide simplifies the search for your dream wedding location.",
+  "intro": "Discover the top hotels in Dubai that offer the perfect blend of luxury and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp75cc0",
+      "name": "Signature Inn Deira - Free Parking",
+      "image": "https://static.cupid.travel/hotels/ex_92117634_z.jpg",
+      "description": "Experience ultimate relaxation at Signature Inn Deira with a full-service spa offering soothing massages. Enjoy a vibrant outdoor pool, an exciting nightclub, and a variety of dining options including a restaurant and bar/lounge. With complimentary Wi-Fi and a prime location near Dubai’s major attractions, this hotel perfectly blends luxury and convenience for your next getaway.",
+      "highlight": "Boasts a full-service spa, vibrant outdoor pool, nightclub, and diverse dining options, ensuring a luxurious yet affordable stay.",
+      "price": "$64/night",
+      "location": "Al Riqqa Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp78cfa",
+      "name": "White Fort Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_11a8c106_z.jpg",
+      "description": "Discover comfort and convenience at White Fort Hotel, ideally situated in Deira, just moments from the lively Gold Souk and City Centre Deira. Enjoy modern amenities such as complimentary Wi-Fi and a well-equipped business center, along with exceptional dining options including authentic Chinese cuisine and 24-hour room service. Your perfect Dubai getaway awaits, complete with a delightful daily buffet breakfast to start your day.",
+      "highlight": "Offers modern amenities, exceptional dining options, and a convenient location near Gold Souk and City Centre Deira.",
+      "price": "$75/night",
+      "location": "Nasser Square, Near Baniyas",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp766a2",
+      "name": "West Hotel",
+      "image": "https://snaphotelapi.com/hotels/394655239.jpg",
+      "description": "West Hotel offers luxurious, air-conditioned rooms equipped with flat-screen TVs, ensuring a cozy retreat for guests. Perfect for families, the hotel features spacious family rooms and is ideally located near popular attractions like the Grand Mosque and Sahara Centre, as well as being close to Dubai International Airport. Enjoy a welcoming atmosphere and exceptional service, making it the perfect base for your Dubai adventure.",
+      "highlight": "West Hotel offers luxurious, air-conditioned family rooms, a relaxing spa, and convenient room service near Dubai's top attractions.",
+      "price": "$83/night",
+      "location": "Naif Road, Naif, Deira",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp836a5",
+      "name": "Fortune Karama Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_5a1a5f55_z.jpg",
+      "description": "Experience luxury at Fortune Karama Hotel, featuring an on-site nightclub for vibrant nightlife and a modern fitness center for rejuvenation. Guests can enjoy elegantly furnished rooms with minibars, flat-screen TVs, and 24-hour room service, while savoring Indian cuisine at Utsav Restaurant. Ideally situated in the heart of Dubai, the hotel provides easy access to attractions like BurJuman Mall and Dubai Frame, making it perfect for both leisure and business travelers.",
+      "highlight": "Offers a banquet hall, nightclub, and fitness center, along with elegantly furnished rooms and on-site dining options.",
+      "price": "$90/night",
+      "location": "Near karama Metro Station",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp759b5",
+      "name": "Grand Astoria Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_9936ebff_z.jpg",
+      "description": "Experience unparalleled luxury at the Grand Astoria Hotel, nestled in the vibrant heart of Dubai. Indulge in rejuvenating treatments at the full-service spa, savor delicious Tex-Mex cuisine at Pancho Villas, or unwind with cocktails at one of three lively bars. With spacious, air-conditioned rooms featuring modern amenities and jetted bathtubs, your stay promises comfort and relaxation in style.",
+      "highlight": "Offers spacious air-conditioned rooms with jetted bathtubs, a full-service spa, and multiple dining options for a luxurious experience.",
+      "price": "$94/night",
+      "location": "Al Fahidi Street, Bur Dubai",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8e0d7",
+      "name": "SAN MARINO HOTEL",
+      "image": "https://static.cupid.travel/hotels/ex_278989ca_z.jpg",
+      "description": "Experience the ultimate in luxury at SAN MARINO HOTEL in Dubai's Deira district, where you can unwind in both indoor and outdoor pools or stay active in the fully-equipped fitness center. Enjoy convenient amenities such as complimentary Wi-Fi, concierge services, and an on-site hair salon, all designed to meet your needs. Each air-conditioned room is thoughtfully furnished with LED TVs and modern comforts, ensuring a cozy and memorable stay in the heart of the city.",
+      "highlight": "Offers a stunning banquet hall, indoor and outdoor pools, and modern rooms with LED TVs for unforgettable wedding celebrations.",
+      "price": "$61/night",
+      "location": "Frij Al Murar",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-dubai-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:11:49.847Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

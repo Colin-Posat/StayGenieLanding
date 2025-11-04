@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "hotels for families with kids in Los Angeles",
+  "title": "Amazing hotels for families with kids in Los Angeles",
+  "excerpt": "Finding the perfect hotel for families with kids in Los Angeles can be a daunting task, especially with so many options available. This list is valuable because it highlights hotels that not only cater to families but also provide unique amenities and activities that keep both kids and parents entertained. By narrowing down the choices, you can focus on creating unforgettable memories without the stress of endless searching.",
+  "intro": "Discover a curated selection of amazing hotels in Los Angeles that are ideal for families traveling with kids.",
+  "hotels": [
+    {
+      "id": "lp1e5b7",
+      "name": "Hilton Los Angeles-Universal City",
+      "image": "https://static.cupid.travel/hotels/486013092.jpg",
+      "description": "Experience the Hilton Los Angeles-Universal City, perfectly situated near Universal Studios Hollywood. Enjoy spacious, pet-friendly rooms featuring breathtaking views of the city or theme park, and savor diverse dining at the modern Café Sierra. With an outdoor pool, fitness center, and comprehensive concierge services, this hotel is your gateway to explore nearby attractions like the Hollywood Bowl and Downtown Los Angeles.",
+      "highlight": "Offers spacious, pet-friendly rooms, kids meals, a heated outdoor pool, and proximity to Universal Studios Hollywood.",
+      "price": "$213/night",
+      "location": "555 Universal Hollywood Dr",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21348",
+      "name": "Magic Castle Hotel",
+      "image": "https://static.cupid.travel/hotels/132562538.jpg",
+      "description": "Indulge in luxury at the Magic Castle Hotel, where each room features plush bathrobes, a flat-screen cable TV, and suites with full kitchens and living areas for added comfort. Guests can enjoy complimentary Wi-Fi, free snacks, and access to a fitness center and outdoor pool, with babysitting services available for families. Perfectly situated near the Hollywood Walk of Fame and Universal Studios, this hotel promises a magical stay in the heart of Hollywood.",
+      "highlight": "Offers family rooms, an outdoor heated pool, and complimentary snacks, ensuring a comfortable stay for families.",
+      "price": "$281/night",
+      "location": "7025 Franklin Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b5dd",
+      "name": "The London West Hollywood at Beverly Hills",
+      "image": "https://static.cupid.travel/hotels/163317315.jpg",
+      "description": "The London West Hollywood boasts spacious suites equipped with modern amenities, including flat-screen TVs and luxurious walk-in showers with soaking tubs. Guests can delight in gourmet California cuisine at Boxwood restaurant and savor seasonal dishes at The Rooftop, complete with stunning outdoor dining. For fitness enthusiasts, the 24-hour gym and outdoor yoga area offer great options, while the poolside cabanas and on-site salon provide perfect spots for relaxation and pampering.",
+      "highlight": "Offers spacious family rooms, kids meals, and a heated pool for enjoyable family experiences.",
+      "price": "$471/night",
+      "location": "1020 N San Vicente Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp72e28",
+      "name": "Hotel Figueroa, Unbound Collection by Hyatt",
+      "image": "https://static.cupid.travel/hotels/450259144.jpg",
+      "description": "Experience luxury at Hotel Figueroa, nestled in the heart of Downtown LA, where historic Spanish architecture meets modern sophistication. Unwind by the tranquil outdoor pool and savor Mediterranean cuisine at Breva, or enjoy creative cocktails at The Alta Room. Each elegantly designed room features high-speed WiFi, smart technology, and upscale amenities, all just steps away from the vibrant LA Live entertainment district.",
+      "highlight": "Boasts family rooms, a heated outdoor pool, and Mediterranean dining, all in the vibrant Downtown LA area.",
+      "price": "$272/night",
+      "location": "939 S Figueroa St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41dfa",
+      "name": "The Maybourne Beverly Hills, Maybourne Hotel Collection",
+      "image": "https://static.cupid.travel/hotels/597754924.jpg",
+      "description": "Experience unparalleled luxury at The Maybourne Beverly Hills, featuring Frette bathrobes, a stunning rooftop pool, and a rejuvenating spa with a sauna and hot tub. Delight in California-inspired dishes at The Terrace, overlooking the serene Beverly Canon Gardens, and unwind with crafted cocktails at the Maybourne Bar. Ideally situated, this hotel provides easy access to iconic attractions like Crypto.Com Arena and SoFi Stadium, making it the perfect retreat for both relaxation and exploration.",
+      "highlight": "Features family rooms, a heated pool, and board games, ensuring an engaging and comfortable stay for families with children.",
+      "price": "$1360/night",
+      "location": "225 North Canon Drive",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a9fa",
+      "name": "The Garland",
+      "image": "https://static.cupid.travel/hotels/54703366.jpg",
+      "description": "Discover the vibrant charm of The Garland in North Hollywood, where modern amenities meet comfort. Enjoy spacious rooms featuring private balconies, flat-screen TVs, and complimentary coffee, while you relax by the outdoor pool or savor Californian cuisine at The Front Yard. With nearby attractions like Universal Studios and the Hollywood Sign, your stay promises a memorable blend of relaxation and adventure.",
+      "highlight": "Offers family rooms, an outdoor pool, and a hot tub, along with proximity to Universal Studios and the Hollywood Sign.",
+      "price": "$366/night",
+      "location": "4222 Vineland Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-los-angeles",
+  "generatedAt": "2025-11-04T02:23:25.257Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

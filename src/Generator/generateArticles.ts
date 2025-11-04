@@ -1,9 +1,10 @@
 // generateArticles.ts
 // Run this from your frontend/client directory
-// Usage: npx ts-node generateArticles.ts
+// Usage: npx tsx generateArticles.ts
 
 import fs from 'fs';
 import path from 'path';
+import { CITIES_BY_WATER, CITIES_NOT_BY_WATER, type City } from './cities.ts';
 
 const API_BASE_URL = 'http://localhost:3003';
 
@@ -39,109 +40,149 @@ interface ErrorResult {
   error: string;
 }
 
-// Define your article queries here
-const ARTICLE_QUERIES: ArticleQuery[] = [
+// ============================================================================
+// CONFIGURATION - Edit these values to change what articles are generated
+// ============================================================================
+
+// TEST MODE: Set to true to use limited cities and articles for testing
+const TEST_MODE = true;
+
+// Test cities - 15 popular tourist destinations
+const TEST_CITIES: City[] = [
+  { name: "Paris", slug: "paris" },
+  { name: "New York", slug: "new-york" },
+  { name: "London", slug: "london" },
+  { name: "Tokyo", slug: "tokyo" },
+  { name: "Barcelona", slug: "barcelona" },
+  { name: "Rome", slug: "rome" },
+  { name: "Dubai", slug: "dubai" },
+  { name: "Los Angeles", slug: "los-angeles" },
+  { name: "Miami", slug: "miami" },
+  { name: "Las Vegas", slug: "las-vegas" },
+  { name: "San Francisco", slug: "san-francisco" },
+  { name: "Amsterdam", slug: "amsterdam" },
+  { name: "Sydney", slug: "sydney" },
+  { name: "Bangkok", slug: "bangkok" },
+  { name: "Singapore", slug: "singapore" },
+];
+
+// Article templates - 10 different types (will generate all 10 for each city = 150 total)
+interface ArticleTemplate {
+  titleTemplate: string;
+  queryTemplate: string;
+}
+
+const ARTICLE_TEMPLATES: ArticleTemplate[] = [
   {
-    city: "los-angeles",
-    query: "best boutique hotels in los angeles with rooftop bars",
-    title: "Best Boutique Hotels in Los Angeles with Rooftop Bars"
+    titleTemplate: "What are the best dog-friendly hotels in <city>",
+    queryTemplate: "best dog friendly hotels in <city>"
   },
   {
-    city: "new-york",
-    query: "top boutique hotels in new york city with skyline views",
-    title: "Top Boutique Hotels in New York City with Skyline Views"
+    titleTemplate: "What are the best pet-friendly hotels in <city>",
+    queryTemplate: "best pet friendly hotels in <city>"
   },
   {
-    city: "miami",
-    query: "best miami hotels with rooftop pools and ocean views",
-    title: "Best Miami Hotels with Rooftop Pools and Ocean Views"
+    titleTemplate: "Amazing hotels for families with kids in <city>",
+    queryTemplate: "hotels for families with kids in <city>"
   },
   {
-    city: "chicago",
-    query: "best boutique hotels in chicago with rooftop lounges",
-    title: "Best Boutique Hotels in Chicago with Rooftop Lounges"
+    titleTemplate: "Best cheap, safe, and clean hotels in <city>",
+    queryTemplate: "cheap safe clean hotels in <city>"
   },
   {
-    city: "san-francisco",
-    query: "best san francisco boutique hotels near union square",
-    title: "Best San Francisco Boutique Hotels near Union Square"
+    titleTemplate: "What are the best hotels in <city> under $100 and clean",
+    queryTemplate: "hotels in <city> under 100 dollars and clean"
   },
   {
-    city: "portland",
-    query: "cool boutique hotels in portland with rooftop bars",
-    title: "Cool Boutique Hotels in Portland with Rooftop Bars"
+    titleTemplate: "Rooftop Bars: What are the best hotels in <city> with rooftop bars",
+    queryTemplate: "hotels in <city> with rooftop bars"
   },
   {
-    city: "denver",
-    query: "best boutique hotels in denver with mountain views",
-    title: "Best Boutique Hotels in Denver with Mountain Views"
+    titleTemplate: "Best boutique hotels in <city>: Amazing and affordable",
+    queryTemplate: "boutique hotels in <city> affordable and stylish"
   },
   {
-    city: "savannah",
-    query: "most charming boutique hotels in savannah historic district",
-    title: "Most Charming Boutique Hotels in Savannah's Historic District"
+    titleTemplate: "What are the affordable, clean hotels in <city> with breakfast included",
+    queryTemplate: "affordable clean hotels in <city> with breakfast included"
   },
   {
-    city: "charleston",
-    query: "best boutique hotels in charleston with rooftop bars",
-    title: "Best Boutique Hotels in Charleston with Rooftop Bars"
+    titleTemplate: "Best hotels in <city> for women travelers: Safe, clean, and great amenities",
+    queryTemplate: "best hotels in <city> for women travelers"
   },
   {
-    city: "san-diego",
-    query: "best san diego boutique hotels with rooftop bars",
-    title: "Best San Diego Boutique Hotels with Rooftop Bars"
-  },
-  {
-    city: "las-vegas",
-    query: "unique boutique hotels in las vegas off the strip",
-    title: "Unique Boutique Hotels in Las Vegas Off the Strip"
-  },
-  {
-    city: "new-orleans",
-    query: "best boutique hotels in new orleans french quarter",
-    title: "Best Boutique Hotels in New Orleans French Quarter"
-  },
-  {
-    city: "scottsdale",
-    query: "best boutique hotels in scottsdale with rooftop pools",
-    title: "Best Boutique Hotels in Scottsdale with Rooftop Pools"
-  },
-  {
-    city: "austin",
-    query: "cool boutique hotels in austin with live music and rooftop bars",
-    title: "Cool Boutique Hotels in Austin with Live Music and Rooftop Bars"
-  },
-  {
-    city: "seattle",
-    query: "best boutique hotels in seattle with rooftop views",
-    title: "Best Boutique Hotels in Seattle with Rooftop Views"
-  },
-  {
-    city: "nashville",
-    query: "trendy boutique hotels in nashville with rooftop bars",
-    title: "Trendy Boutique Hotels in Nashville with Rooftop Bars"
-  },
-  {
-    city: "philadelphia",
-    query: "best boutique hotels in philadelphia with rooftop restaurants",
-    title: "Best Boutique Hotels in Philadelphia with Rooftop Restaurants"
-  },
-  {
-    city: "san-antonio",
-    query: "boutique hotels in san antonio near river walk",
-    title: "Boutique Hotels in San Antonio near the River Walk"
-  },
-  {
-    city: "boston",
-    query: "best boutique hotels in boston with skyline views",
-    title: "Best Boutique Hotels in Boston with Skyline Views"
-  },
-  {
-    city: "atlanta",
-    query: "best boutique hotels in atlanta with rooftop lounges",
-    title: "Best Boutique Hotels in Atlanta with Rooftop Lounges"
+    titleTemplate: "Best hotels in <city> for weddings: Luxurious but affordable",
+    queryTemplate: "best hotels in <city> for weddings luxury and affordable"
   }
 ];
+
+
+// Which cities to generate articles for when NOT in test mode:
+// Options: 'water', 'non-water', 'both'
+const CITY_TYPE: 'water' | 'non-water' | 'both' = 'both';
+
+// ============================================================================
+
+// Shuffle array using Fisher-Yates algorithm
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
+// Get the appropriate city list based on configuration
+function getCitiesToProcess(): City[] {
+  // If in test mode, return test cities (unshuffled for consistency)
+  if (TEST_MODE) {
+    return TEST_CITIES;
+  }
+  
+  let cities: City[];
+  
+  switch (CITY_TYPE) {
+    case 'water':
+      cities = [...CITIES_BY_WATER];
+      break;
+    case 'non-water':
+      cities = [...CITIES_NOT_BY_WATER];
+      break;
+    case 'both':
+      cities = [...CITIES_BY_WATER, ...CITIES_NOT_BY_WATER];
+      break;
+    default:
+      throw new Error(`Invalid CITY_TYPE: ${CITY_TYPE}`);
+  }
+  
+  // Randomize the order
+  return shuffleArray(cities);
+}
+
+// Replace <city> placeholder with actual city name
+function fillTemplate(template: string, cityName: string): string {
+  return template.replace(/<city>/g, cityName);
+}
+
+// Convert cities to ArticleQuery format
+function createArticleQueries(): ArticleQuery[] {
+  const cities = getCitiesToProcess();
+  const queries: ArticleQuery[] = [];
+  
+  // For each city, create an article for each template
+  for (const city of cities) {
+    for (const template of ARTICLE_TEMPLATES) {
+      queries.push({
+        city: city.slug,
+        query: fillTemplate(template.queryTemplate, city.name),
+        title: fillTemplate(template.titleTemplate, city.name)
+      });
+    }
+  }
+  
+  // Shuffle the final queries for random order
+  return shuffleArray(queries);
+}
 
 // Helper function to create a URL-safe slug
 function createSlug(title: string): string {
@@ -150,8 +191,6 @@ function createSlug(title: string): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
 }
-
-
 
 // Generate a single article and save it locally
 async function generateAndPushArticle(
@@ -222,9 +261,14 @@ async function generateAndPushArticle(
 }
 
 async function generateArticles() {
+  const ARTICLE_QUERIES = createArticleQueries();
+  
   console.log(`\n${'='.repeat(80)}`);
-  console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} queries`);
-  console.log(`   Each article will be pushed to website immediately after generation`);
+  console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} articles`);
+  if (TEST_MODE) {
+    console.log(`   🧪 TEST MODE: Using ${TEST_CITIES.length} cities × ${ARTICLE_TEMPLATES.length} article types`);
+  }
+  console.log(`   Each article will be saved locally after generation`);
   console.log(`${'='.repeat(80)}\n`);
 
   const results: Article[] = [];

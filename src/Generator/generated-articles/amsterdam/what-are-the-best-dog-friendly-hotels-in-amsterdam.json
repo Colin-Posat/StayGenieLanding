@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "best dog friendly hotels in Amsterdam",
+  "title": "What are the best dog-friendly hotels in Amsterdam",
+  "excerpt": "Finding dog-friendly hotels in Amsterdam can be quite the challenge, as not all accommodations are equipped to welcome four-legged guests. This curated list is invaluable for dog owners looking to explore the city's vibrant culture without leaving their furry companions behind. Each hotel on this list has been carefully selected to ensure both comfort and convenience for you and your pet.",
+  "intro": "Discover the top dog-friendly hotels in Amsterdam, where you and your furry friend can enjoy the city's charm together.",
+  "hotels": [
+    {
+      "id": "lp1f923",
+      "name": "NH Amsterdam Leidseplein",
+      "image": "https://static.cupid.travel/hotels/505998730.jpg",
+      "description": "NH Amsterdam Leidseplein combines elegant accommodations with leisure facilities, featuring stylish air-conditioned rooms adorned with hardwood floors and warm crème tones. Located just 250 meters from the lively Leidseplein, guests can easily access top attractions, shopping areas, and vibrant nightlife. Enjoy a refreshing drink at the newly refurbished Bar & Kitchen Copper, making your stay a delightful blend of comfort and style.",
+      "highlight": "Offers pet-friendly accommodations, a hot tub, and a vegetarian menu in a stylish environment near Leidseplein.",
+      "price": "$214/night",
+      "location": "Stadhouderskade 7",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp461a3",
+      "name": "Hotel Clemens Amsterdam",
+      "image": "https://static.cupid.travel/hotels/ex_61116648_z.jpg",
+      "description": "Discover the charm of Amsterdam at Hotel Clemens, ideally located just steps from the Westerkerk and Anne Frank House. Relax in one of our 14 air-conditioned rooms featuring flat-screen TVs and luxurious rainfall showerheads, ensuring a rejuvenating experience. Enjoy complimentary Wi-Fi, daily continental breakfast, and personalized concierge services to enhance your visit.",
+      "highlight": "Offers dog-friendly accommodations along with complimentary breakfast and personalized concierge services for a comfortable stay.",
+      "price": "$286/night",
+      "location": "Raadhuisstraat 39",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1dd2e",
+      "name": "NH Amsterdam Noord",
+      "image": "https://static.cupid.travel/hotels/592883546.jpg",
+      "description": "Experience a luxurious stay at NH Amsterdam Noord, featuring comfortable air-conditioned rooms with complimentary WiFi. Start your day with an enticing international breakfast buffet and enjoy delicious French and Mediterranean cuisine at the Hotelbar King William Food & Drinks. Stay active in the free fitness center or relax in your room after exploring nearby attractions, all within easy reach of the central station.",
+      "highlight": "Offers pet-friendly accommodations with comfortable air-conditioned rooms, complimentary WiFi, and a free fitness center.",
+      "price": "$140/night",
+      "location": "Distelkade 21",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65555479",
+      "name": "INNSiDE by Meliá Amsterdam",
+      "image": "https://static.cupid.travel/hotels/504986783.jpg",
+      "description": "Experience modern comfort at INNSiDE by Meliá Amsterdam, located in the lively Zuidas business district. Enjoy stylish rooms equipped with free WiFi, Netflix, and in-room breakfast service, while the 19th-floor sky bar offers stunning city views alongside exquisite Spanish cuisine and craft cocktails. With close proximity to major attractions and easy access to public transport, your perfect Amsterdam getaway awaits.",
+      "highlight": "Offers pet-friendly accommodations with stylish rooms, outdoor furniture, and family rooms in a central location.",
+      "price": "$198/night",
+      "location": "Eduard van Beinumstraat 40",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65562a76",
+      "name": "Holiday Inn Express Amsterdam - North Riverside, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/269462087.jpg",
+      "description": "Experience comfort at the Holiday Inn Express Amsterdam - North Riverside, located just 1.7 km from the iconic A'DAM Lookout. This 3-star hotel offers air-conditioned rooms with free WiFi, a restaurant, and scenic city views from select rooms. Enjoy a delicious buffet breakfast, relax on the terrace, and take advantage of the multilingual staff and on-site bike hire for outdoor adventures.",
+      "highlight": "Offers pet-friendly accommodations, scenic terrace views, and bike rental services for outdoor exploration.",
+      "price": "$178/night",
+      "location": "Motorkade 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp91f68",
+      "name": "Hotel V Fizeaustraat",
+      "image": "https://static.cupid.travel/hotels/257044924.jpg",
+      "description": "Hotel V Fizeaustraat offers luxurious air-conditioned rooms equipped with modern amenities, including flat-screen TVs and plush seating areas. Guests can unwind on the sun terrace, enjoy drinks at the on-site bar, and take advantage of the 24-hour front desk, WiFi, and private parking. Ideally situated in the vibrant Oost district, the hotel provides easy access to popular attractions and bike hire services for exploring Amsterdam with ease.",
+      "highlight": "Offers dog-friendly accommodations with modern amenities, a sun terrace, and convenient bike hire services for exploring Amsterdam.",
+      "price": "$116/night",
+      "location": "Fizeaustraat 2",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-amsterdam",
+  "generatedAt": "2025-11-04T02:28:00.542Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

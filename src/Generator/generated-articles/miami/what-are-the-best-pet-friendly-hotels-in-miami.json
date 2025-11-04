@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "best pet friendly hotels in Miami",
+  "title": "What are the best pet-friendly hotels in Miami",
+  "excerpt": "Finding pet-friendly hotels in Miami can be quite a challenge, as not all accommodations cater to furry friends. This curated list highlights the best options available, ensuring that both you and your pet can enjoy a comfortable stay without the hassle of searching through countless listings. Whether you're looking for luxury or budget-friendly choices, these hotels provide the perfect balance of amenities and pet-friendly policies.",
+  "intro": "Discover the top pet-friendly hotels in Miami that offer the perfect blend of comfort and convenience for you and your four-legged companion.",
+  "hotels": [
+    {
+      "id": "lp65589896",
+      "name": "The Elser Hotel Miami - An All-Suite Hotel",
+      "image": "https://static.cupid.travel/hotels/489331754.jpg",
+      "description": "The Elser Hotel Miami offers a blend of luxury and comfort with its outdoor swimming pool, fitness center, and a welcoming terrace. Each elegantly designed room features modern amenities, including air conditioning and flat-screen TVs, with select accommodations providing stunning city views and private balconies. Guests can savor a diverse culinary experience at the on-site restaurant, which serves American, Italian, and Mediterranean dishes, with options to cater to various dietary needs.",
+      "highlight": "Offers pet-friendly accommodations along with an infinity pool and a rooftop garden for guests to enjoy.",
+      "price": "$409/night",
+      "location": "398 NE 5th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp19f0a",
+      "name": "InterContinental Miami, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/338436023.jpg",
+      "description": "Discover unparalleled luxury at InterContinental Miami, where elegant accommodations feature marble bathrooms and modern amenities. Indulge in relaxation at mySpa Miami, stay active in the 24-hour fitness center, or enjoy the outdoor pool with stunning Biscayne Bay views. With five diverse dining options, including a Starbucks and a Pan Latin restaurant, your stay combines culinary delights with convenience in the vibrant heart of Miami's business district.",
+      "highlight": "Offers pet-friendly accommodations along with a full-service spa and a heated outdoor pool with stunning Biscayne Bay views.",
+      "price": "$835/night",
+      "location": "100 Chopin Plz",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp42e7e",
+      "name": "Kimpton EPIC Hotel, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/242170411.jpg",
+      "description": "Experience the luxury of Kimpton EPIC Hotel, where stunning floor-to-ceiling windows and private balconies offer breathtaking views of the Miami skyline. Relax in the serene spa or take a refreshing dip in the rooftop pool, while the hotel’s prime location in the financial district provides easy access to local attractions. Enjoy pet-friendly accommodations and delightful water view dining for an unforgettable getaway.",
+      "highlight": "Offers pet-friendly accommodations, a rooftop pool, and stunning views of the Miami skyline from private balconies.",
+      "price": "$571/night",
+      "location": "270 Biscayne Blvd Way",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655746a1",
+      "name": "citizenM Miami Brickell",
+      "image": "https://static.cupid.travel/hotels/417822412.jpg",
+      "description": "Discover modern comfort at citizenM Miami Brickell, where each air-conditioned room features stylish decor, luxurious bedding, and convenient amenities like complimentary WiFi and an iPad. Enjoy a refreshing outdoor pool, a well-equipped fitness center, and on-site dining options that cater to your every need. Ideally situated in the vibrant heart of Miami, just minutes from key attractions and the airport, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Offers pet-friendly services alongside a rooftop garden and outdoor swimming pool for a relaxing stay in Miami.",
+      "price": "$352/night",
+      "location": "11 SE 10th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp69b36",
+      "name": "Aloft Miami Brickell",
+      "image": "https://static.cupid.travel/hotels/614553913.jpg",
+      "description": "Experience the vibrant energy of Aloft Miami Brickell, where you can take a refreshing dip in the outdoor swimming pool and stay connected with complimentary Wi-Fi. This hotel features a business center for your productivity needs and a well-equipped fitness center to maintain your workout routine. Conveniently located near Miami city center and offering airport transfer services, Aloft Miami Brickell is the ideal destination for both leisure and business travelers.",
+      "highlight": "Aloft Miami Brickell provides pet-friendly accommodations, an outdoor swimming pool, and family rooms for a comfortable stay.",
+      "price": "$282/night",
+      "location": "1001 SW 2nd Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp29c7d",
+      "name": "JW Marriott Miami",
+      "image": "https://static.cupid.travel/hotels/489586308.jpg",
+      "description": "Experience luxury at the JW Marriott Hotel Miami, conveniently located near Miami International Airport. Enjoy elegantly furnished rooms with modern amenities, 24-hour room service, and rejuvenating treatments at the Salus Spa. Delight in diverse dining options and explore nearby attractions like the Miami Beach Convention Center and Crandon Golf Course for an unforgettable getaway.",
+      "highlight": "Offers pet-friendly accommodations with elegantly furnished rooms, a pool, and concierge services for a luxurious stay.",
+      "price": "$781/night",
+      "location": "1109 Brickell Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-miami",
+  "generatedAt": "2025-11-04T01:47:12.922Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

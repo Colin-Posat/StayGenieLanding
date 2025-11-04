@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "best dog friendly hotels in Las Vegas",
+  "title": "What are the best dog-friendly hotels in Las Vegas",
+  "excerpt": "Finding dog-friendly hotels in Las Vegas can be quite challenging, as not all accommodations cater to our four-legged friends. This list is valuable because it highlights the best options that offer comfort for both you and your pet, ensuring a memorable stay in the vibrant city. With these recommendations, you can enjoy the excitement of Las Vegas without leaving your furry companion behind.",
+  "intro": "Discover the ultimate guide to the best dog-friendly hotels in Las Vegas, where both you and your pup can experience luxury and fun together.",
+  "hotels": [
+    {
+      "id": "lp22acc",
+      "name": "La Quinta Inn & Suites by Wyndham Las Vegas Nellis",
+      "image": "https://static.cupid.travel/hotels/266345490.jpg",
+      "description": "La Quinta Inn Las Vegas Nellis boasts a prime location just minutes from the bustling Las Vegas Strip, making it ideal for both leisure and business travelers. Guests can enjoy modern amenities including free WiFi, a fitness center, and a 24-hour indoor pool and hot tub. With nearby attractions like the Las Vegas Motor Speedway and easy access to major highways, this hotel offers a perfect base for exploring the vibrant city.",
+      "highlight": "La Quinta Inn & Suites by Wyndham Las Vegas Nellis offers pet-friendly accommodations along with a fitness center and indoor pool.",
+      "price": "$197/night",
+      "location": "4288 N Nellis Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21d89",
+      "name": "Embassy Suites by Hilton Las Vegas",
+      "image": "https://static.cupid.travel/hotels/484877445.jpg",
+      "description": "Embassy Suites Las Vegas boasts a prime location near the University of Nevada and the bustling Las Vegas Strip, offering guests a peaceful retreat. Each spacious suite features modern amenities, including two flat-screen TVs, a microwave, and a separate living area, while the hotel also provides an outdoor pool, business center, and fitness facilities. Enjoy a delightful start to your day with a cooked-to-order breakfast and relax in the evening with complimentary snacks and a vibrant reception at the Three Palms Café.",
+      "highlight": "Embassy Suites by Hilton Las Vegas offers pet-friendly accommodations, an outdoor pool, and modern suites with separate living areas.",
+      "price": "$220/night",
+      "location": "4315 University Center Drive",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp257ea",
+      "name": "DoubleTree by Hilton Las Vegas Airport",
+      "image": "https://static.cupid.travel/hotels/616355879.jpg",
+      "description": "Experience the perfect blend of convenience and comfort at the Doubletree Club Las Vegas Airport hotel, ideally situated just moments from McCarran International Airport and close to the vibrant Las Vegas city center. Enjoy complimentary 24-hour airport shuttle service and on-site dining, along with modern rooms designed for a restful stay. Discover nearby attractions such as the Mandalay Bay Convention Center, exciting casinos, and beautiful parks, ensuring an unforgettable getaway.",
+      "highlight": "Offers pet-friendly accommodations with convenient access to nearby parks and a 24-hour airport shuttle service.",
+      "price": "$172/night",
+      "location": "7250 Pollock Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpafe16",
+      "name": "Skyline Hotel and Casino",
+      "image": "https://static.cupid.travel/hotels/105550379.jpg",
+      "description": "Experience the perfect blend of luxury and excitement at Skyline Hotel and Casino, where stunning city and mountain views await you. Enjoy modern, non-smoking rooms equipped with flat-screen TVs and plush bedding, alongside endless entertainment options including an on-site casino, bar, and outdoor pool. With convenient concierge services and proximity to attractions like Crystals Shopping Center, your unforgettable Las Vegas getaway starts here.",
+      "highlight": "Skyline Hotel and Casino offers pet-friendly accommodations, a heated outdoor pool, and proximity to an on-site casino.",
+      "price": "$141/night",
+      "location": "1741 N. Boulder Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b913",
+      "name": "Westgate Las Vegas Resort & Casino",
+      "image": "https://static.cupid.travel/hotels/ex_2a5a9ce0_z.jpg",
+      "description": "Escape to the Westgate Las Vegas Resort & Casino, where luxury and excitement blend seamlessly. Unwind at the full-service spa, take a refreshing dip in the outdoor pool, or play a match on the tennis courts. With 14 dining options, including the acclaimed Edge Steakhouse, and extensive meeting facilities, this resort caters to both relaxation and business needs, ensuring a memorable stay.",
+      "highlight": "Offers dog-friendly accommodations alongside a full-service spa and an outdoor pool for relaxation and enjoyment.",
+      "price": "$115/night",
+      "location": "3000 Paradise Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655533e6",
+      "name": "Hampton Inn Las Vegas Strip South, NV 89123",
+      "image": "https://static.cupid.travel/hotels/485514858.jpg",
+      "description": "Hampton Inn Las Vegas Strip South offers a blend of luxury and convenience with its outdoor swimming pool, fitness center, and relaxing spa and wellness center. Guests enjoy exceptional service with a 24-hour front desk, free WiFi, and airport transfers, all while being just minutes away from attractions like Shark Reef Aquarium and Crystals Shopping Center. Experience the vibrant energy of Las Vegas with the comfort of a welcoming stay at this 3-star hotel.",
+      "highlight": "Hampton Inn Las Vegas Strip South offers pet-friendly accommodations, a refreshing outdoor pool, and easy access to local attractions.",
+      "price": "$178/night",
+      "location": "7850 Giles Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-las-vegas",
+  "generatedAt": "2025-11-04T01:42:34.617Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "amsterdam",
+  "query": "hotels in Amsterdam with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Amsterdam with rooftop bars",
+  "excerpt": "Finding hotels in Amsterdam with rooftop bars can be a challenge due to the city's vast options and hidden gems. This curated list highlights the best spots where you can enjoy stunning views, refreshing drinks, and a vibrant atmosphere, making your stay truly memorable. Whether you seek a romantic evening or a lively night out, these hotels offer the perfect setting to unwind and soak in the city's charm.",
+  "intro": "Discover the top hotels in Amsterdam that feature breathtaking rooftop bars, perfect for enjoying the city's skyline while sipping your favorite cocktail.",
+  "hotels": [
+    {
+      "id": "lpd55fc",
+      "name": "Hotel Jakarta Amsterdam",
+      "image": "https://static.cupid.travel/hotels/362132237.jpg",
+      "description": "Experience a unique blend of luxury and Indonesian culture at Hotel Jakarta Amsterdam, featuring 200 exquisite rooms, many with balconies overlooking the picturesque river IJ. Savor culinary delights at Café Jakarta and enjoy breathtaking city views from the Sky Bar Malabar on the rooftop. For ultimate relaxation, indulge in the wellness center and swimming pool, all set against the serene backdrop of the river.",
+      "highlight": "Boasts the Sky Bar Malabar with stunning city views, a heated pool, and a tranquil Japanese garden.",
+      "price": "$241/night",
+      "location": "Javakade 766",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp98c9f",
+      "name": "Sir Adam Hotel, part of Sircle Collection",
+      "image": "https://static.cupid.travel/hotels/110055261.jpg",
+      "description": "Discover the Sir Adam Hotel, situated in the iconic A'DAM tower with breathtaking views of the IJ-river and Amsterdam's historic center. Enjoy gourmet dining at The Butcher Social Club and take advantage of unique amenities like the A'DAM LOOKOUT observation deck and flexible event studios. With guided fitness classes and convenient bike rentals, your stay promises both relaxation and adventure.",
+      "highlight": "Boasts a stunning rooftop bar offering panoramic views of Amsterdam and gourmet dining at The Butcher Social Club.",
+      "price": "$184/night",
+      "location": "Overhoeksplein 7",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp225fcf",
+      "name": "nhow Amsterdam Rai",
+      "image": "https://static.cupid.travel/hotels/613541461.jpg",
+      "description": "Discover the vibrant charm of nhow Amsterdam Rai, where bold and stylish rooms offer stunning panoramic views of the city skyline. Enjoy a wealth of amenities, including a well-equipped fitness center and diverse dining options like the lounge bar Moana and the Latin-inspired Selva & Sonora. Perfectly situated in the lively Zuidas district, this hotel provides easy access to the RAI Convention Center, making it an ideal choice for both business and leisure travelers.",
+      "highlight": "Features a rooftop bar with stunning panoramic views, soundproof rooms, and convenient E-bike charging stations.",
+      "price": "$155/night",
+      "location": "Europaboulevard 2b",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8e5dd",
+      "name": "Zoku Amsterdam",
+      "image": "https://static.cupid.travel/hotels/111254702.jpg",
+      "description": "Zoku Amsterdam offers a unique loft living experience with 133 stylish Lofts designed for professionals, featuring a lofted bed, kitchen, and a spacious living area perfect for work and socializing. Enjoy vibrant rooftop social spaces, including a bar and restaurant, and take advantage of convenient amenities like high-speed Wi-Fi and 24/7 access to shared areas. Located near Amsterdam Central Station, Zoku combines work, leisure, and community in a prime city setting.",
+      "highlight": "Zoku Amsterdam features a vibrant rooftop terrace with a bar and restaurant, offering stunning city views and social spaces.",
+      "price": "$247/night",
+      "location": "Weesperstraat 105",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d54d",
+      "name": "Hotel Roemer",
+      "image": "https://static.cupid.travel/hotels/ex_8dbfceed_z.jpg",
+      "description": "Experience the charm of Amsterdam at Hotel Roemer, located in the city's vibrant heart. Enjoy stunning views from the serene terrace and lush garden, and unwind in one of the 37 uniquely designed rooms equipped with modern amenities like espresso makers and luxurious rainfall showerheads. With complimentary Wi-Fi, daily breakfasts, and a dedicated multilingual staff, your stay will be both comfortable and convenient.",
+      "highlight": "Offers a serene rooftop terrace with stunning views, complemented by a lush garden and modern room amenities.",
+      "price": "$156/night",
+      "location": "Roemer Visscherstraat 10",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65f24",
+      "name": "Hotel Vossius Vondelpark",
+      "image": "https://static.cupid.travel/hotels/10834085.jpg",
+      "description": "Experience the perfect blend of historic charm and modern comfort at Hotel Vossius, located just steps from Vondelpark and vibrant Leidseplein. Each cozy room is equipped with contemporary amenities, including flat-screen cable TVs and complimentary toiletries. With luxury boutiques and iconic museums like the Rijksmuseum nearby, adventure awaits right outside your door.",
+      "highlight": "Boasts a scenic rooftop terrace and family rooms, providing a relaxing outdoor space in the heart of Amsterdam.",
+      "price": "$1023/night",
+      "location": "Vossiusstraat 8",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-amsterdam-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:25:57.956Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

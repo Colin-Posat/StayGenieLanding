@@ -1,0 +1,79 @@
+{
+  "city": "plano",
+  "query": "best dog friendly hotels in Plano",
+  "title": "What are the best dog friendly hotels in Plano",
+  "excerpt": "Finding dog-friendly hotels can be a challenge, as not all accommodations openly welcome our furry friends. This list of the best dog-friendly hotels in Plano is valuable for travelers seeking a seamless experience where both they and their pets can feel comfortable and pampered. With these options, you can enjoy your getaway without leaving your beloved companion behind.",
+  "intro": "Discover the top dog-friendly hotels in Plano where you and your four-legged friends can enjoy a memorable stay together.",
+  "hotels": [
+    {
+      "id": "lp76f64",
+      "name": "Hampton Inn & Suites Dallas/Plano-East",
+      "image": "https://static.cupid.travel/hotels/485803861.jpg",
+      "description": "Experience unparalleled comfort at Hampton Inn & Suites Dallas/Plano-East, where modern amenities like microwaves, refrigerators, and cable TV create a relaxing retreat. Enjoy convenient facilities including 24-hour front desk service and free parking, all while being just a short drive from top attractions such as Galleria Dallas and Topgolf. With Dallas-Fort Worth International Airport only 44 km away, your hassle-free getaway starts here.",
+      "highlight": "Offers pet-friendly accommodations, a saltwater pool, and discounted parking for a comfortable stay in Plano.",
+      "price": "$119/night",
+      "location": "2813 E President George Bush Hwy",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp40aa7",
+      "name": "Comfort Suites Plano - Dallas North",
+      "image": "https://static.cupid.travel/hotels/600288138.jpg",
+      "description": "Experience the elegance of Comfort Suites Plano - Dallas North, ideally situated for easy access to Dallas and Frisco attractions. Enjoy a complimentary hot breakfast each morning, relax in the indoor pool or large hot tub, and stay connected with free high-speed internet. Each room comes with modern amenities, including microwaves and refrigerators, ensuring your stay is both comfortable and convenient.",
+      "highlight": "Offers pet-friendly accommodations with an indoor pool, hot tub, and modern amenities like microwaves and refrigerators.",
+      "price": "$110/night",
+      "location": "2301 E Pres George Bush Hwy",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp70858",
+      "name": "Hilton Dallas/Plano Granite Park",
+      "image": "https://static.cupid.travel/hotels/484126145.jpg",
+      "description": "Experience the perfect blend of luxury and convenience at Hilton Dallas/Plano Granite Park, where every room features modern comforts like free Wi-Fi, a flat-screen TV, and a cozy seating area. Take a refreshing dip in the outdoor pool while basking in the Texas sun, and enjoy the hotel's prime location just minutes from downtown Dallas and Hewlett-Packard. Book your stay today and indulge in a relaxing getaway.",
+      "highlight": "Offers pet-friendly accommodations with family rooms and a refreshing outdoor pool for relaxation.",
+      "price": "$287/night",
+      "location": "5805 Granite Pkwy",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp24b78",
+      "name": "Extended Stay America Suites - Dallas - Frankford Road",
+      "image": "https://static.cupid.travel/hotels/485569013.jpg",
+      "description": "Discover the perfect home away from home at Extended Stay America - Dallas - Frankford Road, where every room features a fully equipped kitchen for your culinary needs. Enjoy complimentary amenities such as free WiFi, onsite parking, and a convenient grab-and-go breakfast, all designed to enhance your stay. Ideally situated in Plano, you will have easy access to attractions like Legacy Business Park and Dr. Pepper Ballpark, making it an ideal choice for both business and leisure travelers.",
+      "highlight": "Offers pet-friendly accommodations with fully equipped kitchens and complimentary WiFi for a comfortable stay.",
+      "price": "$115/night",
+      "location": "18470 Dallas Pkwy",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2fbef",
+      "name": "Studio 6-Plano, TX - Dallas - Plano Medical Center",
+      "image": "https://static.cupid.travel/hotels/137125786.jpg",
+      "description": "The Studio 6 Dallas - Plano Medical Center is ideally located just 4.5 miles from the University of Texas at Dallas, making it a prime choice for visitors. Each room features a kitchenette, Wi-Fi, and cable TV for added comfort, while guests can enjoy a complimentary continental breakfast, a fitness room, and convenient laundry facilities. Experience a blend of convenience and relaxation at this inviting hotel.",
+      "highlight": "Offers pet-friendly accommodations with kitchenettes, complimentary breakfast, and convenient laundry facilities for a comfortable stay.",
+      "price": "$72/night",
+      "location": "4704 W Plano Pkwy",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp24240",
+      "name": "Sonesta Simply Suites Plano Frisco",
+      "image": "https://static.cupid.travel/hotels/279698091.jpg",
+      "description": "Sonesta Simply Suites Plano Frisco offers a comfortable home-away-from-home experience with fully equipped suites featuring a kitchen, living area, and DVD player. Guests can enjoy on-site conveniences like a 24-hour reception, a convenience store, and barbecue facilities, perfect for casual gatherings. Located close to vibrant shopping at Legacy Town Center and exciting events at Dr. Pepper Ballpark, this hotel is an ideal base for both relaxation and exploration.",
+      "highlight": "Offers pet-friendly accommodations with fully equipped suites, a convenience store, and barbecue facilities for enjoyable gatherings.",
+      "price": "$120/night",
+      "location": "4701 Legacy Dr",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-plano",
+  "generatedAt": "2025-11-04T00:52:18.875Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

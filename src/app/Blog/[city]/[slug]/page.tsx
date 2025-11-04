@@ -186,15 +186,8 @@ export default async function BlogPostPage({
                 {post.excerpt}
               </p>
             )}
-            <div className="flex items-center gap-2 text-sm text-neutral-500">
-              <time>
-                {new Date().toLocaleDateString('en-US', {
-                  year: 'numeric',
-                  month: 'long',
-                  day: 'numeric',
-                })}
-              </time>
-            </div>
+
+
           </header>
 
           <div className="space-y-12">

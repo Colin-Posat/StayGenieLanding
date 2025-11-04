@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "cheap safe clean hotels in Dubai",
+  "title": "Best cheap, safe, and clean hotels in Dubai",
+  "excerpt": "Navigating the vast options for hotels in Dubai can be overwhelming, especially when searching for affordable accommodations that also prioritize safety and cleanliness. This curated list saves you time and effort by highlighting the best budget-friendly hotels that meet these essential criteria, ensuring you enjoy a comfortable stay without breaking the bank. Discovering these gems allows travelers to experience the vibrant city of Dubai without compromising on quality or peace of mind.",
+  "intro": "In this article, readers will discover the top affordable hotels in Dubai that offer safety and cleanliness without sacrificing comfort.",
+  "hotels": [
+    {
+      "id": "lp4ca41",
+      "name": "Royal Falcon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_6f110a8e_z.jpg",
+      "description": "Experience the vibrant energy of Royal Falcon Hotel, nestled in the heart of Dubai near Al Ghurair Centre and iconic sites like Gold Souk. Enjoy a range of amenities, including a lively nightclub, multiple dining options, and two bars, perfect for unwinding after a day of exploration. Each guestroom is equipped with modern comforts like LED televisions, complimentary Wi-Fi, and private bathrooms, ensuring a relaxing stay in this luxurious setting.",
+      "highlight": "Offers free Wi-Fi, a lively nightclub, and modern guestrooms with LED televisions and private bathrooms for a comfortable stay.",
+      "price": "$69/night",
+      "location": "Salahuddin Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp38409",
+      "name": "Panorama Hotel Deira",
+      "image": "https://static.cupid.travel/hotels/hd/385462690.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Panorama Deira Hotel, ideally situated in Deira near Union Metro Station and Dubai International Airport. Enjoy stunning city views from your room, savor a delicious continental breakfast at Panoramic Café, and unwind at the lively Booze Bar while watching your favorite sports. With easy access to shopping, local attractions, and exciting adventures like sand surfing and camel riding, your stay promises to be both relaxing and exhilarating.",
+      "highlight": "Offers clean accommodations with laundry service, room service, and outdoor CCTV for enhanced safety and comfort.",
+      "price": "$69/night",
+      "location": "Omar Bin Al-Khattab Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp90204",
+      "name": "Al Sarab Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_4248920a_z.jpg",
+      "description": "Experience ultimate relaxation at Al Sarab Hotel, where luxurious spa services offer rejuvenating massages and facials. Enjoy vibrant entertainment options with a nightclub, outdoor pool, and sauna, while savoring international cuisine at the Al Naseem restaurant, complemented by 24-hour room service and stylish bars. Book your stay to immerse yourself in luxury and convenience in the heart of Dubai.",
+      "highlight": "Offers free self parking, a vibrant nightclub, and a relaxing sauna in a clean and safe environment.",
+      "price": "$95/night",
+      "location": "Al Rigga Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp78cfa",
+      "name": "White Fort Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_11a8c106_z.jpg",
+      "description": "Discover the perfect blend of comfort and convenience at White Fort Hotel in Dubai. Enjoy modern amenities such as complimentary Wi-Fi, a business center, and concierge services, ideal for both leisure and business travelers. Indulge in authentic Chinese cuisine at the on-site restaurant or savor room service, and take advantage of the hotel's prime location near the bustling Gold Souk and City Centre Deira, making it the perfect base for your Dubai adventures.",
+      "highlight": "Boasts modern amenities including complimentary Wi-Fi, a business center, and an on-site restaurant serving authentic Chinese cuisine.",
+      "price": "$75/night",
+      "location": "Nasser Square, Near Baniyas",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34e0a",
+      "name": "Aavri Hotel Deira",
+      "image": "https://static.cupid.travel/hotels/ex_70cfbeaa_z.jpg",
+      "description": "Experience unparalleled luxury at Aavri Hotel Deira, where you can indulge in soothing onsite massages and rejuvenating treatments in the health club. Enjoy an all-inclusive stay with delectable meals at the Olive Tree Restaurant, 24-hour room service, and refreshing drinks at the poolside bar. With a prime location, easily explore iconic attractions like the Deira Clocktower and City Centre Deira, making your Dubai getaway both lavish and convenient.",
+      "highlight": "Boasts a health club with onsite massages, an all-inclusive restaurant, and 24-hour room service in a central Dubai location.",
+      "price": "$93/night",
+      "location": "45C St, Al Rigga Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp836a5",
+      "name": "Fortune Karama Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_5a1a5f55_z.jpg",
+      "description": "Experience luxury and comfort at Fortune Karama Hotel, where vibrant nightlife meets exquisite Indian cuisine at Utsav Restaurant. Each elegantly furnished guestroom features modern amenities like minibars and flat-screen TVs, complemented by 24-hour room service and a state-of-the-art fitness center. Located in the heart of Dubai, this hotel offers easy access to major attractions like BurJuman Mall and Dubai Frame, making it ideal for both leisure and business travelers.",
+      "highlight": "Offers elegantly furnished rooms with modern amenities, a fitness center, and easy access to major attractions in Dubai.",
+      "price": "$90/night",
+      "location": "Near karama Metro Station",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-dubai",
+  "generatedAt": "2025-11-04T02:16:25.164Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "singapore",
+  "query": "boutique hotels in Singapore affordable and stylish",
+  "title": "Best boutique hotels in Singapore: Amazing and affordable",
+  "excerpt": "Finding the perfect boutique hotel in Singapore can be a daunting task, as many options are either overpriced or lack the unique charm travelers seek. This curated list highlights stylish yet affordable accommodations that offer an authentic experience in the vibrant city. By exploring these hidden gems, you can enjoy the essence of Singapore without breaking the bank.",
+  "intro": "Discover a selection of Singapore's best boutique hotels that combine affordability with style, making your stay both memorable and budget-friendly.",
+  "hotels": [
+    {
+      "id": "lp59ddc",
+      "name": "Hotel 81 Lucky",
+      "image": "https://static.cupid.travel/hotels/156153482.jpg",
+      "description": "Hotel 81 Lucky offers a tranquil retreat just a short walk from Aljunied MRT Station, making it easy to explore attractions like OneKM Shopping Mall and Singapore Sports Hub. Guests can unwind in modern rooms equipped with flat-screen TVs and tea/coffee makers, while complimentary WiFi and a 24-hour front desk ensure a hassle-free stay. Experience the perfect balance of comfort and convenience in this inviting oasis during your Singapore visit.",
+      "highlight": "Offers modern rooms with flat-screen TVs, tea/coffee makers, complimentary WiFi, and 24-hour front desk service.",
+      "price": "$57/night",
+      "location": "23 Lorong 20 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcd",
+      "name": "Hotel 81 Geylang",
+      "image": "https://static.cupid.travel/hotels/19165343.jpg",
+      "description": "Experience a tranquil oasis in the heart of vibrant Singapore at Hotel 81 Geylang. Just steps from the Singapore Sports Hub and Kallang Wave Mall, this hotel offers comfortable rooms with air conditioning, en suite bathrooms, and cable TV for a relaxing stay. With a 24-hour front desk ready to assist you, explore the lively neighborhood filled with shopping and dining options for a memorable getaway.",
+      "highlight": "Offers comfortable rooms with air conditioning, en suite bathrooms, and 24-hour front desk service in a vibrant neighborhood.",
+      "price": "$57/night",
+      "location": "20 Lorong 16 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp92feb",
+      "name": "Hotel 81 Fuji",
+      "image": "https://static.cupid.travel/hotels/63997217.jpg",
+      "description": "Experience the charm of Hotel 81 Fuji, set in a beautifully restored shop house, offering modern air-conditioned rooms complete with complimentary Wi-Fi and local calls. Ideally located near bus stops and shopping at Balestier Point, this budget-friendly hotel provides easy access to MRT stations and is just a short taxi ride from Changi International Airport. Enjoy comfortable amenities including a flat-screen TV and electric kettle, along with convenient services like a business center and currency exchange.",
+      "highlight": "Boasts modern air-conditioned rooms with complimentary Wi-Fi, flat-screen TVs, and a convenient business center.",
+      "price": "$68/night",
+      "location": "269 Balestier Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dce",
+      "name": "Hotel 81 Premier Star",
+      "image": "https://static.cupid.travel/hotels/40718552.jpg",
+      "description": "Hotel 81 (Premier) Star is ideally located in the lively Geylang district, just a short stroll from Aljunied MRT Station, offering easy access to Singapore's attractions. Guests can enjoy modern, air-conditioned rooms equipped with satellite TV, a minibar, and complimentary WiFi, ensuring a comfortable stay. With a 24-hour front desk ready to assist with tour arrangements and laundry services, your experience will be both convenient and enjoyable.",
+      "highlight": "Offers modern, air-conditioned rooms with satellite TV, minibar, and complimentary WiFi in the vibrant Geylang district.",
+      "price": "$62/night",
+      "location": "31 Lorong 18 Geylang",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59dcc",
+      "name": "Hotel 81 Orchid",
+      "image": "https://static.cupid.travel/hotels/149395357.jpg",
+      "description": "Discover comfort and affordability at Hotel 81 Orchid, ideally situated near Bugis Street, Mustafa Centre, and Suntec City, allowing you to immerse yourself in Singapore's vibrant culture. Unwind in cozy, air-conditioned rooms featuring modern amenities like flat-screen TVs and complimentary WiFi, ensuring a restful stay. With a multilingual, 24-hour front desk team ready to assist, you can relax knowing help is always available.",
+      "highlight": "Offers cozy, air-conditioned rooms with flat-screen TVs, complimentary WiFi, and a 24-hour multilingual front desk.",
+      "price": "$80/night",
+      "location": "21 Lorong 8",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59ddb",
+      "name": "Hotel 81 Selegie",
+      "image": "https://static.cupid.travel/hotels/19197288.jpg",
+      "description": "Hotel 81 Selegie is ideally situated in the vibrant Bugis District, providing easy access to key attractions like Little India and the National Museum of Singapore. Guests will enjoy comfortable air-conditioned rooms featuring flat-screen TVs and free WiFi, along with traveler-friendly services such as a tour desk and laundry options. Experience the perfect blend of comfort and convenience at this centrally located hotel.",
+      "highlight": "Offers comfortable air-conditioned rooms with flat-screen TVs, free WiFi, and a convenient tour desk in the vibrant Bugis District.",
+      "price": "$76/night",
+      "location": "161 Selegie Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-singapore-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:45:42.912Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

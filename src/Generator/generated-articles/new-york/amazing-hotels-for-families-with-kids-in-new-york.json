@@ -1,0 +1,79 @@
+{
+  "city": "new-york",
+  "query": "hotels for families with kids in New York",
+  "title": "Amazing hotels for families with kids in New York",
+  "excerpt": "Finding the perfect hotel for families with kids in New York can be a daunting task, as many accommodations may not cater to the unique needs of families traveling with children. This list is valuable because it highlights hotels that not only provide essential amenities for a comfortable stay but also offer engaging activities and convenient locations, ensuring a memorable experience for both parents and kids alike.",
+  "intro": "Discover the best family-friendly hotels in New York that make traveling with children a breeze.",
+  "hotels": [
+    {
+      "id": "lp102f15",
+      "name": "SpringHill Suites by Marriott New York Manhattan/Times Square South",
+      "image": "https://static.cupid.travel/hotels/456065007.jpg",
+      "description": "SpringHill Suites New York Manhattan/Times Square South is ideally situated in the lively Hell's Kitchen area, offering easy access to iconic attractions like Macy's and Madison Square Garden. Guests can enjoy a delicious continental or buffet breakfast and savor American cuisine at the hotel's restaurant. With a fitness center and a 24-hour front desk, this hotel ensures a comfortable and convenient stay, making it the perfect base for exploring the vibrant city.",
+      "highlight": "Offers family rooms, pet-friendly accommodations, and a convenient location near iconic attractions in Hell's Kitchen.",
+      "price": "$248/night",
+      "location": "338 West 36th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp76811",
+      "name": "Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area",
+      "image": "https://static.cupid.travel/hotels/573430568.jpg",
+      "description": "Experience the comfort of modern living at the Residence Inn New York Downtown Manhattan/World Trade Center Area, where luxurious suites come equipped with free WiFi, flat-screen TVs, and kitchen facilities, many offering breathtaking views of Downtown Manhattan. Located in the vibrant Downtown District, you are just moments away from iconic attractions like the One World Observatory and the 9/11 Memorial, with a variety of bars and restaurants at your doorstep. Stay active in the hotel's fitness center, and enjoy easy access to nearby public transport and JFK International Airport, making it an ideal choice for both leisure and business travelers.",
+      "highlight": "Offers spacious family suites with kitchen facilities, free WiFi, and easy access to local attractions in downtown Manhattan.",
+      "price": "$344/night",
+      "location": "170 Broadway",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7bc39",
+      "name": "Mint House at 70 Pine",
+      "image": "https://static.cupid.travel/hotels/504453965.jpg",
+      "description": "Discover the ultimate blend of luxury and convenience at Mint House at 70 Pine, where each apartment comes with a fully equipped kitchen, allowing you to enjoy home-cooked meals during your NYC stay. Nestled in a historic landmark, this hotel is perfectly located near Battery Park, the New York Stock Exchange, and the World Trade Center Memorial. With exceptional amenities like a 24-hour front desk and a modern fitness center, your comfort is our priority.",
+      "highlight": "Offers family rooms, grocery delivery, and fully equipped kitchens in a historic landmark location near major attractions.",
+      "price": "$332/night",
+      "location": "70 Pine Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp58420",
+      "name": "The Pearl New York",
+      "image": "https://static.cupid.travel/hotels/ex_135d2661_z.jpg",
+      "description": "Experience the essence of New York at The Pearl New York, where luxury and convenience come together in a prime location. Relax in one of the 94 elegantly designed rooms, featuring premium amenities like pillowtop beds and LCD televisions, while enjoying access to a modern fitness center and complimentary daily receptions. With Broadway, Times Square, and Central Park just a short stroll away, your unforgettable city adventure awaits.",
+      "highlight": "Features 94 elegantly designed rooms with premium amenities, a modern fitness center, and easy access to Broadway and Central Park.",
+      "price": "$232/night",
+      "location": "233 West 49th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpbda92",
+      "name": "33 Hotel, New York City, Seaport",
+      "image": "https://static.cupid.travel/hotels/460282320.jpg",
+      "description": "Experience unparalleled comfort at the 33 Seaport Hotel New York, nestled in the vibrant Wall Street Financial District. Each room features cable TV with HBO, in-room movies, and a spacious work desk, making it ideal for both relaxation and productivity. With easy access to the subway and iconic attractions like Ground Zero and the Statue of Liberty, this hotel is the perfect base for your New York City adventure.",
+      "highlight": "Offers family rooms, an on-site restaurant, and convenient access to iconic attractions like Ground Zero and the Statue of Liberty.",
+      "price": "$269/night",
+      "location": "33 Peck Slip",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6982b",
+      "name": "Fairfield Inn & Suites New York Manhattan/Downtown East",
+      "image": "https://static.cupid.travel/hotels/463651315.jpg",
+      "description": "Discover comfort and convenience at Fairfield Inn & Suites By Marriott New York Manhattan/Downtown, where modern rooms are equipped with flat-screen TVs, microwaves, and refrigerators. Enjoy a complimentary hot breakfast each morning, featuring a selection of fresh fruit, pastries, and savory items, plus easy access to on-the-go snacks at The Corner Market. With a well-equipped fitness center and business facilities, this hotel is perfect for both leisure and work travelers seeking a seamless Manhattan experience.",
+      "highlight": "Features family rooms, a shared lounge, and complimentary hot breakfast with fresh fruit and pastries.",
+      "price": "$227/night",
+      "location": "95 Henry St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-new-york",
+  "generatedAt": "2025-11-04T01:53:17.145Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

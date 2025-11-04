@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "boutique hotels in Las Vegas affordable and stylish",
+  "title": "Best boutique hotels in Las Vegas: Amazing and affordable",
+  "excerpt": "Finding affordable boutique hotels in Las Vegas can be a daunting task, especially with the overwhelming number of options available. This list is valuable because it highlights unique accommodations that combine style and comfort without breaking the bank, ensuring that travelers can enjoy the vibrant essence of the city while staying within budget. Discovering these hidden gems allows guests to experience a more personalized and memorable stay in the entertainment capital of the world.",
+  "intro": "Uncover the charm of Las Vegas with our curated selection of the best boutique hotels that offer both style and affordability.",
+  "hotels": [
+    {
+      "id": "lp1d124",
+      "name": "Thunderbird Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/90353581.jpg",
+      "description": "Thunderbird Boutique Hotel is ideally situated on the Strip, just steps from the Stratosphere, offering guests a unique blend of convenience and charm. Enjoy well-equipped rooms featuring modern amenities and unwind at the lively Thunderbird Lounge, which hosts live entertainment and a nightly happy hour, perfect for socializing. With an onsite restaurant and wedding chapel, this hotel provides everything needed for a memorable Las Vegas experience.",
+      "highlight": "Thunderbird Boutique Hotel features well-equipped rooms, a lively lounge with live entertainment, and a serene Japanese garden.",
+      "price": "$49/night",
+      "location": "Address not available",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f2c0",
+      "name": "El Cortez Hotel & Casino - 21 and over only",
+      "image": "https://static.cupid.travel/hotels/622063357.jpg",
+      "description": "Discover the excitement of El Cortez Hotel & Casino, where a vibrant restaurant, lively bar, and thrilling casino come together for an unforgettable stay. With 24-hour front desk service and convenient airport transfers, your comfort is our priority. Located in the heart of Las Vegas, just moments from iconic attractions like the Mob Museum and Fremont Street Experience, El Cortez promises an exceptional getaway for guests 21 and over.",
+      "highlight": "Offers a vibrant restaurant, lively bar, and a thrilling casino, catering exclusively to guests 21 and over.",
+      "price": "$47/night",
+      "location": "600 Fremont St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp84133",
+      "name": "Downtowner Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/179185145.jpg",
+      "description": "Experience the vibrant energy of Las Vegas at the Downtowner Hotel, conveniently located near the lively Fremont Street Entertainment District. Enjoy a refreshing dip in the outdoor pool and take advantage of free parking while being just minutes away from top-notch dining, shopping, and gaming options. Book your stay to immerse yourself in the excitement and charm of the city!",
+      "highlight": "Offers a refreshing outdoor pool, a shared lounge, and a serene Japanese garden near Fremont Street.",
+      "price": "$59/night",
+      "location": "129 North 8th Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3273a",
+      "name": "Oasis at Gold Spike",
+      "image": "https://static.cupid.travel/hotels/537914855.jpg",
+      "description": "Discover the Oasis at Gold Spike, where each uniquely designed guest room offers complimentary WiFi and flat-screen TVs, with upgraded options featuring cozy seating areas for added comfort. Enjoy vibrant nightlife at the nearby Gold Spike bar and indulge in casual dining at the Grill at Gold Spike. Ideally located in the heart of Las Vegas, the hotel is just minutes from the Fremont Street Experience and major attractions, making it the perfect base for your Vegas adventure.",
+      "highlight": "Offers uniquely designed guest rooms with complimentary WiFi, flat-screen TVs, and access to vibrant nightlife and casual dining.",
+      "price": "$44/night",
+      "location": "217 Las Vegas Blvd North",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f4b0",
+      "name": "Serene Vegas Boutique Hotel Las Vegas",
+      "image": "https://static.cupid.travel/hotels/587415048.jpg",
+      "description": "Experience a peaceful retreat at Serene Vegas Boutique Hotel, located just 1.2 miles from the lively Las Vegas Strip. Enjoy spacious rooms featuring modern amenities like a 50-inch flat-screen TV and free WiFi, all within a nonsmoking environment adorned with Mediterranean decor. With conveniences such as 24-hour front desk service, complimentary coffee, and free parking, this hotel is the perfect oasis for relaxation after a day of adventure.",
+      "highlight": "Offers spacious rooms with modern amenities, a tranquil pool, and spa services, all set in a Mediterranean-themed environment.",
+      "price": "$115/night",
+      "location": "455 E Harmon Ave",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8bc5c",
+      "name": "Regal Inn Las Vegas New Mexico",
+      "image": "https://static.cupid.travel/hotels/76600004.jpg",
+      "description": "Regal Inn Las Vegas New Mexico offers modern comforts with rooms featuring flat-screen TVs, microwaves, and refrigerators, along with free WiFi and parking. Guests can enjoy convenient amenities like a free shuttle service, a 24-hour front desk, and a relaxing garden area, as well as an on-site vending machine for snacks. Explore nearby attractions like Storrie Lake State Park and Las Vegas National Wildlife Refuge for an unforgettable outdoor adventure.",
+      "highlight": "Offers modern rooms with flat-screen TVs, microwaves, free WiFi, and a tranquil Japanese garden for relaxation.",
+      "price": "$68/night",
+      "location": "1809 North Grand Avenue",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-las-vegas-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:14:16.216Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

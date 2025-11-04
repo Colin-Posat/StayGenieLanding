@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "hotels in Bangkok with rooftop bars",
+  "title": "Rooftop Bars: What are the best hotels in Bangkok with rooftop bars",
+  "excerpt": "Navigating the vibrant hotel scene in Bangkok can be overwhelming, especially when seeking accommodations that offer stunning rooftop bars. This curated list highlights the best hotels where guests can sip cocktails while enjoying breathtaking city views, making it an essential resource for travelers looking to elevate their stay in Thailand's bustling capital.",
+  "intro": "Discover the top hotels in Bangkok that feature spectacular rooftop bars, perfect for unwinding after a day of exploration.",
+  "hotels": [
+    {
+      "id": "lp35d80",
+      "name": "lebua at State Tower",
+      "image": "https://static.cupid.travel/hotels/494994218.jpg",
+      "description": "Discover unparalleled luxury at lebua at State Tower in Bangkok, where each room features a private balcony with breathtaking city views and modern amenities like flat-screen TVs and complimentary WiFi. Indulge in a culinary journey at our diverse on-site restaurant, offering exquisite dishes from Chinese to French, with special dietary options available. Ideally situated near popular attractions such as Gaysorn Village and Lumpini Park, our hotel also provides exceptional services, including airport transfers and a 24-hour front desk, ensuring a memorable stay.",
+      "highlight": "Boasts a stunning rooftop bar with panoramic city views, alongside luxurious rooms and exceptional dining options.",
+      "price": "$206/night",
+      "location": "State Tower 1055/111 Silom Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f491",
+      "name": "Banyan Tree Bangkok",
+      "image": "https://static.cupid.travel/hotels/504142247.jpg",
+      "description": "Banyan Tree Bangkok offers luxurious accommodations with breathtaking views of the city and Chaophraya River. Guests can indulge in a variety of culinary experiences across seven dining options, including the famed rooftop Vertigo and Moon Bar, while enjoying a serene wellness retreat featuring a fitness center, spa, and a tranquil swimming pool. Situated in the heart of Bangkok's central business district, this hotel promises a memorable and opulent getaway.",
+      "highlight": "Offers a renowned rooftop bar with stunning city views, alongside luxurious accommodations and comprehensive wellness amenities.",
+      "price": "$231/night",
+      "location": "21/100 South Sathon Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6375c",
+      "name": "The Okura Prestige Bangkok",
+      "image": "https://static.cupid.travel/hotels/ex_df17c725_z.jpg",
+      "description": "Experience luxury at The Okura Prestige Bangkok, where sophisticated comfort meets the vibrant city life. Indulge in rejuvenating spa treatments, relax by the outdoor pool, or stay active in the fitness center. Enjoy a culinary journey with international dishes at Up and Above and take advantage of our comprehensive business facilities, making this hotel perfect for both relaxation and productivity.",
+      "highlight": "Boasts a stunning rooftop bar offering panoramic city views alongside a full spa and infinity pool.",
+      "price": "$244/night",
+      "location": "Park Venture Ecoplex",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5c2f6",
+      "name": "Hotel Muse Bangkok, Autograph Collection",
+      "image": "https://static.cupid.travel/hotels/600060607.jpg",
+      "description": "Discover the luxurious Hotel Muse Bangkok Langsuan, where opulence meets history in the heart of the city. Enjoy a refreshing swim in the stunning outdoor pool and unwind in artistically adorned rooms that blend classic charm with modern comforts. Treat your palate to a delightful buffet breakfast and exquisite local dishes at Medici Kitchen & Bar, before sipping handcrafted cocktails at the rooftop Speakeasy bar with breathtaking views of the Bangkok skyline.",
+      "highlight": "Offers a rooftop Speakeasy bar with breathtaking skyline views and an outdoor pool for relaxation.",
+      "price": "$157/night",
+      "location": "55/555 Langsuan Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5f19e",
+      "name": "SO/ Bangkok",
+      "image": "https://static.cupid.travel/hotels/339401948.jpg",
+      "description": "Experience the vibrant luxury of SO/ Bangkok, a stylish urban oasis that soars 30 stories above the city. Each themed room, inspired by the five natural elements, features stunning views, modern amenities, and a complimentary minibar. Conveniently located near Lumphini MRT Station, guests can easily explore nearby attractions while enjoying top-notch amenities, including a relaxing spa, outdoor pool, and exceptional dining at the rooftop bar and restaurant.",
+      "highlight": "SO/ Bangkok boasts the HI-SO Rooftop Bar, offering stunning city views alongside luxury accommodations and top-notch amenities.",
+      "price": "$192/night",
+      "location": "2 North Sathorn Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5a22b",
+      "name": "The St. Regis Bangkok",
+      "image": "https://static.cupid.travel/hotels/468510260.jpg",
+      "description": "Discover the epitome of elegance at The St Regis Bangkok, nestled in the vibrant commercial heart of the city. Guests can indulge in world-class amenities, including a rejuvenating spa, a refreshing outdoor pool, and personalized butler services. Savor exquisite dining options, from fine dining at IGNIV Bangkok to breathtaking views and international cuisine at VIU restaurant, ensuring a memorable stay.",
+      "highlight": "Offers a luxurious rooftop bar with stunning city views, complemented by a rejuvenating spa and outdoor pool.",
+      "price": "$455/night",
+      "location": "159 Rajadamri Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "rooftop-bars-what-are-the-best-hotels-in-bangkok-with-rooftop-bars",
+  "generatedAt": "2025-11-04T01:19:01.918Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

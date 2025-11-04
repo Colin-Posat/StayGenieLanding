@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "best pet friendly hotels in Las Vegas",
+  "title": "What are the best pet-friendly hotels in Las Vegas",
+  "excerpt": "Finding pet-friendly hotels in Las Vegas can be a daunting task, as many establishments have strict policies regarding pets. This curated list not only highlights the top accommodations that welcome your furry friends but also ensures that you can enjoy your stay without compromising on comfort or convenience. With these recommendations, you can focus on making unforgettable memories with your pet in the vibrant heart of Las Vegas.",
+  "intro": "Discover the best pet-friendly hotels in Las Vegas, where you and your four-legged companions can enjoy a luxurious stay together.",
+  "hotels": [
+    {
+      "id": "lp294b6",
+      "name": "Sonesta Select Las Vegas Summerlin",
+      "image": "https://static.cupid.travel/hotels/305984393.jpg",
+      "description": "Sonesta Select Las Vegas Summerlin features modern rooms equipped with free WiFi, premium cable TV, and convenient amenities like large work desks and tea/coffee facilities. Guests can relax by the outdoor pool, unwind in the hot tub, or maintain their fitness routine at the on-site fitness center. Ideally situated near Cheyenne Commons and just 5 miles from North Las Vegas Airport, this hotel is perfect for both leisure and business travelers seeking comfort and convenience.",
+      "highlight": "Offers pet-friendly accommodations with modern rooms, an outdoor pool, and a fully equipped fitness center.",
+      "price": "$124/night",
+      "location": "1901 N Rainbow Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655780a0",
+      "name": "Home2 Suites By Hilton Las Vegas Northwest",
+      "image": "https://static.cupid.travel/hotels/423172156.jpg",
+      "description": "Experience modern comfort at Home2 Suites By Hilton Las Vegas Northwest, featuring an outdoor swimming pool, fitness center, and a welcoming shared lounge for relaxation and socializing. Stay connected with complimentary WiFi and enjoy convenient amenities like a 24-hour front desk and ATM. After a day of exploring nearby attractions, unwind in the hot tub or fire up the barbecue facilities for a perfect blend of leisure and entertainment in the heart of Las Vegas.",
+      "highlight": "Offers pet-friendly accommodations with a hot tub and barbecue facilities for a relaxing stay in Las Vegas.",
+      "price": "$156/night",
+      "location": "8906 W Deer Springs Way",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpd8965",
+      "name": "Desert Moon Motel",
+      "image": "https://static.cupid.travel/hotels/472395315.jpg",
+      "description": "Experience the vibrant heart of Las Vegas at Desert Moon Motel, ideally situated near attractions like Fremont Street Experience and Stratosphere Tower. Enjoy comfortable accommodations featuring modern amenities such as flat-screen TVs and plush bedding, along with complimentary WiFi to stay connected. Explore nearby landmarks like The Neon Museum and Mob Museum, making your stay both convenient and memorable.",
+      "highlight": "Offers pet-friendly accommodations with modern amenities, discounted parking, and convenient room food delivery services.",
+      "price": "$70/night",
+      "location": "1701 Fremont Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp249f8",
+      "name": "Best Western Plus Las Vegas West",
+      "image": "https://static.cupid.travel/hotels/377883553.jpg",
+      "description": "Nestled just 8 miles from the lively Las Vegas Strip and 40 minutes from the breathtaking Red Rock Canyon, Best Western Plus Las Vegas offers a perfect mix of urban excitement and natural beauty. Enjoy spacious, well-appointed rooms with modern amenities, and indulge in a complimentary hot breakfast before relaxing by the indoor pool or maintaining your fitness routine at the 24/7 gym. Ideal for both leisure and business travelers, this hotel ensures a comfortable and convenient stay in the heart of Las Vegas.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms, a heated pool, and a hot tub for relaxation.",
+      "price": "$172/night",
+      "location": "8669 W Sahara Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a88f",
+      "name": "Days Inn by Wyndham Las Vegas",
+      "image": "https://static.cupid.travel/hotels/135441972.jpg",
+      "description": "Discover comfort and convenience at Days Inn Las Vegas New Mexico, featuring a year-round indoor pool and hot tub for year-round relaxation. Guests can enjoy modern amenities such as free Wi-Fi, on-site parking, and air-conditioned rooms equipped with microwaves and refrigerators. Stay active with our fitness center and stay productive in the business center, ensuring a memorable experience for both leisure and work.",
+      "highlight": "Offers pet-friendly accommodations along with a heated indoor pool, BBQ area, and modern amenities like free Wi-Fi.",
+      "price": "$78/night",
+      "location": "2000 N Grand Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656ca11f",
+      "name": "Aloft Henderson",
+      "image": "https://static.cupid.travel/hotels/452517434.jpg",
+      "description": "Experience a modern getaway at Aloft Henderson, featuring an outdoor pool, a fitness center, and a lively shared lounge. Enjoy convenient amenities such as free parking, on-site dining, and complimentary WiFi, all while relaxing in well-appointed rooms with flat-screen TVs. Ideally situated near popular attractions like Mandalay Bay Convention Center and Shark Reef Aquarium, this hotel ensures both comfort and convenience for your travels.",
+      "highlight": "Offers pet-friendly accommodations with a heated outdoor pool and a vibrant shared lounge for relaxation.",
+      "price": "$366/night",
+      "location": "2631 St. Rose Pkwy",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-las-vegas",
+  "generatedAt": "2025-11-04T01:55:40.099Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

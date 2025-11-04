@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "hotels in Paris under 100 dollars and clean",
+  "title": "What are the best hotels in Paris under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in Paris can be a daunting task, especially in a city known for its luxury accommodations. This curated list highlights budget-friendly options that don’t compromise on cleanliness, ensuring travelers can enjoy the charm of Paris without breaking the bank. With these recommendations, you can explore the City of Light with peace of mind and extra euros in your pocket.",
+  "intro": "Discover the best budget-friendly hotels in Paris that combine affordability and cleanliness, perfect for your next adventure.",
+  "hotels": [
+    {
+      "id": "lp4625e",
+      "name": "Hôtel Du Brabant",
+      "image": "https://static.cupid.travel/hotels/15644470.jpg",
+      "description": "Hôtel Du Brabant boasts a prime location just 400 meters from Gare du Nord, providing easy access to major transportation and attractions like Montmartre. Guests can relax in simply designed en suite rooms equipped with flat-screen TVs and enjoy a delicious continental breakfast each morning. With Poissonnière Metro Station nearby, exploring iconic sites such as The Louvre and Opéra Garnier is a breeze.",
+      "highlight": "Hôtel Du Brabant provides simply designed en suite rooms, flat-screen TVs, and a daily continental breakfast just 400 meters from Gare du Nord.",
+      "price": "$68/night",
+      "location": "18 Rue Des Petits Hotels",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp210cd",
+      "name": "Grand Hotel Nouvel Opera",
+      "image": "https://static.cupid.travel/hotels/12607731.jpg",
+      "description": "Experience modern comfort in the vibrant Bastille district at The Grand Hotel Nouvel Opera, where stylish guestrooms feature complimentary Wi-Fi. Enjoy convenient amenities such as a daily continental breakfast and 24-hour reception, all while being just a short walk from Voltaire Metro station for easy access to iconic attractions like the Eiffel Tower and Garnier Opera. Make your stay in Paris unforgettable at this prime location.",
+      "highlight": "Offers stylish guestrooms with free Wi-Fi, 24-hour reception, and a daily continental breakfast in the vibrant Bastille district.",
+      "price": "$98/night",
+      "location": "152 Avenue Ledru Rollin",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4997a",
+      "name": "Hipotel Paris Père-Lachaise République",
+      "image": "https://static.cupid.travel/hotels/25431651.jpg",
+      "description": "Hipotel Paris Père-Lachaise République offers a prime location just a short stroll from the iconic Père Lachaise Cemetery and easy access to the Metro for exploring Paris's famous landmarks. Guests can enjoy cozy accommodations with essential amenities, including satellite TV and private bathrooms, along with a welcoming lounge area for relaxation. With 24-hour reception and dedicated staff ready to assist, this hotel ensures a convenient and comfortable stay in the heart of the city.",
+      "highlight": "Offers cozy accommodations with essential amenities, 24-hour reception, and easy access to the Metro near Père Lachaise Cemetery.",
+      "price": "$81/night",
+      "location": "37 Rue Servan",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp46262",
+      "name": "Novex",
+      "image": "https://static.cupid.travel/hotels/ex_f7b78bd4_z.jpg",
+      "description": "Experience the allure of Paris at Novex, where comfort and convenience seamlessly blend in a central location. Enjoy stunning views from the scenic terrace, and take advantage of exceptional amenities like complimentary Wi-Fi and 24-hour concierge services. Delight your taste buds at the on-site café or opt for the comfort of room service for a cozy dining experience, making Novex the perfect choice for an unforgettable getaway.",
+      "highlight": "Offers stunning terrace views, complimentary Wi-Fi, and 24-hour concierge services in a central Paris location.",
+      "price": "$97/night",
+      "location": "8 Rue Caillaux",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d471",
+      "name": "Hôtel Alane",
+      "image": "https://static.cupid.travel/hotels/28191003.jpg",
+      "description": "Hotel Alane is perfectly located just minutes from Gare de l'Est and Gare du Nord, making it easy to explore Paris's iconic attractions and vibrant shopping districts. Guests can unwind in soundproofed rooms that feature modern amenities, including flat-screen TVs and free WiFi. Start your day with a delightful continental breakfast in the inviting breakfast room, setting you up for a day of adventure in the City of Light.",
+      "highlight": "Hôtel Alane offers soundproofed rooms with flat-screen TVs, free WiFi, and a delightful continental breakfast.",
+      "price": "$110/night",
+      "location": "72 Boulevard De Magenta",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp46260",
+      "name": "Jarry",
+      "image": "https://static.cupid.travel/hotels/ex_10b4b8ac_z.jpg",
+      "description": "Experience the charm of Paris at Jarry Hotel, where comfort and convenience come together in a prime location. Enjoy exceptional amenities, including complimentary Wi-Fi and a lively bar/lounge, while each elegantly designed room features Select Comfort beds and flat-screen TVs for a restful retreat. Just a short walk from iconic attractions like Canal Saint-Martin and Palais Garnier, Jarry Hotel is the perfect base for your Parisian adventure.",
+      "highlight": "Offers elegantly designed rooms with Select Comfort beds, flat-screen TVs, and complimentary Wi-Fi in a prime Paris location.",
+      "price": "$103/night",
+      "location": "4 Rue Jarry",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-paris-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:18:31.392Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

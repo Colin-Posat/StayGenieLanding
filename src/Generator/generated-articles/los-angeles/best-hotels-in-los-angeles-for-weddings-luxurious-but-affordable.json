@@ -1,0 +1,79 @@
+{
+  "city": "los-angeles",
+  "query": "best hotels in Los Angeles for weddings luxury and affordable",
+  "title": "Best hotels in Los Angeles for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Los Angeles can be a daunting task, as couples often seek a blend of luxury and affordability amid the city's vast options. This curated list highlights venues that not only offer stunning settings for your special day but also cater to various budgets, ensuring you can celebrate without breaking the bank. By focusing on these hotels, you can streamline your search and discover hidden gems that provide both elegance and value.",
+  "intro": "Discover the top luxurious yet affordable hotels in Los Angeles that are perfect for making your wedding dreams come true.",
+  "hotels": [
+    {
+      "id": "lp312f3",
+      "name": "Super 8 by Wyndham Hollywood/LA Area",
+      "image": "https://static.cupid.travel/hotels/537709118.jpg",
+      "description": "Experience the vibrant energy of Hollywood at our conveniently located hotel, where stunning views of the iconic Hollywood sign greet you. Enjoy cozy accommodations featuring modern amenities like free high-speed internet, coffeemakers, and refrigerators, ensuring a relaxing stay. With complimentary on-site parking and a business center, we cater to both leisure and business travelers, making your visit effortless and enjoyable.",
+      "highlight": "Boasts cozy accommodations with modern amenities, stunning views of the Hollywood sign, and discounted on-site parking.",
+      "price": "$100/night",
+      "location": "1536 N Western Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpc69cc",
+      "name": "4 Star Motel",
+      "image": "https://static.cupid.travel/hotels/500357706.jpg",
+      "description": "Experience a memorable stay at 4 Star Motel, ideally located in the lively South Los Angeles area, just minutes from attractions like the California Science Center and Staples Center. Enjoy well-appointed rooms equipped with modern amenities, ensuring comfort whether you are traveling for business or leisure. With exceptional services such as 24-hour front desk assistance and complimentary WiFi, your needs are always met at this inviting retreat.",
+      "highlight": "Offers well-appointed rooms with modern amenities and 24-hour front desk assistance in a vibrant South Los Angeles location.",
+      "price": "$100/night",
+      "location": "7400 S Figueroa st",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpf5f8d",
+      "name": "Hollywood Inn Suites Hotel",
+      "image": "https://static.cupid.travel/hotels/171958751.jpg",
+      "description": "Experience the convenience of Hollywood Inn Suites Hotel, ideally located near iconic attractions such as LA Memorial Coliseum and Staples Center. Enjoy well-appointed rooms featuring air conditioning, safety deposit boxes, and complimentary WiFi, ensuring a cozy and relaxing stay. With a bilingual staff ready to assist you with local insights, your visit to Los Angeles will be smooth and enjoyable.",
+      "highlight": "Offers well-appointed rooms, a lap pool, and room food delivery near iconic attractions in Los Angeles.",
+      "price": "$133/night",
+      "location": "1030 W El Segundo Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp864db",
+      "name": "Hollywood Roxy Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_ea34bcdb_z.jpg",
+      "description": "Experience the vibrant energy of Los Angeles at the Hollywood Roxy Hotel, ideally situated just steps from Hollywood Boulevard and close to legendary attractions like the Hollywood Walk of Fame. Enjoy modern comforts in one of our 38 well-appointed guestrooms, featuring flat-screen TVs and complimentary Wi-Fi, with the option of adding a microwave or refrigerator for your convenience. With amenities like free internet access and vending machines, your stay promises both ease and relaxation in the heart of Hollywood.",
+      "highlight": "Offers 38 modern guestrooms with flat-screen TVs and complimentary Wi-Fi, plus a pool and free self parking.",
+      "price": "$120/night",
+      "location": "1655 N Western Avenue",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpdebdc",
+      "name": "Hotel West Inn, Hollywood - LA",
+      "image": "https://static.cupid.travel/hotels/139135120.jpg",
+      "description": "Hotel West Inn offers a prime location in Hollywood, just steps from iconic attractions like the Capitol Records Building and the Hollywood Walk of Fame. Guests can easily explore nearby hotspots such as the Dolby Theater and Hollywood Bowl, while the hotel’s proximity to Hollywood Burbank Airport ensures a hassle-free travel experience. Enjoy a comfortable stay in the heart of Los Angeles at Hotel West Inn.",
+      "highlight": "Hotel West Inn provides luxurious accommodations with room service, Wi-Fi, and private bathrooms in a prime Hollywood location.",
+      "price": "$118/night",
+      "location": "1617 N Cahuenga Blvd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b43e",
+      "name": "Hollywood Celebrity Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_1f2286d7_z.jpg",
+      "description": "Discover the Hollywood Celebrity Hotel, ideally located in the vibrant heart of Hollywood. Enjoy modern comforts such as complimentary Wi-Fi, air-conditioned rooms with flat-screen TVs and refrigerators, and start your day with a delightful continental breakfast. With iconic attractions like the Hollywood Walk of Fame and Dolby Theater just steps away, your adventure awaits at this welcoming hotel.",
+      "highlight": "Offers air-conditioned rooms, complimentary Wi-Fi, and a complimentary breakfast, all within walking distance of Hollywood's iconic attractions.",
+      "price": "$198/night",
+      "location": "1775 Orchid Ave",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-los-angeles-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:52:23.286Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "best pet friendly hotels in Bangkok",
+  "title": "What are the best pet-friendly hotels in Bangkok",
+  "excerpt": "Finding pet-friendly hotels in a bustling city like Bangkok can be a daunting task, as many establishments do not accommodate furry companions. This list is invaluable for travelers seeking a welcoming environment for both themselves and their pets, ensuring that everyone enjoys their stay. With the right hotel, you can explore the vibrant city while knowing your pet is comfortable and cared for.",
+  "intro": "Discover the top pet-friendly hotels in Bangkok, where both you and your furry friend can enjoy a memorable stay.",
+  "hotels": [
+    {
+      "id": "lp58dfa",
+      "name": "Ibis Bangkok Riverside",
+      "image": "https://static.cupid.travel/hotels/252017257.jpg",
+      "description": "Discover a serene riverside retreat at Ibis Bangkok Riverside, where modern comforts meet stunning views of the Chao Phraya River. Enjoy the convenience of a complimentary shuttle to the Krungthonburi BTS Skytrain Station, relax in bright rooms, and savor delicious local and international cuisine at the “It's all about TASTE” restaurant. Book your stay for an unforgettable experience by the water.",
+      "highlight": "Offers pet-friendly accommodations, an outdoor pool, and a riverside restaurant serving local and international cuisine.",
+      "price": "$68/night",
+      "location": "27 Soi Charoe Nakhon 17",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6e210",
+      "name": "Ad Lib Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/563613025.jpg",
+      "description": "Ad Lib Hotel Bangkok combines luxury and convenience with its salted outdoor pool, fitness center, and complimentary Tuk Tuk shuttle service to local attractions. Located in the vibrant heart of the city, guests enjoy easy access to shopping and entertainment with BTS Nana and Nana Plaza just a stroll away. With 24-hour room service and a diverse on-site restaurant, your stay promises both comfort and exceptional service.",
+      "highlight": "Ad Lib Hotel Bangkok offers pet-friendly accommodations, a rooftop garden, and 24-hour room service for a comfortable stay.",
+      "price": "$147/night",
+      "location": "230/5 Sukhumvit Soi 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1dc7f",
+      "name": "The Sukosol Hotel",
+      "image": "https://static.cupid.travel/hotels/263828364.jpg",
+      "description": "Discover the charm of The Sukosol Hotel, where colonial-style architecture meets authentic Thai aesthetics. Relax in the state-of-the-art outdoor pool, invigorate yourself at the well-equipped gym, or indulge in a luxurious spa experience. Savor diverse gourmet cuisines at five unique restaurants while surrounded by an artistic ambiance filled with fascinating antiques and artifacts from around the world.",
+      "highlight": "The Sukosol Hotel offers a pet-friendly environment, a luxurious spa, and a serene Japanese garden for relaxation.",
+      "price": "$109/night",
+      "location": "477 Si Ayuthaya Road Phayathai",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42298",
+      "name": "Citadines Sukhumvit 8 Bangkok",
+      "image": "https://static.cupid.travel/hotels/527511090.jpg",
+      "description": "Citadines Sukhumvit 8 offers a prime location in Khlong Toei, providing affordable serviced apartments complete with kitchenettes and free WiFi. Guests can enjoy modern amenities and spacious living areas, along with access to a rooftop pool and a fitness center for relaxation and recreation. With a complimentary 24-hour tuk-tuk service to Nana BTS Skytrain Station, this hotel is the ideal choice for comfort and convenience in the heart of Bangkok.",
+      "highlight": "Offers a pet-friendly environment, rooftop pool, and traditional Thai massage services for a relaxing stay in Bangkok.",
+      "price": "$52/night",
+      "location": "77/7 Sukhumvit 8, Sukhumvit Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4f084",
+      "name": "Royal View Resort",
+      "image": "https://static.cupid.travel/hotels/ex_031cda05_z.jpg",
+      "description": "Experience a tranquil escape at Royal View Resort in the bustling heart of Bangkok. With 105 uniquely designed rooms featuring private balconies and modern amenities, guests can unwind in comfort while staying connected. Enjoy exceptional facilities, including a business center and a cozy bar/lounge, all within walking distance of famous attractions like Victory Monument and Pratunam Market. Book your unforgettable stay today!",
+      "highlight": "Royal View Resort offers pet-friendly accommodations with private balconies, modern amenities, and convenient access to local attractions.",
+      "price": "$65/night",
+      "location": "27/3 Soi Rajawithi 3 Rangnam Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3b278",
+      "name": "Grand Mercure Bangkok Asoke Residence",
+      "image": "https://static.cupid.travel/hotels/27395980.jpg",
+      "description": "Experience the epitome of luxury at the Grand Mercure Bangkok Asoke Residence, ideally located near Sukhumvit Road and Asoke BTS Station for easy access to the city's attractions. Enjoy modern suites featuring dark wood furnishings, private balconies, and fully equipped kitchenettes, complemented by a stunning rooftop pool offering breathtaking city views. With top-notch amenities, including free WiFi and shuttle service, this residence promises an unforgettable stay in Bangkok.",
+      "highlight": "Offers pet-friendly accommodations with modern suites, a rooftop garden, and convenient access to the city's attractions.",
+      "price": "$116/night",
+      "location": "50/5 Sukhumvit Soi 19",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-pet-friendly-hotels-in-bangkok",
+  "generatedAt": "2025-11-04T01:49:55.163Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

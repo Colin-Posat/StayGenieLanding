@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "hotels for families with kids in Tokyo",
+  "title": "Amazing hotels for families with kids in Tokyo",
+  "excerpt": "Finding the perfect hotel for families with kids in Tokyo can be a daunting task, as not all accommodations cater to the unique needs of families traveling with children. This list is valuable because it highlights hotels that offer family-friendly amenities, spacious rooms, and convenient locations, ensuring that your trip is enjoyable and stress-free. Knowing where to stay can make all the difference in creating lasting memories during your Tokyo adventure.",
+  "intro": "Discover the best family-friendly hotels in Tokyo that cater to both kids and parents, making your stay comfortable and fun.",
+  "hotels": [
+    {
+      "id": "lp2e8d2",
+      "name": "Shibuya Excel Hotel Tokyu",
+      "image": "https://static.cupid.travel/hotels/286403327.jpg",
+      "description": "Experience unmatched convenience at Shibuya Excel Hotel Tokyu, located directly above Shibuya Train Station and just steps from the vibrant Shibuya Scramble intersection. Guests can unwind in stylish, well-appointed rooms with stunning city views, while savoring exquisite cuisine at the hotel's elevated dining options, including a Japanese restaurant and a French bistro. Whether you're exploring nearby attractions or enjoying a casual café experience, this hotel is the perfect base for your Tokyo adventure.",
+      "highlight": "Boasts family rooms, room service, and an accessible train shuttle, all situated above Shibuya Train Station.",
+      "price": "$295/night",
+      "location": "1-12-2, Dogenzaka",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp74a54",
+      "name": "Hotel New Otani Tokyo Garden Tower",
+      "image": "https://static.cupid.travel/hotels/38236698.jpg",
+      "description": "Discover a serene oasis in the heart of Tokyo at The Hotel New Otani, featuring a stunning 400-year-old Japanese garden and one of the city's largest outdoor pools for summer relaxation. Savor a diverse culinary experience with international dining options, from exquisite Italian dishes with skyline views to fresh sushi offerings. Enjoy spacious air-conditioned rooms equipped with modern amenities, along with convenient services like room service and a well-equipped gym to keep you active during your stay.",
+      "highlight": "Offers family rooms, an outdoor pool, and kids meals, along with a serene Japanese garden for relaxation.",
+      "price": "$260/night",
+      "location": "4-1 Kioi-Cho",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp741d4",
+      "name": "Hotel Gracery Shinjuku",
+      "image": "https://static.cupid.travel/hotels/470626457.jpg",
+      "description": "Hotel Gracery Shinjuku, opened in 2015, features comfortable rooms with free WiFi just a short stroll from JR Shinjuku Station and Seibu Shinjuku Station. Guests can indulge in a delicious breakfast buffet and enjoy exceptional services like 24-hour reception and multilingual concierge support. A standout feature is the iconic Godzilla Head on the hotel terrace, and nearby attractions like Shinjuku Gyoen National Garden enhance your stay, making this hotel a memorable choice for travelers.",
+      "highlight": "Features a unique Godzilla Head terrace, comfortable rooms, free WiFi, and a breakfast buffet near family-friendly attractions.",
+      "price": "$168/night",
+      "location": "1-19-1 Kabukicho, Shinjuku-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5031c",
+      "name": "Hotel Villa Fontaine Tokyo-Ueno Okachimachi",
+      "image": "https://static.cupid.travel/hotels/166177899.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Ueno Okachimachi boasts a prime location just a short walk from both the Shin-Okachimachi Subway Station and JR Okachimachi Train Station, perfect for travelers seeking convenient access to the city's transport network. The air-conditioned rooms feature modern amenities including flat-screen TVs and fridges, along with complimentary nightwear and toiletries for a comfortable stay. Guests can enjoy practical facilities like a coin-launderette, free-use microwave in the lobby, and a daily breakfast buffet with warm bread and coffee, making it an ideal choice for a seamless travel experience.",
+      "highlight": "Hotel Villa Fontaine Tokyo-Ueno Okachimachi offers air-conditioned rooms with modern amenities, a daily breakfast buffet, and convenient access to public transport.",
+      "price": "$107/night",
+      "location": "2-4-4 Kojima, Taito-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50322",
+      "name": "Hotel Villa Fontaine Tokyo-Kudanshita",
+      "image": "https://static.cupid.travel/hotels/460269065.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Kudanshita offers a perfect blend of modern amenities and a prime location, just a short stroll from Jimbocho Subway Station. Guests can enjoy stylish rooms equipped with flat-screen TVs, fridges, and convenient electric kettles, along with a complimentary breakfast buffet and essential services like luggage storage and dry cleaning. Experience a relaxing stay in this contemporary hotel that prioritizes both comfort and convenience.",
+      "highlight": "Offers stylish family rooms with flat-screen TVs, fridges, and a complimentary breakfast buffet in a convenient Tokyo location.",
+      "price": "$182/night",
+      "location": "2-4-4 Nishi Kanda Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50272",
+      "name": "Hotel Villa Fontaine Tokyo-Jimbocho",
+      "image": "https://static.cupid.travel/hotels/85560954.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Jimbocho offers a prime location just a two-minute stroll from Jimbocho Subway Station, making it easy to explore nearby attractions like Tokyo Dome and Nihon Budokan. Guests will appreciate the modern rooms adorned in calming natural hues, featuring free wired internet, flat-screen TVs, and en suite bathrooms stocked with complimentary toiletries. Enjoy added conveniences such as complimentary WiFi, a coin-operated launderette, laptop rentals, and free luggage storage for a seamless stay in Tokyo.",
+      "highlight": "Hotel Villa Fontaine Tokyo-Jimbocho offers modern rooms with flat-screen TVs, free WiFi, and convenient access to Jimbocho Subway Station.",
+      "price": "$176/night",
+      "location": "1-30 Jimbou-cho, Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-tokyo",
+  "generatedAt": "2025-11-04T01:24:30.126Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

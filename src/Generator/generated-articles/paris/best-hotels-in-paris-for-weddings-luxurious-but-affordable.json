@@ -1,0 +1,79 @@
+{
+  "city": "paris",
+  "query": "best hotels in Paris for weddings luxury and affordable",
+  "title": "Best hotels in Paris for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Paris can be a daunting task, especially when trying to balance luxury with affordability. This curated list highlights venues that not only offer stunning backdrops and exceptional services but also cater to various budgets. By exploring these options, couples can create unforgettable memories without compromising on their dream setting.",
+  "intro": "Discover the top luxurious yet affordable hotels in Paris that are perfect for hosting your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp44d1d",
+      "name": "Hôtel Moulin Vert",
+      "image": "https://static.cupid.travel/hotels/45020196.jpg",
+      "description": "Moulin Vert offers a prime location just a stroll from Gare Montparnasse and close to Pernety Metro Station, making it easy to explore Paris's famous attractions. Guests can unwind in soundproofed rooms featuring cable TV and en suite bathrooms, with 24/7 reception staff ready to assist. With convenient transportation options nearby, discovering the beauty of Paris has never been simpler. Book your stay for an unforgettable experience.",
+      "highlight": "Offers soundproofed rooms, family accommodations, and a convenient location near Gare Montparnasse and Pernety Metro Station.",
+      "price": "$121/night",
+      "location": "74 Rue Du Moulin Vert",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2eaaf",
+      "name": "Hôtel Beaugrenelle Saint Charles",
+      "image": "https://static.cupid.travel/hotels/ex_d0340c6f_z.jpg",
+      "description": "Experience the heart of Paris at this centrally located hotel, just steps away from Beaugrenelle and a short drive from the Eiffel Tower. Enjoy modern comforts in one of the 50 well-appointed rooms, offering flat-screen TVs and luxurious amenities, all while benefiting from 24-hour front desk service and complimentary Wi-Fi. With easy access to iconic attractions like the Louvre and Champ de Mars, your unforgettable Parisian adventure starts here.",
+      "highlight": "Features 50 well-appointed rooms with luxurious amenities, 24-hour front desk service, and easy access to iconic Paris attractions.",
+      "price": "$161/night",
+      "location": "82 Rue Saint Charles",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2eda6",
+      "name": "Hôtel Exquis",
+      "image": "https://static.cupid.travel/hotels/ex_b9186579_z.jpg",
+      "description": "Hôtel Exquis offers a prime location in the heart of Paris, making it perfect for visiting iconic sites like Opera Bastille and Père Lachaise Cemetery. Guests can enjoy modern comforts in one of the 42 air-conditioned rooms, equipped with complimentary Wi-Fi and daily housekeeping. With services like express check-in and a multilingual 24-hour front desk, your stay promises to be both convenient and memorable.",
+      "highlight": "Hôtel Exquis provides 42 air-conditioned rooms with complimentary Wi-Fi and a multilingual 24-hour front desk for a memorable stay.",
+      "price": "$136/night",
+      "location": "71 Rue De Charonne",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b3f8",
+      "name": "Hôtel de Charonne",
+      "image": "https://static.cupid.travel/hotels/529745706.jpg",
+      "description": "Hotel de Charonne is ideally located in the heart of Paris, providing easy access to the city's iconic attractions and transport options. Guests will appreciate the modern rooms, equipped with TVs and work desks, as well as accessible features for a comfortable stay. Begin each day with a delightful buffet breakfast and enjoy convenient amenities like 24-hour reception and complimentary Wi-Fi, ensuring a memorable experience in the City of Light.",
+      "highlight": "Features modern, soundproof rooms with TVs, 24-hour reception, and complimentary Wi-Fi, all in a prime Paris location.",
+      "price": "$123/night",
+      "location": "12 Rue Leon Frot",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34675",
+      "name": "Hôtel De Paris Opera",
+      "image": "https://static.cupid.travel/hotels/2878745.jpg",
+      "description": "Hotel de Paris offers a prime location in the heart of the 9th arrondissement, just moments from Gare de Nord and the stunning Basilic of Montmartre, making it easy to explore the city's iconic sites. Guests will enjoy comfortable rooms and suites equipped with modern amenities, including free WiFi and satellite TV, alongside convenient access via lift. With a self-service breakfast and 24-hour front desk service, this hotel ensures a delightful stay while providing excellent connectivity to the Metro for effortless travel around Paris.",
+      "highlight": "Offers comfortable rooms with modern amenities, a prime location near iconic sites, and convenient access to the Metro.",
+      "price": "$148/night",
+      "location": "37 Rue De Maubeuge",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42680",
+      "name": "Hôtel Chaplain Paris Rive Gauche",
+      "image": "https://static.cupid.travel/hotels/51969505.jpg",
+      "description": "Discover the elegance of Hotel Chaplain Rive Gauche, located in the heart of Paris near iconic sites like Jardin du Luxembourg and Montparnasse. Enjoy beautifully designed, soundproof rooms featuring modern decor, free minibar snacks, and flat-screen TVs, all paired with exceptional service. Start your mornings with a delightful continental breakfast and benefit from 24-hour assistance for a truly memorable stay.",
+      "highlight": "Offers elegantly designed, soundproof rooms, complimentary minibar snacks, and 24-hour concierge service in the heart of Paris.",
+      "price": "$234/night",
+      "location": "11 Bis, Rue Jules Chaplain",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-paris-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T02:05:46.401Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "london",
+  "query": "best dog friendly hotels in London",
+  "title": "What are the best dog-friendly hotels in London",
+  "excerpt": "Finding dog-friendly hotels in a bustling city like London can be a daunting task, as many places overlook the needs of our furry companions. This curated list not only highlights the top options but also provides peace of mind for pet owners seeking a comfortable stay with their dogs. With amenities tailored for both humans and pets, these hotels ensure that your entire family can enjoy their London adventure together.",
+  "intro": "Discover the best dog-friendly hotels in London, where you and your four-legged friend can enjoy a delightful stay in the heart of the city.",
+  "hotels": [
+    {
+      "id": "lp38339",
+      "name": "The Mad Hatter Hotel",
+      "image": "https://static.cupid.travel/hotels/102202628.jpg",
+      "description": "Discover The Mad Hatter Hotel, a captivating 19th-century building transformed into a cozy haven in Southwark. Enjoy modern comforts in stylish rooms while indulging in delicious home-cooked pub dishes at the on-site restaurant. With prime access to the River Thames, Tate Modern, and other iconic attractions, this hotel is the perfect base for your London adventure.",
+      "highlight": "Offers pet-friendly accommodations, room service, and kids meals in a charming 19th-century building.",
+      "price": "$275/night",
+      "location": "3 - 7 Stamford Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp30cd0",
+      "name": "Sofitel London St James",
+      "image": "https://static.cupid.travel/hotels/422088699.jpg",
+      "description": "Discover the opulence of Sofitel London St James, a luxurious 5-star neoclassical hotel located in the heart of the West End. Indulge in rejuvenating spa treatments and savor Michelin Star cuisine at Wild Honey St James, while enjoying elegantly redesigned rooms that offer breathtaking views and modern amenities. Experience the perfect blend of historic charm and contemporary comfort, making your stay truly unforgettable.",
+      "highlight": "Offers pet-friendly accommodations alongside a luxurious spa and Michelin Star dining in a neoclassical setting.",
+      "price": "$545/night",
+      "location": "6 Waterloo Place",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp35cf8",
+      "name": "One Hundred Shoreditch",
+      "image": "https://static.cupid.travel/hotels/350702154.jpg",
+      "description": "One Hundred Shoreditch is a vibrant hotel located on Shoreditch High Street, offering 258 stylish rooms and a range of dining experiences, including a chic cocktail bar by Mr Lyan and a stunning rooftop bar with breathtaking views of East London. Guests can unwind in thoughtfully designed spaces featuring minimalist decor, bespoke art, and luxurious amenities like super soft bedding and premium DS & Durga toiletries. Experience the essence of Shoreditch in a relaxing retreat that combines comfort and style.",
+      "highlight": "Offers pet-friendly accommodations with private check-in/out and outdoor furniture for a comfortable stay in Shoreditch.",
+      "price": "$1383/night",
+      "location": "100 Shoreditch High Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1ff72",
+      "name": "The Pelham London - Starhotels Collezione",
+      "image": "https://static.cupid.travel/hotels/99828681.jpg",
+      "description": "Experience a unique blend of luxury and charm at The Pelham in South Kensington, where each stylish room is adorned with a mix of antique and modern furnishings. Savor Michelin-starred Italian cuisine at La Trattoria by Alfredo Russo, and unwind in the hotel's elegant drawing room with afternoon tea. With its prime location near South Kensington Tube Station, iconic attractions like the Royal Albert Hall and Natural History Museum are just a stroll away, making it the perfect base for your London adventure.",
+      "highlight": "Offers pet-friendly accommodations, Michelin-starred dining, and proximity to South Kensington Tube Station and major attractions.",
+      "price": "$364/night",
+      "location": "15 Cromwell Place, South Kensington",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2f448",
+      "name": "Kimpton - Fitzroy London, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/374597257.jpg",
+      "description": "Experience the elegance of Kimpton Fitzroy London, a Grade II listed landmark featuring a stunning terracotta exterior and chic designer interiors, all just steps from Russell Square and top attractions like Covent Garden and The British Museum. Relax in modern luxury with redesigned rooms that offer free WiFi, Smart TVs, and upscale en-suite bathrooms, complemented by a well-stocked minibar. Delight in diverse dining options, from a cozy coffeehouse to an upscale bar, and take advantage of the expansive event spaces, including a grand ballroom, perfect for any occasion.",
+      "highlight": "Offers pet-friendly accommodations with pet bowls and baskets, ensuring a comfortable stay for your furry companions.",
+      "price": "$586/night",
+      "location": "1-8 Russell Square",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22345",
+      "name": "The 29 London",
+      "image": "https://static.cupid.travel/hotels/19824770.jpg",
+      "description": "Experience the charm of 19th-century elegance at The 29 London, ideally situated just a short stroll from Victoria Coach Station and Buckingham Palace. This hotel offers modern amenities including complimentary Wi-Fi, a 24-hour reception, and comfortable rooms with private bathrooms. With easy access to Victoria Rail Station and the Gatwick Express, your stay promises both comfort and convenience in the heart of London.",
+      "highlight": "Boasts dog-friendly accommodations with soundproof rooms and family-friendly amenities in a central London location.",
+      "price": "$173/night",
+      "location": "29 St. Georges Dr.",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-dog-friendly-hotels-in-london",
+  "generatedAt": "2025-11-04T01:23:44.574Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

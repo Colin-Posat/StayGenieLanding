@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "hotels in San Francisco under 100 dollars and clean",
+  "title": "What are the best hotels in San Francisco under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in San Francisco can be a daunting task, especially in a city renowned for its high prices and bustling tourism. This curated list is invaluable for budget-conscious travelers seeking comfort without breaking the bank, offering options that ensure a pleasant stay in one of America's most iconic destinations. With these recommendations, you can enjoy the vibrant culture of San Francisco while keeping your expenses in check.",
+  "intro": "Discover the top hotels in San Francisco that offer cleanliness and comfort for under $100, ensuring a memorable stay without straining your budget.",
+  "hotels": [
+    {
+      "id": "lp224881",
+      "name": "HI San Francisco Downtown Hostel",
+      "image": "https://static.cupid.travel/hotels/36092062.jpg",
+      "description": "Located in the vibrant heart of San Francisco, HI San Francisco Downtown Hostel is just a short walk from the bustling Union Square, making it an ideal base for those who love shopping and dining. The hostel features modern rooms adorned with large windows and contemporary furnishings, with some offering private en suite facilities for added convenience. Guests can enjoy a variety of amenities, including a well-equipped kitchen, a cozy lounge, complimentary WiFi, and secure lockers, all designed to enhance their stay in this dynamic city.",
+      "highlight": "Offers modern rooms with large windows, a shared kitchen, cozy lounge, and complimentary WiFi in a central location.",
+      "price": "$90/night",
+      "location": "312 Mason Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp77106",
+      "name": "Amsterdam Hostel",
+      "image": "https://static.cupid.travel/hotels/422325864.jpg",
+      "description": "Amsterdam Hostel is perfectly located just an 8-minute walk from Union Square, making it easy to explore top attractions like Chinatown and The Masonic. Guests can enjoy organized group activities and relax with free films in the hostel's theatre after a day of sightseeing. With nearby hotspots like the Haight Ashbury District and the Fillmore music venue, this hostel is an ideal base for immersing yourself in San Francisco's vibrant culture.",
+      "highlight": "Offers family rooms, a shared kitchen, and organized pub crawls for an engaging stay in San Francisco.",
+      "price": "$98/night",
+      "location": "749 Taylor Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2812b",
+      "name": "Embassy Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_0aadcfd7_z.jpg",
+      "description": "Experience a hassle-free stay at the Embassy Hotel, where complimentary wireless internet, concierge services, and an on-site hair salon cater to your every need. Enjoy the convenience of a 24-hour front desk and multilingual staff, all while being centrally located near iconic attractions like Moscone Convention Center and Oracle Park. Book your stay to elevate your San Francisco adventure.",
+      "highlight": "Embassy Hotel offers complimentary Wi-Fi, 24-hour front desk service, and secure parking in a central San Francisco location.",
+      "price": "$102/night",
+      "location": "610 Polk St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp225dd",
+      "name": "Hotel Bijou",
+      "image": "https://static.cupid.travel/hotels/ex_b295abe0_z.jpg",
+      "description": "Discover the charm of Hotel Bijou, ideally situated in the lively heart of San Francisco, just moments from iconic attractions. Enjoy one of 65 elegantly designed guestrooms featuring flat-screen TVs and luxurious bathrooms with deep soaking tubs, along with convenient amenities like complimentary Wi-Fi and a 24-hour front desk. With prime access to Union Square and the Moscone Convention Center, you can immerse yourself in the city's vibrant art scene and culinary delights with ease.",
+      "highlight": "Offers 65 elegantly designed guestrooms with flat-screen TVs, luxurious bathrooms, and complimentary Wi-Fi in downtown San Francisco.",
+      "price": "$134/night",
+      "location": "111 Mason St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpa3af6",
+      "name": "Warfield Hotel",
+      "image": "https://static.cupid.travel/hotels/92360367.jpg",
+      "description": "Experience the vibrant heart of San Francisco at the Warfield Hotel, located in the lively Tenderloin District and just steps from the famous Warfield concert venue and Golden Gate Theatre. Enjoy modern comforts in smoke-free rooms equipped with flat-screen TVs, microwaves, and mini-refrigerators, complemented by a 24-hour front desk and free WiFi. Take advantage of nearby attractions like North Beach and Coit Tower, and start your day with complimentary coffee and pastries in the lobby for a truly memorable stay.",
+      "highlight": "Boasts smoke-free rooms with flat-screen TVs, microwaves, mini-refrigerators, and complimentary coffee and pastries in the lobby.",
+      "price": "$137/night",
+      "location": "118 Taylor St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp38558",
+      "name": "Samesun San Francisco - Hostel",
+      "image": "https://static.cupid.travel/hotels/ex_e5569350_z.jpg",
+      "description": "Discover Samesun San Francisco - Hostel, where comfort and convenience blend seamlessly in a prime location just minutes from iconic sites like Lombard Street and Alcatraz Island. Enjoy cozy, air-conditioned accommodations with private bathrooms and free Wi-Fi, along with a welcoming lobby featuring a fireplace. With exceptional amenities like free self-parking and a multilingual staff ready to assist, your stay promises to be both enjoyable and memorable.",
+      "highlight": "Offers cozy, air-conditioned rooms with private bathrooms, free Wi-Fi, and free self-parking in a prime location.",
+      "price": "$187/night",
+      "location": "1475 Lombard Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-san-francisco-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:24:13.572Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

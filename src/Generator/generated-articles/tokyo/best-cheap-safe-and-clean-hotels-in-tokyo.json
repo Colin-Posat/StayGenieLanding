@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "cheap safe clean hotels in Tokyo",
+  "title": "Best cheap, safe, and clean hotels in Tokyo",
+  "excerpt": "Finding affordable, safe, and clean hotels in Tokyo can feel overwhelming due to the sheer volume of options available. This curated list serves as a valuable resource, helping travelers navigate the bustling city without compromising on quality or budget. With these recommendations, you can enjoy peace of mind while exploring one of the world's most vibrant destinations.",
+  "intro": "Discover the best budget-friendly hotels in Tokyo that prioritize safety and cleanliness, ensuring a worry-free stay in this dynamic city.",
+  "hotels": [
+    {
+      "id": "lp63060",
+      "name": "Hotel Palace Japan",
+      "image": "https://static.cupid.travel/hotels/5052674.jpg",
+      "description": "Hotel Palace offers a prime location just steps from JR Minami-Senju Station, providing guests with easy access to Tokyo's top attractions like Sensoji Temple and Ueno Park. Enjoy comfortable air-conditioned rooms equipped with modern amenities, along with shared facilities such as a kitchen and internet station. With free Wi-Fi and a smoke-free environment, this hotel is ideal for travelers seeking both convenience and comfort during their Tokyo adventure.",
+      "highlight": "Features air-conditioned rooms, a shared kitchen, and a Japanese garden, all in a smoke-free environment near JR Minami-Senju Station.",
+      "price": "$52/night",
+      "location": "2-31-6",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8748a",
+      "name": "Do-C Gotanda",
+      "image": "https://static.cupid.travel/hotels/140211424.jpg",
+      "description": "Nestled in the heart of Tokyo, Do-C Gotanda offers modern accommodations within walking distance of top attractions like the Remy Gotanda Shopping Mall and Yakushi-ji Tokyo Annex Temple. Guests will appreciate the air-conditioned rooms, complimentary WiFi, and a 24-hour front desk, along with a delightful continental breakfast each morning. For relaxation, the hotel features a male-only sauna, making it an ideal retreat after a day of city exploration.",
+      "highlight": "Offers air-conditioned rooms, free WiFi, a 24-hour front desk, and a male-only sauna in central Tokyo.",
+      "price": "$46/night",
+      "location": "1-20-15 Higashi Gotanda",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp69d85",
+      "name": "Juyoh Hotel",
+      "image": "https://static.cupid.travel/hotels/366169796.jpg",
+      "description": "Experience the charm of Juyoh Hotel, where you can choose from a variety of private rooms, including traditional Japanese futons and modern Western beds, ensuring a restful stay for everyone. Enjoy convenient amenities such as a coin-operated laundrette and a shared kitchen with a microwave, making your visit effortless. Located just a short stroll from Minami-Senju Subway Station, this hotel offers easy access to iconic attractions like Senso-ji Temple, Tsukiji, and Ginza.",
+      "highlight": "Offers private rooms with traditional Japanese futons, a shared kitchen, and easy access to Minami-Senju Subway Station.",
+      "price": "$53/night",
+      "location": "2-15-3 Kiyokawa, Taito-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5f260",
+      "name": "HOTEL LiVEMAX BUDGET Higashi Ueno",
+      "image": "https://static.cupid.travel/hotels/422178757.jpg",
+      "description": "Experience affordable comfort at Hotel Livemax BUDGET in Tokyo, located just a short 3-minute stroll from Shin-Okachimachi Subway Station. Each cozy room features essential amenities like air conditioning, a TV, a fridge, and a private bathroom with both a shower and bathtub. Enjoy convenient facilities including coin-operated laundry and easy access to popular areas like Ueno, Asakusa, and Roppongi, all within walking distance from JR Okachimachi Station.",
+      "highlight": "Offers cozy rooms with essential amenities, including air conditioning, a private bathroom, and coin-operated laundry facilities.",
+      "price": "$76/night",
+      "location": "3-5-1 Motoasakusa Taito-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50274",
+      "name": "HOTEL MYSTAYS Kameido",
+      "image": "https://static.cupid.travel/hotels/24181600.jpg",
+      "description": "Experience comfort and convenience at HOTEL MYSTAYS Kameido, just a short 4-minute stroll from JR Kameido Train Station, providing easy access to Tokyo's vibrant areas like Akihabara and Shinjuku. Each air-conditioned room is designed for long-term stays, featuring a kitchenette equipped with a mini-refrigerator, microwave, and induction stove, along with private bathrooms and complimentary toiletries. Enjoy a delightful breakfast buffet with Japanese and Western options, and savor meals at the on-site Japanese and French restaurants, all while being close to convenience stores and additional dining options.",
+      "highlight": "Offers air-conditioned rooms with kitchenettes, a breakfast buffet, and on-site dining, all within a short walk from the train station.",
+      "price": "$60/night",
+      "location": "6-32-1 Kameido, Koto-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp8b710",
+      "name": "HOTEL LiVEMAX Asakusa Sky Front",
+      "image": "https://static.cupid.travel/hotels/475147856.jpg",
+      "description": "Discover HOTEL LiVEMAX Asakusa Sky Front, ideally situated in Sumida Ward just 400 meters from the iconic Tokyo Skytree. This non-smoking hotel offers comfortable, air-conditioned rooms with private bathrooms and complimentary WiFi, perfect for unwinding after a day of exploring nearby cultural sites like the Tobacco & Salt Museum. With convenient access to major attractions and Tokyo Haneda Airport only 20 km away, your stay promises both comfort and adventure in the heart of Tokyo.",
+      "highlight": "Provides soundproof rooms, air conditioning, and complimentary WiFi, all within 400 meters of Tokyo Skytree.",
+      "price": "$70/night",
+      "location": "1-10-4 Narihira",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-tokyo",
+  "generatedAt": "2025-11-04T01:08:22.989Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

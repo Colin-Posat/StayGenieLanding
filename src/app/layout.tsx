@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 // ✅ Proper SEO & favicon metadata for Google
 export const metadata = {
-  metadataBase: new URL("https://www.staygenieapp.com"),
+  metadataBase: new URL("https://www.staygenie.app"),
   title: "StayGenie - Hotel Search That Actually Gets You",
   description:
     "AI learns your preferences to deliver personalized hotel recommendations. Always free. Always smart.",
@@ -35,7 +35,7 @@ export const metadata = {
   openGraph: {
     title: "StayGenie - Hotel Search That Actually Gets You",
     description: "Discover AI-powered hotel matches tailored to your vibe.",
-    url: "https://www.staygenieapp.com",
+    url: "https://www.staygenie.app",
     siteName: "StayGenie",
     images: [
       {

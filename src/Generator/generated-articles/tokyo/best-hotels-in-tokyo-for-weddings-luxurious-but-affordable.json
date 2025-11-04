@@ -1,0 +1,79 @@
+{
+  "city": "tokyo",
+  "query": "best hotels in Tokyo for weddings luxury and affordable",
+  "title": "Best hotels in Tokyo for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Tokyo can be a daunting task, as couples seek venues that balance luxury and affordability. This list is invaluable because it highlights options that not only provide elegant settings and exceptional services but also cater to various budgets, ensuring a memorable celebration without breaking the bank.",
+  "intro": "Discover the best hotels in Tokyo that offer a stunning blend of luxury and affordability for your dream wedding.",
+  "hotels": [
+    {
+      "id": "lp7250a",
+      "name": "FLEXSTAY INN Nakanobu",
+      "image": "https://static.cupid.travel/hotels/95408315.jpg",
+      "description": "Flexstay Inn Nakanobu offers a convenient self-catering experience just steps from Nakanobu Subway Station, featuring fully equipped apartments with modern amenities like a flat-screen TV. Guests can take advantage of on-site services, including luggage storage, laundry facilities, and vending machines, ensuring a comfortable and hassle-free stay. With easy access to Shibuya and Haneda Airport, this hotel is perfect for travelers seeking both comfort and convenience in Tokyo.",
+      "highlight": "Offers fully equipped apartments with modern amenities, convenient self-catering options, and easy access to public transportation.",
+      "price": "$67/night",
+      "location": "4-27-8, Futaba, Shinagawa-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp560fc",
+      "name": "Smile Hotel Tokyo Ayase Ekimae",
+      "image": "https://static.cupid.travel/hotels/231149868.jpg",
+      "description": "Ayase Kokusai Hotel is ideally situated just a minute from Ayase Train Station, providing easy access to Tokyo's top attractions. Guests can unwind in air-conditioned rooms with free internet, enjoy in-room massage services, and savor a delightful continental breakfast at the Kohikan cafe. With convenient facilities like coin-operated laundry and a public computer, this hotel ensures a comfortable and stress-free stay.",
+      "highlight": "Offers air-conditioned rooms, in-room massages, and a restaurant, all within a minute's walk from Ayase Train Station.",
+      "price": "$70/night",
+      "location": "4-8-5 Kosuge Katsushika-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5e1fe",
+      "name": "Smile Hotel Sugamo",
+      "image": "https://static.cupid.travel/hotels/38136929.jpg",
+      "description": "Located just a short two-minute stroll from JR Sugamo Station, Smile Hotel Sugamo combines comfort with convenience, offering 24-hour reception and complimentary WiFi. Guests can savor a delightful breakfast buffet featuring seasonal Japanese dishes and enjoy modern rooms equipped with air conditioning, flat-screen TVs, and relaxing bathtubs. With additional services like dry cleaning and a 24/7 laundry room, your stay promises to be both enjoyable and hassle-free.",
+      "highlight": "Offers modern rooms with flat-screen TVs, a delightful breakfast buffet, and 24-hour reception for a seamless wedding experience.",
+      "price": "$93/night",
+      "location": "2-4-7 Sugamo",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp69582",
+      "name": "Ryogoku View Hotel",
+      "image": "https://static.cupid.travel/hotels/205935696.jpg",
+      "description": "Ryogoku View Hotel is ideally situated just a minute from Ryogoku Train Station, featuring modern rooms with balconies and abundant natural light from floor-to-ceiling windows. Guests can enjoy authentic Japanese cuisine at Restaurant Sakura-Tei and explore nearby attractions like the Edo Tokyo Museum and Ryogoku Stadium, with easy access to Akihabara and Ueno Station. With convenient connections to Narita and Haneda Airports, this hotel promises both comfort and accessibility in the vibrant heart of Tokyo.",
+      "highlight": "Offers a reception hall, soundproof rooms, and modern accommodations with balconies, all just minutes from Ryogoku Train Station.",
+      "price": "$96/night",
+      "location": "2-19-1 Ryogoku, Sumida-ku",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5c68e",
+      "name": "APA Hotel Asakusa Kuramae",
+      "image": "https://static.cupid.travel/hotels/593028832.jpg",
+      "description": "Experience the elegance of APA Hotel Asakusa Kuramae, where modern comforts meet stunning views of the Sumida River from the top-floor public bath. Each compact room is equipped with a flat-screen TV, fridge, and an original luxury mattress for a restful stay. Start your day with a delightful buffet breakfast at Gin Yuba Restaurant, and explore nearby attractions like the Asakusa Sensoji Temple, all just a short walk away.",
+      "highlight": "Features a top-floor public bath with stunning Sumida River views and offers a delightful buffet breakfast at Gin Yuba Restaurant.",
+      "price": "$98/night",
+      "location": "2-4-6, Komagata",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp50322",
+      "name": "Hotel Villa Fontaine Tokyo-Kudanshita",
+      "image": "https://static.cupid.travel/hotels/460269065.jpg",
+      "description": "Hotel Villa Fontaine Tokyo-Kudanshita offers a prime location just a short stroll from Jimbocho Subway Station, featuring modern rooms adorned in soothing dark tones. Guests can enjoy amenities such as flat-screen TVs, fridges, and complimentary toiletries, along with convenient services like dry cleaning and a daily breakfast buffet in the lobby. With additional facilities including a coin launderette and vending machines, this hotel ensures a comfortable and hassle-free stay.",
+      "highlight": "Offers modern rooms with flat-screen TVs, complimentary breakfast buffet, and convenient dry cleaning services for a comfortable stay.",
+      "price": "$182/night",
+      "location": "2-4-4 Nishi Kanda Chiyoda-ku",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-tokyo-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:31:55.373Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "best hotels in Las Vegas for weddings luxury and affordable",
+  "title": "Best hotels in Las Vegas for weddings: Luxurious but affordable",
+  "excerpt": "Finding the perfect hotel for a wedding in Las Vegas can be a daunting task, especially when trying to balance luxury with affordability. This curated list highlights hotels that not only provide stunning venues and top-notch amenities but also offer competitive pricing, ensuring couples can celebrate their special day without breaking the bank. With options that cater to diverse tastes and budgets, this guide is invaluable for those planning a memorable celebration in the heart of the entertainment capital.",
+  "intro": "Discover the best luxurious yet affordable hotels in Las Vegas that make for the perfect wedding destination.",
+  "hotels": [
+    {
+      "id": "lp1e0c1",
+      "name": "Downtown Grand Las Vegas",
+      "image": "https://static.cupid.travel/hotels/ex_b1cd358b_z.jpg",
+      "description": "Discover the vibrant energy of Las Vegas at Downtown Grand, ideally situated in the city's heart. Enjoy a thrilling casino, a refreshing outdoor pool, and a fully equipped 24-hour fitness center, ensuring endless entertainment. Indulge in American cuisine at Freedom Beat and unwind with drinks at the poolside bar, all while enjoying comfortable rooms with modern amenities and complimentary Wi-Fi for a perfect blend of relaxation and convenience.",
+      "highlight": "Features a spacious ballroom, refreshing outdoor pool, and dedicated concierge services for a memorable wedding experience.",
+      "price": "$97/night",
+      "location": "206 North 3rd Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a88f",
+      "name": "Days Inn by Wyndham Las Vegas",
+      "image": "https://static.cupid.travel/hotels/135441972.jpg",
+      "description": "Discover year-round relaxation at Days Inn Las Vegas New Mexico, featuring an inviting indoor pool and hot tub for your enjoyment regardless of the season. Enjoy modern comforts with amenities like free Wi-Fi, on-site parking, and air-conditioned rooms equipped with microwaves and refrigerators. Stay active in the fitness center and maintain productivity in the business center, ensuring a perfect blend of comfort and convenience for your stay.",
+      "highlight": "Offers an indoor pool, hot tub, and pet-friendly accommodations with modern comforts and convenient amenities.",
+      "price": "$78/night",
+      "location": "2000 N Grand Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp33a1d1",
+      "name": "Hampton Inn & Suites Las Vegas Convention Center - No Resort Fee",
+      "image": "https://static.cupid.travel/hotels/534334524.jpg",
+      "description": "Discover the Hampton Inn & Suites Las Vegas Convention Center, ideally situated on the iconic Las Vegas Strip, offering easy access to must-see attractions like the Bellagio Fountains and Stratosphere Tower. Enjoy modern, air-conditioned rooms featuring essential amenities such as a coffee machine and flat-screen TV, ensuring a comfortable and convenient stay. With a 24-hour front desk and proximity to world-class entertainment, this hotel provides everything you need for an unforgettable Las Vegas getaway.",
+      "highlight": "Offers modern rooms with essential amenities, a pool, and easy access to iconic attractions on the Las Vegas Strip.",
+      "price": "$161/night",
+      "location": "755 Sierra Vista Dr.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4b262",
+      "name": "Hampton Inn Las Vegas/North Speedway",
+      "image": "https://static.cupid.travel/hotels/486005296.jpg",
+      "description": "Hampton Inn Las Vegas/North Speedway offers a prime location in the North Las Vegas Business Park, just minutes from the vibrant downtown area. Guests can unwind in cozy rooms featuring 32-inch flat-screen TVs and plush Cloud Nine beds, ensuring a restful retreat. Enjoy leisure amenities like an outdoor pool and a fitness center, making it the ideal spot for both relaxation and exploration.",
+      "highlight": "Boasts a reception hall and outdoor pool, providing a welcoming venue for wedding celebrations in a cozy setting.",
+      "price": "$173/night",
+      "location": "2852 E Craig Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp43826",
+      "name": "Hampton Inn & Suites Las Vegas Airport",
+      "image": "https://static.cupid.travel/hotels/485513669.jpg",
+      "description": "Experience the perfect Las Vegas getaway at our conveniently located hotel, just minutes from McCarran International Airport and the exciting Strip. Enjoy modern, non-smoking rooms with flat-screen TVs and kickstart your day with a complimentary hot breakfast. Relax by the outdoor pool, stay fit in our 24-hour gym, and utilize our free airport shuttle service for a memorable stay.",
+      "highlight": "Offers a reception hall, outdoor pool, and complimentary airport shuttle for a luxurious yet affordable wedding experience.",
+      "price": "$160/night",
+      "location": "6575 S Eastern Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp538f2",
+      "name": "Best Western Plus Casino Royale - Center Strip",
+      "image": "https://static.cupid.travel/hotels/170660690.jpg",
+      "description": "Best Western Plus Casino Royale - Center Strip offers a prime location on the Las Vegas Strip, just a short distance from the Sands Expo and Convention Center, all without the hassle of resort fees. Guests can enjoy diverse dining options, including Denny's and White Castle, and relax in their well-equipped rooms featuring flat-screen TVs and minibars. With an outdoor pool, a 24-hour fitness center, and convenient business services, this hotel ensures a memorable and comfortable stay in the heart of Las Vegas.",
+      "highlight": "Features a prime Las Vegas Strip location, outdoor pool, diverse dining options, and well-equipped rooms without resort fees.",
+      "price": "$200/night",
+      "location": "3411 Las Vegas Blvd S",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-hotels-in-las-vegas-for-weddings-luxurious-but-affordable",
+  "generatedAt": "2025-11-04T01:43:16.326Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

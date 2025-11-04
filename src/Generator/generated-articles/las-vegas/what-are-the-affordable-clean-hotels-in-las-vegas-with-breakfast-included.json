@@ -1,0 +1,79 @@
+{
+  "city": "las-vegas",
+  "query": "affordable clean hotels in Las Vegas with breakfast included",
+  "title": "What are the affordable, clean hotels in Las Vegas with breakfast included",
+  "excerpt": "Finding affordable and clean hotels in Las Vegas that also offer breakfast can be a daunting task amidst the city's myriad of options. This list serves as a valuable resource for budget-conscious travelers who want to enjoy a comfortable stay without sacrificing quality or convenience. By highlighting these key hotels, you can save time and money while ensuring a pleasant experience in the entertainment capital of the world.",
+  "intro": "Discover the best budget-friendly hotels in Las Vegas that provide cleanliness and complimentary breakfast, making your trip both enjoyable and economical.",
+  "hotels": [
+    {
+      "id": "lp2f2c0",
+      "name": "El Cortez Hotel & Casino - 21 and over only",
+      "image": "https://static.cupid.travel/hotels/622063357.jpg",
+      "description": "El Cortez Hotel & Casino offers an exciting blend of entertainment, featuring a lively restaurant, bar, and casino all in one place, perfect for enjoying Las Vegas nightlife. With convenient 24-hour services, including concierge and airport transfers, your stay will be comfortable and stress-free. Located in the heart of the city, you'll be just steps away from iconic attractions like the Mob Museum and Fremont Street Experience.",
+      "highlight": "Offers affordable accommodations with breakfast included, a lively restaurant, and a casino in the heart of Las Vegas.",
+      "price": "$47/night",
+      "location": "600 Fremont St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp22667",
+      "name": "Fremont Hotel & Casino",
+      "image": "https://static.cupid.travel/hotels/ex_5a4fc18e_z.jpg",
+      "description": "Experience the thrill of Las Vegas at Fremont Hotel & Casino, featuring a vibrant casino and a variety of recreational amenities, including a fitness center and complimentary internet access. Savor culinary delights at four diverse restaurants or relax at one of two bars, with daily buffet breakfasts available. With convenient services like express check-out and free valet parking, each of the 447 air-conditioned rooms offers flat-screen TVs and comfortable bedding for a perfect getaway.",
+      "highlight": "Offers daily buffet breakfast, a vibrant casino, and comfortable, air-conditioned rooms with flat-screen TVs.",
+      "price": "$68/night",
+      "location": "200 Fremont St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1cf19",
+      "name": "Days Inn by Wyndham Las Vegas Airport Near the Strip",
+      "image": "https://static.cupid.travel/hotels/543467636.jpg",
+      "description": "Days Inn by Wyndham Las Vegas Airport Near the Strip offers a prime location just 1.6 km from McCarran Airport and a short distance from the lively Las Vegas Strip. Guests can unwind in comfortable non-smoking rooms featuring modern amenities, while enjoying the outdoor pool and BBQ facilities. With complimentary breakfast bags, scheduled shuttle service, and easy access to public transport, this hotel ensures a convenient and enjoyable stay in Las Vegas.",
+      "highlight": "Offers complimentary breakfast bags, free WiFi, outdoor pool, and BBQ facilities near the Las Vegas Strip.",
+      "price": "$88/night",
+      "location": "5075 Koval Ln",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35699",
+      "name": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area",
+      "image": "https://static.cupid.travel/hotels/539713656.jpg",
+      "description": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area boasts a prime location just minutes from McCarran International Airport, providing comfortable rooms equipped with free WiFi and ample parking for RVs and buses. Guests can indulge in delicious Thai-Chinese cuisine at Ocha Cuisine, enjoy complimentary coffee in the lobby, and take advantage of a 24-hour reception for added convenience. Located near iconic attractions like the Bellagio Fountains and Caesars Palace Casino, this hotel is perfect for exploring the vibrant Las Vegas scene.",
+      "highlight": "Super 8 by Wyndham Las Vegas North Strip/Fremont St. Area offers complimentary breakfast, free WiFi, and convenient 24-hour reception.",
+      "price": "$48/night",
+      "location": "1213 South Las Vegas Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp43826",
+      "name": "Hampton Inn & Suites Las Vegas Airport",
+      "image": "https://static.cupid.travel/hotels/485513669.jpg",
+      "description": "Experience the ideal Las Vegas getaway at our conveniently located hotel, just minutes from McCarran International Airport and the lively Strip. Enjoy modern, non-smoking guestrooms with flat-screen TVs, along with a complimentary hot breakfast and daily airport shuttle service. Unwind by the outdoor pool, stay fit in our 24-hour fitness center, and find all your essentials at the on-site convenience store for a memorable stay.",
+      "highlight": "Offers modern non-smoking rooms, free hot breakfast, an outdoor pool, and a 24-hour fitness center.",
+      "price": "$160/night",
+      "location": "6575 S Eastern Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655533e6",
+      "name": "Hampton Inn Las Vegas Strip South, NV 89123",
+      "image": "https://static.cupid.travel/hotels/485514858.jpg",
+      "description": "Hampton Inn Las Vegas Strip South offers an array of luxurious amenities, including an outdoor swimming pool, a fitness center, and a relaxing spa and wellness center. Convenient services such as a 24-hour front desk, airport transfers, and complimentary WiFi ensure a seamless experience for guests. Located near popular attractions like Shark Reef Aquarium and Crystals Shopping Center, this hotel is an ideal base for exploring the excitement of Las Vegas.",
+      "highlight": "Offers complimentary breakfast, an outdoor pool, and a fitness center near the Las Vegas Strip.",
+      "price": "$178/night",
+      "location": "7850 Giles Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-las-vegas-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:14:22.657Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "affordable clean hotels in Rome with breakfast included",
+  "title": "What are the affordable, clean hotels in Rome with breakfast included",
+  "excerpt": "Navigating the myriad of accommodation options in Rome can be overwhelming, especially when seeking a balance between affordability, cleanliness, and included amenities like breakfast. This curated list simplifies your search, ensuring you find value without sacrificing comfort. Discovering these hotels not only saves you money but also enhances your overall experience in the enchanting Italian capital.",
+  "intro": "Uncover the best affordable and clean hotels in Rome that offer breakfast included, perfect for starting your day of exploration.",
+  "hotels": [
+    {
+      "id": "lp44bcb",
+      "name": "Hotel Sonya",
+      "image": "https://static.cupid.travel/hotels/210388411.jpg",
+      "description": "Hotel Sonya offers a tranquil escape in central Rome, directly across from the Opera House and just steps from the Viminale Palace. Guests can unwind in air-conditioned rooms featuring cable TV and tea/coffee makers, while complimentary WiFi keeps you connected. Enjoy a delightful breakfast each morning and receive personalized recommendations from the attentive staff to enhance your exploration of the city's nearby attractions.",
+      "highlight": "Hotel Sonya provides air-conditioned rooms, complimentary breakfast, and personalized tour recommendations in central Rome.",
+      "price": "$83/night",
+      "location": "Via del Viminale, 58",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2d0a0",
+      "name": "Hotel Cristoforo Colombo",
+      "image": "https://static.cupid.travel/hotels/584337790.jpg",
+      "description": "Discover unparalleled comfort at the Cristoforo Colombo in Rome's lively EUR district, featuring direct access to the Euroma2 shopping center and convenient transport links. Enjoy luxurious amenities like free WiFi, parking, and a seasonal outdoor pool, along with a delightful on-site restaurant serving a variety of Roman and international cuisine. Start your day with a sumptuous continental breakfast and immerse yourself in the rich offerings of the Eternal City.",
+      "highlight": "Offers a complimentary continental breakfast, free WiFi, and a seasonal outdoor pool in Rome's EUR district.",
+      "price": "$99/night",
+      "location": "Via Cristoforo Colombo 710",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4510b",
+      "name": "Hotel Canova",
+      "image": "https://static.cupid.travel/hotels/41061346.jpg",
+      "description": "Discover the essence of Rome at Hotel Canova, ideally located just a short walk from the magnificent Coliseum and the historic Santa Maria Maggiore basilica. With easy access to public transport and a variety of delightful wine bars and restaurants nearby, your stay promises both convenience and comfort. Immerse yourself in the city's rich history, with the Roman Forum just moments away, making it the perfect base for your Roman adventure.",
+      "highlight": "Offers complimentary breakfast, a terrace, and a tour desk, all within walking distance of the Coliseum.",
+      "price": "$103/night",
+      "location": "Via Urbana 10",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp44641",
+      "name": "Hotel Tirreno",
+      "image": "https://static.cupid.travel/hotels/10917884.jpg",
+      "description": "Hotel Tirreno combines historic charm with modern comfort in the heart of Rome, housed in a building once occupied by the renowned painter Il Domenichino. Guests can unwind in the serene garden and indulge in a delightful continental breakfast featuring fresh pastries and authentic Italian coffee. With a prime location near attractions like the Coliseum and excellent metro access, this hotel offers a perfect retreat for exploring the city.",
+      "highlight": "Hotel Tirreno offers clean accommodations, a serene Japanese garden, and a delightful continental breakfast included in the rate.",
+      "price": "$127/night",
+      "location": "Via San Martino Ai Monti 18",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp30b89",
+      "name": "Hotel Villa Glori",
+      "image": "https://static.cupid.travel/hotels/14991384.jpg",
+      "description": "Hotel Villa Glori is perfectly located in the charming Parioli District, close to the Tiber River and just a short walk from Flaminio Metro Station and Piazza del Popolo. Guests can enjoy complimentary Wi-Fi, air-conditioned rooms with satellite TV, and various convenient services, including tourist information and transfers. Relax at the Toccata e Fuga bar, and explore nearby attractions like MAXXI Museum and Flaminio Stadium, making it an ideal choice for a memorable Roman getaway.",
+      "highlight": "Offers air-conditioned rooms, complimentary breakfast, and convenient access to Flaminio Metro Station in the Parioli District.",
+      "price": "$109/night",
+      "location": "Via Bernardo Celentano 11",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp44bb6",
+      "name": "Hotel Lodi",
+      "image": "https://static.cupid.travel/hotels/ex_fcad60d3_z.jpg",
+      "description": "Discover the charm of Hotel Lodi, where you can enjoy stunning garden views alongside modern conveniences such as complimentary Wi-Fi and room service. Located in the vibrant San Giovanni district, this hotel features well-appointed rooms and offers easy access to iconic attractions like the Colosseum, all while providing thoughtful amenities like a 24-hour front desk and an airport shuttle for a hassle-free stay. Indulge in a delicious cooked-to-order breakfast to start your day right in the heart of Rome.",
+      "highlight": "Offers complimentary breakfast, well-appointed rooms, and easy access to iconic attractions in the San Giovanni district.",
+      "price": "$182/night",
+      "location": "Via Oristano 14",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-affordable-clean-hotels-in-rome-with-breakfast-included",
+  "generatedAt": "2025-11-04T01:19:46.348Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

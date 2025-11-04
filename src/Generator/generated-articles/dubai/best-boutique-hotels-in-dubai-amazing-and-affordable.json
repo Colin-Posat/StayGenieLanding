@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "boutique hotels in Dubai affordable and stylish",
+  "title": "Best boutique hotels in Dubai: Amazing and affordable",
+  "excerpt": "Finding boutique hotels in Dubai that are both stylish and affordable can be quite a challenge amidst the city's opulent offerings. This list serves as a valuable resource, highlighting unique accommodations that blend chic design with budget-friendly prices, ensuring you enjoy the best of both worlds during your stay. With careful selection, you can discover hidden gems that provide a personalized experience without breaking the bank.",
+  "intro": "Discover a curated selection of Dubai's best boutique hotels that offer both style and affordability, perfect for your next getaway.",
+  "hotels": [
+    {
+      "id": "lp7b656",
+      "name": "Hafez Hotel Apartments",
+      "image": "https://static.cupid.travel/hotels/ex_404f22b3_z.jpg",
+      "description": "Hafez Hotel Apartments offers a perfect blend of convenience and comfort in the heart of Deira. Guests can enjoy complimentary Wi-Fi, on-site shopping, and room service, along with well-appointed air-conditioned rooms featuring equipped kitchens and 36-inch LCD TVs. With attractions like the Deira Spice Souq and Dubai Museum nearby, and Dubai International Airport just 9.9 km away, this hotel is an ideal choice for your stay in Dubai.",
+      "highlight": "Hafez Hotel Apartments provides well-appointed air-conditioned rooms with equipped kitchens, complimentary Wi-Fi, and convenient on-site shopping.",
+      "price": "$63/night",
+      "location": "Next to E NBD Bank Bldg, Al Ras",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp90204",
+      "name": "Al Sarab Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_4248920a_z.jpg",
+      "description": "Experience ultimate relaxation at Al Sarab Hotel with luxurious spa services, including rejuvenating massages and facials. Enjoy a vibrant nightlife scene with a nightclub, outdoor pool, and sauna for leisure activities, complemented by the delectable international cuisine at Al Naseem restaurant and convenient 24-hour room service. Book your stay in Dubai to immerse yourself in a blend of luxury and convenience.",
+      "highlight": "Offers luxurious spa services, a vibrant nightclub, outdoor pool, and 24-hour room service in a stylish setting.",
+      "price": "$95/night",
+      "location": "Al Rigga Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5a560",
+      "name": "Howard Johnson by Wyndham Bur Dubai",
+      "image": "https://static.cupid.travel/hotels/ex_1d28a144_z.jpg",
+      "description": "Discover the perfect blend of comfort and convenience at Howard Johnson by Wyndham Bur Dubai, located in the vibrant heart of the city. Enjoy a range of amenities including an outdoor pool, sauna, and a fitness center, while indulging in delightful dining options at RED DRAGON or through 24-hour room service. Whether for business or leisure, take advantage of our fully equipped business center and complimentary Wi-Fi, ensuring a seamless stay from start to finish.",
+      "highlight": "Features an outdoor pool, fitness center, sauna, and 24-hour dining options for a comfortable stay in Bur Dubai.",
+      "price": "$87/night",
+      "location": "Khalid Bin Waleed Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp5b9f5",
+      "name": "Sun and Sands Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_f27db5e4_z.jpg",
+      "description": "Experience the ideal getaway at Sun and Sands Hotel, where comfort and convenience converge in vibrant Dubai. Enjoy an active lifestyle with access to a lively nightclub, health club, and complimentary beach shuttle service. Delight your taste buds at the on-site restaurant, café, or one of three bars, while benefiting from amenities like free Wi-Fi and a 24-hour business center for a seamless stay.",
+      "highlight": "Offers a health club, lively nightclub, and complimentary beach shuttle service for an active and convenient stay.",
+      "price": "$82/night",
+      "location": "37th Street, Al Rigga Road, Clock Tower",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4ca41",
+      "name": "Royal Falcon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_6f110a8e_z.jpg",
+      "description": "Discover the Royal Falcon Hotel in the heart of Dubai, where modern amenities meet vibrant nightlife. Enjoy complimentary Wi-Fi, a variety of dining options including a restaurant and coffee shop, and unwind at two stylish bars. With convenient access to iconic attractions like Gold Souk and Dubai Creek, this hotel offers a perfect blend of comfort and luxury for every traveler.",
+      "highlight": "Offers modern amenities, complimentary Wi-Fi, diverse dining options, and easy access to iconic attractions in Dubai.",
+      "price": "$67/night",
+      "location": "Salahuddin Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4125e",
+      "name": "Al Manar Hotel Apartments",
+      "image": "https://static.cupid.travel/hotels/ex_25fd5b5a_z.jpg",
+      "description": "Experience unmatched comfort at Al Manar Hotel Apartments, ideally located in the vibrant Deira district of Dubai. Guests can enjoy spacious, air-conditioned rooms with fully-equipped kitchens and modern amenities, including 43-inch LCD televisions. Delight in a diverse menu at the on-site Al Manar Restaurant and take advantage of convenient services such as complimentary Wi-Fi and 24-hour front desk assistance for a truly enjoyable stay.",
+      "highlight": "Offers spacious, air-conditioned rooms with fully-equipped kitchens, 43-inch LCD televisions, and complimentary Wi-Fi in Deira.",
+      "price": "$145/night",
+      "location": "the corner 24th and 9th street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-dubai-amazing-and-affordable",
+  "generatedAt": "2025-11-04T01:15:06.561Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

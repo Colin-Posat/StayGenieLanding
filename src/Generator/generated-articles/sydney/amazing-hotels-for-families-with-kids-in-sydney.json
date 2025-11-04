@@ -1,0 +1,79 @@
+{
+  "city": "sydney",
+  "query": "hotels for families with kids in Sydney",
+  "title": "Amazing hotels for families with kids in Sydney",
+  "excerpt": "Finding the perfect hotel for a family vacation can be a daunting task, especially in a vibrant city like Sydney where options abound. This curated list highlights hotels that prioritize family-friendly amenities and activities, ensuring a stress-free stay for parents and endless fun for kids. With the right accommodations, families can create lasting memories while exploring all that Sydney has to offer.",
+  "intro": "Discover the ultimate family-friendly hotels in Sydney that make traveling with kids enjoyable and hassle-free.",
+  "hotels": [
+    {
+      "id": "lpf9c5c",
+      "name": "Holiday Inn & Suites - Parramatta Marsden Street, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/296828837.jpg",
+      "description": "Experience luxury at the Holiday Inn & Suites - Parramatta Marsden Street, where elegantly designed rooms feature marble floors, spacious living areas, and modern kitchenettes. Ideally situated in the heart of Parramatta, guests can easily explore diverse dining, nightlife, and attractions like Westfield Parramatta and Parramatta Park, while also enjoying quick access to Sydney's CBD and major venues. Book your stay now for a blend of comfort and convenience!",
+      "highlight": "Offers family rooms, convenient access to attractions, and modern kitchenettes for comfortable stays in Sydney.",
+      "price": "$143/night",
+      "location": "100 Marsden St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpb2b5b",
+      "name": "The Branksome Hotel & Residences",
+      "image": "https://static.cupid.travel/hotels/244882915.jpg",
+      "description": "The Branksome Hotel & Residences in Sydney offers luxurious accommodations, featuring fully equipped kitchens and laundry facilities in a variety of stylish options, including spacious 2-bedroom suites. Guests can enjoy exceptional amenities such as a digital concierge, a restaurant serving East-meets-West cuisine, and a range of leisure facilities including a swimming pool and fitness center. Conveniently located just 5 minutes from Sydney Airport, the hotel also provides modern meeting rooms, making it ideal for both relaxation and business travel.",
+      "highlight": "Offers family rooms, a kids' outdoor play area, and a playground for enjoyable family experiences.",
+      "price": "$185/night",
+      "location": "60 Robey Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5308e",
+      "name": "Metro Aspire Hotel Sydney",
+      "image": "https://static.cupid.travel/hotels/466953313.jpg",
+      "description": "Experience comfort and style in our newly refurbished rooms, each featuring a private balcony with stunning city views. Conveniently located just minutes from major attractions like the Powerhouse Museum and Chinatown, our hotel ensures easy access to Sydney's vibrant sights. Enjoy excellent amenities such as complimentary WiFi, a 24-hour front desk, a restaurant, and a bar for a delightful stay at Metro Aspire Hotel Sydney.",
+      "highlight": "Offers family rooms, kids meals, and a restaurant, all within minutes of major Sydney attractions.",
+      "price": "$196/night",
+      "location": "383-389 Bulwara Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65574117",
+      "name": "Travelodge Hotel Hurstville Sydney",
+      "image": "https://static.cupid.travel/hotels/400688101.jpg",
+      "description": "Travelodge Hotel Hurstville Sydney offers an ideal location just moments from Central Station, making it perfect for both business and leisure travelers. Guests can enjoy modern air-conditioned rooms featuring flat-screen TVs and cozy amenities, while the on-site restaurant serves a delightful breakfast to kickstart your day. With attentive staff ready to provide local insights, your stay promises comfort and convenience in the heart of Sydney.",
+      "highlight": "Offers family rooms, an on-site restaurant, and convenient access to Central Station for exploring Sydney.",
+      "price": "$117/night",
+      "location": "6-8 Cross Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp651ce",
+      "name": "St Marks Randwick",
+      "image": "https://static.cupid.travel/hotels/279817545.jpg",
+      "description": "St Marks Randwick offers a prime location just a short stroll from Coogee Beach and the Royal Randwick Racecourse, with quick bus access to Sydney CBD in only 15 minutes. Each spacious guest room is equipped with modern amenities, including a private en suite bathroom, air-conditioning, and a flat-screen TV, along with tea and coffee-making facilities. Guests can also explore a vibrant selection of cafes, restaurants, and shops right at their doorstep, making it the perfect base for comfort and convenience.",
+      "highlight": "Offers spacious family rooms with modern amenities and a shared kitchen, just a short walk from Coogee Beach.",
+      "price": "$177/night",
+      "location": "37 Rae Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3a52c",
+      "name": "Pullman Quay Grand Sydney Harbour",
+      "image": "https://static.cupid.travel/hotels/255604783.jpg",
+      "description": "Pullman Quay Grand Sydney offers luxurious apartments featuring spacious living areas, gourmet kitchens, and private balconies with stunning views of Sydney Harbour and the Royal Botanic Gardens. Guests can savor modern Australian cuisine at Q-Dining, complemented by an extensive wine list and breathtaking panoramas, or enjoy Cuban-inspired cocktails at Hyde Hacienda bar set in a botanical oasis. Conveniently located in Circular Quay, the hotel provides exceptional service and easy access to iconic landmarks like the Opera House, ensuring an unforgettable Sydney experience.",
+      "highlight": "Pullman Quay Grand Sydney Harbour offers family rooms, kids meals, and a hot tub for a comfortable stay.",
+      "price": "$528/night",
+      "location": "61 Macquarie Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "amazing-hotels-for-families-with-kids-in-sydney",
+  "generatedAt": "2025-11-04T01:58:05.919Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

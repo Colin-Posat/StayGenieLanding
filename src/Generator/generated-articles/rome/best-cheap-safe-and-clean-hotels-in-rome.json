@@ -1,0 +1,79 @@
+{
+  "city": "rome",
+  "query": "cheap safe clean hotels in Rome",
+  "title": "Best cheap, safe, and clean hotels in Rome",
+  "excerpt": "Finding affordable, safe, and clean hotels in Rome can be a daunting task, especially with so many options available that may not meet these essential criteria. This list is invaluable for travelers seeking to experience the beauty of the Eternal City without compromising on comfort or security. By highlighting trusted accommodations, we aim to make your trip planning easier and more enjoyable.",
+  "intro": "Discover the best budget-friendly hotels in Rome that prioritize safety and cleanliness, ensuring a memorable stay in this iconic city.",
+  "hotels": [
+    {
+      "id": "lp44bab",
+      "name": "Hotel Gabriella",
+      "image": "https://static.cupid.travel/hotels/48853960.jpg",
+      "description": "Hotel Gabriella features newly renovated, comfortable rooms designed for a relaxing stay. Ideally situated in a central district, it is within walking distance of Termini Metro Station and major attractions like the Colosseum and Spanish Steps. Guests can easily arrange local tours at the reception and enjoy a convenient airport shuttle service for added ease during their visit.",
+      "highlight": "Hotel Gabriella offers newly renovated, soundproof rooms and a convenient airport shuttle service in a central location near major attractions.",
+      "price": "$82/night",
+      "location": "Via Palestro, 88",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp47445",
+      "name": "Piccolo Imperiale",
+      "image": "https://static.cupid.travel/hotels/175419001.jpg",
+      "description": "Experience the epitome of luxury at Piccolo Imperiale, where air-conditioned rooms come equipped with free Wi-Fi and Sky TV for your ultimate comfort. Ideally situated near Castel Sant’Angelo and the Lepanto Metro Station, this hotel offers effortless access to Rome's iconic attractions. Enhance your stay with exclusive services, including a shuttle to Fiumicino Airport and a limousine ride to the city center, complete with an apéritif for an unforgettable travel experience.",
+      "highlight": "Offers air-conditioned rooms with free Wi-Fi, Sky TV, and family accommodations near Castel Sant’Angelo and the Lepanto Metro Station.",
+      "price": "$83/night",
+      "location": "Via Orazio 31",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2d0a0",
+      "name": "Hotel Cristoforo Colombo",
+      "image": "https://static.cupid.travel/hotels/584337790.jpg",
+      "description": "Discover unparalleled comfort at Cristoforo Colombo, located in Rome's lively EUR district. With direct access to the Euroma2 shopping center, complimentary WiFi, parking, and a seasonal outdoor pool, this hotel is designed for relaxation and convenience. Indulge in a delightful dining experience with a variety of Roman and international dishes and start your day with a lavish continental breakfast, all while benefiting from excellent transport links to explore the city effortlessly.",
+      "highlight": "Boasts discounted parking, a seasonal outdoor pool, and a restaurant serving Roman and international cuisine.",
+      "price": "$99/night",
+      "location": "Via Cristoforo Colombo 710",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3d8c4",
+      "name": "Hotel Capannelle Roma",
+      "image": "https://static.cupid.travel/hotels/84852453.jpg",
+      "description": "Hotel Capannelle offers modern air-conditioned rooms with free WiFi, stylish décor, and options for garden views or private terraces. Start your day effortlessly with convenient breakfast boxes filled with tasty prepackaged items, perfect for those on the go. Ideally situated just 6 km from Rome Ciampino Airport and 10 km from the historic city center, the hotel provides easy access to local attractions like Quintili Villa and the Capannelle Racecourse.",
+      "highlight": "Hotel Capannelle Roma offers modern, air-conditioned rooms, free WiFi, and convenient breakfast boxes in a clean and safe environment.",
+      "price": "$81/night",
+      "location": "Via Siderno 37",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp46fcc",
+      "name": "Hotel Selva Candida",
+      "image": "https://static.cupid.travel/hotels/ex_a02b5f83_z.jpg",
+      "description": "Hotel Selva Candida offers a perfect blend of comfort and convenience in the heart of Rome. Guests can relax in the beautiful garden while enjoying stunning views, and the elegantly designed rooms feature modern amenities such as minibars and complimentary Wi-Fi. Start your day with a delicious buffet breakfast and take advantage of 24-hour room service for a truly memorable stay.",
+      "highlight": "Offers elegantly designed rooms with modern amenities, a beautiful garden, and complimentary breakfast in a safe environment.",
+      "price": "$107/night",
+      "location": "Via Casal del Marmo 618",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp461a8",
+      "name": "Hotel Virginia",
+      "image": "https://static.cupid.travel/hotels/137197612.jpg",
+      "description": "Hotel Virginia boasts a prime location between two Metro lines, allowing easy access to Rome's iconic sites while offering affordable, air-conditioned rooms in a peaceful central setting. Guests are greeted with warm hospitality and efficient service, featuring a 24-hour reception and complimentary tourist maps to enhance their stay. Just a short 10-minute walk away, local markets, Termini Station, and shopping streets await, making it the perfect base for exploring the vibrant city.",
+      "highlight": "Hotel Virginia offers affordable, air-conditioned rooms and a 24-hour reception in a central location near two Metro lines.",
+      "price": "$109/night",
+      "location": "Via Montebello 94",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-rome",
+  "generatedAt": "2025-11-04T02:10:43.779Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}
