@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "hotels in Bangkok under 100 dollars and clean",
+  "title": "What are the best hotels in Bangkok under $100 and clean",
+  "excerpt": "Finding affordable and clean hotels in Bangkok can be a daunting task, as the city is filled with options that vary widely in quality. This curated list is valuable for travelers seeking comfort without breaking the bank, ensuring a pleasant stay while exploring the vibrant streets of this bustling metropolis. With the right information, you can enjoy a delightful experience without sacrificing cleanliness or your budget.",
+  "intro": "Discover the best hotels in Bangkok that offer clean accommodations all for under $100, making your trip both enjoyable and affordable.",
+  "hotels": [
+    {
+      "id": "lp6e433",
+      "name": "G9 Bangkok",
+      "image": "https://static.cupid.travel/hotels/ex_ef1ee9d5_z.jpg",
+      "description": "Experience breathtaking views from the rooftop terrace and garden at G9 Bangkok, where you can unwind in a serene setting. Enjoy convenient amenities including free Wi-Fi, a computer station, and dry cleaning services, all while being just minutes away from popular attractions like Union Mall and Chatuchak Weekend Market. Make your stay unforgettable by booking at G9 Bangkok today!",
+      "highlight": "Offers a rooftop terrace, free Wi-Fi, and convenient self-parking just minutes from popular attractions in Bangkok.",
+      "price": "$32/night",
+      "location": "1032/26-28 Phaholyotin 18/1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp578f1",
+      "name": "Jazzotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/ex_fb4cc48b_z.jpg",
+      "description": "Experience the vibrant pulse of Bangkok at Jazzotel, your serene retreat in the city's heart. Stay fit with our 24-hour fitness center and savor delightful culinary offerings at our on-site restaurant and coffee shop, or unwind with drinks in our bar/lounge. With 372 modern, air-conditioned rooms equipped with minibars and complimentary Wi-Fi, Jazzotel ensures a comfortable and connected stay.",
+      "highlight": "Offers 372 modern air-conditioned rooms with minibars, complimentary Wi-Fi, and a 24-hour fitness center in central Bangkok.",
+      "price": "$35/night",
+      "location": "514 Ramkhamhaeng 39, Prachautit Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7602a",
+      "name": "Town in Town Hotel Bangkok",
+      "image": "https://static.cupid.travel/hotels/331497338.jpg",
+      "description": "Town in Town Hotel Bangkok offers luxurious, spacious rooms featuring modern amenities like flat-screen TVs and minibars, perfect for relaxing after a day of city exploration. Enjoy convenient facilities including an outdoor swimming pool, 24-hour front desk service, and complimentary WiFi. Savor authentic Thai cuisine at The Pavilion Restaurant, where traditional and contemporary dishes come together for a delightful culinary experience.",
+      "highlight": "Offers spacious rooms with modern amenities, an outdoor pool, and an on-site restaurant serving authentic Thai cuisine.",
+      "price": "$49/night",
+      "location": "300/1, Srivara Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6a489",
+      "name": "Tara Place",
+      "image": "https://static.cupid.travel/hotels/ex_76a78f1f_z.jpg",
+      "description": "Experience the inviting atmosphere of Tara Place, where modern comfort is perfectly blended with convenience in Bangkok's vibrant center. Guests can unwind in air-conditioned rooms featuring LCD televisions and refrigerators, while enjoying complimentary Wi-Fi. With a delightful snack bar, a cozy bar/lounge, and a complimentary shuttle to nearby attractions like Khaosan Road and the Grand Palace, Tara Place is your ideal base for exploring the city's rich culture.",
+      "highlight": "Offers air-conditioned rooms with LCD TVs, complimentary Wi-Fi, a snack bar, and a free shuttle to major attractions.",
+      "price": "$40/night",
+      "location": "113,117 Samsen Road, Samphraya",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp5e6d1",
+      "name": "Citrus Sukhumvit 13 Nana Bangkok by Compass Hospitality",
+      "image": "https://static.cupid.travel/hotels/ex_3d6061df_z.jpg",
+      "description": "Experience the ultimate relaxation at Citrus Sukhumvit 13, where you can indulge in onsite massages and unwind by the inviting outdoor pool. Savor exquisite dining at Indian Vibes, enjoy convenient room service, and kickstart your mornings with a delightful buffet breakfast. With modern, air-conditioned rooms and services like a business center and complimentary shuttle, this hotel perfectly combines luxury and convenience for an unforgettable stay.",
+      "highlight": "Offers modern air-conditioned rooms, an outdoor pool, onsite dining, and complimentary Wi-Fi in a clean environment.",
+      "price": "$62/night",
+      "location": "22 Sukhumvit Soi 13",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6975c",
+      "name": "iCheck inn Gems Center Silom",
+      "image": "https://static.cupid.travel/hotels/539564804.jpg",
+      "description": "iCheck inn Gems Center Silom provides modern and affordable accommodations in a central location, ideal for families, couples, and young travelers. Guests will appreciate well-equipped rooms featuring air conditioning, flat-screen TVs, and minibars, along with convenient amenities like a 24-hour front desk and a complimentary DVD library. Just a short walk from BTS Surasak and Silom Village Trade Centre, this hotel combines comfort with easy access to local attractions for a delightful stay.",
+      "highlight": "Offers modern, clean accommodations with air conditioning, flat-screen TVs, and free WiFi in a central Bangkok location.",
+      "price": "$50/night",
+      "location": "298/3-7 Soi Silom 28",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-bangkok-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:41:41.447Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

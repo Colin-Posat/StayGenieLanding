@@ -1,0 +1,79 @@
+{
+  "city": "barcelona",
+  "query": "best hotels in Barcelona for women travelers",
+  "title": "Best hotels in Barcelona for women travelers: Safe, clean, and great amenities",
+  "excerpt": "Finding the right hotel in a bustling city like Barcelona can be daunting, especially for women travelers who prioritize safety and comfort. This curated list highlights hotels that not only offer cleanliness and great amenities but also foster a welcoming environment, making your stay both enjoyable and secure. With these recommendations, you can explore the vibrant culture of Barcelona with peace of mind.",
+  "intro": "Discover the best hotels in Barcelona tailored for women travelers, where safety, cleanliness, and exceptional amenities come together for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp35f09",
+      "name": "Hotel Neri – Relais & Chateaux",
+      "image": "https://static.cupid.travel/hotels/155436203.jpg",
+      "description": "Hotel Neri, located in the enchanting Gothic Quarter of Barcelona, beautifully merges 18th-century elegance with modern luxury. Guests can savor exquisite dining at the on-site restaurant, enjoy drinks on the terrace, or find tranquility in the library and rooftop garden. With its historic architecture and Specialty Monument status, this hotel offers a unique and exclusive experience, complemented by the option of staying in nearby restored luxury apartments.",
+      "highlight": "Hotel Neri boasts a rooftop garden, an on-site restaurant with a vegetarian menu, and room service for a luxurious stay.",
+      "price": "$566/night",
+      "location": "Carrer de Sant Sever, 5",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp42c97",
+      "name": "ABaC Restaurant & Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_58e16515_z.jpg",
+      "description": "Discover the luxury of ABaC Restaurant & Hotel, a serene oasis located in the vibrant heart of Barcelona. Indulge in rejuvenating treatments at the full-service spa, and savor exquisite Mediterranean cuisine with stunning garden views at the acclaimed restaurant. Perfect for both business and leisure, the hotel offers versatile meeting spaces, high-speed internet, and elegantly designed guest rooms for a truly memorable stay.",
+      "highlight": "ABaC Restaurant & Hotel provides a full-service spa, Turkish bath, and elegant rooms with high-speed internet for a luxurious stay.",
+      "price": "$405/night",
+      "location": "Avinguda del Tibidabo, 1",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1f5ed",
+      "name": "InterContinental Barcelona, an IHG Hotel",
+      "image": "https://static.cupid.travel/hotels/324341139.jpg",
+      "description": "Experience the elegance of InterContinental Barcelona, where spacious rooms feature modern amenities like flat-screen TVs and hydromassage showers. Enjoy stunning city views from the 173 Rooftop Terrace, complete with an outdoor pool and a Mediterranean dining area. Delight your taste buds at Arrel Restaurant or indulge in a unique culinary experience at Quirat, curated by a Michelin Star Chef, for an unforgettable stay.",
+      "highlight": "Boasts spacious, soundproof rooms with modern amenities, a rooftop terrace with an outdoor pool, and on-site Michelin Star dining.",
+      "price": "$697/night",
+      "location": "Avenida Ruis I Taulet 1-3",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1ed9f",
+      "name": "Hotel Arts Barcelona",
+      "image": "https://static.cupid.travel/hotels/481761442.jpg",
+      "description": "Overlooking Barceloneta Beach, Hotel Arts combines luxurious design with modern amenities, featuring two outdoor pools and a spa offering breathtaking city views. Guests can savor culinary delights at the two Michelin-starred Enoteca restaurant and enjoy various on-site dining options, including a poolside bar. With its prime location near shops and attractions, along with exceptional services like a multilingual concierge and a business center, this hotel promises an unforgettable stay.",
+      "highlight": "Hotel Arts Barcelona offers an infinity pool, a luxurious spa, and on-site Michelin-starred dining with stunning beach views.",
+      "price": "$744/night",
+      "location": "Marina 19–21",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp357f1",
+      "name": "H10 Marina Barcelona",
+      "image": "https://static.cupid.travel/hotels/120101773.jpg",
+      "description": "Experience luxury at the H10 Marina Hotel Barcelona, where guests can enjoy a gym, spa, and complimentary Wi-Fi. Relax by the rooftop pool while taking in breathtaking views of the city and sea, and savor exquisite meals at the Dionissos restaurant or unwind with a drink at Bar La Llum. With a serene spa offering pampering treatments and easy access to Bogatell Beach, this hotel is the perfect retreat for both relaxation and recreation.",
+      "highlight": "Boasts a rooftop pool, serene spa services, and a vegetarian menu, ensuring a luxurious stay in Barcelona.",
+      "price": "$342/night",
+      "location": "Avenida Bogatell, 64-68",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp67658",
+      "name": "Hotel Indigo Barcelona - Plaza Catalunya by IHG",
+      "image": "https://static.cupid.travel/hotels/ex_0b5edb4b_z.jpg",
+      "description": "Discover the vibrant essence of Barcelona at Hotel Indigo Barcelona - Plaza Catalunya, where modern luxury and exceptional convenience await. Enjoy a refreshing dip in the outdoor pool, stay fit in the well-equipped gym, and indulge in delicious dining options at our on-site restaurant and poolside bar. With complimentary internet and thoughtfully designed rooms featuring minibars and espresso makers, your stay promises both comfort and style in the heart of the city.",
+      "highlight": "Boasts an outdoor pool, fitness center, and stylish rooms with minibars and espresso makers for a comfortable stay.",
+      "price": "$1645/night",
+      "location": "Gran Via de las Corts Catalanes, 629",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-hotels-in-barcelona-for-women-travelers-safe-clean-and-great-amenities",
+  "generatedAt": "2025-11-04T02:44:33.330Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

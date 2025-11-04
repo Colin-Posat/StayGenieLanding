@@ -12,10 +12,11 @@ export function generateStaticParams() {
 
 // Generate dynamic metadata for each city
 export async function generateMetadata(
-  { params }: { params: { city: string } }
+  { params }: { params: Promise<{ city: string }> }
 ): Promise<Metadata> {
-  const cityName = params.city.replace(/-/g, ' ')
-  const posts = getCityPosts(params.city)
+  const { city } = await params
+  const cityName = city.replace(/-/g, ' ')
+  const posts = getCityPosts(city)
 
   const guideCount = posts.length
   const title = `Best Hotels in ${cityName} | StayGenie Travel Guides`
@@ -30,7 +31,7 @@ export async function generateMetadata(
     openGraph: {
       title,
       description,
-      url: `https://www.staygenie.app/Blog/${params.city}`,
+      url: `https://www.staygenie.app/Blog/${city}`,
       siteName: 'StayGenie',
       type: 'article',
     },
@@ -42,9 +43,13 @@ export async function generateMetadata(
   }
 }
 
-// 🚫 No Promise here; params is a plain object
-export default function CityPage({ params }: { params: { city: string } }) {
-  const { city } = params
+// ✅ params is now a Promise
+export default async function CityPage({ 
+  params 
+}: { 
+  params: Promise<{ city: string }> 
+}) {
+  const { city } = await params
   const posts = getCityPosts(city)
   const cityName = city.replace(/-/g, ' ')
 

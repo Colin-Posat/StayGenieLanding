@@ -1,0 +1,79 @@
+{
+  "city": "san-francisco",
+  "query": "cheap safe clean hotels in San Francisco",
+  "title": "Best cheap, safe, and clean hotels in San Francisco",
+  "excerpt": "Finding affordable, safe, and clean hotels in San Francisco can be a daunting task, especially in a city known for its high prices and bustling tourism. This curated list not only highlights budget-friendly options but also assures travelers of quality and comfort, making it easier to enjoy the vibrant culture of San Francisco without breaking the bank. With these recommendations, you can focus on exploring the city's iconic sights instead of stressing over accommodations.",
+  "intro": "Discover the top budget-friendly hotels in San Francisco that prioritize safety and cleanliness, perfect for your next adventure.",
+  "hotels": [
+    {
+      "id": "lp47b50",
+      "name": "Aida Plaza Hotel",
+      "image": "https://static.cupid.travel/hotels/29050804.jpg",
+      "description": "Aida Plaza Hotel boasts a prime location just steps from the 7th Street & Market Street Subway Station, providing effortless access to San Francisco's must-see attractions. Guests can unwind in cozy, traditionally decorated rooms, complete with cable TV and options for private or shared bathrooms. Each morning begins with complimentary doughnuts and 24-hour coffee and tea service, ensuring a delightful start to your day.",
+      "highlight": "Aida Plaza Hotel offers cozy rooms, complimentary breakfast options, and 24-hour coffee service near public transportation.",
+      "price": "$112/night",
+      "location": "1087 Market Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp37a9c",
+      "name": "Beach Motel",
+      "image": "https://static.cupid.travel/hotels/564417675.jpg",
+      "description": "Beach Motel is ideally located just a short stroll from San Francisco's Ocean Beach, making it a perfect choice for beach lovers seeking comfort and convenience. Each room is thoughtfully equipped with modern amenities, including a flat-screen TV, refrigerator, and microwave, ensuring a relaxing stay. With a 24-hour reception and easy access to the N-Judah tram, guests can effortlessly explore nearby attractions like Golden Gate Park and the Beach Chalet Brewery.",
+      "highlight": "Offers clean, secure accommodations with modern amenities, 24-hour reception, and outdoor CCTV for enhanced safety.",
+      "price": "$122/night",
+      "location": "4211 Judah Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp225dd",
+      "name": "Hotel Bijou",
+      "image": "https://static.cupid.travel/hotels/ex_b295abe0_z.jpg",
+      "description": "Discover the charm of Hotel Bijou, ideally situated in the heart of San Francisco, mere steps from iconic attractions. Guests can enjoy luxurious accommodations featuring elegantly furnished rooms with deep soaking bathtubs and modern amenities, along with excellent services like a 24-hour front desk and complimentary Wi-Fi. With its prime location near Union Square and the Moscone Convention Center, this hotel is the perfect base for exploring the city’s vibrant art scene and culinary delights.",
+      "highlight": "Boasts elegantly furnished rooms with deep soaking bathtubs, 24-hour front desk service, and complimentary Wi-Fi near major attractions.",
+      "price": "$134/night",
+      "location": "111 Mason St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp224881",
+      "name": "HI San Francisco Downtown Hostel",
+      "image": "https://static.cupid.travel/hotels/36092062.jpg",
+      "description": "Experience the vibrant energy of San Francisco at HI San Francisco Downtown Hostel, ideally situated just minutes from Union Square's shopping and dining. Enjoy modern accommodations featuring large windows and contemporary decor, with some rooms offering private en suite facilities. Guests can take advantage of a well-equipped kitchen, a cozy lounge, complimentary WiFi, secure lockers, and on-site laundry for a convenient stay.",
+      "highlight": "HI San Francisco Downtown Hostel offers modern accommodations, a shared kitchen, cozy lounge, and complimentary WiFi for a comfortable stay.",
+      "price": "$90/night",
+      "location": "312 Mason Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp767c0",
+      "name": "Motel 6 San Francisco, CA Great Highway",
+      "image": "https://static.cupid.travel/hotels/523730385.jpg",
+      "description": "Rodeway Inn & Suites San Francisco-Great Highway boasts a prime location directly across from Ocean Beach, offering breathtaking ocean views and easy access to the beach. Guests will enjoy comfortable rooms featuring essential amenities like cable TV, microwaves, and refrigerators, along with complimentary WiFi. With nearby outdoor activities such as surfing and hiking, plus attractions like Golden Gate Park and the Golden Gate Bridge just a short drive away, this hotel is perfect for an unforgettable beachside escape.",
+      "highlight": "Offers comfortable rooms with essential amenities, breathtaking ocean views, and easy access to Ocean Beach.",
+      "price": "$100/night",
+      "location": "1234 Great Highway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpa3af6",
+      "name": "Warfield Hotel",
+      "image": "https://static.cupid.travel/hotels/92360367.jpg",
+      "description": "Located in the vibrant Tenderloin District, Warfield Hotel offers easy access to the famous Warfield concert venue and Golden Gate Theatre. Enjoy modern amenities in smoke-free rooms, including flat-screen TVs, microwaves, and mini-refrigerators, along with complimentary coffee and pastries in the lobby. With iconic attractions like North Beach and Coit Tower nearby, your San Francisco adventure begins right at your doorstep.",
+      "highlight": "Warfield Hotel offers smoke-free rooms with modern amenities, complimentary coffee, and easy access to nearby attractions.",
+      "price": "$137/night",
+      "location": "118 Taylor St",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-san-francisco",
+  "generatedAt": "2025-11-04T02:45:25.305Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

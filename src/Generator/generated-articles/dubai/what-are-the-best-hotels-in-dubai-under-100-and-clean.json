@@ -1,0 +1,79 @@
+{
+  "city": "dubai",
+  "query": "hotels in Dubai under 100 dollars and clean",
+  "title": "What are the best hotels in Dubai under $100 and clean",
+  "excerpt": "Finding clean and affordable hotels in Dubai for under $100 can often feel like searching for a needle in a haystack. With the city's luxurious reputation, it is easy to overlook budget-friendly options that do not compromise on cleanliness and comfort. This list is valuable for travelers looking to experience the vibrant culture of Dubai without breaking the bank, ensuring a pleasant stay without the hefty price tag.",
+  "intro": "Discover the best budget-friendly hotels in Dubai that offer both cleanliness and comfort, all for under $100.",
+  "hotels": [
+    {
+      "id": "lp38409",
+      "name": "Panorama Hotel Deira",
+      "image": "https://static.cupid.travel/hotels/hd/385462690.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Panorama Deira Hotel, ideally situated in Deira near Union Metro Station and a short drive from Dubai International Airport. Enjoy city views from cozy rooms, start your day with a continental breakfast at Panoramic Café, and unwind at Booze Bar, where you can catch the latest sports events. With easy access to local attractions, shopping, and unique adventures like sand surfing and camel riding, your stay promises to be both relaxing and exciting.",
+      "highlight": "Offers cozy rooms with city views, a continental breakfast, and easy access to local attractions and shopping.",
+      "price": "$69/night",
+      "location": "Omar Bin Al-Khattab Rd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4ca41",
+      "name": "Royal Falcon Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_6f110a8e_z.jpg",
+      "description": "At Royal Falcon Hotel, guests can enjoy a vibrant nightlife with a nightclub and two bars, along with a variety of dining options including a restaurant and a coffee shop. The centrally located hotel offers modern amenities such as free Wi-Fi, LED televisions, and a business center, ensuring both comfort and convenience. Nestled near Al Ghurair Centre and iconic attractions like Gold Souk and Dubai Creek, this hotel is the perfect base for exploring Dubai's rich culture.",
+      "highlight": "Boasts a vibrant nightlife with a nightclub and two bars, along with free Wi-Fi and LED televisions.",
+      "price": "$69/night",
+      "location": "Salahuddin Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp75cc0",
+      "name": "Signature Inn Deira - Free Parking",
+      "image": "https://static.cupid.travel/hotels/ex_92117634_z.jpg",
+      "description": "Experience ultimate relaxation at Signature Inn Deira with soothing massages at the full-service spa and an outdoor pool for unwinding. Enjoy exciting nightlife at the on-site nightclub and savor delicious meals at the restaurant, cafe, or bar/lounge. Conveniently located in Dubai, this hotel offers complimentary Wi-Fi, free parking, and essential services, making it the perfect choice for a luxurious getaway.",
+      "highlight": "Offers free parking, a full-service spa, and an on-site nightclub for a vibrant stay in Dubai.",
+      "price": "$64/night",
+      "location": "Al Riqqa Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3eed9",
+      "name": "Nihal Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_eb514a57_z.jpg",
+      "description": "Experience ultimate relaxation at Nihal Hotel with luxurious spa services designed to rejuvenate you after a day of exploring Dubai. Delight your palate with an array of international dishes at the on-site restaurant or enjoy 24-hour room service and tasty snacks from the cozy café. With complimentary Wi-Fi, concierge assistance, and an airport shuttle, this hotel ensures a seamless and memorable stay.",
+      "highlight": "Offers luxurious spa services, complimentary Wi-Fi, and 24-hour room service for a comfortable stay in Dubai.",
+      "price": "$67/night",
+      "location": "Between Al Rigga and Al Maktoum Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp730a4",
+      "name": "Lotus Grand Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_c7f77e3d_z.jpg",
+      "description": "Experience ultimate relaxation at the Lotus Grand Hotel with its full-service spa, offering a range of indulgent treatments from massages to facials. Enjoy vibrant nightlife at the on-site nightclub, stay active at the health club, and savor delightful dining options, including a restaurant and 24-hour room service. With complimentary Wi-Fi and a business center, this hotel perfectly blends luxury and convenience for an unforgettable stay.",
+      "highlight": "Offers a full-service spa, health club, nightclub, and complimentary Wi-Fi for a clean, comfortable stay under $100.",
+      "price": "$82/night",
+      "location": "Al Riqqa road, Deira",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7c32d",
+      "name": "Sun And Sands Downtown Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_3d0e549f_z.jpg",
+      "description": "Experience the ultimate luxury at Sun And Sands Downtown Hotel, where you can savor exquisite dining options at our restaurant or opt for the convenience of in-room service. Enjoy top-notch amenities, including a 24-hour front desk and dry cleaning, ensuring a seamless stay. Each of our 116 air-conditioned rooms features modern comforts such as minibars, flat-screen TVs, and private balconies, creating the perfect retreat for relaxation.",
+      "highlight": "Offers 116 air-conditioned rooms with minibars, flat-screen TVs, private balconies, and convenient 24-hour front desk service.",
+      "price": "$91/night",
+      "location": "34 B Street, Deira",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "what-are-the-best-hotels-in-dubai-under-100-and-clean",
+  "generatedAt": "2025-11-04T02:42:42.870Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

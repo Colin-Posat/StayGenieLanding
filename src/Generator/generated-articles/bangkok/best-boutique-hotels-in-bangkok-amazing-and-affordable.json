@@ -1,0 +1,79 @@
+{
+  "city": "bangkok",
+  "query": "boutique hotels in Bangkok affordable and stylish",
+  "title": "Best boutique hotels in Bangkok: Amazing and affordable",
+  "excerpt": "Finding affordable boutique hotels in Bangkok can be a daunting task, with countless options that often miss the mark on style and comfort. This curated list simplifies your search by highlighting unique stays that blend elegance with budget-friendly pricing, ensuring you experience the vibrant culture of the city without breaking the bank. Whether you're a first-time visitor or a seasoned traveler, these hotels offer an authentic taste of Bangkok's charm and hospitality.",
+  "intro": "Discover the ultimate guide to the best boutique hotels in Bangkok, where style meets affordability in the heart of this bustling metropolis.",
+  "hotels": [
+    {
+      "id": "lp54beb",
+      "name": "Budacco",
+      "image": "https://static.cupid.travel/hotels/ex_fecbf6e3_z.jpg",
+      "description": "Experience the vibrant heart of Bangkok at Budacco, ideally situated just minutes from iconic attractions like Baiyoke Tower II and the bustling Pratunam Market. Enjoy modern amenities in uniquely decorated rooms, including LCD televisions and complimentary Wi-Fi, along with convenient services such as a roundtrip airport shuttle and 24-hour front desk assistance. With a welcoming atmosphere, private bathrooms, and daily housekeeping, Budacco offers a comforting retreat amidst the city's excitement.",
+      "highlight": "Budacco offers uniquely decorated rooms with LCD televisions, complimentary Wi-Fi, and convenient airport shuttle services.",
+      "price": "$55/night",
+      "location": "122/44 Ratchaprarop Road",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6ecc4",
+      "name": "The Mulberry Bangkok Khaosan Road",
+      "image": "https://static.cupid.travel/hotels/247545879.jpg",
+      "description": "Discover the enchanting ambiance of The Mulberry Bangkok Khaosan Road, where vintage Thai decor and memorabilia create a culturally rich atmosphere. Ideally located on the lively Khaosan Road, the hotel provides easy access to premier shopping destinations like Siam Paragon and MBK Mall. Guests can relax by the rooftop pool, enjoy complimentary Wi-Fi, and take advantage of convenient amenities for a seamless stay in the heart of Bangkok.",
+      "highlight": "Boasts a rooftop pool with free cabanas and vintage Thai decor, offering an enchanting stay in the heart of Khaosan Road.",
+      "price": "$46/night",
+      "location": "259 Khaosan Road, Phra Nakorn",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp70a85",
+      "name": "L.A.Tower Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_f087515c_z.jpg",
+      "description": "Experience ultimate relaxation at L.A.Tower Hotel, featuring an inviting outdoor pool and convenient room service. Enjoy cozy accommodations with air-conditioned rooms that include minibars, flat-screen TVs, and private balconies. With complimentary Wi-Fi, multilingual staff, and easy access to Bangkok's attractions like Chatuchak Weekend Market, this hotel perfectly combines comfort and convenience for an unforgettable stay.",
+      "highlight": "Offers cozy air-conditioned rooms with minibars, flat-screen TVs, private balconies, and an inviting outdoor pool.",
+      "price": "$43/night",
+      "location": "46/1, Soi Ratchada 17",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp502de",
+      "name": "Trinity Silom Hotel",
+      "image": "https://static.cupid.travel/hotels/106122431.jpg",
+      "description": "Trinity Silom Hotel in Bangkok offers a blend of modern comfort and convenience, featuring air-conditioned rooms with free WiFi just 1.9 km from vibrant Patpong. Guests can unwind by the outdoor pool, providing a serene escape from the city's hustle and bustle. Ideally located near attractions like Lumpini Park and MBK Shopping Mall, this hotel is perfect for both leisure and business travelers seeking a memorable stay.",
+      "highlight": "Trinity Silom Hotel offers air-conditioned rooms with free WiFi, an outdoor pool, and proximity to attractions like Lumpini Park.",
+      "price": "$47/night",
+      "location": "150 Silom Soi 3",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f13e",
+      "name": "Yellow Ribbon Hills, Boutique Suites",
+      "image": "https://static.cupid.travel/hotels/ex_d092d463_z.jpg",
+      "description": "Discover the perfect blend of comfort and convenience at Yellow Ribbon Hills, Boutique Suites, located in the vibrant heart of Bangkok. Enjoy a refreshing escape with access to a 24-hour fitness center, lush garden views, and a delightful dining experience at the on-site restaurant, complete with a cozy bar/lounge and room service. With 80 uniquely decorated guestrooms featuring kitchens, LCD TVs, and complimentary Wi-Fi, you will feel at home while immersing yourself in the local culture. Book your stay today!",
+      "highlight": "Offers uniquely decorated suites with kitchens, a 24-hour fitness center, and an on-site restaurant with a cozy bar.",
+      "price": "$54/night",
+      "location": "33/3 Soi Naradhiwas 7 (Prapinij)",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp59020",
+      "name": "iCheck inn Residences Sukhumvit 20",
+      "image": "https://static.cupid.travel/hotels/ex_73e30122_z.jpg",
+      "description": "iCheck inn Residences Sukhumvit 20 offers a blend of comfort and convenience in the heart of Bangkok. Guests can unwind in air-conditioned rooms featuring private balconies and modern amenities such as plasma TVs and microwaves. With nearby attractions like Terminal 21 Shopping Mall and Soi Cowboy, this hotel ensures a hassle-free stay with excellent facilities including laundry services and a train station drop-off.",
+      "highlight": "Offers stylish rooms with private balconies, modern amenities, free self-parking, and convenient laundry facilities.",
+      "price": "$69/night",
+      "location": "140 Sukhumvit Soi 20",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "slug": "best-boutique-hotels-in-bangkok-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:46:13.842Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}

@@ -1,0 +1,79 @@
+{
+  "city": "miami",
+  "query": "boutique hotels in Miami affordable and stylish",
+  "title": "Best boutique hotels in Miami: Amazing and affordable",
+  "excerpt": "Navigating the vibrant landscape of Miami's boutique hotels can be daunting, especially when seeking options that are both stylish and budget-friendly. This curated list highlights hidden gems that offer unique experiences without breaking the bank, making your stay memorable and affordable. Discovering these hotels not only enhances your visit but also allows you to immerse yourself in the local culture and charm of Miami.",
+  "intro": "In this article, readers will uncover the best affordable and stylish boutique hotels that capture the essence of Miami's lively spirit.",
+  "hotels": [
+    {
+      "id": "lp21c39",
+      "name": "Days Inn by Wyndham Miami Airport North",
+      "image": "https://static.cupid.travel/hotels/135443971.jpg",
+      "description": "Experience the ultimate convenience at Days Inn by Wyndham Miami Airport North, featuring complimentary shuttle services to Miami International Airport and Port of Miami. Relax by the inviting outdoor pool, or grab a quick bite at the on-site Subway Restaurant located in the lobby. Book your stay today to enjoy a perfect mix of comfort and accessibility.",
+      "highlight": "Offers complimentary airport shuttle services, an outdoor pool, and an on-site Subway Restaurant for convenient dining options.",
+      "price": "$103/night",
+      "location": "4767 Nw 36th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656ca199",
+      "name": "The Biscayne Hotel",
+      "image": "https://static.cupid.travel/hotels/473818898.jpg",
+      "description": "The Biscayne Hotel combines modern comfort with a prime Miami location, featuring air-conditioned rooms and flat-screen TVs for a relaxing stay. Just moments away from attractions like Bayside Market Place and Bayfront Park, this hotel serves as an ideal launching point for your Miami adventures. Guests can also enjoy complimentary WiFi and private parking, making it a convenient choice for travelers.",
+      "highlight": "The Biscayne Hotel offers air-conditioned rooms, flat-screen TVs, complimentary WiFi, and private parking near top Miami attractions.",
+      "price": "$123/night",
+      "location": "6730 Biscayne Blvd",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1fa62",
+      "name": "Ramada by Wyndham Miami Springs/Miami International Airport",
+      "image": "https://static.cupid.travel/hotels/135130911.jpg",
+      "description": "Ramada by Wyndham Miami Springs is ideally situated just 3.8 km from Miami International Airport, featuring a complimentary airport shuttle and free parking for hassle-free travel. Guests can relax by the outdoor pool, savor delicious meals at the on-site restaurant, and enjoy a hearty breakfast buffet each morning. With nearby attractions like Dolphin Mall and the Port of Miami, this hotel is perfect for both relaxation and exploration.",
+      "highlight": "Offers a complimentary airport shuttle, outdoor pool, on-site restaurant, and free parking just 3.8 km from Miami International Airport.",
+      "price": "$124/night",
+      "location": "5001 NW 36th St.",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp226bd",
+      "name": "La Quinta by Wyndham Miami Airport West",
+      "image": "https://static.cupid.travel/hotels/514271726.jpg",
+      "description": "La Quinta Inn and Suites Miami Airport West boasts a prime location just off Interstate 95, making it a perfect choice for travelers with easy access to Miami International Airport. Guests can enjoy comfortable accommodations featuring flat-screen TVs and en suite bathrooms, along with amenities like free WiFi, a refreshing outdoor pool, and a fitness center. With the vibrant nightlife of South Beach and the serene Bayfront Park nearby, this hotel is ideal for both exploration and relaxation.",
+      "highlight": "La Quinta by Wyndham Miami Airport West offers comfortable rooms with flat-screen TVs, free WiFi, an outdoor pool, and a fitness center.",
+      "price": "$147/night",
+      "location": "8730 Nw 27th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65594728",
+      "name": "Miami Springs Inn",
+      "image": "https://static.cupid.travel/hotels/6060574.jpg",
+      "description": "Experience the comfort of Miami Springs Inn, conveniently located near Miami International Airport. Each well-equipped room features free Wi-Fi, a TV, a microwave, and a minibar, ensuring a relaxing stay. Enjoy the on-site picnic area with a barbeque grill, and take advantage of laundry facilities while being just a short drive from Miami's top attractions like South Beach and the Miami Art Museum.",
+      "highlight": "Offers well-equipped rooms with free Wi-Fi, a picnic area with a BBQ grill, and proximity to Miami's top attractions.",
+      "price": "$163/night",
+      "location": "661 East Drive",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b4d8",
+      "name": "Red Roof PLUS Miami Airport",
+      "image": "https://static.cupid.travel/hotels/445673998.jpg",
+      "description": "Experience a hassle-free stay at the non-smoking Miami Airport Red Roof Plus, conveniently located just 5 minutes from Miami International Airport with complimentary airport transfers and Wi-Fi. Enjoy comfortable guest rooms equipped with flat-screen cable TVs, ironing facilities, and select rooms featuring microwaves and mini-refrigerators. Explore nearby attractions like Miami city center and South Beach, both within a short drive, ensuring your visit is filled with excitement and relaxation.",
+      "highlight": "Offers complimentary airport transfers, free Wi-Fi, and comfortable rooms with flat-screen TVs, plus a pool and terrace.",
+      "price": "$126/night",
+      "location": "3401 NW Lejeune Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "slug": "best-boutique-hotels-in-miami-amazing-and-affordable",
+  "generatedAt": "2025-11-04T02:43:39.281Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6
+}
