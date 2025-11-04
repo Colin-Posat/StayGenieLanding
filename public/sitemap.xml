@@ -1,22 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-<url><loc>https://www.staygenie.app</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/chicago/amazing-hotels-for-families-with-kids-in-chicago</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/chicago/best-downtown-chicago-hotels-with-free-breakfast</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/las-vegas/best-cheap-safe-clean-hotels-in-las-vegas</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/london/best-family-hotels-in-london-with-kids-activities</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/los-angeles/top-la-hotels-with-rooftop-pools</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/los-angeles/what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/miami/best-family-friendly-hotels-in-miami-beach-with-pools</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/new-york/best-boutique-hotels-in-new-york-with-rooftop-bars</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/new-york/what-are-the-best-dog-friendly-hotels-in-new-york</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://www.staygenie.app/Blog/san-francisco/best-hotels-in-san-francisco-for-women-travelers-safe-clean-and-great-amenities</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/chicago</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/las-vegas</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/london</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/los-angeles</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/miami</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/new-york</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog/san-francisco</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
-<url><loc>https://www.staygenie.app/Blog</loc><lastmod>2025-10-09T23:18:26.078Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+  xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>https://www.staygenie.app</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/atlanta</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/austin</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/boston</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/charleston</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/chicago</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/denver</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/las-vegas</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/london</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/los-angeles</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/miami</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/nashville</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-orleans</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-york</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/philadelphia</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/portland</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-antonio</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-diego</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-francisco</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/savannah</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/scottsdale</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/seattle</loc><lastmod>2025-11-04T00:21:05.686Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>https://www.staygenie.app/Blog/atlanta/best-boutique-hotels-in-atlanta-with-rooftop-lounges</loc><lastmod>2025-11-03T02:48:17.223Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/austin/best-austin-hotels-with-rooftop-pools</loc><lastmod>2025-10-14T19:58:33.021Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/austin/cool-boutique-hotels-in-austin-with-live-music-and-rooftop-bars</loc><lastmod>2025-11-03T02:43:38.220Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/boston/best-boutique-hotels-in-boston-with-skyline-views</loc><lastmod>2025-11-03T02:47:32.782Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/charleston/best-boutique-hotels-in-charleston-with-rooftop-bars</loc><lastmod>2025-11-03T02:39:37.663Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/chicago/amazing-hotels-for-families-with-kids-in-chicago</loc><lastmod>2025-10-02T19:31:55.296Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/chicago/best-boutique-hotels-in-chicago-with-rooftop-lounges</loc><lastmod>2025-11-03T02:35:24.588Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/chicago/best-downtown-chicago-hotels-with-free-breakfast</loc><lastmod>2025-10-03T16:44:45.958Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/denver/best-boutique-hotels-in-denver-with-mountain-views</loc><lastmod>2025-11-03T02:37:56.678Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/las-vegas/best-cheap-safe-clean-hotels-in-las-vegas</loc><lastmod>2025-10-02T19:39:07.775Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/las-vegas/unique-boutique-hotels-in-las-vegas-off-the-strip</loc><lastmod>2025-11-03T02:41:07.818Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/london/best-family-hotels-in-london-with-kids-activities</loc><lastmod>2025-09-30T21:32:15.230Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/los-angeles/best-boutique-hotels-in-los-angeles-with-rooftop-bars</loc><lastmod>2025-11-03T02:32:35.858Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/los-angeles/top-la-hotels-with-rooftop-pools</loc><lastmod>2025-09-30T21:26:32.070Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/los-angeles/what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included</loc><lastmod>2025-10-02T19:31:55.294Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/miami/best-family-friendly-hotels-in-miami-beach-with-pools</loc><lastmod>2025-10-03T16:44:45.958Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/miami/best-miami-hotels-with-rooftop-pools-and-ocean-views</loc><lastmod>2025-11-03T02:34:16.103Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/nashville/best-nashville-hotels-with-live-music</loc><lastmod>2025-10-14T19:58:33.021Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/nashville/trendy-boutique-hotels-in-nashville-with-rooftop-bars</loc><lastmod>2025-11-03T02:45:01.106Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-orleans/best-boutique-hotels-in-new-orleans-french-quarter</loc><lastmod>2025-11-03T02:42:03.937Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-york/best-boutique-hotels-in-new-york-with-rooftop-bars</loc><lastmod>2025-10-03T16:44:45.957Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-york/top-boutique-hotels-in-new-york-city-with-skyline-views</loc><lastmod>2025-11-03T02:33:33.883Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/new-york/what-are-the-best-dog-friendly-hotels-in-new-york</loc><lastmod>2025-10-02T19:25:27.081Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/philadelphia/best-boutique-hotels-in-philadelphia-with-rooftop-restaurants</loc><lastmod>2025-11-03T02:45:52.121Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/portland/cool-boutique-hotels-in-portland-with-rooftop-bars</loc><lastmod>2025-11-03T02:37:11.329Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-antonio/boutique-hotels-in-san-antonio-near-the-river-walk</loc><lastmod>2025-11-03T02:46:39.975Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-diego/best-san-diego-boutique-hotels-with-rooftop-bars</loc><lastmod>2025-11-03T02:40:23.908Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-francisco/best-hotels-in-san-francisco-for-women-travelers-safe-clean-and-great-amenities</loc><lastmod>2025-10-02T19:39:07.778Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/san-francisco/best-san-francisco-boutique-hotels-near-union-square</loc><lastmod>2025-11-03T02:36:11.777Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/savannah/most-charming-boutique-hotels-in-savannah-s-historic-district</loc><lastmod>2025-11-03T02:38:40.860Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/scottsdale/best-boutique-hotels-in-scottsdale-with-rooftop-pools</loc><lastmod>2025-11-03T02:42:51.534Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/seattle/best-boutique-hotels-in-seattle-with-rooftop-views</loc><lastmod>2025-11-03T02:44:20.171Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://www.staygenie.app/Blog/seattle/best-seattle-hotels-near-pike-place-market</loc><lastmod>2025-10-14T19:58:33.020Z</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 </urlset>
