@@ -52,7 +52,6 @@ function applyTieredDiscount(price: string): string {
 
 function generateExpediaDeepLink(
   hotelName: string,
-  city?: string
 ): string {
   const expediaUrl = new URL("https://www.expedia.com/Hotel-Search");
 
@@ -199,7 +198,6 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
 
   const hotelDeepLink = generateExpediaDeepLink(
     hotel.name,
-    city
   )
 
   const shouldPriorityLoad = index < 2
