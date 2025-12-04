@@ -17,10 +17,10 @@ export async function generateStaticParams() {
   return params
 }
 
-const BOOKING_AID = "304142";
-const BOOKING_LABEL_BASE = "staygenie_blog";
-const AWIN_MID = "6776";
-const AWIN_AFFID = "2062217";
+const EXPEDIA_SITE_ID = "1";
+const EXPEDIA_CAMREF = "1011l5hwiD";
+const EXPEDIA_CREATIVE_REF = "1100l68075";
+const EXPEDIA_AD_REF = "PZY3wKCo4x";
 
 function slugify(input: string): string {
   return input
@@ -60,45 +60,29 @@ function applyTieredDiscount(price: string): string {
   return `${prefix}${formatted}${suffix ? ` ${suffix}` : ""}`;
 }
 
-function generateHotelDeepLink(
+function generateExpediaDeepLink(
   hotelName: string,
   city?: string,
-  tags?: string[],
-  isRefundable?: boolean,
   adults: number = 2,
   children: number = 0
 ): string {
-  const bookingUrl = new URL("https://www.booking.com/searchresults.html");
-
-  // Strong match for the exact hotel
-  const searchText = city ? `${hotelName}, ${city}` : hotelName;
-  bookingUrl.searchParams.set("ss", searchText);
-  bookingUrl.searchParams.set("ssne", searchText);
-  bookingUrl.searchParams.set("ssne_untouched", searchText);
-
-  // No dates included — user will see live calendar availability
-  bookingUrl.searchParams.set("group_adults", String(adults));
-  bookingUrl.searchParams.set("group_children", String(children));
-  bookingUrl.searchParams.set("no_rooms", "1");
-  bookingUrl.searchParams.set("lang", "en-us");
-  bookingUrl.searchParams.set("selected_currency", "USD");
-  bookingUrl.searchParams.set("sb", "1");
-  bookingUrl.searchParams.set("src", "searchresults");
-
-  // Affiliate parameters
-  const label = `${BOOKING_LABEL_BASE}_${slugify(hotelName)}`.slice(0, 60);
-  bookingUrl.searchParams.set("aid", BOOKING_AID);
-  bookingUrl.searchParams.set("label", label);
-
-  // AWIN affiliate wrapper
-  const awin = new URL("https://www.awin1.com/cread.php");
-  awin.searchParams.set("awinmid", AWIN_MID);
-  awin.searchParams.set("awinaffid", AWIN_AFFID);
-  awin.searchParams.set("ued", bookingUrl.toString());
-
-  return awin.toString();
+  const expediaUrl = new URL("https://www.expedia.com/Hotel-Search");
+  
+  // Just search for the hotel name directly - let Expedia figure out the location
+  expediaUrl.searchParams.set("destination", hotelName);
+  expediaUrl.searchParams.set("hotelName", hotelName);
+  expediaUrl.searchParams.set("sort", "RECOMMENDED");
+  
+  // Build affiliate wrapper
+  const affiliateUrl = new URL("https://expedia.com/affiliate");
+  affiliateUrl.searchParams.set("siteid", EXPEDIA_SITE_ID);
+  affiliateUrl.searchParams.set("landingPage", expediaUrl.toString());
+  affiliateUrl.searchParams.set("camref", EXPEDIA_CAMREF);
+  affiliateUrl.searchParams.set("creativeref", EXPEDIA_CREATIVE_REF);
+  affiliateUrl.searchParams.set("adref", EXPEDIA_AD_REF);
+  
+  return affiliateUrl.toString();
 }
-
 /**
  * SEO / Social metadata for each blog post page
  * This controls:
@@ -240,13 +224,11 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl =
     hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
-  const hotelDeepLink = generateHotelDeepLink(
+  const hotelDeepLink = generateExpediaDeepLink(
     hotel.name,
     city,
-    hotel.tags,
-    hotel.isRefundable,
-    undefined,
-    undefined
+    2,
+    0
   )
 
   // Priority loading for first 2 images, lazy for the rest
