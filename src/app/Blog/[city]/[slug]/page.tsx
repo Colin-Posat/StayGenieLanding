@@ -22,16 +22,7 @@ const EXPEDIA_CAMREF = "1011l5hwiD";
 const EXPEDIA_CREATIVE_REF = "1100l68075";
 const EXPEDIA_AD_REF = "PZY3wKCo4x";
 
-function slugify(input: string): string {
-  return input
-    .normalize("NFKD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .toLowerCase()
-    .replace(/&/g, " and ")
-    .replace(/[^a-z0-9]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .replace(/--+/g, "-");
-}
+// Removed slugify() because unused
 
 function applyTieredDiscount(price: string): string {
   const match = price.match(/^\s*([^\d.,-]*)\s*([\d.,-]+)/);
@@ -42,11 +33,10 @@ function applyTieredDiscount(price: string): string {
   const base = parseFloat(numeric);
   if (isNaN(base)) return price;
 
-  // Apply tiered discount
   let multiplier = 1;
-  if (base < 200) multiplier = 0.8;      // 20% off
-  else if (base <= 700) multiplier = 0.7; // 30% off
-  else multiplier = 0.62;                 // 38% off
+  if (base < 200) multiplier = 0.8;
+  else if (base <= 700) multiplier = 0.7;
+  else multiplier = 0.62;
 
   const discounted = base * multiplier;
 
@@ -62,34 +52,25 @@ function applyTieredDiscount(price: string): string {
 
 function generateExpediaDeepLink(
   hotelName: string,
-  city?: string,
-  adults: number = 2,
-  children: number = 0
+  city?: string
 ): string {
   const expediaUrl = new URL("https://www.expedia.com/Hotel-Search");
-  
-  // Just search for the hotel name directly - let Expedia figure out the location
+
   expediaUrl.searchParams.set("destination", hotelName);
   expediaUrl.searchParams.set("hotelName", hotelName);
   expediaUrl.searchParams.set("sort", "RECOMMENDED");
-  
-  // Build affiliate wrapper
+
   const affiliateUrl = new URL("https://expedia.com/affiliate");
   affiliateUrl.searchParams.set("siteid", EXPEDIA_SITE_ID);
   affiliateUrl.searchParams.set("landingPage", expediaUrl.toString());
   affiliateUrl.searchParams.set("camref", EXPEDIA_CAMREF);
   affiliateUrl.searchParams.set("creativeref", EXPEDIA_CREATIVE_REF);
   affiliateUrl.searchParams.set("adref", EXPEDIA_AD_REF);
-  
+
   return affiliateUrl.toString();
 }
-/**
- * SEO / Social metadata for each blog post page
- * This controls:
- *   - <title> in Google results
- *   - <meta name="description">
- *   - Open Graph / Twitter cards
- */
+
+/** Metadata */
 export async function generateMetadata(
   { params }: { params: Promise<{ city: string; slug: string }> }
 ): Promise<Metadata> {
@@ -103,18 +84,12 @@ export async function generateMetadata(
     }
   }
 
-  // Capitalize city
   const cityName = city.charAt(0).toUpperCase() + city.slice(1)
 
-  // Build a CTR-friendly title without emojis, no "travel guide"
-  // Examples:
-  //   "Best Places To Stay in Miami | Best Miami Hotels & Deals"
-  //   "Waterfront Cabins in Tahoe | Best Hotels & Deals"
   const catchyTitle = post.title.includes(cityName)
     ? `${post.title} | Best ${cityName} Hotels & Deals`
     : `${post.title} in ${cityName} | Best Hotels & Deals`
 
-  // Meta description that encourages clicks in SERP (keep ~150-160 chars)
   const description = post.excerpt
     ? `${post.excerpt} Compare top-rated stays, find good prices, and pick the right area to stay in ${cityName}.`
     : `Find the best hotels and deals in ${cityName}. Handpicked stays, areas worth booking, and where you actually want to sleep.`
@@ -170,8 +145,6 @@ export default async function BlogPostPage({
                 {post.excerpt}
               </p>
             )}
-
-
           </header>
 
           <div className="space-y-12">
@@ -226,12 +199,9 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
 
   const hotelDeepLink = generateExpediaDeepLink(
     hotel.name,
-    city,
-    2,
-    0
+    city
   )
 
-  // Priority loading for first 2 images, lazy for the rest
   const shouldPriorityLoad = index < 2
 
   return (
