@@ -12,6 +12,10 @@ export type Hotel = {
   rating?: number
   location?: string
 }
+export interface BlogFAQ {
+  question: string;
+  answer: string;
+}
 
 export type BlogPost = {
   aiInsight?: unknown
@@ -25,6 +29,7 @@ export type BlogPost = {
   hotels: Hotel[]
   dateAdded?: string
   excerpt?: string
+  faqs?: BlogFAQ[];
 }
 
 const GENERATED_ARTICLES_DIR = path.join(process.cwd(), 'src', 'Generator', 'generated-articles')

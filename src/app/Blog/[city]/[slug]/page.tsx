@@ -22,8 +22,6 @@ const EXPEDIA_CAMREF = "1011l5hwiD";
 const EXPEDIA_CREATIVE_REF = "1100l68075";
 const EXPEDIA_AD_REF = "PZY3wKCo4x";
 
-// Removed slugify() because unused
-
 function applyTieredDiscount(price: string): string {
   const match = price.match(/^\s*([^\d.,-]*)\s*([\d.,-]+)/);
   if (!match) return price;
@@ -131,8 +129,29 @@ export default async function BlogPostPage({
   const post = getPost(city, slug)
   if (!post) return notFound()
 
+  // Generate FAQ schema for SEO
+  const faqSchema = post.faqs && post.faqs.length > 0 ? {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": post.faqs.map((faq: any) => ({
+      "@type": "Question",
+      "name": faq.question,
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": faq.answer
+      }
+    }))
+  } : null;
+
   return (
     <div className="min-h-screen bg-[#fefdfb]">
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+
       <main className="mx-auto max-w-3xl px-4 py-12 sm:px-6 lg:px-8">
         <article className="prose prose-lg max-w-none">
           <header className="mb-12 border-b border-neutral-200 pb-8">
@@ -162,6 +181,33 @@ export default async function BlogPostPage({
               />
             ))}
           </div>
+
+          {/* FAQ Section */}
+          {post.faqs && post.faqs.length > 0 && (
+            <section className="mt-16 border-t border-neutral-200 pt-12">
+              <h2 className="mb-8 font-serif text-3xl font-semibold text-neutral-900">
+                Frequently Asked Questions
+              </h2>
+              <div className="space-y-6">
+                {post.faqs.map((faq: any, index: number) => (
+                  <details
+                    key={index}
+                    className="group rounded-lg border border-neutral-200 bg-white p-6 transition-all hover:border-neutral-300 hover:shadow-sm"
+                  >
+                    <summary className="flex cursor-pointer list-none items-start justify-between gap-4">
+                      <span className="flex-1 font-semibold text-neutral-900">
+                        {faq.question}
+                      </span>
+                      <ChevronIcon className="h-5 w-5 flex-shrink-0 text-neutral-500 transition-transform duration-200 group-open:rotate-180" />
+                    </summary>
+                    <p className="mt-4 leading-relaxed text-neutral-700">
+                      {faq.answer}
+                    </p>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
         </article>
 
         <footer className="mt-16 border-t border-neutral-200 pt-8">
@@ -196,9 +242,7 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl =
     hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
-  const hotelDeepLink = generateExpediaDeepLink(
-    hotel.name,
-  )
+  const hotelDeepLink = generateExpediaDeepLink(hotel.name)
 
   const shouldPriorityLoad = index < 2
 
@@ -292,7 +336,7 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
           href={hotelDeepLink}
           hotelName={hotel.name}
           city={city}
-          className="inline-flex items-center gap-2 rounded-lg bg-neutral-900 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:bg-neutral-800 hover:shadow-lg hover:scale-[1.03]"
+          className="inline-flex items-center gap-2 rounded-lg bg-neutral-900 px-7 py-3 text-base font-semibold text-white shadow-md transition-all hover:scale-[1.03] hover:bg-neutral-800 hover:shadow-lg"
         >
           View Details
           <ArrowIcon className="h-5 w-5" />
@@ -329,6 +373,18 @@ function ArrowIcon(props: React.SVGProps<SVGSVGElement>) {
       <path
         fillRule="evenodd"
         d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z"
+        clipRule="evenodd"
+      />
+    </svg>
+  )
+}
+
+function ChevronIcon(props: React.SVGProps<SVGSVGElement>) {
+  return (
+    <svg viewBox="0 0 20 20" fill="currentColor" {...props}>
+      <path
+        fillRule="evenodd"
+        d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z"
         clipRule="evenodd"
       />
     </svg>
