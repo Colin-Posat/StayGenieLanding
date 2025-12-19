@@ -5,6 +5,9 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import Image from 'next/image';
 
 const customStyles = `
+html {
+    scroll-behavior: smooth;
+  }
   @keyframes shimmer {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
@@ -66,12 +69,14 @@ export default function Home() {
     <>
       <style dangerouslySetInnerHTML={{ __html: customStyles }} />
       <div className="min-h-screen bg-white relative overflow-hidden">
-        {/* Subtle background gradient */}
-        <div className="absolute inset-0 bg-gradient-to-b from-[#1df9ff]/5 via-transparent to-transparent pointer-events-none" />
-        
-        {/* Floating orb - minimal */}
-        <div className="absolute top-40 right-20 w-96 h-96 bg-[#1df9ff]/8 rounded-full blur-3xl animate-float pointer-events-none" />
+      {/* Grid pattern background */}
+<div className="absolute inset-0 bg-white pointer-events-none" />
+<div className="absolute inset-0 bg-[linear-gradient(to_right,#8080800a_1px,transparent_1px),linear-gradient(to_bottom,#8080800a_1px,transparent_1px)] bg-[size:14px_24px] pointer-events-none" />
+<div className="absolute inset-0 bg-gradient-to-b from-white via-transparent to-white pointer-events-none" />
 
+
+<div className="absolute bottom-40 left-20 w-96 h-96 bg-pink-400/10 rounded-full blur-3xl animate-float pointer-events-none" 
+     style={{ animationDelay: '4s' }} />
         {/* Success Modal */}
         {showModal && (
           <Modal onClose={() => setShowModal(false)}>
@@ -103,7 +108,7 @@ export default function Home() {
           <section className="mx-auto max-w-4xl px-6 pt-20 pb-32 sm:pt-32 sm:pb-40">
             <div className="text-center space-y-8">
               {/* Logo + Title */}
-              <div className="flex items-center justify-center gap-3">
+              <div className="flex items-center justify-center gap--3">
                 <h1 className="text-6xl sm:text-7xl font-bold tracking-tight">
                   <span className="text-gray-900">Stay</span>
                   <span className="bg-gradient-to-r from-[#1df9ff] to-[#00d4e6] bg-clip-text text-transparent">Genie</span>
@@ -113,7 +118,7 @@ export default function Home() {
                   alt="StayGenie Logo" 
                   width={120} 
                   height={120} 
-                  className="w-20 h-20 sm:w-28 sm:h-28 drop-shadow-lg"
+                  className="w-20 h-20 sm:w-28 sm:h-28 drop-shadow-lg -ml-6"
                 />
               </div>
               
@@ -148,25 +153,52 @@ export default function Home() {
               {/* CTA */}
               <div className="flex flex-col sm:flex-row gap-3 items-center justify-center pt-4">
                 <a
-                  href="#waitlist"
-                  className="inline-flex items-center justify-center rounded-xl bg-[#1df9ff] px-8 py-3.5 font-semibold text-white shadow-sm transition-all hover:bg-[#00d4e6] hover:shadow-md active:scale-[0.98]"
-                >
-                  Join the Waitlist
-                  <ArrowRightIcon className="ml-2 h-5 w-5" />
-                </a>
+                href="#waitlist"
+  onClick={(e) => {
+    e.preventDefault();
+    const element = document.getElementById('waitlist');
+    if (element) {
+      const offset = 80; // Adjust this number (pixels from top)
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - offset;
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    }
+  }}
+  className="inline-flex items-center justify-center rounded-xl bg-[#1df9ff] px-8 py-3.5 font-semibold text-white shadow-sm transition-all hover:bg-[#00d4e6] hover:shadow-md active:scale-[0.98]"
+>
+  Join the Waitlist
+  <ArrowRightIcon className="ml-2 h-5 w-5" />
+</a>
+
                 <a
-                  href="#how-it-works"
-                  className="inline-flex items-center justify-center rounded-xl border border-gray-300 bg-white px-8 py-3.5 font-semibold text-gray-900 transition-all hover:border-gray-400 hover:shadow-sm active:scale-[0.98]"
-                >
-                  See How It Works
-                </a>
+  href="#how-it-works"
+  onClick={(e) => {
+    e.preventDefault();
+    const element = document.getElementById('how-it-works');
+    if (element) {
+      const offset = 80; // Adjust this number (pixels from top)
+      const elementPosition = element.getBoundingClientRect().top;
+      const offsetPosition = elementPosition + window.pageYOffset - offset;
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+    }
+  }}
+  className="inline-flex items-center justify-center rounded-xl border border-gray-300 bg-white px-8 py-3.5 font-semibold text-gray-900 transition-all hover:border-gray-400 hover:shadow-sm active:scale-[0.98]"
+>
+  See How It Works
+</a>
               </div>
             </div>
           </section>
 
           {/* How It Works */}
           <section id="how-it-works" className="bg-gray-50 py-24">
-            <div className="mx-auto max-w-6xl px-6">
+  <div className="mx-auto max-w-6xl px-6 sm:px-8 lg:px-12">
               <div className="text-center mb-16">
                 <h2 className="text-3xl sm:text-4xl font-semibold text-gray-900 mb-3">
                   Three steps to your dream stay
@@ -203,7 +235,7 @@ export default function Home() {
 
           {/* Features */}
           <section className="py-24">
-            <div className="mx-auto max-w-6xl px-6">
+  <div className="mx-auto max-w-6xl px-6 sm:px-8 lg:px-12">
               <div className="text-center mb-16">
                 <h2 className="text-3xl sm:text-4xl font-semibold text-gray-900 mb-3">
                   Why travelers love StayGenie
@@ -263,7 +295,7 @@ export default function Home() {
                   ))}
                 </div>
                 <blockquote className="text-xl sm:text-2xl font-medium text-gray-900 mb-6 leading-relaxed">
-                  &ldquo;Finally, a hotel search that doesn&apos;t make me want to throw my phone out the window. This is how booking should work.&rdquo;
+                  &ldquo;Finally, a hotel search that doesn&apos;t make me want to throw my laptop out the window. This is how booking should work.&rdquo;
                 </blockquote>
                 <p className="text-gray-600">
                   <span className="font-semibold">Sarah M.</span> · Beta Tester
