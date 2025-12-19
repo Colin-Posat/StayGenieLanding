@@ -1,0 +1,102 @@
+{
+  "city": "casablanca",
+  "query": "affordable clean hotels in Casablanca with breakfast included",
+  "title": "Best Casablanca hotels with breakfast included",
+  "excerpt": "Finding affordable hotels in Casablanca that offer breakfast included can be a daunting task, especially in a city bustling with options. This curated list highlights clean and budget-friendly accommodations that not only provide a hearty meal to start your day but also ensure a comfortable stay. By focusing on these hotels, travelers can save time and enjoy a seamless experience in this vibrant city.",
+  "intro": "Discover the top affordable hotels in Casablanca that offer breakfast included, making your travel experience both convenient and enjoyable.",
+  "hotels": [
+    {
+      "id": "lp92b6d",
+      "name": "Hotel Majestic",
+      "image": "https://static.cupid.travel/hotels/329603464.jpg",
+      "description": "Hotel Majestic in Casablanca offers luxurious accommodations with elegant rooms equipped with modern amenities, including flat-screen TVs and private bathrooms for a relaxing stay. Guests can enjoy convenient facilities such as free WiFi, private parking, and an on-site restaurant serving delectable local cuisine. Ideally located just minutes from iconic attractions like the Hassan II Mosque, this hotel provides the perfect blend of comfort and convenience for travelers.",
+      "highlight": "Hotel Majestic provides complimentary breakfast and features an on-site restaurant serving local cuisine along with family-friendly amenities.",
+      "price": "$51/night",
+      "location": "57 Avenue Lalla Yacout",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4d915",
+      "name": "Hotel Casablanca City Center",
+      "image": "https://static.cupid.travel/hotels/608056249.jpg",
+      "description": "Hotel Casablanca City Center features modern, air-conditioned rooms equipped with TVs, wardrobes, and private bathrooms, ensuring a comfortable stay for all guests. Enjoy a variety of dining options, from a daily breakfast to traditional dishes at the on-site restaurant and casual bites at the pizzeria, with a bar perfect for relaxation after a day of exploring. Ideally situated just minutes from major attractions like the Hassan II Mosque and Villa des Arts Museum, the hotel also offers free Wi-Fi and private parking for your convenience.",
+      "highlight": "Hotel Casablanca City Center offers a complimentary breakfast, modern rooms, on-site dining, and free Wi-Fi for guests.",
+      "price": "$56/night",
+      "location": "83, Bd. La Liberte Benjdia",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f49c",
+      "name": "Ibis Casablanca City Center",
+      "image": "https://static.cupid.travel/hotels/506518762.jpg",
+      "description": "Nestled in the heart of Casablanca, the Ibis Casablanca City Center offers prime access to iconic sites like the old Medina and the stunning Hassan II Mosque. Guests enjoy modern, comfortable rooms equipped with essential amenities, while the hotel's restaurant, Wok and Co, invites diners to explore a diverse menu featuring Asian, Italian, and local cuisines, along with the exciting option to create personalized dishes. Experience the ideal mix of convenience, comfort, and culinary adventure at this vibrant hotel.",
+      "highlight": "Offers complimentary breakfast, modern rooms, and a diverse restaurant menu featuring Asian, Italian, and local cuisines.",
+      "price": "$63/night",
+      "location": "Rue Sidi Belyout & Zaid Ou Hmad",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655b26b6",
+      "name": "Hotel de paris",
+      "image": "https://static.cupid.travel/hotels/344319521.jpg",
+      "description": "Hotel de Paris in Casablanca boasts breathtaking city views and a cozy shared lounge, perfect for relaxation after a day of exploration. Guests will enjoy modern comforts such as flat-screen TVs, air conditioning, and some rooms with charming terraces, alongside convenient amenities like a 24-hour front desk and room service. Start your mornings with a delightful breakfast, and take advantage of nearby dining options at Anfa Place Living Resort and Morocco Mall for an exceptional culinary experience.",
+      "highlight": "Hotel de Paris offers a delightful breakfast, modern amenities, and breathtaking city views from select rooms and a shared lounge.",
+      "price": "$84/night",
+      "location": "2 rue cherif Ameziane ex Branly Prine mly Abdellah centre ville",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp656d3fa5",
+      "name": "Unico Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_80b3df37_z.jpg",
+      "description": "Unico Hotel offers a delightful blend of convenience and charm in the heart of Casablanca. Guests can enjoy complimentary Wi-Fi, concierge services, and a delicious daily breakfast featuring local cuisine. Each of the 18 uniquely decorated rooms is equipped with minibars, Smart televisions, and luxurious bedding, ensuring a comfortable and memorable stay.",
+      "highlight": "Unico Hotel offers complimentary daily breakfast featuring local cuisine, along with free Wi-Fi and concierge services.",
+      "price": "$93/night",
+      "location": "5 Rue du Gabon",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6554f77f",
+      "name": "Ibis Abdelmoumen Casa Centre",
+      "image": "https://static.cupid.travel/hotels/557776177.jpg",
+      "description": "Ibis Abdelmoumen Casa Centre offers a comfortable stay just 4.7 km from Anfa Place Living Resort, featuring a shared lounge, free parking, and a restaurant. Guests will appreciate modern amenities like air-conditioned rooms with free WiFi and flat-screen TVs, along with attentive multilingual staff available 24/7 to ensure a seamless experience. Enjoy a perfect blend of comfort and convenience during your visit.",
+      "highlight": "Offers air-conditioned rooms with free WiFi, flat-screen TVs, and complimentary breakfast in a convenient location.",
+      "price": "$66/night",
+      "location": "109, Boulevard Abdelmoumen",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are some affordable hotel options in Casablanca that include breakfast?",
+      "answer": "Some affordable options include the Hotel ibis Casa Voyageurs and the Hotel Majestic Casablanca. Both hotels offer breakfast as part of their room rates and are known for their cleanliness and convenient locations near key attractions."
+    },
+    {
+      "question": "How can I find the best deals for hotels with breakfast in Casablanca?",
+      "answer": "To find the best deals, consider booking directly through hotel websites or using travel aggregator sites like Booking.com or Expedia. Look for promotional offers or last-minute deals, as many hotels frequently update their prices and package deals."
+    },
+    {
+      "question": "What should I expect from the breakfast options at these hotels?",
+      "answer": "Hotels in Casablanca typically provide a continental breakfast, which may include pastries, fresh fruit, bread, and coffee. Some hotels, like the Kenzi Basma, offer a more extensive buffet with local Moroccan dishes, so it's worth checking the breakfast details before booking."
+    },
+    {
+      "question": "Are there any hotels with breakfast included near the Hassan II Mosque?",
+      "answer": "Yes, the Movenpick Hotel Casablanca is located not far from the Hassan II Mosque and offers breakfast included in their rates. Staying here gives you easy access to one of the city's most iconic landmarks while enjoying a good meal to start your day."
+    },
+    {
+      "question": "What are the check-in and check-out policies for hotels with breakfast included?",
+      "answer": "Most hotels in Casablanca typically have a check-in time around 2 PM and check-out time by noon. Always confirm these times directly with the hotel as they can vary, and inquire if there are flexible options available for late check-out or early check-in to accommodate your travel plans."
+    }
+  ],
+  "slug": "best-casablanca-hotels-with-breakfast-included",
+  "generatedAt": "2025-12-19T09:09:03.086Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

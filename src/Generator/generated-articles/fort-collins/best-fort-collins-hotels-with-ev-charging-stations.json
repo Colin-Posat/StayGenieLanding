@@ -1,0 +1,102 @@
+{
+  "city": "fort-collins",
+  "query": "hotels in Fort Collins with electric vehicle charging tesla charging",
+  "title": "Best Fort Collins hotels with EV charging stations",
+  "excerpt": "Finding hotels in Fort Collins that offer electric vehicle charging stations can be a challenge, especially as the demand for eco-friendly travel options continues to rise. This curated list not only highlights the best spots to recharge your vehicle but also ensures that you can enjoy a seamless and sustainable stay without the stress of searching for charging facilities. By choosing one of these hotels, you can travel with peace of mind knowing that your green journey is supported.",
+  "intro": "Discover the top hotels in Fort Collins that cater to electric vehicle owners with convenient charging stations for an eco-friendly travel experience.",
+  "hotels": [
+    {
+      "id": "lp38864",
+      "name": "Hilton Fort Collins",
+      "image": "https://static.cupid.travel/hotels/484350341.jpg",
+      "description": "Experience the ideal blend of comfort and convenience at the Hilton Fort Collins, perfectly situated near the stunning Horsetooth Reservoir and the renowned Anheuser Busch Brewery, making it a great choice for adventure seekers and beer lovers. Guests can enjoy modern amenities such as high-speed internet, flat-screen TVs, and delightful on-site dining, along with relaxation options like an indoor pool and fitness center. Book your stay today for an unforgettable getaway that caters to both leisure and relaxation.",
+      "highlight": "Offers convenient e-bike charging stations along with modern amenities like high-speed internet and an indoor pool.",
+      "price": "$151/night",
+      "location": "425 West Prospect Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp102fdc",
+      "name": "Fairfield Inn & Suites by Marriott Fort Collins South",
+      "image": "https://static.cupid.travel/hotels/439500725.jpg",
+      "description": "Discover the Fairfield Inn & Suites by Marriott Fort Collins South, conveniently located just 12 km from Colorado State University and near Hughes Stadium. This modern hotel features an array of amenities such as a fitness center, indoor pool, and hot tub, ensuring a relaxing stay. With free WiFi and a business center, it is perfect for both leisure and work travelers seeking comfort and convenience.",
+      "highlight": "Offers convenient E-bike charging stations alongside an indoor saltwater pool and hot tub for a refreshing stay.",
+      "price": "$183/night",
+      "location": "3520 Timberwood Drive",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f391",
+      "name": "Comfort Inn Fort Collins North",
+      "image": "https://static.cupid.travel/hotels/280211381.jpg",
+      "description": "Experience a convenient stay at Comfort Inn Fort Collins North, ideally situated for easy access to local attractions. Enjoy relaxing amenities that enhance your comfort, along with a delicious American breakfast to start your day right. Book your getaway for a memorable and enjoyable experience.",
+      "highlight": "Offers E-bike charging stations along with relaxing amenities like a hot tub and heated pool.",
+      "price": "$118/night",
+      "location": "601 SW Frontage Rd.",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3f123",
+      "name": "Hilton Garden Inn Fort Collins",
+      "image": "https://static.cupid.travel/hotels/474314231.jpg",
+      "description": "Experience the ultimate blend of comfort and convenience at Hilton Garden Inn Fort Collins. Enjoy luxurious amenities such as an indoor pool, modern gym, and well-equipped rooms featuring free WiFi, flat-screen TVs, and kitchen essentials. Located just 3.1 km from Interstate 25 and near Colorado State University, this hotel offers easy access to local attractions and a delightful dining experience at the Great American Grill.",
+      "highlight": "Offers electric vehicle charging stations alongside a saltwater pool and a charcoal grill for guest enjoyment.",
+      "price": "$122/night",
+      "location": "2821 E Harmony Rd",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp40845",
+      "name": "Holiday Inn Express Hotel & Suites Fort Collins by IHG",
+      "image": "https://static.cupid.travel/hotels/234050455.jpg",
+      "description": "Experience the ideal blend of convenience and comfort at the Holiday Inn Express Hotel and Suites Fort Collins, located just 5.5 miles from downtown and Colorado State University. Enjoy a range of amenities including complimentary Wi-Fi, a daily buffet breakfast, and access to an indoor pool and jacuzzi. Relax in spacious, elegantly decorated rooms equipped with modern features like cable TV and coffee makers, ensuring a cozy stay.",
+      "highlight": "Offers electric vehicle charging stations alongside spacious rooms, complimentary Wi-Fi, and an indoor hot tub.",
+      "price": "$116/night",
+      "location": "1426 Oakridge Dr",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp79d6c",
+      "name": "Best Western Kiva Inn",
+      "image": "https://static.cupid.travel/hotels/585517976.jpg",
+      "description": "Experience the ultimate relaxation at Best Western Kiva Inn in Fort Collins, featuring a seasonal outdoor heated pool, indoor and outdoor hot tubs, and a soothing sauna. Each room is equipped with convenient amenities like a microwave, refrigerator, and free Wi-Fi, ensuring a comfortable stay. Enjoy 24-hour business services, fitness facilities, and a complimentary continental breakfast to start your day right.",
+      "highlight": "Offers electric vehicle charging stations along with a seasonal outdoor heated pool, hot tubs, and sauna for relaxation.",
+      "price": "$127/night",
+      "location": "1638 E Mulberry Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which hotels in Fort Collins offer Tesla charging stations?",
+      "answer": "Several hotels in Fort Collins provide Tesla charging stations, including the Hilton Fort Collins and the Courtyard by Marriott. It is advisable to check directly with the hotel regarding the availability of charging stations at the time of booking, as this can vary."
+    },
+    {
+      "question": "What are the average prices for hotels with EV charging in Fort Collins?",
+      "answer": "Prices for hotels with electric vehicle charging stations in Fort Collins generally range from $120 to $250 per night, depending on the time of year and specific amenities. Booking in advance and looking for special promotions can help secure better rates."
+    },
+    {
+      "question": "Are the EV charging stations free to use at Fort Collins hotels?",
+      "answer": "Charging policies can differ by hotel; while some may offer free charging for guests, others might charge a fee. It is best to confirm the charging costs at the time of booking to avoid any surprises during your stay."
+    },
+    {
+      "question": "What amenities are typically offered at Fort Collins hotels with EV charging?",
+      "answer": "Hotels in Fort Collins that feature EV charging often provide a variety of amenities such as complimentary breakfast, free Wi-Fi, and fitness centers. Checking the hotel's website or calling ahead can help you learn more about specific amenities available during your stay."
+    },
+    {
+      "question": "How can I find the best deals on hotels with EV charging stations in Fort Collins?",
+      "answer": "To find the best deals on Fort Collins hotels with EV charging, consider using travel comparison websites and setting up price alerts. Additionally, booking your stay during the off-peak season, typically in winter or early spring, can often lead to better rates."
+    }
+  ],
+  "slug": "best-fort-collins-hotels-with-ev-charging-stations",
+  "generatedAt": "2025-12-19T18:49:49.803Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

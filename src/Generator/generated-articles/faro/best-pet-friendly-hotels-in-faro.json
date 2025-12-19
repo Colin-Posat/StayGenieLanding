@@ -1,0 +1,102 @@
+{
+  "city": "faro",
+  "query": "best pet friendly hotels in Faro",
+  "title": "Best pet-friendly hotels in Faro",
+  "excerpt": "Finding pet-friendly hotels can often feel like searching for a needle in a haystack, especially in a popular destination like Faro. This curated list not only highlights the best accommodations that welcome your furry friends but also ensures you can enjoy a stress-free getaway. Knowing where you can stay with your pet allows you to focus on exploring all that this beautiful region has to offer together.",
+  "intro": "Discover the top pet-friendly hotels in Faro, where both you and your four-legged companions can enjoy a memorable stay.",
+  "hotels": [
+    {
+      "id": "lp655dd8da",
+      "name": "Villa Monaco",
+      "image": "https://static.cupid.travel/hotels/152870535.jpg",
+      "description": "Villa Monaco is a luxurious retreat in Faro, featuring a fitness center, sauna, and a shared kitchen, along with air-conditioned units equipped with flat-screen TVs and free WiFi. Guests can relax on the patio or terrace, enjoying breathtaking mountain views, while the serene saltwater pool and lush garden provide an ideal setting for unwinding. With convenient amenities like on-site parking, an airport shuttle, and a coffee shop and bar, Villa Monaco ensures a seamless and indulgent getaway.",
+      "highlight": "Villa Monaco offers pet-friendly accommodations, a serene saltwater pool, and a tranquil Japanese garden for relaxation.",
+      "price": "$111/night",
+      "location": "rua batista severino lote 104 MONTENEGRO",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1f2ceb",
+      "name": "Happy House",
+      "image": "https://static.cupid.travel/hotels/75425974.jpg",
+      "description": "Happy House boasts a prime central location in Faro, offering luxurious accommodations complete with air conditioning, a private patio, and complimentary WiFi. Each unit is equipped with a modern kitchen, flat-screen TV, and stylish bathroom amenities, ensuring a comfortable stay. Guests can also take advantage of shared facilities, including a kitchen and coffee shop, making it an ideal choice for a memorable getaway.",
+      "highlight": "Happy House features pet-friendly accommodations with a private patio, shared kitchen, and allergy-free rooms in central Faro.",
+      "price": "$100/night",
+      "location": "Rua Batista Lopes 50",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp45956",
+      "name": "Hotel Alnacir",
+      "image": "https://static.cupid.travel/hotels/33763177.jpg",
+      "description": "Hotel Alnacir offers a prime location just 1 km from the breathtaking Natural Park Ria Formosa and a short 10-minute walk to the vibrant Faro town center, rich with culture and dining options. Guests can enjoy a variety of activities including tennis and hiking, with the helpful 24-hour front desk ready to assist with arrangements. Relax in comfortable rooms equipped with air conditioning and satellite TV, and start your day with a delicious continental breakfast before unwinding at the hotel bar.",
+      "highlight": "Hotel Alnacir offers pet-friendly accommodations with comfortable rooms, outdoor furniture, and a prime location near Natural Park Ria Formosa.",
+      "price": "$95/night",
+      "location": "Estrada Senhora Saude, 24",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3ec56",
+      "name": "Best Western Hotel Dom Bernardo",
+      "image": "https://static.cupid.travel/hotels/308569857.jpg",
+      "description": "Best Western Hotel Dom Bernardo boasts a prime location just a short stroll from Faro's marina and vibrant shopping district, making it easy to explore the city's attractions. The cozy air-conditioned rooms come equipped with essential amenities, including complimentary Wi-Fi and flat-screen TVs, ensuring a comfortable stay. Guests can indulge in a delicious buffet breakfast featuring homemade treats and enjoy excellent services such as laundry facilities, car rentals, and 24-hour reception for a seamless experience.",
+      "highlight": "Best Western Hotel Dom Bernardo offers pet-friendly accommodations, cozy rooms with essential amenities, and a convenient location near Faro's attractions.",
+      "price": "$89/night",
+      "location": "Rua General Teofilo Da Trindade 20",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6567ae44",
+      "name": "Golden Beach Guest House & Rooftop Bar",
+      "image": "https://static.cupid.travel/hotels/250005205.jpg",
+      "description": "Discover the Golden Beach Guest House & Rooftop Bar, a beachfront haven that boasts breathtaking ocean views and cozy accommodations. With a trendy rooftop bar, complimentary WiFi, and a prime location near shops and local eateries, guests can indulge in relaxation and adventure alike, with activities such as golfing and windsurfing readily available. Perfectly situated just a short drive from Faro International Airport, this hotel is an ideal retreat for both leisure and business travelers.",
+      "highlight": "Offers pet-friendly accommodations, a trendy rooftop bar, and convenient access to the beach and local activities.",
+      "price": "$226/night",
+      "location": "Praia de Faro Avenida Nascente Nº2",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp655fffc9",
+      "name": "Casa das Lontras",
+      "image": "https://static.cupid.travel/hotels/328820465.jpg",
+      "description": "Experience luxury at Casa das Lontras in Faro, where modern amenities meet spacious comfort. Enjoy air conditioning, free WiFi, and a fully equipped kitchen, along with breathtaking city views from your private balcony. With a prime location near Vilamoura Marina and Algarve Shopping Center, this apartment is an ideal choice for an unforgettable getaway.",
+      "highlight": "Offers spacious accommodations with modern amenities, including pet-friendly options and proximity to local attractions in Faro.",
+      "price": "$208/night",
+      "location": "Rua Miguel Bombarda lote A, 2o Frente",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the pet policies at the Hotel Eva in Faro?",
+      "answer": "Hotel Eva welcomes pets up to 10 kg, allowing one pet per room. An additional fee of €15 per night applies, but you should confirm directly with the hotel for any special requirements or restrictions regarding specific breeds."
+    },
+    {
+      "question": "Are there any hotels in Faro with easy access to pet-friendly beaches?",
+      "answer": "Yes, the Ibis Faro hotel is a great option as it is just a short drive from Faro Beach, which allows pets during the off-peak season. Be sure to check local guidelines for pet access and keep your furry friend on a leash."
+    },
+    {
+      "question": "What is the typical price range for pet-friendly hotels in Faro?",
+      "answer": "Prices for pet-friendly hotels in Faro typically range from €60 to €150 per night, depending on the season and amenities offered. Booking in advance, especially during peak travel months, can help secure better rates."
+    },
+    {
+      "question": "Is there a limit on the size or number of pets allowed at hotels in Faro?",
+      "answer": "Most pet-friendly hotels in Faro, such as the Faro Lighthouse, usually allow one dog up to 20 kg. Always check with the hotel in advance for specific size restrictions or policies on additional pets."
+    },
+    {
+      "question": "What amenities do pet-friendly hotels in Faro offer for my dog?",
+      "answer": "Many pet-friendly hotels in Faro, like the Hotel Faro & Beach Club, offer pet amenities such as dog beds, bowls, and even pet-friendly menus. Some hotels may have designated areas for walking your dog or partnerships with nearby parks, so inquire about these services when booking."
+    }
+  ],
+  "slug": "best-pet-friendly-hotels-in-faro",
+  "generatedAt": "2025-12-19T18:36:40.526Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

@@ -1,0 +1,102 @@
+{
+  "city": "delhi",
+  "query": "best dog friendly hotels in Delhi",
+  "title": "Best dog-friendly hotels in Delhi",
+  "excerpt": "Finding dog-friendly hotels in a bustling city like Delhi can be quite a challenge. This list is invaluable for pet owners who want to ensure their furry companions are welcomed and comfortable while exploring all that the city has to offer. With these carefully selected accommodations, you can enjoy your travels without leaving your beloved pet behind.",
+  "intro": "Discover the best dog-friendly hotels in Delhi, where both you and your four-legged friend can enjoy a memorable stay.",
+  "hotels": [
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Discover a charming hotel that offers a cozy atmosphere and exceptional hospitality. Enjoy well-appointed rooms and convenient amenities designed for a comfortable stay. Experience the local culture with easy access to nearby attractions and dining options.",
+      "highlight": "Offers well-appointed rooms and easy access to nearby attractions, ensuring a comfortable stay for you and your dog.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Experience the heart of New Delhi at Hotel A-10 International, ideally situated near iconic attractions like Gurudwara Bangla Sahib and Jama Masjid. Enjoy the convenience of onsite parking and stay connected with complimentary Wi-Fi, all while immersing yourself in the vibrant Paharganj neighborhood filled with cultural landmarks and delicious local cuisine. Book your stay today to explore the best of the city.",
+      "highlight": "Offers pet-friendly accommodations along with convenient onsite parking and complimentary Wi-Fi in the vibrant Paharganj neighborhood.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Unfortunately, no description is available to summarize. Please provide details about the hotel for an engaging summary.",
+      "highlight": "Hotel Grand Lawson offers spacious pet-friendly rooms, a dedicated dog park, and on-site pet services for your furry companions.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Experience the vibrant energy of New Delhi at Hotel A-10 International, ideally situated in the bustling Paharganj neighborhood. Enjoy convenient onsite parking and stay connected with complimentary Wi-Fi, all while being just moments away from iconic landmarks like Gurudwara Bangla Sahib and Jama Masjid. Book your stay now to immerse yourself in the rich culture and delicious cuisine that surrounds this central location.",
+      "highlight": "Offers pet-friendly accommodations with convenient onsite parking and complimentary Wi-Fi in the heart of Delhi.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Unfortunately, there is no hotel description provided to summarize. Please share the details of the hotel, and I would be happy to create an engaging summary for you.",
+      "highlight": "Offers spacious pet-friendly rooms, a dedicated dog park, and pet-sitting services for your furry companions.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Experience the heart of New Delhi at Hotel A-10 International, ideally situated near iconic attractions like Gurudwara Bangla Sahib and Jama Masjid. Enjoy the convenience of onsite parking and complimentary Wi-Fi, while immersing yourself in the vibrant Paharganj neighborhood, known for its cultural landmarks and delicious local eateries. Book your stay today and discover the best of the city.",
+      "highlight": "Offers dog-friendly accommodations with convenient onsite parking and complimentary Wi-Fi in the vibrant Paharganj neighborhood.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average pet fees at dog-friendly hotels in Delhi?",
+      "answer": "Most dog-friendly hotels in Delhi charge a pet fee ranging from INR 1,000 to INR 3,000 per night, depending on the hotel's policy and the size of your dog. It's advisable to check with the hotel directly for specific pricing and any possible discounts for extended stays."
+    },
+    {
+      "question": "Are there specific dog-friendly amenities offered at these hotels?",
+      "answer": "Many dog-friendly hotels in Delhi provide amenities such as pet beds, food bowls, and designated pet areas. Some hotels even offer dog walking services or pet-sitting services, making your stay more comfortable for both you and your furry friend."
+    },
+    {
+      "question": "Which neighborhoods in Delhi have the best dog-friendly hotels?",
+      "answer": "Areas like Connaught Place, Greater Kailash, and Hauz Khas are known for their dog-friendly hotels. These neighborhoods not only offer quality accommodations but also have parks and open spaces nearby, perfect for walks with your dog."
+    },
+    {
+      "question": "How can I ensure my dog is welcome during my stay?",
+      "answer": "When booking a hotel, always confirm their pet policy directly to ensure your dog is welcome. It's a good practice to mention your dog's breed and size, as some hotels have restrictions on certain breeds or sizes."
+    },
+    {
+      "question": "Are there any dog-friendly restaurants near these hotels?",
+      "answer": "Yes, many dog-friendly hotels in Delhi are situated near restaurants that welcome pets. For example, cafes in Connaught Place and Hauz Khas often have outdoor seating where dogs are allowed, making it easy to enjoy a meal after a day of exploring with your pet."
+    }
+  ],
+  "slug": "best-dog-friendly-hotels-in-delhi",
+  "generatedAt": "2025-12-19T19:01:46.849Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

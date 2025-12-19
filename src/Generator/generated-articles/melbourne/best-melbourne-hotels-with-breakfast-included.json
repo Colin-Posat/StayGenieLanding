@@ -1,0 +1,102 @@
+{
+  "city": "melbourne",
+  "query": "affordable clean hotels in Melbourne with breakfast included",
+  "title": "Best Melbourne hotels with breakfast included",
+  "excerpt": "Finding affordable hotels in Melbourne that offer breakfast included can be a daunting task, especially with so many options available. This curated list simplifies your search, ensuring you enjoy a clean and comfortable stay while starting your day with a satisfying meal. These hotels not only provide great value but also enhance your overall travel experience.",
+  "intro": "Discover the best budget-friendly hotels in Melbourne that include breakfast, ensuring you can fuel up for your adventures without breaking the bank.",
+  "hotels": [
+    {
+      "id": "lp7177f",
+      "name": "Melbourne City Backpackers",
+      "image": "https://static.cupid.travel/hotels/139028618.jpg",
+      "description": "Melbourne City Backpackers is ideally situated just a short stroll from Southern Cross Station and Melbourne Sky Bus, making it a perfect base for exploring the city. Guests can enjoy complimentary breakfast, WiFi, and convenient laundry facilities, along with a variety of room options, including private rooms and female-only dormitories. Experience the vibrant atmosphere of Melbourne while enjoying comfortable accommodations and essential amenities.",
+      "highlight": "Offers complimentary breakfast, WiFi, and diverse room options, including private rooms and female-only dormitories.",
+      "price": "$83/night",
+      "location": "197-199 King Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp75530",
+      "name": "ibis Budget - Melbourne CBD",
+      "image": "https://static.cupid.travel/hotels/85274265.jpg",
+      "description": "ibis Budget - Melbourne CBD offers a prime location just 200 meters from Bourke Street Mall, making it an ideal starting point for discovering the city's vibrant atmosphere. Surrounded by a diverse array of dining options and shops, guests can easily immerse themselves in Melbourne's culinary delights and retail experiences. With a tram stop right outside, iconic attractions like the National Gallery of Victoria and St. Kilda Beach are just a short ride away, ensuring a convenient and exciting stay.",
+      "highlight": "Offers complimentary breakfast and convenient access to major attractions via the tram stop located just outside.",
+      "price": "$94/night",
+      "location": "97-103 Elizabeth Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp99fa9",
+      "name": "Europa Melbourne",
+      "image": "https://static.cupid.travel/hotels/337057535.jpg",
+      "description": "Europa Melbourne is ideally situated in the city center, just a stone's throw from Queen Victoria Market and Melbourne Central, where guests can enjoy a complimentary continental breakfast each morning. The hotel offers a variety of room options, all featuring modern amenities such as air-conditioning, USB sockets, and private reading lights, ensuring a comfortable stay. Guests can socialize in the rooftop lounge or indulge in weekly wine and cheese nights, making it a perfect spot for both relaxation and connection.",
+      "highlight": "Offers complimentary continental breakfast, a rooftop lounge, and modern room amenities in the heart of Melbourne.",
+      "price": "$83/night",
+      "location": "310-314 Queen Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp85a48",
+      "name": "Elizabeth Hostel",
+      "image": "https://static.cupid.travel/hotels/34524937.jpg",
+      "description": "Elizabeth Hostel boasts a prime location in Melbourne's CBD, surrounded by lively restaurants, cafes, and bars, with attractions like Queen Victoria Market just a short stroll away. Enjoy comfortable shared facilities, including a lounge for movie nights and a communal kitchen, fostering a friendly atmosphere among guests. With free WiFi access and convenient amenities, this hostel is the perfect base for exploring all that Melbourne has to offer.",
+      "highlight": "Elizabeth Hostel offers a communal kitchen and lounge, providing guests with comfortable shared facilities in Melbourne's vibrant CBD.",
+      "price": "$79/night",
+      "location": "490-494 Elizabeth Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp405f1",
+      "name": "YTI Garden Hotel",
+      "image": "https://static.cupid.travel/hotels/111896953.jpg",
+      "description": "YTI Garden Hotel is ideally situated in the heart of Melbourne CBD, offering easy access to major attractions and vibrant shopping areas. Guests can enjoy comfortable, air-conditioned rooms equipped with flat-screen TVs and well-appointed kitchens, perfect for longer stays. With 24-hour reception and a knowledgeable tour desk, your Melbourne adventure is made effortless and enjoyable.",
+      "highlight": "Offers comfortable air-conditioned rooms with kitchen facilities and includes breakfast for a convenient start to your day.",
+      "price": "$84/night",
+      "location": "378 Little Bourke Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp365b7",
+      "name": "Miami Hotel Melbourne",
+      "image": "https://static.cupid.travel/hotels/251660612.jpg",
+      "description": "Miami Hotel Melbourne boasts a prime location just 1 km from the vibrant CBD, with the charming Errol Street shops only a five-minute stroll away. Guests can enjoy comfortable rooms equipped with modern amenities, including heating and cooling, a private bathroom, and tea/coffee facilities, ensuring a relaxing stay. With convenient facilities like a communal kitchen and 24-hour reception, Miami Hotel is perfect for both business and leisure travelers seeking a hassle-free experience.",
+      "highlight": "Miami Hotel Melbourne offers complimentary breakfast, comfortable rooms with modern amenities, and a communal kitchen for guests' convenience.",
+      "price": "$66/night",
+      "location": "13 Hawke Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are some affordable hotels in Melbourne that include breakfast?",
+      "answer": "Some affordable options include the Ibis Styles Melbourne, which offers a continental breakfast and is centrally located near Southern Cross Station. The Best Western Plus Travel Inn also provides free breakfast and is close to the vibrant Carlton area, known for its Italian eateries."
+    },
+    {
+      "question": "How much can I expect to pay for hotels in Melbourne with breakfast included?",
+      "answer": "Prices for hotels with breakfast in Melbourne typically range from AUD 100 to AUD 200 per night. Booking in advance or during off-peak seasons can help you secure better rates, especially in budget-friendly hotels."
+    },
+    {
+      "question": "Do breakfast options vary at different hotels in Melbourne?",
+      "answer": "Yes, breakfast offerings can vary significantly. Some hotels provide a basic continental breakfast with pastries and fruit, while others might include hot options like eggs and bacon. Always check the hotel's website for specific details about their breakfast menu."
+    },
+    {
+      "question": "Are there any hotels in Melbourne with breakfast included near public transport?",
+      "answer": "Many affordable hotels with breakfast included are conveniently located near public transport. For example, the Travelodge Melbourne Docklands is close to tram stops and Southern Cross Station, making it easy to explore the city without a car."
+    },
+    {
+      "question": "Is it better to book directly with the hotel for breakfast included rates?",
+      "answer": "Booking directly with the hotel can often yield better rates and exclusive deals, including breakfast. Additionally, direct bookings might provide more flexibility with cancellation policies and room upgrades compared to third-party websites."
+    }
+  ],
+  "slug": "best-melbourne-hotels-with-breakfast-included",
+  "generatedAt": "2025-12-19T18:54:08.829Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

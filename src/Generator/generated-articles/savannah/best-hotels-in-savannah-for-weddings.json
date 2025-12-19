@@ -1,0 +1,102 @@
+{
+  "city": "savannah",
+  "query": "best hotels in Savannah for weddings luxury and affordable",
+  "title": "Best hotels in Savannah for weddings",
+  "excerpt": "Finding the perfect hotel for a wedding in Savannah can be overwhelming, given the city's myriad options that range from luxurious to budget-friendly. This curated list highlights venues that not only provide stunning backdrops and exceptional service but also cater to various budgets. Whether you envision an opulent celebration or an intimate gathering, these selections simplify your search and ensure your special day is unforgettable.",
+  "intro": "Discover the best hotels in Savannah that offer enchanting settings and exceptional services for your dream wedding, whether you seek luxury or affordability.",
+  "hotels": [
+    {
+      "id": "lp4b310",
+      "name": "Baymont by Wyndham Savannah South",
+      "image": "https://static.cupid.travel/hotels/422386173.jpg",
+      "description": "Experience the perfect blend of convenience and comfort at Baymont by Wyndham Savannah South, ideally situated near major universities and military bases. Each guest room features modern amenities like a flat-screen TV, microwave, and refrigerator, ensuring a relaxing retreat. Enjoy a refreshing outdoor pool, a complimentary hot breakfast, and access to a fitness center, all while being close to popular shopping and dining spots.",
+      "highlight": "Offers a spacious reception hall, an outdoor pool, and convenient access to nearby golf courses for wedding celebrations.",
+      "price": "$89/night",
+      "location": "393 Canebrake Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a472",
+      "name": "Quality Inn Savannah Midtown",
+      "image": "https://static.cupid.travel/hotels/169837322.jpg",
+      "description": "Experience comfort and convenience at the Midtown Savannah Quality Inn, just two miles from the Savannah Municipal Golf Course. Each guest room features essential amenities like free Wi-Fi, a microwave, and cable TV, while guests can enjoy a hearty breakfast and relax at the on-site Doubles Lounge. With a seasonal outdoor pool and business facilities, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Boasts a reception hall, nightclub, and seasonal outdoor pool for memorable wedding celebrations.",
+      "price": "$99/night",
+      "location": "7100 Abercorn St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d011",
+      "name": "Econo Lodge Savannah Midtown",
+      "image": "https://static.cupid.travel/hotels/169832470.jpg",
+      "description": "Discover comfort and convenience at the Econo Lodge Midtown, where every room features a 40-inch flat-screen TV with high-definition channels. Enjoy complimentary coffee and tea each morning, along with free WiFi to keep you connected during your stay. Located just 8 km from historic Savannah, this hotel provides easy access to local attractions, restaurants, and shopping, making it the perfect base for your adventures.",
+      "highlight": "Offers complimentary WiFi, allergy-free rooms, and discounted parking, all within 8 km of historic Savannah.",
+      "price": "$171/night",
+      "location": "7500 Abercorn St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3c3f7",
+      "name": "Americas Best Value Inn-Savannah",
+      "image": "https://static.cupid.travel/hotels/1176337.jpg",
+      "description": "Americas Best Value Inn is ideally situated just minutes from Savannah's historical district, providing guests with easy access to local attractions and major roadways. Enjoy modern amenities such as high-speed internet and on-site business services, ensuring a comfortable stay. With nearby historical sites, shopping centers, and beautiful beaches, this hotel offers the perfect base for exploring all that Savannah has to offer.",
+      "highlight": "Offers family rooms and discounted parking, with easy access to Savannah's historical district and local attractions.",
+      "price": "$99/night",
+      "location": "4005 Ogeechee Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8fdaa",
+      "name": "Iris Garden Inn",
+      "image": "https://static.cupid.travel/hotels/84087403.jpg",
+      "description": "Iris Garden Inn offers a pet-friendly retreat just 5 km from Forsyth Park, featuring complimentary WiFi, a fitness center, and free private parking. Each air-conditioned room boasts a flat-screen TV and a private bathroom stocked with complimentary toiletries. With a free shuttle service to nearby attractions like Ships of the Sea Museum, guests can easily explore the vibrant area while enjoying a comfortable stay.",
+      "highlight": "Offers a reception hall, pet-friendly accommodations, and complimentary shuttle service to local attractions.",
+      "price": "$97/night",
+      "location": "347 Main Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6556a2a9",
+      "name": "Days Inn by Wyndham Savannah",
+      "image": "https://static.cupid.travel/hotels/488016279.jpg",
+      "description": "Discover comfort and convenience at Days Inn by Wyndham Savannah, ideally situated just 5.2 km from Riverside City Park and local attractions. Enjoy a seasonal outdoor swimming pool, serene garden, and essential amenities like 24-hour front desk service and airport transfers. Relax in well-appointed rooms, some featuring private bathrooms and safety deposit boxes for added security. Book your stay today for a delightful experience!",
+      "highlight": "Offers a serene Japanese garden, seasonal outdoor swimming pool, and family rooms for a memorable wedding experience.",
+      "price": "$133/night",
+      "location": "1695 Pickwick Rd",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for wedding venues at luxury hotels in Savannah?",
+      "answer": "Luxury hotels in Savannah typically charge between $5,000 to $15,000 for wedding packages, which may include catering, venue space, and accommodations. Popular choices like The Gastonian and The Perry Lane Hotel often offer customizable packages that can accommodate various guest counts and preferences."
+    },
+    {
+      "question": "Are there any affordable hotel options in Savannah that cater to weddings?",
+      "answer": "Yes, affordable options such as The Cotton Sail Hotel and Best Western Plus Savannah Historic District provide competitive wedding packages starting around $2,000. These venues often include necessary amenities like event space and discounted room rates for guests, making them great choices for budget-conscious couples."
+    },
+    {
+      "question": "What amenities should I look for in a hotel when planning a wedding in Savannah?",
+      "answer": "Look for hotels that offer on-site catering, bridal suites, and event coordinators to streamline the planning process. Many hotels, such as The Westin Savannah Harbor Golf Resort, also provide outdoor spaces with stunning views of the Savannah River, which can add a magical touch to your ceremony."
+    },
+    {
+      "question": "How far in advance should I book a hotel for my wedding in Savannah?",
+      "answer": "It is advisable to book your venue at least 12 to 18 months in advance, especially for popular months like April and October. This lead time ensures that you secure your preferred hotel and date, as Savannah attracts many wedding events year-round."
+    },
+    {
+      "question": "What local attractions can guests enjoy near wedding hotels in Savannah?",
+      "answer": "Guests can explore historic sites such as Forsyth Park, River Street, and the Savannah Historic District, which are all within walking distance from many wedding hotels. Consider providing a list of local attractions and activities for your guests, as they will likely enjoy the city's rich history and vibrant culture during their stay."
+    }
+  ],
+  "slug": "best-hotels-in-savannah-for-weddings",
+  "generatedAt": "2025-12-19T09:12:32.424Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

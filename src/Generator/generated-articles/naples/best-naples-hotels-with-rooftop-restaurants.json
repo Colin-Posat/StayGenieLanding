@@ -1,0 +1,102 @@
+{
+  "city": "naples",
+  "query": "hotels in Naples with rooftop restaurant dining views",
+  "title": "Best Naples hotels with rooftop restaurants",
+  "excerpt": "Finding hotels in Naples that offer breathtaking rooftop dining can be quite a challenge, as many establishments overlook this unique feature. This curated list highlights the best options, ensuring that travelers can enjoy stunning views of the city while savoring exquisite cuisine. Discovering these hotels adds value to your stay, transforming ordinary visits into unforgettable experiences with panoramic vistas.",
+  "intro": "Explore the top hotels in Naples that boast rooftop restaurants, where stunning views and delectable dishes come together for an unforgettable dining experience.",
+  "hotels": [
+    {
+      "id": "lp1c44d",
+      "name": "Hotel Royal Continental",
+      "image": "https://static.cupid.travel/hotels/161849540.jpg",
+      "description": "The Royal Continental offers a stunning seasonal rooftop pool with panoramic views of the Bay of Naples and Castel dell'Ovo, making it the perfect spot to relax and enjoy the Mediterranean beauty. Guests can unwind in modern, air-conditioned rooms, many featuring private balconies that showcase mesmerizing sea vistas. With convenient amenities like a delicious Italian breakfast, a restaurant serving local and international cuisine, free Wi-Fi, and a well-equipped gym, this hotel ensures a memorable stay in Naples.",
+      "highlight": "Features a seasonal rooftop restaurant with panoramic views of the Bay of Naples and a saltwater pool.",
+      "price": "$263/night",
+      "location": "Via Partenope 38-44",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp59130",
+      "name": "La Ciliegina Lifestyle Hotel",
+      "image": "https://static.cupid.travel/hotels/42388890.jpg",
+      "description": "Experience the ultimate Naples getaway at La Ciliegina Lifestyle Hotel, where a stunning rooftop terrace with a hot tub offers breathtaking views of the city and Mount Vesuvius. Indulge in modern, luxurious rooms featuring hydromassage showers and handmade local furnishings, all while enjoying a prime location just steps from the Teatro di San Carlo and other cultural landmarks. Book your stay now for an unforgettable blend of luxury and convenience.",
+      "highlight": "Offers a stunning rooftop terrace with a hot tub and breathtaking views of Naples and Mount Vesuvius.",
+      "price": "$290/night",
+      "location": "Via P.E. Imbriani 30",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1bd47",
+      "name": "Renaissance Naples Hotel Mediterraneo",
+      "image": "https://static.cupid.travel/hotels/463622747.jpg",
+      "description": "Experience the breathtaking views of Naples from the stunning rooftop terrace of Renaissance Naples Hotel Mediterraneo, where you can enjoy breakfast or evening drinks against the majestic backdrop of Mount Vesuvius. Our modern guest rooms boast amenities like air conditioning and flat-screen TVs, ensuring a comfortable stay after exploring the vibrant city. Conveniently situated in the heart of the shopping and business district, the hotel features a well-equipped gym, a sun terrace with a hot tub, and an on-site restaurant offering a delightful mix of international and local cuisine.",
+      "highlight": "Boasts a stunning rooftop terrace with breathtaking views of Mount Vesuvius and a restaurant offering international and local cuisine.",
+      "price": "$566/night",
+      "location": "Via Ponte Di Tappia 25",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp594a7",
+      "name": "Grand Hotel Vesuvio",
+      "image": "https://static.cupid.travel/hotels/89812568.jpg",
+      "description": "Experience the grandeur of the Grand Hotel Vesuvio, where luxurious amenities like an indoor pool, wellness area, and stunning views of the Gulf of Naples await. Enjoy elegantly decorated rooms, some with private balconies showcasing breathtaking sea vistas. Delight in a sumptuous buffet breakfast and authentic Italian cuisine at the Caruso Roof Garden Restaurant, all while soaking in the panoramic beauty of the Mediterranean.",
+      "highlight": "Boasts a rooftop restaurant offering authentic Italian cuisine with panoramic views of the Gulf of Naples.",
+      "price": "$701/night",
+      "location": "Via Partenope, 45",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpaf01e",
+      "name": "NeapolitanTrips Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_a21f081e_z.jpg",
+      "description": "Discover the enchanting NeapolitanTrips Hotel, where modern elegance meets the charm of Naples. Enjoy breathtaking views from the rooftop terrace and tranquil garden, perfect for unwinding after a day of exploration. With convenient amenities like complimentary Wi-Fi, 24-hour concierge service, and a delightful continental breakfast, your stay will be both comfortable and memorable.",
+      "highlight": "Boasts a rooftop terrace offering breathtaking views and a tranquil garden for relaxation after a day of exploration.",
+      "price": "$104/night",
+      "location": "Via dei Fiorentini 4",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4472d",
+      "name": "Eurostars Hotel Excelsior",
+      "image": "https://static.cupid.travel/hotels/109537223.jpg",
+      "description": "Experience the elegance of Hotel Excelsior, where luxurious accommodations offer stunning views of the Bay of Naples. Guests can savor a sumptuous continental breakfast at Ristorante La Terrazza and enjoy Mediterranean cuisine at the rooftop restaurant, all while taking in breathtaking panoramas. With a fitness center, on-site bar, and convenient conference facilities, this hotel is ideal for both leisure and business travelers seeking comfort and sophistication in a prime location.",
+      "highlight": "Offers a rooftop restaurant with Mediterranean cuisine and stunning views of the Bay of Naples.",
+      "price": "$253/night",
+      "location": "Via Partenope 48",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for hotels in Naples with rooftop restaurants?",
+      "answer": "Hotels in Naples with rooftop restaurants typically range from €150 to €400 per night, depending on the season and location. Luxury options near the waterfront can be on the higher end, while boutique hotels in the historic center may offer more affordable rates."
+    },
+    {
+      "question": "Are rooftop restaurants in Naples usually open for breakfast, lunch, and dinner?",
+      "answer": "Many rooftop restaurants in Naples offer all three meals, but hours can vary by establishment. It is advisable to check the specific hotel's dining schedule and make reservations, especially for dinner, as seating can fill up quickly due to the stunning views."
+    },
+    {
+      "question": "How can I find the best views from rooftop restaurants at Naples hotels?",
+      "answer": "To ensure you get the best views, look for hotels situated near the coastline or on higher elevations, such as those in the Vomero district. Reading reviews and viewing the hotel's official website can provide insights into the quality of the views from their rooftop dining areas."
+    },
+    {
+      "question": "Do hotels in Naples with rooftop dining have special offers for guests?",
+      "answer": "Many hotels offer packages that include dining credits or complimentary breakfast at their rooftop restaurants. It's a good idea to check the hotel’s website or call directly to inquire about any current promotions or packages that may enhance your stay."
+    },
+    {
+      "question": "What should I know about dress codes for rooftop restaurants in Naples hotels?",
+      "answer": "Dress codes can vary by hotel, but many rooftop restaurants in Naples tend to have a smart casual policy, especially in the evening. It is best to dress accordingly, as upscale venues may require collared shirts for men and elegant attire for women to ensure a pleasant dining experience."
+    }
+  ],
+  "slug": "best-naples-hotels-with-rooftop-restaurants",
+  "generatedAt": "2025-12-19T19:27:54.131Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

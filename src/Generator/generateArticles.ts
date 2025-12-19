@@ -2,9 +2,9 @@
 // Run this from your frontend/client directory
 // Usage: npx tsx generateArticles.ts
 
-import fs from 'fs';
-import path from 'path';
-import { CITIES_BY_WATER, CITIES_NOT_BY_WATER, type City } from './cities.ts';
+import * as fs from 'fs';
+import * as path from 'path';
+import { CITIES_BY_WATER, CITIES_NOT_BY_WATER, type City } from './cities';
 
 const API_BASE_URL = 'http://localhost:3003';
 
@@ -27,12 +27,18 @@ interface Hotel {
   isRefundable?: boolean;
 }
 
+interface FAQ {
+  question: string;
+  answer: string;
+}
+
 interface Article {
   city: string;
   title: string;
   excerpt: string;
   intro?: string;
   hotels: Hotel[];
+  faqs: FAQ[];
 }
 
 interface ErrorResult {
@@ -45,8 +51,8 @@ interface ErrorResult {
 // ============================================================================
 
 // TEST MODE: Set to true to use limited cities and articles for testing
-const TEST_MODE = true;
-
+const TEST_MODE = false;
+const MAX_ARTICLES = 300;
 // Test cities - 15 popular tourist destinations
 const TEST_CITIES: City[] = [
   { name: "Paris", slug: "paris" },
@@ -66,55 +72,187 @@ const TEST_CITIES: City[] = [
   { name: "Singapore", slug: "singapore" },
 ];
 
-// Article templates - 10 different types (will generate all 10 for each city = 150 total)
+// Article templates with city type filtering
 interface ArticleTemplate {
   titleTemplate: string;
   queryTemplate: string;
+  cityType?: 'water' | 'non-water' | 'both';
 }
 
 const ARTICLE_TEMPLATES: ArticleTemplate[] = [
+  // Universal templates (work for any city)
   {
-    titleTemplate: "What are the best dog-friendly hotels in <city>",
-    queryTemplate: "best dog friendly hotels in <city>"
+    titleTemplate: "Best dog-friendly hotels in <city>",
+    queryTemplate: "best dog friendly hotels in <city>",
+    cityType: 'both'
   },
   {
-    titleTemplate: "What are the best pet-friendly hotels in <city>",
-    queryTemplate: "best pet friendly hotels in <city>"
+    titleTemplate: "Best pet-friendly hotels in <city>",
+    queryTemplate: "best pet friendly hotels in <city>",
+    cityType: 'both'
   },
   {
-    titleTemplate: "Amazing hotels for families with kids in <city>",
-    queryTemplate: "hotels for families with kids in <city>"
+    titleTemplate: "Best hotels for families with kids in <city>",
+    queryTemplate: "hotels for families with kids in <city>",
+    cityType: 'both'
   },
   {
     titleTemplate: "Best cheap, safe, and clean hotels in <city>",
-    queryTemplate: "cheap safe clean hotels in <city>"
+    queryTemplate: "cheap safe clean hotels in <city>",
+    cityType: 'both'
   },
   {
-    titleTemplate: "What are the best hotels in <city> under $100 and clean",
-    queryTemplate: "hotels in <city> under 100 dollars and clean"
+    titleTemplate: "Best hotels in <city> under $100",
+    queryTemplate: "hotels in <city> under 100 dollars and clean",
+    cityType: 'both'
   },
   {
-    titleTemplate: "Rooftop Bars: What are the best hotels in <city> with rooftop bars",
-    queryTemplate: "hotels in <city> with rooftop bars"
+    titleTemplate: "Best <city> hotels with rooftop bars",
+    queryTemplate: "hotels in <city> with rooftop bars",
+    cityType: 'both'
   },
   {
-    titleTemplate: "Best boutique hotels in <city>: Amazing and affordable",
-    queryTemplate: "boutique hotels in <city> affordable and stylish"
+    titleTemplate: "Best boutique hotels in <city>",
+    queryTemplate: "boutique hotels in <city> affordable and stylish",
+    cityType: 'both'
   },
   {
-    titleTemplate: "What are the affordable, clean hotels in <city> with breakfast included",
-    queryTemplate: "affordable clean hotels in <city> with breakfast included"
+    titleTemplate: "Best <city> hotels with breakfast included",
+    queryTemplate: "affordable clean hotels in <city> with breakfast included",
+    cityType: 'both'
   },
   {
-    titleTemplate: "Best hotels in <city> for women travelers: Safe, clean, and great amenities",
-    queryTemplate: "best hotels in <city> for women travelers"
+    titleTemplate: "Best hotels in <city> for women travelers",
+    queryTemplate: "best hotels in <city> for women travelers",
+    cityType: 'both'
   },
   {
-    titleTemplate: "Best hotels in <city> for weddings: Luxurious but affordable",
-    queryTemplate: "best hotels in <city> for weddings luxury and affordable"
+    titleTemplate: "Best hotels in <city> for weddings",
+    queryTemplate: "best hotels in <city> for weddings luxury and affordable",
+    cityType: 'both'
+  },
+  
+  // Water city only templates
+  {
+    titleTemplate: "Best waterfront hotels in <city>",
+    queryTemplate: "waterfront hotels in <city> ocean view beachfront hotels",
+    cityType: 'water'
+  },
+  {
+    titleTemplate: "Best <city> hotels with beach access",
+    queryTemplate: "hotels in <city> with beach access oceanfront beachfront",
+    cityType: 'water'
+  },
+  {
+    titleTemplate: "Best <city> harbor view hotels",
+    queryTemplate: "hotels in <city> with harbor view marina waterfront",
+    cityType: 'water'
+  },
+  {
+    titleTemplate: "Best beachfront hotels in <city>",
+    queryTemplate: "beachfront hotels in <city> on the beach ocean view",
+    cityType: 'water'
+  },
+  
+  // Non-water city templates
+  {
+    titleTemplate: "Best <city> hotels with mountain views",
+    queryTemplate: "hotels in <city> with mountain views scenic views nature",
+    cityType: 'non-water'
+  },
+  
+  // More universal templates
+  {
+    titleTemplate: "Best <city> hotels with rooftop pools",
+    queryTemplate: "hotels in <city> with rooftop pool infinity pool",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best luxury boutique hotels in <city>",
+    queryTemplate: "luxury boutique hotels in <city> upscale small hotels",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best downtown <city> hotels with free breakfast",
+    queryTemplate: "downtown <city> hotels with breakfast included city center",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with rooftop restaurants",
+    queryTemplate: "hotels in <city> with rooftop restaurant dining views",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with infinity pools",
+    queryTemplate: "hotels in <city> with infinity pool rooftop pool views",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with spa and wellness centers",
+    queryTemplate: "hotels in <city> with spa wellness center massage services",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best historic boutique hotels in <city>",
+    queryTemplate: "historic boutique hotels in <city> heritage hotels character",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels near convention center",
+    queryTemplate: "hotels near <city> convention center walking distance business",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with 24/7 room service",
+    queryTemplate: "hotels in <city> with 24 hour room service late night dining",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with in-room jacuzzis",
+    queryTemplate: "hotels in <city> with jacuzzi in room hot tub suite",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> airport hotels with free shuttle under $150",
+    queryTemplate: "cheap hotels near <city> airport with free shuttle service",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with connecting rooms",
+    queryTemplate: "hotels in <city> with connecting rooms family suites",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best quiet hotels in <city> for light sleepers",
+    queryTemplate: "quiet peaceful hotels in <city> soundproof rooms away from noise",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with kitchenettes",
+    queryTemplate: "hotels in <city> with kitchenette kitchen extended stay",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels for solo female travelers",
+    queryTemplate: "safe hotels in <city> for solo female travelers women only",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with EV charging stations",
+    queryTemplate: "hotels in <city> with electric vehicle charging tesla charging",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with private balconies",
+    queryTemplate: "hotels in <city> with private balcony terrace city view",
+    cityType: 'both'
+  },
+  {
+    titleTemplate: "Best <city> hotels with coworking spaces",
+    queryTemplate: "hotels in <city> with coworking space business center digital nomad",
+    cityType: 'both'
   }
 ];
-
 
 // Which cities to generate articles for when NOT in test mode:
 // Options: 'water', 'non-water', 'both'
@@ -164,14 +302,43 @@ function fillTemplate(template: string, cityName: string): string {
   return template.replace(/<city>/g, cityName);
 }
 
-// Convert cities to ArticleQuery format
+// Convert cities to ArticleQuery format with city-type filtering
 function createArticleQueries(): ArticleQuery[] {
-  const cities = getCitiesToProcess();
   const queries: ArticleQuery[] = [];
   
-  // For each city, create an article for each template
-  for (const city of cities) {
-    for (const template of ARTICLE_TEMPLATES) {
+  // Get all cities to process
+  const allCities = getCitiesToProcess();
+  
+  // Categorize cities by water/non-water
+  const waterCities = allCities.filter(city => 
+    CITIES_BY_WATER.some(wc => wc.slug === city.slug)
+  );
+  
+  const nonWaterCities = allCities.filter(city => 
+    CITIES_NOT_BY_WATER.some(nwc => nwc.slug === city.slug)
+  );
+  
+  console.log(`\n📊 City Distribution:`);
+  console.log(`   Water cities: ${waterCities.length}`);
+  console.log(`   Non-water cities: ${nonWaterCities.length}`);
+  console.log(`   Total cities: ${allCities.length}\n`);
+  
+  // Process each template
+  for (const template of ARTICLE_TEMPLATES) {
+    let citiesToUse: City[] = [];
+    
+    // Determine which cities to use based on template type
+    if (template.cityType === 'water') {
+      citiesToUse = waterCities;
+    } else if (template.cityType === 'non-water') {
+      citiesToUse = nonWaterCities;
+    } else {
+      // 'both' or undefined = use all cities
+      citiesToUse = allCities;
+    }
+    
+    // Create queries for appropriate cities
+    for (const city of citiesToUse) {
       queries.push({
         city: city.slug,
         query: fillTemplate(template.queryTemplate, city.name),
@@ -229,6 +396,10 @@ async function generateAndPushArticle(
     const validIds = article.hotels.length - missingIds;
     console.log(`🔍 Hotel IDs: ${validIds} valid, ${missingIds} missing`);
 
+    // Step 2.5: Validate FAQs
+    const faqCount = article.faqs?.length || 0;
+    console.log(`❓ FAQs: ${faqCount} generated`);
+
     // Step 3: Save article locally
     console.log(`💾 Saving article locally...`);
     const slug = createSlug(article.title);
@@ -246,6 +417,7 @@ async function generateAndPushArticle(
       generatedAt: new Date().toISOString(),
       hotelCount: article.hotels.length,
       hotelsWithIds: article.hotels.filter((h: Hotel) => h.id).length,
+      faqCount: faqCount,
     };
 
     fs.writeFileSync(filepath, JSON.stringify(articleWithMetadata, null, 2), 'utf8');
@@ -261,14 +433,21 @@ async function generateAndPushArticle(
 }
 
 async function generateArticles() {
-  const ARTICLE_QUERIES = createArticleQueries();
+  let ARTICLE_QUERIES = createArticleQueries();
+  if (MAX_ARTICLES && ARTICLE_QUERIES.length > MAX_ARTICLES) {
+    console.log(`⚠️  Limiting generation from ${ARTICLE_QUERIES.length} to ${MAX_ARTICLES} articles`);
+    ARTICLE_QUERIES = ARTICLE_QUERIES.slice(0, MAX_ARTICLES);
+  }
+  
+  console.log(`\n${'='.repeat(80)}`);
+  console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} articles`);
   
   console.log(`\n${'='.repeat(80)}`);
   console.log(`🚀 Starting article generation for ${ARTICLE_QUERIES.length} articles`);
   if (TEST_MODE) {
-    console.log(`   🧪 TEST MODE: Using ${TEST_CITIES.length} cities × ${ARTICLE_TEMPLATES.length} article types`);
+    console.log(`   🧪 TEST MODE: Using ${TEST_CITIES.length} test cities`);
   }
-  console.log(`   Each article will be saved locally after generation`);
+  console.log(`   Each article will include hotels + FAQs and be saved locally`);
   console.log(`${'='.repeat(80)}\n`);
 
   const results: Article[] = [];
@@ -319,9 +498,11 @@ async function generateArticles() {
 
   // Validate hotel IDs across all articles
   let totalMissingIds = 0;
+  let totalFAQs = 0;
   results.forEach((article: Article) => {
     const missing = article.hotels.filter(h => !h.id).length;
     totalMissingIds += missing;
+    totalFAQs += article.faqs?.length || 0;
   });
 
   if (totalMissingIds > 0) {
@@ -329,6 +510,8 @@ async function generateArticles() {
   } else {
     console.log(`\n✅ All hotels have valid IDs`);
   }
+
+  console.log(`✅ Total FAQs generated: ${totalFAQs} (avg ${(totalFAQs / results.length).toFixed(1)} per article)`);
 
   // Save summary file
   const summaryPath = path.join(process.cwd(), 'generation-summary.json');
@@ -338,11 +521,14 @@ async function generateArticles() {
     totalGenerated: results.length,
     totalFailed: errors.length,
     durationMinutes: parseFloat(duration),
+    totalFAQs: totalFAQs,
+    avgFAQsPerArticle: parseFloat((totalFAQs / results.length).toFixed(1)),
     successfulArticles: results.map(a => ({
       city: a.city,
       title: a.title,
       slug: createSlug(a.title),
-      hotelCount: a.hotels.length
+      hotelCount: a.hotels.length,
+      faqCount: a.faqs?.length || 0
     })),
     failedArticles: errors.map(e => ({
       city: e.query.city,
@@ -355,7 +541,7 @@ async function generateArticles() {
   console.log(`\n📊 Summary saved to: ${summaryPath}`);
 
   console.log(`\n${'='.repeat(80)}`);
-  console.log(`✅ All done! ${results.length} articles pushed to website.`);
+  console.log(`✅ All done! ${results.length} articles generated with hotels + FAQs.`);
   console.log(`${'='.repeat(80)}\n`);
 }
 

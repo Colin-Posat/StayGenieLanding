@@ -1,0 +1,102 @@
+{
+  "city": "honfleur",
+  "query": "hotels in Honfleur with connecting rooms family suites",
+  "title": "Best Honfleur hotels with connecting rooms",
+  "excerpt": "Finding hotels with connecting rooms can feel like a daunting task, especially in a charming town like Honfleur where families seek both comfort and convenience. This curated list of hotels not only simplifies your search but also ensures that you can enjoy quality time together while having the privacy of separate spaces. With these accommodations, family trips become much more enjoyable and stress-free.",
+  "intro": "Discover the best hotels in Honfleur that offer connecting rooms, perfect for families seeking both comfort and convenience.",
+  "hotels": [
+    {
+      "id": "lpb0c93",
+      "name": "La Maison de Pierre et Valérie Ste Catherine Honfleur",
+      "image": "https://snaphotelapi.com/hotels/184414865.jpg",
+      "description": "Experience a sustainable getaway at La Maison de Pierre et Valérie Ste Catherine in Honfleur, where breathtaking city views and eco-friendly accommodations await you. This charming two-bedroom holiday home features modern amenities, including a fully equipped kitchen and soundproofing for ultimate privacy. Enjoy outdoor adventures like cycling and hiking while being just moments away from local attractions such as the Old Harbour and the Norman Museum of Ethnography.",
+      "highlight": "Offers two-bedroom accommodations with soundproofing and a fully equipped kitchen, ideal for families seeking privacy.",
+      "price": "$344/night",
+      "location": "8, place du Puits",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65690cf0",
+      "name": "La Maison de Pierre et Valérie St Leonard Honfleur",
+      "image": "https://static.cupid.travel/hotels/433658095.jpg",
+      "description": "La Maison de Pierre et Valérie St Leonard Honfleur offers a sustainable getaway near Butin Beach, featuring a sun terrace and 24-hour front desk service. This spacious holiday home boasts a fully equipped kitchen, a cozy living room, and entertainment options including a flat-screen TV and Blu-ray player. Guests can enjoy outdoor activities like cycling and hiking, and explore nearby attractions such as the Norman Museum and Honfleur's Old Harbour for a memorable experience.",
+      "highlight": "Offers connecting rooms, soundproof accommodations, and a fully equipped kitchen for a comfortable and enjoyable stay.",
+      "price": "$512/night",
+      "location": "7 Rue Notre Dame",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp656a5c6c",
+      "name": "La parenthèse",
+      "image": "https://snaphotelapi.com/hotels/309403487.jpg",
+      "description": "La parenthèse in Honfleur is a charming sustainable beachfront property that combines eco-friendly living with modern comfort. The spacious holiday home features three bedrooms, a cozy living room with a flat-screen TV, and a terrace overlooking the garden, perfect for relaxation. Guests can enjoy outdoor activities like hiking, as well as amenities such as free parking, WiFi, and barbecue facilities, ensuring a memorable stay in this tranquil location.",
+      "highlight": "Offers spacious family rooms with connecting options, a cozy living room, and a garden terrace for relaxation.",
+      "price": "$303/night",
+      "location": "14 Chemin du Petit Galvani",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp65686cfb",
+      "name": "La Maison Blanche du 10Honfleur",
+      "image": "https://snaphotelapi.com/hotels/508320323.jpg",
+      "description": "Experience the charm of La Maison Blanche du 10Honfleur, a historic property that combines cozy elegance with luxurious amenities, including a living room with a fireplace and a garden view terrace. Conveniently located just 600 meters from Honfleur's Old Harbour, guests can easily explore Butin Beach and La Forge Museum. Enjoy a complimentary continental breakfast and relax in one of the two beautifully appointed bedrooms for a truly memorable stay.",
+      "highlight": "Offers connecting rooms, a garden terrace, and cozy living spaces with a fireplace for a comfortable stay.",
+      "price": "$396/night",
+      "location": "34 Rue Bucaille",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655b8fbe",
+      "name": "La Maison De Lucie",
+      "image": "https://static.cupid.travel/hotels/302542571.jpg",
+      "description": "Discover the charm of La Maison de Lucie, an 18th-century hotel in the heart of Honfleur, featuring 10 cozy rooms and 2 elegant suites with delightful views of the town or estuary. Unwind in the serene oriental-style hot tub, perfect for relaxation, and enjoy the convenience of being steps away from the vibrant Vieux Bassin district while still savoring a peaceful retreat. Book your stay now to experience a perfect blend of historic elegance and modern comfort.",
+      "highlight": "La Maison de Lucie offers family rooms and a serene Japanese garden, along with an oriental-style hot tub for relaxation.",
+      "price": "$306/night",
+      "location": "44 Rue Des Capucins",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpce56d",
+      "name": "La Maison d’Eugène Appart’Hôtel - Centre historique",
+      "image": "https://static.cupid.travel/hotels/ex_6371dc86_z.jpg",
+      "description": "Experience breathtaking views from the terrace and garden at La Maison d’Eugène Appart’Hôtel, where you can start your day surrounded by beauty. This charming aparthotel offers cozy guestrooms with kitchenettes, ensuring a homely feel, while convenient amenities like complimentary Wi-Fi and tour assistance enhance your stay. Immerse yourself in the historic allure of Honfleur and book your escape today.",
+      "highlight": "Offers cozy guestrooms with kitchenettes and features connecting rooms for families or groups seeking a home-like atmosphere.",
+      "price": "$255/night",
+      "location": "51 Rue Haute",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average rates for family suites with connecting rooms in Honfleur?",
+      "answer": "Rates for family suites with connecting rooms in Honfleur typically range from €150 to €300 per night, depending on the season. Summer months and weekends tend to be more expensive due to higher demand, so booking in advance can secure better rates."
+    },
+    {
+      "question": "Which Honfleur hotels with connecting rooms are closest to the harbor?",
+      "answer": "Hotels like La Ferme Saint Simeon and Hôtel Les Maisons de Léa are within a short walking distance to the harbor. Staying at these locations not only offers convenient access to local attractions but also beautiful views of the scenic port."
+    },
+    {
+      "question": "Do hotels in Honfleur with connecting rooms offer any family-friendly amenities?",
+      "answer": "Many hotels in Honfleur cater to families by providing amenities such as cribs, high chairs, and children's menus. It's best to check with the hotel before booking to ensure they can accommodate specific family needs."
+    },
+    {
+      "question": "Is it possible to request a specific room configuration when booking a family suite in Honfleur?",
+      "answer": "Yes, most hotels in Honfleur allow you to specify your preference for room configurations when making a reservation. However, it is recommended to contact the hotel directly after booking to confirm your request, as room availability can vary."
+    },
+    {
+      "question": "Are there any local attractions suitable for families near hotels with connecting rooms in Honfleur?",
+      "answer": "Yes, attractions like the Honfleur Aquarium and the Naturospace butterfly house are great for families and located near hotels with connecting rooms. Additionally, the picturesque streets of Honfleur are ideal for family strolls, offering charming shops and cafes along the way."
+    }
+  ],
+  "slug": "best-honfleur-hotels-with-connecting-rooms",
+  "generatedAt": "2025-12-19T19:28:42.267Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

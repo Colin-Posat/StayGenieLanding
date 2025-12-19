@@ -1,0 +1,102 @@
+{
+  "city": "des-moines",
+  "query": "best pet friendly hotels in Des Moines",
+  "title": "Best pet-friendly hotels in Des Moines",
+  "excerpt": "Finding pet-friendly hotels can be a daunting task, especially when traveling to a new city like Des Moines. This curated list highlights the best options that not only welcome your furry friends but also provide comfort and convenience for both pets and their owners. By choosing one of these hotels, you can enjoy your trip without the stress of leaving your beloved pet behind.",
+  "intro": "Discover the top pet-friendly hotels in Des Moines that ensure a perfect stay for you and your four-legged companions.",
+  "hotels": [
+    {
+      "id": "lp8b105",
+      "name": "Staybridge Suites Des Moines Downtown by IHG",
+      "image": "https://static.cupid.travel/hotels/247995325.jpg",
+      "description": "Experience the comfort of Staybridge Suites Des Moines Downtown, where spacious suites come with fully equipped kitchens, flat-screen TVs, and cozy sofa beds. Enjoy top-notch amenities including a heated indoor pool, complimentary breakfast, and a fitness center, all designed for your convenience. Located near key attractions like Hy-Vee Hall and the Iowa State Capitol, this hotel is the perfect base for exploring the vibrant city of Des Moines.",
+      "highlight": "Offers pet-friendly accommodations with spacious suites, fully equipped kitchens, and a heated indoor pool for added relaxation.",
+      "price": "$146/night",
+      "location": "201 E. Locust Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b941",
+      "name": "Holiday Inn Des Moines-Airport Conf Center by IHG",
+      "image": "https://static.cupid.travel/hotels/508123440.jpg",
+      "description": "Experience a blend of comfort and convenience at the Holiday Inn Des Moines-Airport Conference Center, featuring spacious rooms with modern amenities and an inviting on-site restaurant, The Grill. Enjoy complimentary shuttle service to Des Moines International Airport and explore nearby attractions like Blank Park Zoo and Southridge Shopping Mall. Relax in the indoor pool, unwind in the Jacuzzi, or stay fit at the gym while enjoying complimentary breakfast and business center access for a truly memorable stay.",
+      "highlight": "Offers pet-friendly accommodations with spacious rooms, an indoor pool, and complimentary breakfast for a comfortable stay.",
+      "price": "$179/night",
+      "location": "6111 Fleur Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b175",
+      "name": "Comfort Inn & Suites Event Center",
+      "image": "https://static.cupid.travel/hotels/169842677.jpg",
+      "description": "Experience a convenient stay at Comfort Inn & Suites Event Center, ideally located across from Wells Fargo Arena and other major attractions. Enjoy comfortable accommodations featuring satellite TVs, microwaves, and refrigerators in every room, along with complimentary breakfast and free parking. Guests can also take advantage of the fitness center and stunning views of the State Capitol and Des Moines River Valley.",
+      "highlight": "Offers pet-friendly accommodations with microwaves, refrigerators, and a heated pool near major attractions in Des Moines.",
+      "price": "$161/night",
+      "location": "929 3rd St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp88f9f",
+      "name": "Holiday Inn Express and Suites Des Moines Downtown by IHG",
+      "image": "https://static.cupid.travel/hotels/243877753.jpg",
+      "description": "Experience ultimate relaxation at the Holiday Inn Express and Suites Des Moines Downtown, featuring a luxurious spa and wellness center ideal for unwinding after city adventures. Enjoy modern comfort in well-equipped rooms with flat-screen TVs and cozy bedding, along with convenient amenities such as free WiFi and a 24-hour front desk. With an indoor pool, hot tub, fitness center, and a business center, this hotel caters to both leisure and business travelers, making it a perfect choice for your stay.",
+      "highlight": "Provides pet-friendly accommodations alongside a luxurious spa, indoor pool, and modern amenities for a relaxing stay.",
+      "price": "$178/night",
+      "location": "333 SW 11th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6b616",
+      "name": "Residence Inn by Marriott Des Moines Downtown",
+      "image": "https://static.cupid.travel/hotels/439502301.jpg",
+      "description": "Experience the comfort of home at the Residence Inn by Marriott Des Moines Downtown, where each luxurious suite features a full kitchen and a cozy dining area. Enjoy relaxation in the indoor pool and hot tub, or stay active at the fitness center, with outdoor BBQ facilities perfect for socializing. Conveniently located along the Des Moines River, the hotel offers free Wi-Fi, daily hot breakfast, and easy access to local attractions, ensuring a delightful and convenient stay.",
+      "highlight": "Offers pet-friendly accommodations with spacious suites, a heated indoor pool, and outdoor BBQ facilities.",
+      "price": "$159/night",
+      "location": "100 SW Water Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1e69e",
+      "name": "Embassy Suites Des Moines Downtown",
+      "image": "https://static.cupid.travel/hotels/484347728.jpg",
+      "description": "Discover breathtaking views of the Des Moines River at Embassy Suites Des Moines Downtown, located in the vibrant city center. This all-suite hotel offers easy access to popular attractions like the Iowa State Capitol and Wells Fargo Arena. Enjoy exceptional amenities, including a complimentary cooked-to-order breakfast and a modern fitness center, ensuring a comfortable and convenient stay.",
+      "highlight": "Embassy Suites Des Moines Downtown offers pet-friendly accommodations, a saltwater pool, and a complimentary cooked-to-order breakfast.",
+      "price": "$161/night",
+      "location": "101 E Locust St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the pet policies at the Kimpton Hotel Monaco in Des Moines?",
+      "answer": "The Kimpton Hotel Monaco welcomes pets of all sizes without any additional fees. They provide pet beds and bowls upon request, making it a great option for travelers with furry companions. It is advisable to notify the hotel in advance about your pet to ensure a smooth check-in process."
+    },
+    {
+      "question": "Are there any pet-friendly amenities available at the Marriott Des Moines Downtown?",
+      "answer": "Yes, the Marriott Des Moines Downtown offers pet-friendly amenities, including dog walking services and nearby parks for your pet to enjoy. There is a one-time non-refundable pet fee of $75, and pets are allowed in designated rooms, so booking early is recommended to secure one of these rooms."
+    },
+    {
+      "question": "What are some nearby attractions for pet owners when staying at the Residence Inn by Marriott Des Moines?",
+      "answer": "The Residence Inn by Marriott Des Moines is located near Gray's Lake Park, which features walking trails and open spaces perfect for pet owners. Additionally, the hotel is just a short drive from downtown Des Moines, where you can find pet-friendly cafes and shops throughout the area."
+    },
+    {
+      "question": "What is the average pet fee at the DoubleTree by Hilton Hotel Des Moines Airport?",
+      "answer": "The DoubleTree by Hilton Hotel Des Moines Airport charges a pet fee of $50 per stay, which allows for up to two pets per room. It is wise to check their specific pet policy when booking, as the number of pet-friendly rooms is limited."
+    },
+    {
+      "question": "Can I find any local pet services near the dog-friendly hotels in Des Moines?",
+      "answer": "Yes, there are several local pet services near dog-friendly hotels in Des Moines. For grooming and pet supplies, you can visit PetSmart or Woof Gang Bakery. Additionally, local veterinary clinics offer services if you need any assistance during your stay, so having the contact information handy can be beneficial."
+    }
+  ],
+  "slug": "best-pet-friendly-hotels-in-des-moines",
+  "generatedAt": "2025-12-19T19:32:07.115Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

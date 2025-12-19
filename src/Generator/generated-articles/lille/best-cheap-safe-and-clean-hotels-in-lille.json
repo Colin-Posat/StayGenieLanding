@@ -1,0 +1,102 @@
+{
+  "city": "lille",
+  "query": "cheap safe clean hotels in Lille",
+  "title": "Best cheap, safe, and clean hotels in Lille",
+  "excerpt": "Finding affordable, safe, and clean hotels in Lille can be a daunting task, especially with the myriad of options available. This carefully curated list aims to simplify the search, ensuring travelers can enjoy their stay without worrying about their accommodations. By focusing on quality and value, these selections provide peace of mind for budget-conscious visitors.",
+  "intro": "Discover the top budget-friendly hotels in Lille that prioritize safety and cleanliness, making your travel experience enjoyable and worry-free.",
+  "hotels": [
+    {
+      "id": "lp8d680",
+      "name": "Ibis Budget Lille Gares Vieux-Lille",
+      "image": "https://static.cupid.travel/hotels/ex_b8ecb249_z.jpg",
+      "description": "Experience comfort and convenience at Ibis Budget Lille Gares Vieux-Lille, where you can enjoy complimentary Wi-Fi and a daily buffet breakfast. This hotel features 102 well-appointed rooms with flat-screen TVs and modern amenities, along with a 24-hour front desk and self-parking options. Nestled in the charming Old Lille area, it's the perfect base for your stay.",
+      "highlight": "Offers 102 well-appointed rooms with flat-screen TVs, complimentary Wi-Fi, and a daily buffet breakfast in Old Lille.",
+      "price": "$78/night",
+      "location": "10 Rue de Courtrai",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6554b3b5",
+      "name": "B&B HOTEL Lille Centre Grand Palais",
+      "image": "https://static.cupid.travel/hotels/224256338.jpg",
+      "description": "Discover the perfect retreat at B&B Lille Centre Grand Palais, just a five-minute stroll from Lille Grand Palais Metro station for effortless transportation. Unwind in soundproofed rooms featuring free unlimited Wi-Fi, private bathrooms, and flat-screen TVs with satellite channels. Energize your mornings with a delicious breakfast buffet, setting the stage for your adventures in Lille.",
+      "highlight": "Boasts soundproof rooms, secure parking, and family accommodations, along with free Wi-Fi and a breakfast buffet.",
+      "price": "$79/night",
+      "location": "169 rue Berthe Morisot",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3cf9a",
+      "name": "Campanile Lille Ouest - Lomme",
+      "image": "https://static.cupid.travel/hotels/ex_dd668bb9_z.jpg",
+      "description": "Experience a peaceful getaway at Campanile Lille Ouest - Lomme, where comfort and convenience blend seamlessly in the vibrant heart of Lille. Enjoy stunning views from the terrace and garden, indulge in delicious cuisine at Le Restaurant, or relax with a drink at the bar. With complimentary Wi-Fi, an arcade/game room, and flexible conference spaces, this hotel caters to both leisure and business travelers alike.",
+      "highlight": "Offers stunning terrace views, a garden, complimentary Wi-Fi, and a vegetarian menu in a convenient location.",
+      "price": "$75/night",
+      "location": "20 Rue du Chateau d'Isenghein",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp4f0d7",
+      "name": "Residhotel Lille Vauban",
+      "image": "https://static.cupid.travel/hotels/102193324.jpg",
+      "description": "Residhotel Lille Vauban features modern studios and apartments equipped with kitchenettes and Nespresso machines, ensuring a comfortable and convenient stay. Nestled in the charming Vauban district, it is just a short stroll from Lille Old Town and key attractions, making it perfect for city exploration. Guests can enjoy complimentary Wi-Fi and an optional breakfast buffet to fuel their adventures in Lille.",
+      "highlight": "Residhotel Lille Vauban offers modern studios with kitchenettes, complimentary Wi-Fi, and easy access to Lille Old Town attractions.",
+      "price": "$86/night",
+      "location": "69-71 Boulevard Vauban",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpad977",
+      "name": "Eklo Hotels Lille",
+      "image": "https://static.cupid.travel/hotels/ex_5526e766_z.jpg",
+      "description": "Experience the perfect blend of leisure and comfort at Eklo Hotels Lille. Guests can unwind in the beautiful scenic terrace and garden while enjoying a variety of entertainment options. Delight in exceptional dining experiences that make your stay truly memorable.",
+      "highlight": "Eklo Hotels Lille offers clean accommodations with a shared fridge, safe microwave, and recreational arcade for guest enjoyment.",
+      "price": "$81/night",
+      "location": "6 Rue Professeur Langevin",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp7673d",
+      "name": "Hôtel Saint Maurice",
+      "image": "https://static.cupid.travel/hotels/320767074.jpg",
+      "description": "Hôtel Saint Maurice is ideally located in the heart of Lille, offering a peaceful escape just steps from the stunning Saint Maurice Gothic church and vibrant old town. Guests can enjoy modern comfort in one of the 38 stylish rooms, featuring flat-screen TVs and complimentary WiFi, with accessible options and a lift for ease of access. Explore nearby attractions like Lille Grand Place and Lille Grand Palais, all while benefiting from convenient public parking options.",
+      "highlight": "Offers 38 stylish rooms with flat-screen TVs, complimentary WiFi, secure parking, and a coffee shop in central Lille.",
+      "price": "$88/night",
+      "location": "8 parvis Saint Maurice",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average prices for budget hotels in Lille?",
+      "answer": "Budget hotels in Lille typically range from €50 to €100 per night, depending on the season and location. Booking in advance can help secure lower rates, especially during peak travel months like May and September."
+    },
+    {
+      "question": "Are there any safe neighborhoods to consider for budget accommodations in Lille?",
+      "answer": "The neighborhoods of Wazemmes and Moulins are popular for budget travelers and are generally safe. Both areas offer a mix of local charm, markets, and easy access to public transportation, making them great options for exploring the city."
+    },
+    {
+      "question": "What amenities can I expect at budget hotels in Lille?",
+      "answer": "Most budget hotels in Lille offer basic amenities such as free Wi-Fi, breakfast options, and air conditioning. Some may also provide complimentary toiletries and 24-hour front desk service, which is helpful for late arrivals."
+    },
+    {
+      "question": "How can I find the best deals on clean and affordable hotels in Lille?",
+      "answer": "To find the best deals on hotels in Lille, consider using comparison websites like Booking.com or Trivago. Additionally, look for discounts or special offers directly on hotel websites, and consider booking during weekday stays, as rates are often lower than weekend prices."
+    },
+    {
+      "question": "What public transportation options are available near budget hotels in Lille?",
+      "answer": "Lille has an efficient public transport system that includes buses, trams, and the metro. Many budget hotels are located near metro stations, such as Gare Lille Flandres, which makes it easy to explore the city's attractions and nearby areas like Roubaix and Villeneuve-d'Ascq."
+    }
+  ],
+  "slug": "best-cheap-safe-and-clean-hotels-in-lille",
+  "generatedAt": "2025-12-19T18:56:53.366Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

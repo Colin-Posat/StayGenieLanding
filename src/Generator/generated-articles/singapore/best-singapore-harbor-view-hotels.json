@@ -1,0 +1,102 @@
+{
+  "city": "singapore",
+  "query": "hotels in Singapore with harbor view marina waterfront",
+  "title": "Best Singapore harbor view hotels",
+  "excerpt": "Finding hotels with stunning harbor views in Singapore can be a daunting task, as many options blend into the bustling cityscape. This list is valuable because it highlights the best accommodations that offer breathtaking waterfront vistas, ensuring your stay is both memorable and picturesque. With the right choice, you can enjoy the vibrant skyline and serene waters right from your room.",
+  "intro": "Discover the top hotels in Singapore that provide breathtaking views of the harbor, perfect for an unforgettable stay.",
+  "hotels": [
+    {
+      "id": "lp6b93d",
+      "name": "The Westin Singapore",
+      "image": "https://static.cupid.travel/hotels/591808912.jpg",
+      "description": "Discover unparalleled luxury at The Westin Singapore, where spacious rooms boast breathtaking views of Marina Bay and the south coast. Dine in style with a variety of culinary offerings, from Asian delicacies at Seasonal Tastes to comforting favorites at Cook & Brew, all while sipping curated drinks with stunning city vistas. Unwind with top-notch wellness amenities including a sauna, fitness center, and a serene outdoor infinity pool on the 35th floor, making your stay truly rejuvenating.",
+      "highlight": "Boasts spacious rooms with stunning Marina Bay views and a rooftop infinity pool on the 35th floor.",
+      "price": "$470/night",
+      "location": "12 Marina View",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp21530",
+      "name": "Conrad Singapore Marina Bay",
+      "image": "https://static.cupid.travel/hotels/483827502.jpg",
+      "description": "Experience the epitome of luxury at Conrad Centennial Singapore, where spacious rooms feature elegant marble bathrooms and upscale amenities for your comfort. Nestled in Marina Bay, this hotel offers breathtaking views and easy access to iconic attractions like the Singapore Flyer. Savor exquisite Cantonese cuisine at Golden Peony, enjoy all-day buffets at Oscar’s, and unwind at the serene Centennial Spa for a truly memorable getaway.",
+      "highlight": "Boasts spacious rooms with elegant marble bathrooms and stunning Marina Bay views, alongside upscale dining and a serene spa.",
+      "price": "$451/night",
+      "location": "Two Temasek Boulevard",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp235eb",
+      "name": "PARKROYAL COLLECTION Marina Bay, Singapore",
+      "image": "https://static.cupid.travel/hotels/252066931.jpg",
+      "description": "Discover luxury at PARKROYAL COLLECTION Marina Bay, Singapore, where stunning views of Marina Bay and the city skyline await from elegantly designed rooms. Indulge in a culinary adventure with halal-certified dining options, including fresh seafood at Peppermint Restaurant and exquisite DimSum at Peach Blossoms. Unwind at the mineral water pool or stay active in the 24-hour fitness center, ensuring a perfect blend of relaxation and wellness during your stay.",
+      "highlight": "Boasts elegantly designed rooms with stunning views of Marina Bay and the city skyline.",
+      "price": "$367/night",
+      "location": "6 Raffles Boulevard Marina Square",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1dac2",
+      "name": "The Ritz-Carlton, Millenia Singapore",
+      "image": "https://static.cupid.travel/hotels/553910414.jpg",
+      "description": "Experience the luxurious ambiance of The Ritz-Carlton, Millenia Singapore, where contemporary decor meets an impressive art collection. Each room and suite offers breathtaking panoramic views of the city's skyline, enhancing your stay with a stunning backdrop. Elevate your experience with exclusive access to the Club Lounge, featuring culinary delights, complimentary limousine transfers, and exceptional concierge service.",
+      "highlight": "Boasts panoramic skyline views and an exclusive Club Lounge with culinary delights and exceptional concierge service.",
+      "price": "$574/night",
+      "location": "7 Raffles Avenue",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19b97",
+      "name": "Fairmont Singapore",
+      "image": "https://static.cupid.travel/hotels/568328837.jpg",
+      "description": "Fairmont Singapore offers luxurious accommodations in the vibrant arts and shopping district, featuring spacious rooms with stunning skyline and Marina Bay views from private balconies. Guests can delight in a culinary journey across 12 diverse dining options, unwind at the stylish Anti:dote bar, or relax at the rejuvenating Willow Stream Spa. With direct access to Raffles City Shopping Centre, two outdoor pools, and top-notch amenities, this hotel perfectly blends comfort and convenience for an unforgettable stay.",
+      "highlight": "Offers spacious rooms with private balconies showcasing stunning Marina Bay views and boasts 12 diverse dining options.",
+      "price": "$434/night",
+      "location": "80 Bras Basah Road",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp23603",
+      "name": "Hilton Singapore Orchard",
+      "image": "https://static.cupid.travel/hotels/498851467.jpg",
+      "description": "Discover unparalleled luxury at Hilton Singapore Orchard, featuring 1,080 elegantly designed rooms infused with botanical elements and modern amenities for a truly sustainable experience. Savor culinary delights at diverse dining venues, including the renowned Shisen Hanten and Osteria Mozza, ensuring a memorable gastronomic adventure. With over 26,000 square feet of flexible event space and cutting-edge technology, your special occasions and business meetings will shine in the heart of Singapore's vibrant shopping and dining scene.",
+      "highlight": "Offers stunning harbor views from elegantly designed rooms and diverse dining venues in the heart of Singapore.",
+      "price": "$322/night",
+      "location": "333 Orchard Road",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for harbor view hotels in Singapore?",
+      "answer": "Harbor view hotels in Singapore typically range from SGD 200 to SGD 600 per night, depending on the season and the hotel's star rating. Luxury options like the Marina Bay Sands can be on the higher end, while boutique hotels may offer more affordable rates during off-peak seasons."
+    },
+    {
+      "question": "Are there any hotels near Marina Bay that offer free shuttle services?",
+      "answer": "Yes, several hotels near Marina Bay, such as the Marina Mandarin and the Fairmont Singapore, provide complimentary shuttle services to key attractions like Gardens by the Bay and Clarke Quay. Always check with the hotel prior to booking to confirm shuttle schedules and availability."
+    },
+    {
+      "question": "What amenities can I expect at hotels with harbor views in Singapore?",
+      "answer": "Hotels with harbor views often feature amenities such as infinity pools, rooftop bars, and spas. For instance, the Fullerton Bay Hotel offers a stunning rooftop pool and fine dining options with a view of the marina, making it a great choice for travelers looking for luxury."
+    },
+    {
+      "question": "What is the best time of year to book a harbor view hotel in Singapore?",
+      "answer": "The best time to book a harbor view hotel in Singapore is during the dry season from December to February, as this is when the weather is more pleasant. However, be aware that this is also peak tourist season, so early booking is advisable to secure the best rates and views."
+    },
+    {
+      "question": "How can I find the best deals on harbor view hotels in Singapore?",
+      "answer": "To find the best deals on harbor view hotels in Singapore, consider using hotel booking websites that offer price comparison features. Additionally, signing up for hotel newsletters can provide exclusive discounts, and booking directly through the hotel's website often yields better rates or added perks like free breakfast or room upgrades."
+    }
+  ],
+  "slug": "best-singapore-harbor-view-hotels",
+  "generatedAt": "2025-12-19T08:58:46.466Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

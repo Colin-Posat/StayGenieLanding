@@ -1,0 +1,47 @@
+{
+  "city": "sitka",
+  "query": "hotels in Sitka with connecting rooms family suites",
+  "title": "Best Sitka hotels with connecting rooms",
+  "excerpt": "Finding hotels with connecting rooms can be a daunting task, especially in a charming destination like Sitka where family-friendly accommodations are often limited. This curated list not only simplifies your search but also ensures your family can enjoy both togetherness and privacy during your stay. With these options, you can focus on making unforgettable memories in this stunning Alaskan town.",
+  "intro": "Explore our top picks for Sitka hotels that offer connecting rooms, perfect for families seeking comfort and convenience.",
+  "hotels": [
+    {
+      "id": "lpa234b",
+      "name": "Aspen Suites Hotel Sitka",
+      "image": "https://static.cupid.travel/hotels/119667653.jpg",
+      "description": "Experience comfort at Aspen Suites Hotel Sitka, where air-conditioned rooms come with modern conveniences like a fridge, microwave, and coffee machine. Enjoy complimentary WiFi, free parking, and family-friendly accommodations, all within a prime location that offers stunning city views and easy access to the airport. Whether you're traveling for business or leisure, this hotel combines luxury and convenience for a memorable stay.",
+      "highlight": "Offers family rooms with modern amenities, including a fridge and microwave, in a convenient location with stunning city views.",
+      "price": "$218/night",
+      "location": "210 Lake St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What hotels in Sitka offer connecting rooms suitable for families?",
+      "answer": "In Sitka, the Sitka Hotel and the Westmark Sitka Hotel are known for having family-friendly accommodations with connecting rooms. These hotels provide ample space for families, allowing for a comfortable stay while ensuring everyone has privacy."
+    },
+    {
+      "question": "Is it more expensive to book connecting rooms in Sitka hotels?",
+      "answer": "Pricing for connecting rooms in Sitka hotels can vary, but generally, they are priced similarly to standard rooms. However, it is advisable to book in advance, especially during peak tourist season, as availability can affect prices and lead to higher rates."
+    },
+    {
+      "question": "What amenities can families expect in hotels with connecting rooms in Sitka?",
+      "answer": "Hotels like the Westmark Sitka offer amenities such as complimentary breakfast, free Wi-Fi, and access to local attractions. Additionally, some may provide in-room microwaves and mini-fridges, making it easier for families to manage meals during their stay."
+    },
+    {
+      "question": "Are there any special booking tips for finding connecting rooms in Sitka?",
+      "answer": "To secure connecting rooms in Sitka, it is recommended to call the hotel directly after making an online reservation to confirm your request. Additionally, consider traveling during the shoulder season (late spring or early fall) to increase your chances of finding available rooms and potentially lower rates."
+    },
+    {
+      "question": "How can families choose the best location for their hotel in Sitka?",
+      "answer": "Families should look for hotels located near downtown Sitka to have easy access to restaurants, shops, and attractions like the Sitka National Historical Park. Being close to the waterfront can also enhance your experience with opportunities for whale watching and other outdoor activities."
+    }
+  ],
+  "slug": "best-sitka-hotels-with-connecting-rooms",
+  "generatedAt": "2025-12-19T19:00:50.918Z",
+  "hotelCount": 1,
+  "hotelsWithIds": 1,
+  "faqCount": 5
+}

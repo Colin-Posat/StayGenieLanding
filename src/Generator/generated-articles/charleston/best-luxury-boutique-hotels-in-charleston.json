@@ -1,0 +1,102 @@
+{
+  "city": "charleston",
+  "query": "luxury boutique hotels in Charleston upscale small hotels",
+  "title": "Best luxury boutique hotels in Charleston",
+  "excerpt": "Finding the perfect luxury boutique hotel in Charleston can be a daunting task, as the city is filled with a myriad of options that often blend together. This curated list highlights unique properties that not only offer upscale amenities but also embody the charm and character of Charleston. By focusing on these select hotels, travelers can ensure a memorable stay that reflects the essence of this historic city.",
+  "intro": "Discover the top luxury boutique hotels in Charleston that promise an unforgettable blend of elegance, comfort, and local charm.",
+  "hotels": [
+    {
+      "id": "lp9d47b",
+      "name": "The Dewberry Charleston",
+      "image": "https://static.cupid.travel/hotels/120754942.jpg",
+      "description": "Discover the elegance of The Dewberry Charleston, a mid-20th century boutique hotel featuring luxurious rooms with floor-to-ceiling windows and Vermont marble accents. Enjoy exceptional amenities including a relaxing spa, fitness center, and an on-site shop for unique treasures, along with versatile event spaces that promise unforgettable gatherings. Ideally situated in the heart of Charleston, you will be just steps away from iconic attractions like the Charleston Museum and the vibrant Farmers Market.",
+      "highlight": "Offers luxurious rooms with floor-to-ceiling windows, a relaxing spa, fitness center, and versatile event spaces in downtown Charleston.",
+      "price": "$1039/night",
+      "location": "334 Meeting Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp52dd7",
+      "name": "The Restoration Hotel",
+      "image": "https://static.cupid.travel/hotels/181602414.jpg",
+      "description": "The Restoration hotel offers an upscale stay with residential suites featuring exposed brick walls, hardwood floors, and modern kitchenettes, some with in-suite laundry for added convenience. Guests can enjoy a delightful continental breakfast at The Rise Coffee Bar, evening wine and cheese receptions, and freshly baked cookies each night, along with dining options at the rooftop bar and grill. Ideally located near the College of Charleston and the City Market, this hotel provides an excellent base for exploring the historic charm of downtown Charleston.",
+      "highlight": "The Restoration Hotel boasts residential suites with exposed brick walls, a rooftop garden, heated pool, and complimentary evening wine receptions.",
+      "price": "$863/night",
+      "location": "75 Wentworth Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp3f7cb",
+      "name": "Andrew Pinckney Inn",
+      "image": "https://static.cupid.travel/hotels/184396948.jpg",
+      "description": "Experience the charm of the historic Andrew Pinckney Inn, a boutique hotel built in 1840, located just 1 km from the College of Charleston. Guests can enjoy complimentary breakfast on the rooftop terrace, luxurious amenities like Gilchrist & Soames toiletries, and elegant bathroom finishes. With 24-hour reception and a knowledgeable concierge, planning your Charleston adventures is effortless, making this hotel a perfect blend of history and modern convenience.",
+      "highlight": "Boasts a rooftop terrace for complimentary breakfast, luxurious Gilchrist & Soames toiletries, and 24-hour concierge service.",
+      "price": "$462/night",
+      "location": "40 Pinckney St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp6574d4f9",
+      "name": "The Vendue, Downtown Art Hotel",
+      "image": "https://static.cupid.travel/hotels/373797819.jpg",
+      "description": "Experience the charm of Charleston at this historic hotel, where art meets hospitality in the French Quarter. Enjoy rotating art exhibits, daily wine receptions, and a culinary journey at Revival restaurant, complemented by drinks at The Rooftop bar. With luxurious amenities, including free bike rentals and nightly treats, you'll appreciate the perfect blend of culture and comfort, all within walking distance of the city's vibrant attractions.",
+      "highlight": "Offers rotating art exhibits, daily wine receptions, and luxurious amenities, all set in the historic French Quarter.",
+      "price": "$486/night",
+      "location": "19 Vendue Range and 26 Vendue Range",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lpc2243",
+      "name": "Hotel Bella Grace",
+      "image": "https://static.cupid.travel/hotels/430875238.jpg",
+      "description": "Hotel Bella Grace is nestled in the heart of Charleston's Historic District, offering luxurious accommodations that blend elegance with modern comforts, such as flat-screen TVs and complimentary WiFi. With major attractions like Marion Square and the Upper King Restaurant District just a short walk away, guests can easily immerse themselves in the vibrant local culture and dining scene. Experience the charm of Charleston and enjoy exceptional service at Hotel Bella Grace, where every stay is unforgettable.",
+      "highlight": "Offers luxurious accommodations with modern comforts, complimentary WiFi, and a prime location in Charleston's Historic District.",
+      "price": "$698/night",
+      "location": "117 Calhoun Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6574d4f9",
+      "name": "The Vendue, Downtown Art Hotel",
+      "image": "https://static.cupid.travel/hotels/373797819.jpg",
+      "description": "Experience a blend of history and artistry at this Charleston hotel, featuring two historic buildings from 1780 and rotating art exhibits. Guests can enjoy complimentary morning pastries, signature cocktails at The Rooftop bar, and a taste of local cuisine at Revival restaurant, along with a daily wine reception showcasing an impressive 200-piece art collection. With luxurious amenities including free bike rentals, evening milk and cookies, and a prime location near popular attractions, this hotel is an ideal choice for a memorable stay.",
+      "highlight": "Features rotating art exhibits, complimentary morning pastries, and a rooftop bar with signature cocktails in a historic setting.",
+      "price": "$486/night",
+      "location": "19 Vendue Range and 26 Vendue Range",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for luxury boutique hotels in Charleston?",
+      "answer": "Luxury boutique hotels in Charleston typically range from $250 to $600 per night, depending on the season and location. During peak tourist months like April and October, prices can escalate, so booking well in advance is advisable to secure better rates."
+    },
+    {
+      "question": "Are there specific neighborhoods in Charleston that are best for boutique hotels?",
+      "answer": "The Historic District and King Street area are particularly popular for boutique hotels, offering a blend of charm and convenience. Staying in these neighborhoods provides easy access to major attractions, dining, and shopping, enhancing your overall experience."
+    },
+    {
+      "question": "Do luxury boutique hotels in Charleston offer any unique amenities?",
+      "answer": "Many luxury boutique hotels in Charleston provide unique amenities, such as complimentary wine and cheese receptions, rooftop pools, and personalized concierge services. Some properties even feature onsite restaurants that showcase local cuisine, enhancing your stay with regional flavors."
+    },
+    {
+      "question": "What is the cancellation policy for luxury boutique hotels in Charleston?",
+      "answer": "Cancellation policies can vary significantly between hotels, but many luxury boutique hotels in Charleston allow free cancellation up to 48 or 72 hours before check-in. Always check the specific hotel's policy when booking, as last-minute cancellations may incur fees."
+    },
+    {
+      "question": "Is it worth it to book directly with the hotel instead of through third-party sites?",
+      "answer": "Booking directly with the hotel can provide advantages such as better rates, complimentary upgrades, or additional perks like late check-out. Many hotels in Charleston offer loyalty programs or special deals that are not available through third-party booking sites, making it worthwhile to check their official websites before making a reservation."
+    }
+  ],
+  "slug": "best-luxury-boutique-hotels-in-charleston",
+  "generatedAt": "2025-12-19T09:11:38.558Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

@@ -1,0 +1,102 @@
+{
+  "city": "louisville",
+  "query": "hotels in Louisville with spa wellness center massage services",
+  "title": "Best Louisville hotels with spa and wellness centers",
+  "excerpt": "Finding the perfect hotel that offers spa and wellness services can be a daunting task, especially in a vibrant city like Louisville. This curated list not only highlights the best options but also ensures that your stay is rejuvenating and relaxing. Whether you are looking for a soothing massage or a calming wellness retreat, these hotels provide the perfect sanctuary for your getaway.",
+  "intro": "Discover the top hotels in Louisville that blend luxurious accommodations with exceptional spa and wellness experiences.",
+  "hotels": [
+    {
+      "id": "lp2dfa5",
+      "name": "Galt House Hotel Trademark Collection by Wyndham",
+      "image": "https://static.cupid.travel/hotels/ex_d3ce3686_z.jpg",
+      "description": "Discover the Galt House Hotel Trademark Collection by Wyndham, where luxury meets comfort in the heart of Louisville. Enjoy soothing spa treatments, indulge in delicious American cuisine at Walker's Exchange, and start your day with a delightful cooked-to-order breakfast. With 130,000 square feet of versatile event space, this hotel is perfect for both business and leisure travelers seeking an unforgettable experience.",
+      "highlight": "Boasts a full-service spa offering soothing treatments and wellness services in the heart of Louisville.",
+      "price": "$180/night",
+      "location": "140 North Fourth Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6576eecb",
+      "name": "Galt House Hotel, A Trademark Collection Hotel",
+      "image": "https://static.cupid.travel/hotels/377606196.jpg",
+      "description": "Experience luxury at the Galt House Hotel, where you can unwind at the XHale Spa-Salon on the 17th floor and savor fine dining at the RIVUE restaurant, among six delightful dining options. Enjoy modern accommodations with breathtaking views, a rooftop gym, and convenient access to local attractions, including a covered walkway to the KFC Yum! Center. With exceptional service and free Wi-Fi, your stay in the heart of Louisville promises to be both memorable and seamless.",
+      "highlight": "Boasts the XHale Spa-Salon on the 17th floor, a rooftop gym, and six dining options for a luxurious experience.",
+      "price": "$226/night",
+      "location": "140 North 4th Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp3b5a6",
+      "name": "21c Museum Hotel Louisville",
+      "image": "https://static.cupid.travel/hotels/62625770.jpg",
+      "description": "Discover a unique blend of art and luxury at the 21c Museum Hotel in downtown Louisville. Enjoy an on-site art museum, a gourmet restaurant, and a rejuvenating spa, all while relaxing in modern guest rooms with top-notch amenities. With a central location near popular cultural attractions, your stay promises both comfort and adventure.",
+      "highlight": "Boasts a rejuvenating spa with massage services and a Hammam, alongside an on-site art gallery.",
+      "price": "$276/night",
+      "location": "700 W Main Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lpbee81",
+      "name": "Omni Louisville Hotel",
+      "image": "https://static.cupid.travel/hotels/221168821.jpg",
+      "description": "Experience luxury at the Omni Louisville Hotel, ideally situated in the vibrant heart of the city, just moments from the Kentucky International Convention Center. Delight your palate with exquisite steakhouse dining and unwind in stylish rooms equipped with modern amenities, including some with inviting seating areas. With friendly staff ready to share local insights, you can easily explore nearby attractions like the Muhammad Ali Center and KFC Yum! Center for an unforgettable stay.",
+      "highlight": "Offers a full-service spa, massage treatments, and a rooftop garden for relaxation and rejuvenation.",
+      "price": "$264/night",
+      "location": "400 S. 2nd Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1b648",
+      "name": "The Seelbach Hilton Louisville",
+      "image": "https://static.cupid.travel/hotels/486018744.jpg",
+      "description": "Experience luxury at The Seelbach Hilton Louisville, located just 400 meters from the Kentucky International Convention Center and close to top attractions like the Muhammad Ali Center. Enjoy modern amenities such as an on-site restaurant and bar, a fitness center, and 24-hour room service, ensuring a comfortable and convenient stay. With private parking and a business center, this hotel caters to both leisure and business travelers alike.",
+      "highlight": "Offers a luxurious spa wellness center, on-site restaurant, and concierge services for a rejuvenating stay.",
+      "price": "$219/night",
+      "location": "500 S 4th St",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp75300",
+      "name": "Hilton Garden Inn Louisville Downtown",
+      "image": "https://static.cupid.travel/hotels/485719380.jpg",
+      "description": "Experience the Hilton Garden Inn Louisville Downtown, where breathtaking rooftop views meet a prime location just moments from the iconic Louisville Palace. Enjoy modern rooms featuring flat-screen TVs, coffee machines, and mini-refrigerators, with select accommodations offering cozy sofa beds for extra comfort. Savor delectable cuisine and cocktails at the rooftop bar and grill, and take advantage of spacious meeting facilities and a fitness center for a well-rounded stay in the heart of the city.",
+      "highlight": "Boasts a spa wellness center, modern fitness facilities, and stunning rooftop views in a prime downtown location.",
+      "price": "$126/night",
+      "location": "350 West Chestnut Street",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for hotels in Louisville with spa and wellness centers?",
+      "answer": "The average price for hotels in Louisville that feature spa and wellness centers typically ranges from $150 to $300 per night. Luxury options may exceed this range, especially during peak seasons or major events, so it's advisable to book in advance for the best rates."
+    },
+    {
+      "question": "Are there specific spa treatments unique to Louisville hotels that I should look out for?",
+      "answer": "Yes, many hotels in Louisville offer signature treatments that highlight local ingredients, such as bourbon-infused massages or Kentucky clay facials. Be sure to check the spa menu for these unique offerings when booking your stay."
+    },
+    {
+      "question": "Can I book spa services separately from my hotel stay?",
+      "answer": "Most hotels with spa services in Louisville allow non-guests to book treatments, but it is recommended to check availability and make a reservation in advance. This way, you can secure your preferred time slot and ensure you receive the specific services you desire."
+    },
+    {
+      "question": "What amenities should I expect at a Louisville hotel with a wellness center?",
+      "answer": "Hotels with wellness centers in Louisville typically offer a range of amenities such as fitness classes, swimming pools, saunas, and relaxation rooms. Some hotels may also provide complimentary access to wellness-related workshops or healthy dining options."
+    },
+    {
+      "question": "Are there any specific neighborhoods in Louisville known for their wellness-focused hotels?",
+      "answer": "The NuLu (New Louisville) area is known for its trendy hotels with spa services, featuring a focus on wellness and local culture. Staying in this neighborhood gives you easy access to local farms, organic restaurants, and wellness boutiques, enhancing your overall experience."
+    }
+  ],
+  "slug": "best-louisville-hotels-with-spa-and-wellness-centers",
+  "generatedAt": "2025-12-19T18:35:48.586Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

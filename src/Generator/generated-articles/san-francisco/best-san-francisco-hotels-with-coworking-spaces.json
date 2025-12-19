@@ -1,0 +1,102 @@
+{
+  "city": "san-francisco",
+  "query": "hotels in San Francisco with coworking space business center digital nomad",
+  "title": "Best San Francisco hotels with coworking spaces",
+  "excerpt": "Finding hotels in San Francisco that cater to the needs of digital nomads can be a daunting task. With the fast-paced nature of this vibrant city, it's essential to discover accommodations that not only offer a comfortable stay but also provide dedicated coworking spaces for productivity. This curated list highlights the best options, ensuring you can work efficiently while enjoying everything San Francisco has to offer.",
+  "intro": "Embark on a journey through San Francisco's top hotels that seamlessly blend comfort with modern workspaces, perfect for the savvy traveler.",
+  "hotels": [
+    {
+      "id": "lp6a8d3",
+      "name": "Stanford Court San Francisco",
+      "image": "https://static.cupid.travel/hotels/221957901.jpg",
+      "description": "Experience the perfect fusion of technology and comfort at Stanford Court San Francisco, where modern amenities include high-speed WiFi and streaming capabilities in select rooms with breathtaking skyline views. Enjoy delectable meals at Commons Cafe and relax with craft cocktails in the Bar and Lounge, perfect for any time of day. Ideally situated near Union Square and Chinatown, this boutique hotel also features a state-of-the-art fitness center to keep you energized during your stay.",
+      "highlight": "Boasts a business center and high-speed WiFi, providing a seamless coworking experience in a centrally located boutique hotel.",
+      "price": "$157/night",
+      "location": "905 California Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d5b3",
+      "name": "San Francisco Marriott Marquis Union Square",
+      "image": "https://static.cupid.travel/hotels/538624662.jpg",
+      "description": "Experience unparalleled luxury at the San Francisco Marriott Marquis, ideally situated next to the Moscone Convention Center. Enjoy stylish rooms featuring flat-screen TVs and stunning city views, along with an on-site fitness center to keep you active. Start your day at B55 Craft House and Kitchen for a delightful breakfast, making this hotel the perfect base for both business and leisure in downtown San Francisco.",
+      "highlight": "Offers a dedicated coworking space, shared lounge, and convenient E-bike charging for business travelers.",
+      "price": "$397/night",
+      "location": "780 Mission Street",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp40a4e",
+      "name": "InterContinental San Francisco by IHG",
+      "image": "https://static.cupid.travel/hotels/271167730.jpg",
+      "description": "Experience the elegance of InterContinental San Francisco, where spacious rooms feature modern amenities like flat-screen TVs and in-room minibars. Ideally located near Union Square, guests can easily explore top attractions, including the Moscone Convention Center and Chinatown. Enjoy exceptional facilities such as a 24-hour fitness center and an indoor lap pool, along with exquisite dining at Luce restaurant and relaxing moments at Bar 888.",
+      "highlight": "Offers a dedicated coworking space with modern amenities, alongside spacious rooms and exceptional dining options.",
+      "price": "$284/night",
+      "location": "888 Howard Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp2fd56",
+      "name": "Hotel Zetta San Francisco",
+      "image": "https://static.cupid.travel/hotels/488737558.jpg",
+      "description": "Hotel Zetta San Francisco combines luxury and convenience, featuring well-appointed guest rooms with modern amenities like a 46-inch flat-screen smart TV and an Illy espresso coffee machine. Guests can savor UK-style brasserie cuisine at the on-site Cavalier Restaurant or unwind in the lounge, while a state-of-the-art fitness center and games room provide ample opportunities for relaxation and recreation. Enjoy a peaceful stay in the heart of the city with double-paned windows and attentive services designed to enhance your experience.",
+      "highlight": "Offers a business center and a games room, along with luxury accommodations and a UK-style restaurant.",
+      "price": "$203/night",
+      "location": "55 5th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a2df",
+      "name": "Kimpton Alton Fisherman's Wharf by IHG",
+      "image": "https://static.cupid.travel/hotels/394107184.jpg",
+      "description": "Experience luxurious accommodations at Kimpton Alton Hotel, where spacious guestrooms are equipped with custom mattresses, plush robes, and Smart TVs for your entertainment. Embrace sustainability with eco-friendly practices and a 24-hour fitness center featuring a Peloton room. Don't miss the award-winning dining at Abacá, a James Beard-nominated restaurant celebrated for its unique Filipino-California cuisine.",
+      "highlight": "Offers spacious guestrooms, a 24-hour fitness center, and a board game area for collaborative work and relaxation.",
+      "price": "$205/night",
+      "location": "2700 JONES STREET",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1be2b",
+      "name": "Hyatt Regency San Francisco Downtown SOMA",
+      "image": "https://static.cupid.travel/hotels/600062766.jpg",
+      "description": "Discover luxurious accommodations at Hyatt Regency San Francisco Downtown SOMA, where air-conditioned rooms feature modern amenities, flat-screen TVs, and stunning city views. Savor an exquisite dining experience at La Societe Bar & Café, renowned for its delightful modern French cuisine crafted by acclaimed Chef Alexandre Viriot. Ideally situated in the vibrant heart of San Francisco, this 4-star hotel offers convenient access to iconic landmarks and a range of facilities for both leisure and business travelers.",
+      "highlight": "Features a dedicated business area, providing a conducive environment for coworking and professional gatherings.",
+      "price": "$243/night",
+      "location": "50 3rd St",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average nightly rates for hotels in San Francisco that offer coworking spaces?",
+      "answer": "The average nightly rates for hotels with coworking spaces in San Francisco can range from $150 to $400, depending on the location and amenities. Hotels in prime areas like Union Square or the Financial District may be on the higher end, while those in neighborhoods like the Mission District might offer more budget-friendly options."
+    },
+    {
+      "question": "Are there any hotels with coworking spaces that also provide complimentary breakfast?",
+      "answer": "Yes, several hotels in San Francisco, such as the Hotel Zephyr and the Aloft San Francisco Downtown, offer complimentary breakfast along with access to their coworking spaces. Always check the specific package details on the hotel's website or booking platform to confirm breakfast inclusivity."
+    },
+    {
+      "question": "What amenities can I expect in the coworking spaces of San Francisco hotels?",
+      "answer": "Coworking spaces in hotels like the Marriott Marquis and the Hotel Vitale typically offer high-speed internet, private meeting rooms, printing facilities, and comfortable seating. Some locations even feature coffee bars and snack stations to keep you energized during work hours."
+    },
+    {
+      "question": "How can I find hotels with coworking spaces that are conveniently located near public transportation?",
+      "answer": "To find hotels with coworking spaces near public transportation, look for accommodations around the Powell Street BART station or the Embarcadero transit hub. Hotels like the Grand Hyatt and the Hilton San Francisco Union Square are both strategically located near these transit points for easy access to the city."
+    },
+    {
+      "question": "What is the cancellation policy for hotels in San Francisco with coworking spaces?",
+      "answer": "Cancellation policies vary by hotel, but many San Francisco hotels allow free cancellations up to 24-48 hours before the check-in date. Always review the specific cancellation policy during the booking process, as some special rates may have stricter terms."
+    }
+  ],
+  "slug": "best-san-francisco-hotels-with-coworking-spaces",
+  "generatedAt": "2025-12-19T18:48:10.550Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

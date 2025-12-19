@@ -1,0 +1,102 @@
+{
+  "city": "marmaris",
+  "query": "luxury boutique hotels in Marmaris upscale small hotels",
+  "title": "Best luxury boutique hotels in Marmaris",
+  "excerpt": "Finding the perfect luxury boutique hotel in Marmaris can be a daunting task, as many travelers overlook these hidden gems in favor of larger resorts. This curated list not only highlights the most unique and upscale small hotels but also ensures that you experience the true charm and personalized service that these establishments provide. With such a variety of options, you can discover a serene escape tailored to your desires and preferences.",
+  "intro": "In this article, readers will uncover the best luxury boutique hotels in Marmaris, perfect for an unforgettable getaway.",
+  "hotels": [
+    {
+      "id": "lp6566fac6",
+      "name": "Bono Hotel Old Town",
+      "image": "https://static.cupid.travel/hotels/369506084.jpg",
+      "description": "Discover unparalleled comfort at Bono Hotel Old Town, nestled just moments from Marmaris Public Beach. This recently renovated aparthotel features modern amenities like free WiFi, a serene garden, and spa facilities, ensuring a relaxing getaway. Enjoy delicious meals at the on-site restaurant and take advantage of convenient services such as airport transfers and bicycle rentals for exploring the vibrant surroundings.",
+      "highlight": "Offers modern amenities including a serene garden, spa facilities, and an on-site restaurant just steps from Marmaris Public Beach.",
+      "price": "$473/night",
+      "location": "Tepe mah. barbaros cad. no:171 Marmaris/muğla",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6db9c",
+      "name": "Dolphin Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/ex_158a1af4_z.jpg",
+      "description": "At Dolphin Boutique Hotel, guests can relax on a stunning private beach and enjoy the lush gardens from the comfort of their own terrace. Savor delectable dishes at the on-site restaurant, take advantage of 24-hour room service, and relish a complimentary buffet breakfast. With luxurious amenities including free Wi-Fi, minibars, and private balconies in every guestroom, this hotel promises a serene seaside escape.",
+      "highlight": "Boasts a stunning private beach, lush gardens, and luxurious amenities like private balconies and 24-hour room service.",
+      "price": "$173/night",
+      "location": "Kargi mah. No: 51",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41168",
+      "name": "Örsmaris Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/84831770.jpg",
+      "description": "Discover beachfront luxury at Örsmaris Boutique Hotel in Marmaris, where you can unwind by two serene outdoor pools surrounded by lush gardens. Savor exquisite Turkish and international cuisine at our restaurant with breathtaking Mediterranean views, and enjoy an array of refreshing cocktails at the bar. With 24-hour concierge service to help arrange boat tours and complimentary beach amenities, your perfect getaway awaits.",
+      "highlight": "Boasts beachfront access, two outdoor pools, a restaurant with Mediterranean views, and 24-hour concierge service for personalized experiences.",
+      "price": "$3576/night",
+      "location": "Siteler mah. Cumhuriyet Blv. No:59",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp655ccc39",
+      "name": "Arya Roof House",
+      "image": "https://static.cupid.travel/hotels/542554476.jpg",
+      "description": "Experience luxury at Arya Roof House, where modern amenities like a fully equipped kitchen and free WiFi ensure your stay is both comfortable and convenient. Delight in stunning garden views from the terrace, perfect for outdoor dining or a barbecue evening. Ideally located near popular attractions such as Marmaris Public Beach and offering airport transfers and sightseeing tours, Arya Roof House is your perfect retreat in Marmaris.",
+      "highlight": "Offers a terrace with BBQ facilities and stunning garden views, along with modern amenities and proximity to Marmaris attractions.",
+      "price": "$101/night",
+      "location": "Kemeraltı Marmaris 89 sokak no 23 marmaris",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp9ce4a",
+      "name": "The Marmaris Boutique Hotel",
+      "image": "https://static.cupid.travel/hotels/78746552.jpg",
+      "description": "The Marmaris Boutique Hotel offers elegantly appointed rooms featuring modern amenities, including air conditioning and private balconies that showcase breathtaking views of the city or sea. Nestled just steps from Marmaris Public Beach and near historical attractions like Marmaris Castle, this hotel provides an ideal base for exploring the area's beauty and culture. With exceptional services such as 24-hour front desk assistance, free WiFi, and convenient car hire options, guests are guaranteed a memorable and comfortable stay.",
+      "highlight": "Offers elegantly appointed, soundproof rooms with private balconies and modern amenities, steps from Marmaris Public Beach.",
+      "price": "$83/night",
+      "location": "Kemeralti Mah Hasan isik Cad No 6",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp6554ef1b",
+      "name": "Sunset Hotel Marmaris",
+      "image": "https://static.cupid.travel/hotels/463398807.jpg",
+      "description": "Nestled in the vibrant heart of Marmaris, Sunset Boutique Hotel offers a perfect blend of comfort and convenience, with easy access to local landmarks like Ataturk Statue and Marmaris Amphitheatre. Enjoy modern, air-conditioned rooms featuring flat-screen TVs, private bathrooms, and some with balconies showcasing beautiful city views. With convenient services such as airport transfers and bicycle rentals, you can effortlessly explore nearby attractions like Marmaris Castle and the sandy beaches.",
+      "highlight": "Offers modern, air-conditioned rooms with flat-screen TVs, private bathrooms, and balconies overlooking the vibrant city of Marmaris.",
+      "price": "$104/night",
+      "location": "Tepe Mahallesi",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the average price range for luxury boutique hotels in Marmaris?",
+      "answer": "Luxury boutique hotels in Marmaris typically range from €150 to €400 per night, depending on the season and amenities offered. During peak summer months, prices may increase, so booking in advance can secure better rates."
+    },
+    {
+      "question": "Are there any boutique hotels in Marmaris with private beach access?",
+      "answer": "Yes, several luxury boutique hotels in Marmaris, such as D-Hotel Maris, offer private beach access with exclusive loungers and services. It is advisable to confirm beach amenities directly with the hotel as they can vary by property."
+    },
+    {
+      "question": "What unique amenities should I expect from luxury boutique hotels in Marmaris?",
+      "answer": "Luxury boutique hotels often provide personalized services such as private concierges, gourmet dining options, and wellness facilities like spas or yoga classes. Look for hotels that offer unique local experiences, like guided tours or cooking classes, to enhance your stay."
+    },
+    {
+      "question": "How do I find the best location for a boutique hotel in Marmaris?",
+      "answer": "Consider staying near the marina or the old town for easy access to local attractions, dining, and nightlife. Hotels like Aqua Hotel or Blue Bay Platinum are well-situated and provide a great blend of tranquility and convenience for exploring the area."
+    },
+    {
+      "question": "What is the cancellation policy for luxury boutique hotels in Marmaris?",
+      "answer": "Cancellation policies can vary by hotel, but many luxury boutique hotels in Marmaris offer flexible options, especially if booked directly through their websites. It is crucial to read the specific terms before booking and look for options with free cancellation to ensure peace of mind."
+    }
+  ],
+  "slug": "best-luxury-boutique-hotels-in-marmaris",
+  "generatedAt": "2025-12-19T09:06:11.772Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

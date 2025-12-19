@@ -1,0 +1,47 @@
+{
+  "city": "castries",
+  "query": "hotels in Castries with electric vehicle charging tesla charging",
+  "title": "Best Castries hotels with EV charging stations",
+  "excerpt": "Finding hotels with electric vehicle charging stations can be a daunting task, especially in popular destinations like Castries where sustainability is gaining momentum. This curated list not only highlights accommodations that cater to eco-conscious travelers but also ensures a seamless and stress-free experience for those looking to explore the beautiful island without the worry of running out of charge. By choosing one of these hotels, guests can enjoy both comfort and convenience while supporting the shift towards greener travel options.",
+  "intro": "Discover the best hotels in Castries that offer electric vehicle charging stations, perfect for eco-friendly travelers looking to explore the stunning Caribbean.",
+  "hotels": [
+    {
+      "id": "lp9a362",
+      "name": "Bel Jou Hotel – Adults Only – All Inclusive",
+      "image": "https://static.cupid.travel/hotels/ex_6fecad0b_z.jpg",
+      "description": "Escape to the Bel Jou Hotel, an adults-only retreat in the heart of Castries that combines luxury with tranquility. Guests can indulge in rejuvenating spa treatments, relax by the lush outdoor pool, and savor gourmet international cuisine at the Cabana Restaurant & Bar, all under an all-inclusive package. With complimentary Wi-Fi, concierge services, and easy access to local attractions, your perfect getaway awaits.",
+      "highlight": "Bel Jou Hotel provides electric vehicle charging stations along with a full spa and a scenic rooftop terrace.",
+      "price": "$434/night",
+      "location": "La Pansee",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which hotels in Castries offer Tesla charging stations?",
+      "answer": "Several hotels in Castries provide Tesla charging options, including the Sandals Halcyon Beach Resort and the Bay Gardens Beach Resort. It is advisable to confirm availability prior to booking, as charging stations may be limited."
+    },
+    {
+      "question": "What is the average cost per night for hotels with EV charging in Castries?",
+      "answer": "Prices for hotels with electric vehicle charging stations in Castries typically range from $150 to $400 per night, depending on the hotel’s amenities and location. Booking in advance can often result in better rates, especially during peak travel seasons."
+    },
+    {
+      "question": "Do hotels in Castries charge extra for using EV charging stations?",
+      "answer": "Most hotels in Castries that offer EV charging do not charge extra fees for using the stations; however, it is best to double-check with the hotel at the time of booking. Some properties might include charging as part of your stay, while others may have specific usage policies."
+    },
+    {
+      "question": "Are there any hotels with both EV charging and proximity to local attractions in Castries?",
+      "answer": "Yes, the Royal St. Lucia Resort & Spa not only provides EV charging but is also conveniently located near popular attractions like Pigeon Island National Park and the Castries Central Market. This makes it a great choice for travelers looking to explore while keeping their vehicle charged."
+    },
+    {
+      "question": "What tips should I consider when booking a hotel with EV charging in Castries?",
+      "answer": "When booking a hotel in Castries with EV charging, ensure to check the specific type of charging station available, as some may be compatible only with certain models. Additionally, read recent reviews for any updates on the charging stations' accessibility and reliability, and consider booking through platforms that offer flexible cancellation policies."
+    }
+  ],
+  "slug": "best-castries-hotels-with-ev-charging-stations",
+  "generatedAt": "2025-12-19T19:26:58.225Z",
+  "hotelCount": 1,
+  "hotelsWithIds": 1,
+  "faqCount": 5
+}

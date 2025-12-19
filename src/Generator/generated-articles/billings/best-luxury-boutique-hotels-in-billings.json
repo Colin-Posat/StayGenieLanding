@@ -1,0 +1,102 @@
+{
+  "city": "billings",
+  "query": "luxury boutique hotels in Billings upscale small hotels",
+  "title": "Best luxury boutique hotels in Billings",
+  "excerpt": "Finding luxury boutique hotels can be a challenge, especially in a city like Billings where unique accommodations are often hidden gems. This curated list showcases the best upscale small hotels that offer personalized service and distinctive charm, ensuring that your stay is both memorable and comfortable. By exploring these options, travelers can experience the essence of Billings while enjoying the luxury and character that these boutique hotels provide.",
+  "intro": "Discover the top luxury boutique hotels in Billings that promise a unique blend of comfort, elegance, and local charm.",
+  "hotels": [
+    {
+      "id": "lp1b899",
+      "name": "Northern Hotel",
+      "image": "https://static.cupid.travel/hotels/77090036.jpg",
+      "description": "Experience the ultimate in luxury at Northern Hotel, where elegantly styled rooms feature plush linens, modern amenities, and select suites with cozy seating areas. Delight your palate at Bernie’s Diner with its creative take on classic American fare, or indulge in fine dining at TEN restaurant, offering exquisite dishes like slow-braised bison short ribs. With exceptional services like room service and concierge assistance, as well as nearby attractions like ZooMontana, Northern Hotel is the perfect blend of comfort and convenience.",
+      "highlight": "Boasts elegantly styled rooms, fine dining at TEN restaurant, and exceptional concierge services for a luxurious stay.",
+      "price": "$262/night",
+      "location": "19 North Broadway",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp71a2e",
+      "name": "Homewood Suites by Hilton Billings",
+      "image": "https://static.cupid.travel/hotels/588270456.jpg",
+      "description": "Experience the comforts of Homewood Suites by Hilton Billings, featuring an inviting indoor pool, a fitness center, and a relaxing hot tub. Enjoy a complimentary hot breakfast and unwind with light evening meals on weekdays, plus outdoor BBQ facilities with a cozy fire pit. Each well-appointed guest room offers free WiFi and cable TV, while the hotel’s prime location near ZooMontana and convenient free parking makes for a memorable stay.",
+      "highlight": "Offers an inviting indoor pool, hot tub, complimentary breakfast, outdoor BBQ facilities, and free WiFi in well-appointed guest rooms.",
+      "price": "$213/night",
+      "location": "3420 Ember Lane",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19cdd",
+      "name": "Doubletree By Hilton Billings",
+      "image": "https://static.cupid.travel/hotels/485980365.jpg",
+      "description": "Discover unparalleled comfort at the Billings Doubletree by Hilton, where modern rooms feature dark wood furnishings and premium amenities like free Wi-Fi and in-room movies. Savor exquisite continental cuisine with stunning mountain views at Montana Sky, or relax with friends at the Montana Lounge, complete with pool tables and big-screen TVs. With a business center, fitness facility, and easy access to local attractions, your stay in downtown Billings promises to be memorable.",
+      "highlight": "Offers modern rooms with premium amenities, a restaurant with mountain views, and a vibrant lounge with pool tables.",
+      "price": "$203/night",
+      "location": "27 N 27th St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp34aa8",
+      "name": "Billings Hotel & Convention Center",
+      "image": "https://static.cupid.travel/hotels/143618119.jpg",
+      "description": "Experience a blend of luxury and entertainment at Billings Hotel & Convention Center, featuring an indoor pool with thrilling water slides and a vibrant casino lounge. Delight your taste buds with American cuisine at Mama Jo's Café or enjoy a drink at the lively R-Club Lounge. With modern amenities in every guest room and convenient facilities like WiFi and a business center, your stay promises comfort and fun.",
+      "highlight": "Offers an indoor pool with water slides, a casino lounge, and on-site dining at Mama Jo's Café.",
+      "price": "$188/night",
+      "location": "1223 Mullowney Ln",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2b0e5",
+      "name": "Best Western Plus Clocktower Inn",
+      "image": "https://static.cupid.travel/hotels/399436917.jpg",
+      "description": "Experience the Best Western Plus Clocktower Inn in Billings, Montana, where a prime city-center location meets comfort and convenience. Enjoy modern rooms equipped with refrigerators, cable TV, and free WiFi, along with a relaxing sauna to unwind after a day of sightseeing. With complimentary airport shuttle service, 24-hour front desk support, and free parking, this hotel is perfect for both leisure and business travelers.",
+      "highlight": "Offers modern rooms with refrigerators, free WiFi, a sauna, and complimentary airport shuttle service in a prime city-center location.",
+      "price": "$152/night",
+      "location": "2511 1st Ave N",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp35846",
+      "name": "SpringHill Suites by Marriott Billings",
+      "image": "https://static.cupid.travel/hotels/430854666.jpg",
+      "description": "Experience comfort and convenience at SpringHill Suites Billings, where you can unwind in the indoor pool or maintain your fitness routine in the well-equipped gym. Each air-conditioned guestroom features modern amenities, including free Wi-Fi, cable TV, and an in-room microwave for easy meal prep. Located just a mile from Big Splash Waterpark and near Eagle Rock Golf Course, this hotel is the perfect base for your adventures.",
+      "highlight": "Offers modern amenities such as free Wi-Fi, an indoor pool, and a hot tub in a convenient location near attractions.",
+      "price": "$214/night",
+      "location": "1818 King Avenue",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average nightly rates for luxury boutique hotels in Billings?",
+      "answer": "Expect to pay between $150 to $300 per night for luxury boutique hotels in Billings. Rates may vary depending on the season, local events, and how far in advance you book, so consider reserving early to secure the best rates."
+    },
+    {
+      "question": "Are luxury boutique hotels in Billings pet-friendly?",
+      "answer": "Many luxury boutique hotels in Billings do offer pet-friendly accommodations, but policies can vary widely. Always check the specific hotel's pet policy before booking, as some may charge additional fees or have size restrictions."
+    },
+    {
+      "question": "What amenities can I expect at a luxury boutique hotel in Billings?",
+      "answer": "Luxury boutique hotels in Billings typically offer upscale amenities such as complimentary breakfast, high-end toiletries, in-room coffee makers, and Wi-Fi. Some may also feature on-site dining options, fitness centers, or spas for a complete luxury experience."
+    },
+    {
+      "question": "How do I find the best location for a luxury boutique hotel in Billings?",
+      "answer": "Look for hotels located near downtown Billings or within walking distance of attractions like the Yellowstone Art Museum and local dining options. This will enhance your experience, allowing easy access to the city's cultural and recreational offerings."
+    },
+    {
+      "question": "What is the cancellation policy for luxury boutique hotels in Billings?",
+      "answer": "Cancellation policies can vary significantly among luxury boutique hotels in Billings, often ranging from 24 to 72 hours before your stay. Review the specific policy at the time of booking to avoid unexpected fees, and consider booking through flexible platforms if your plans may change."
+    }
+  ],
+  "slug": "best-luxury-boutique-hotels-in-billings",
+  "generatedAt": "2025-12-19T18:55:03.762Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

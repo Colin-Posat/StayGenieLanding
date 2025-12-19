@@ -1,0 +1,102 @@
+{
+  "city": "milwaukee",
+  "query": "hotels in Milwaukee with rooftop pool infinity pool",
+  "title": "Best Milwaukee hotels with rooftop pools",
+  "excerpt": "Finding hotels in Milwaukee with rooftop pools can be a challenge, especially when looking for the perfect blend of luxury and stunning views. This curated list highlights the top options that not only offer beautiful infinity pools but also provide a memorable experience for your stay. Whether you are a local or a visitor, these hotels will elevate your Milwaukee experience to new heights.",
+  "intro": "Discover the best Milwaukee hotels featuring rooftop pools that promise breathtaking views and unforgettable relaxation.",
+  "hotels": [
+    {
+      "id": "lp23466",
+      "name": "Hotel Metro, Autograph Collection",
+      "image": "https://static.cupid.travel/hotels/430835930.jpg",
+      "description": "Experience the charm of Hotel Metro, a historic Art Deco-inspired hotel situated in downtown Milwaukee, just steps away from the Milwaukee Art Museum. Enjoy gourmet dining at the on-site restaurant, relax on the rooftop deck with stunning city views, and unwind in luxurious suites featuring upscale amenities. Don’t miss the vibrant atmosphere at the rooftop tikibar, \"Pufferfish Tiki,\" for a perfect evening out.",
+      "highlight": "Boasts a rooftop deck and tikibar with stunning city views, alongside a gourmet restaurant for an elevated dining experience.",
+      "price": "$268/night",
+      "location": "411 E Mason St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8ddb6",
+      "name": "Kimpton Journeyman Hotel by IHG",
+      "image": "https://static.cupid.travel/hotels/250215996.jpg",
+      "description": "The Kimpton Journeyman Hotel offers a luxurious rooftop bar with breathtaking views, perfect for relaxing with a drink in hand. Guests can savor exquisite dishes at the on-site restaurant and maintain their fitness routine at the modern fitness center. With complimentary bicycle rentals for city exploration and a dedicated 24-hour front desk, your stay promises convenience and exceptional service at every turn.",
+      "highlight": "Features a luxurious rooftop bar and lounge with stunning views and a state-of-the-art fitness center for active guests.",
+      "price": "$266/night",
+      "location": "310 E Chicago St",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1d102",
+      "name": "Saint Kate - The Arts Hotel",
+      "image": "https://static.cupid.travel/hotels/210837856.jpg",
+      "description": "Saint Kate - The Arts Hotel in Milwaukee's downtown theater district offers breathtaking city views and a selection of fine dining restaurants for a truly indulgent experience. Guests can immerse themselves in a unique artistic atmosphere with rotating art exhibits and enjoy easy access to nearby cultural venues like the Marcus Performing Arts Center. With convenient amenities, including a 24-hour business center and complimentary WiFi, plus attractions like the Milwaukee Art Museum just a short stroll away, Saint Kate promises an enriching stay.",
+      "highlight": "Features a rooftop pool with stunning city views and an on-site art gallery showcasing rotating exhibits.",
+      "price": "$218/night",
+      "location": "139 E Kilbourn Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp41f9d",
+      "name": "The Iron Horse Hotel",
+      "image": "https://static.cupid.travel/hotels/177944339.jpg",
+      "description": "Experience the elegance of our luxury boutique hotel, situated in the vibrant heart of the city. Savor exquisite regional cuisine at Ash Restaurant, unwind with signature cocktails at BRANDED Bar, or enjoy outdoor dining at The Yard. Additionally, motorcycle enthusiasts will appreciate our dedicated amenities, including covered parking and custom gear storage, ensuring a comfortable stay for all guests.",
+      "highlight": "Boasts a stunning rooftop terrace with panoramic city views and outdoor dining options for a memorable experience.",
+      "price": "$267/night",
+      "location": "500 W Florida Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1b63f",
+      "name": "The Pfister Hotel",
+      "image": "https://static.cupid.travel/hotels/513029620.jpg",
+      "description": "Experience a blend of luxury and culture at The Pfister Hotel, where you can relax at a full-service spa and admire an impressive Victorian art collection. Enjoy elegant guest rooms equipped with modern amenities like flat-screen TVs and spa baths, with some offering stunning views of downtown Milwaukee or Lake Michigan. Delight your palate with gourmet American cuisine at Mason Street Grill, sip cocktails with panoramic views at Blu martini bar, and take advantage of 24-hour room service for a truly indulgent stay.",
+      "highlight": "The Pfister Hotel boasts a heated rooftop pool and a rooftop garden with stunning views of downtown Milwaukee.",
+      "price": "$212/night",
+      "location": "424 E Wisconsin Ave",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1a6c6",
+      "name": "DoubleTree by Hilton Milwaukee Downtown",
+      "image": "https://static.cupid.travel/hotels/485530220.jpg",
+      "description": "Doubletree by Hilton Milwaukee Downtown boasts a prime location next to the Wisconsin Center, making it easy for guests to explore top attractions like the Milwaukee Art Museum and Potawatomi Bingo Casino. Enjoy delicious American bistro fare at the on-site Avenue Bar & Grill, where you can also catch sports on plasma TVs while sampling local beers. With a fitness center and comfortable accommodations, this hotel promises a perfect blend of convenience and relaxation for every traveler.",
+      "highlight": "DoubleTree by Hilton Milwaukee Downtown features a rooftop pool, on-site restaurant, and outdoor furniture for a relaxing stay.",
+      "price": "$151/night",
+      "location": "611 W Wisconsin Ave",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the average nightly rates for hotels in Milwaukee with rooftop pools?",
+      "answer": "On average, you can expect to pay between $150 to $300 per night for hotels in Milwaukee that feature rooftop pools. Luxury options may push rates higher, especially during peak tourist seasons such as summer and major events like Summerfest."
+    },
+    {
+      "question": "Are there any rooftop pool hotels in Milwaukee that offer city views?",
+      "answer": "Yes, hotels like The Kinn Hotel and the Kimpton Journeyman Hotel provide stunning views of the Milwaukee skyline from their rooftop pools. These locations not only enhance your swimming experience but also make for great photo opportunities."
+    },
+    {
+      "question": "What amenities can I expect at hotels in Milwaukee with rooftop pools?",
+      "answer": "Most hotels with rooftop pools also offer amenities such as a fitness center, on-site dining options, and complimentary Wi-Fi. Some may even provide poolside cabanas and seasonal bar services, enhancing your experience during warm weather."
+    },
+    {
+      "question": "Are there any specific safety policies for rooftop pools in Milwaukee hotels?",
+      "answer": "Many hotels enforce safety guidelines for rooftop pools, including designated swimming hours and maximum occupancy limits. Guests should check with the hotel's front desk for specific safety policies, especially during busy times."
+    },
+    {
+      "question": "What is the best time of year to book a hotel with a rooftop pool in Milwaukee?",
+      "answer": "The best time to book is during the late spring to early fall months, from May to September, when rooftop pools are most frequently open and used. To secure the best rates, consider booking well in advance, especially for weekends and holidays."
+    }
+  ],
+  "slug": "best-milwaukee-hotels-with-rooftop-pools",
+  "generatedAt": "2025-12-19T18:43:10.532Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

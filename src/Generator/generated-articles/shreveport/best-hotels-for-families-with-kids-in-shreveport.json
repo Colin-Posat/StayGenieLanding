@@ -1,0 +1,102 @@
+{
+  "city": "shreveport",
+  "query": "hotels for families with kids in Shreveport",
+  "title": "Best hotels for families with kids in Shreveport",
+  "excerpt": "Finding the perfect hotel that caters to families with kids can be a daunting task, especially in a city with diverse options like Shreveport. This list is invaluable as it highlights hotels that not only provide family-friendly amenities but also offer a welcoming atmosphere for both parents and children, ensuring a memorable stay for everyone. By narrowing down the best choices, families can save time and focus on making lasting memories together.",
+  "intro": "Discover the top family-friendly hotels in Shreveport that provide comfort, convenience, and fun for guests of all ages.",
+  "hotels": [
+    {
+      "id": "lp4b13e",
+      "name": "Homewood Suites by Hilton Shreveport",
+      "image": "https://static.cupid.travel/hotels/473604609.jpg",
+      "description": "Homewood Suites by Hilton Shreveport offers a prime location just off I-20 and near the Shreveport Regional Airport, featuring fully equipped kitchens and complimentary high-speed internet in all suites. Guests can indulge in a daily hot breakfast buffet and evening receptions with light meals and drinks from Monday to Thursday. With an outdoor pool, a 24-hour fitness center, and an outdoor sports court, this hotel perfectly combines comfort and convenience for an enjoyable stay.",
+      "highlight": "Homewood Suites by Hilton Shreveport offers family rooms, an outdoor pool, and complimentary hot breakfast for a comfortable stay.",
+      "price": "$190/night",
+      "location": "5485 Financial Plaza",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp1c20e",
+      "name": "La Quinta by Wyndham Shreveport Airport",
+      "image": "https://static.cupid.travel/hotels/194576564.jpg",
+      "description": "La Quinta Inn and Suites Shreveport Airport offers a perfect combination of modern comfort and convenience, located just 6 km from the airport. Guests can enjoy a complimentary continental breakfast, relax by the outdoor pool, or stay active in the fitness center. With nearby attractions like Watertown USA and Bossier City casinos just a short drive away, this hotel is ideal for both relaxation and adventure.",
+      "highlight": "Offers family rooms, an outdoor pool, and a hot tub for enjoyable family stays in Shreveport.",
+      "price": "$171/night",
+      "location": "6700 Financial Cir",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp251a8",
+      "name": "Courtyard Shreveport Airport",
+      "image": "https://static.cupid.travel/hotels/430834237.jpg",
+      "description": "Experience modern comfort at the Courtyard Shreveport Airport, located just 3 miles from the airport. Enjoy amenities such as an indoor pool, fitness center, and an on-site restaurant, along with free Wi-Fi throughout the hotel. Each room features a writing desk, coffee maker, and select rooms offer a cozy seating area, ensuring a comfortable and convenient stay.",
+      "highlight": "Features an indoor pool, family rooms, and hot tub for a fun and relaxing stay.",
+      "price": "$187/night",
+      "location": "6001 Financial Plaza",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp2f885",
+      "name": "Residence Inn Shreveport Airport",
+      "image": "https://static.cupid.travel/hotels/434774114.jpg",
+      "description": "Experience the perfect blend of comfort and convenience at Residence Inn Shreveport Airport, located just off I-20 and minutes from the airport. Each spacious suite features a fully-equipped kitchenette, making it an ideal home-away-from-home, while amenities like a heated outdoor pool, complimentary breakfast, and on-site sports courts ensure a relaxing stay. With free Wi-Fi and a local restaurant dinner delivery service, your needs are effortlessly met for both work and leisure.",
+      "highlight": "Offers spacious family suites with kitchenettes, a heated outdoor pool, and on-site sports courts for active enjoyment.",
+      "price": "$164/night",
+      "location": "4910 W Monkhouse Dr",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp82f1d",
+      "name": "Holiday Inn Express & Suites - Shreveport - Downtown by IHG",
+      "image": "https://static.cupid.travel/hotels/259016011.jpg",
+      "description": "Experience a blend of comfort and luxury at the Holiday Inn Express & Suites in downtown Shreveport, featuring an outdoor swimming pool, a fitness center, and convenient room service. Each air-conditioned room includes modern amenities like free WiFi and flat-screen TVs, with some offering breathtaking city views. Guests can enjoy a delicious buffet breakfast and access a fully equipped business center, all supported by a dedicated multilingual staff for an exceptional stay.",
+      "highlight": "Offers an outdoor swimming pool, free WiFi, and complimentary buffet breakfast, ensuring family-friendly comfort and convenience.",
+      "price": "$124/night",
+      "location": "201 Lake Street",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp4b13e",
+      "name": "Homewood Suites by Hilton Shreveport",
+      "image": "https://static.cupid.travel/hotels/473604609.jpg",
+      "description": "Homewood Suites by Hilton Shreveport is ideally located just off I-20, providing easy access to the Shreveport Regional Airport. Guests can enjoy spacious suites with fully equipped kitchens and complimentary high-speed internet, along with a daily hot breakfast buffet and evening receptions featuring light meals and drinks. Stay active with a 24-hour fitness center, relaxing outdoor pool, and sports court, making this hotel a perfect choice for both comfort and convenience.",
+      "highlight": "Homewood Suites by Hilton Shreveport offers spacious suites with fully equipped kitchens, complimentary breakfast, and a 24-hour fitness center.",
+      "price": "$190/night",
+      "location": "5485 Financial Plaza",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What family-friendly amenities can I expect at hotels in Shreveport?",
+      "answer": "Many family-friendly hotels in Shreveport, such as the SpringHill Suites, offer amenities like indoor pools, free breakfast, and spacious suites with kitchenettes. Some hotels also provide game rooms or playgrounds to keep kids entertained."
+    },
+    {
+      "question": "Are there any hotels in Shreveport that offer discounts for families or children?",
+      "answer": "Several hotels, including the Hampton Inn Shreveport, often provide special rates for families or discounts for children under a certain age. It is advisable to check the hotel's website or call directly to inquire about any family packages or seasonal promotions."
+    },
+    {
+      "question": "What is the best area in Shreveport to stay for family attractions?",
+      "answer": "Staying near the Shreveport-Bossier City area, particularly around the Riverfront, is ideal for families as it provides easy access to attractions like the Sci-Port Discovery Center and the Louisiana Boardwalk. This location also offers various dining options suitable for kids."
+    },
+    {
+      "question": "How early should I book my family hotel in Shreveport for peak travel seasons?",
+      "answer": "For peak travel seasons, such as summer and holidays, it is recommended to book your family hotel in Shreveport at least 1-3 months in advance. This will help you secure the best rates and ensure availability in family-friendly accommodations."
+    },
+    {
+      "question": "Can I find hotels in Shreveport that allow pets for family travel?",
+      "answer": "Yes, some hotels in Shreveport, like La Quinta Inn & Suites, are pet-friendly, making them suitable for families traveling with furry companions. Be sure to check the hotel's pet policy regarding fees and size restrictions before booking."
+    }
+  ],
+  "slug": "best-hotels-for-families-with-kids-in-shreveport",
+  "generatedAt": "2025-12-19T19:23:27.336Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

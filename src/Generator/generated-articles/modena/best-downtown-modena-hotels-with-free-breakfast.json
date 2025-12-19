@@ -1,0 +1,102 @@
+{
+  "city": "modena",
+  "query": "downtown Modena hotels with breakfast included city center",
+  "title": "Best downtown Modena hotels with free breakfast",
+  "excerpt": "Finding hotels in downtown Modena that offer free breakfast can be quite a challenge, especially when trying to balance comfort and value. This curated list simplifies your search by highlighting the best options, ensuring you can start your day off right without breaking the bank. With these recommendations, you can enjoy both the charm of the city and a satisfying meal before exploring its rich culture and cuisine.",
+  "intro": "Discover the top downtown Modena hotels that not only place you in the heart of the city but also offer the added perk of free breakfast.",
+  "hotels": [
+    {
+      "id": "lp6d4df",
+      "name": "Hotel San Geminiano",
+      "image": "https://static.cupid.travel/hotels/3773618.jpg",
+      "description": "Discover the charm of Modena at Hotel San Geminiano, where free parking and Wi-Fi complement tastefully furnished rooms equipped with flat-screen TVs. Start your mornings with a delightful Italian breakfast featuring fresh coffee and pastries, all while enjoying a prime location just steps from Modena Cathedral and convenient transportation options. Book your stay today and immerse yourself in the beauty of this historic city.",
+      "highlight": "Offers a delightful Italian breakfast with fresh coffee and pastries, along with free Wi-Fi and parking.",
+      "price": "$129/night",
+      "location": "Via Gaetano Moreali, 41",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp656b80e4",
+      "name": "La Corte Dei Sogni B&B",
+      "image": "https://static.cupid.travel/hotels/256159884.jpg",
+      "description": "Discover the rustic charm of La Corte Dei Sogni B&B, where elegantly decorated rooms offer stunning garden views for a peaceful getaway. Enjoy a delightful buffet breakfast filled with fresh pastries and fruits to energize your day. Conveniently located near Modena's center and easily accessible from the A1 motorway, this retreat places you close to local shops and restaurants.",
+      "highlight": "Offers a delightful buffet breakfast featuring fresh pastries and fruits, set in a charming B&B near downtown Modena.",
+      "price": "$206/night",
+      "location": "Stradello Romano 8",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp8434d",
+      "name": "Hotel Cervetta 5",
+      "image": "https://static.cupid.travel/hotels/10803630.jpg",
+      "description": "Hotel Cervetta boasts a fantastic central location, just moments from Modena Cathedral and Ducal Palace, making it ideal for history enthusiasts. Enjoy your stay in our charming, newly renovated rooms that blend comfort with elegance, featuring modern amenities and free WiFi. With 24-hour reception staff ready to assist, immerse yourself in the rich culture of Modena at our delightful hotel.",
+      "highlight": "Hotel Cervetta 5 provides free breakfast and newly renovated rooms in a prime location near Modena Cathedral and Ducal Palace.",
+      "price": "$196/night",
+      "location": "Via Cervetta, 5",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp449a9",
+      "name": "Best Western Hotel Libertà",
+      "image": "https://static.cupid.travel/hotels/14128897.jpg",
+      "description": "Experience a blend of comfort and safety at Best Western Hotel Libertà, which features a Special Protection Program for the well-being of guests and staff. Ideally situated in the heart of Modena, this hotel provides easy access to iconic attractions like the Duomo, along with modern amenities such as free Wi-Fi, air-conditioned rooms, and flat-screen TVs. Enjoy a memorable stay in this historic city while indulging in contemporary conveniences.",
+      "highlight": "Offers complimentary breakfast and modern amenities like free Wi-Fi and air-conditioned rooms in downtown Modena.",
+      "price": "$239/night",
+      "location": "Via Blasia 10",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp50a5c",
+      "name": "Hotel Europa",
+      "image": "https://static.cupid.travel/hotels/92545755.jpg",
+      "description": "Hotel Europa is ideally situated just 150 meters from Modena Train Station and a short stroll from the historic center, making it the perfect base for exploring the city's attractions. Guests will enjoy comfortable rooms equipped with free Wi-Fi, cable TV, minibars, and air conditioning, along with private bathrooms featuring either a bath or shower. Start your day with a delightful buffet breakfast, including freshly made cakes that will surely please your palate.",
+      "highlight": "Offers a complimentary buffet breakfast with freshly made cakes, plus comfortable rooms with free Wi-Fi and air conditioning.",
+      "price": "$129/night",
+      "location": "Corso Vittorio Emanuele 52",
+      "tags": [],
+      "isRefundable": false
+    },
+    {
+      "id": "lp19c009",
+      "name": "Phi Hotel Canalgrande",
+      "image": "https://static.cupid.travel/hotels/333891605.jpg",
+      "description": "Discover the elegance of PHI Hotel Canalgrande, located just steps from Modena Cathedral. Enjoy beautifully furnished rooms with modern amenities and unwind in the inviting lounge, complete with plush sofas and antique artwork. With a serene terrace surrounded by Mediterranean flora and a prime location near the train station, this hotel is the perfect base for exploring Modena.",
+      "highlight": "Offers complimentary breakfast, elegantly furnished rooms, and a serene terrace surrounded by Mediterranean flora.",
+      "price": "$197/night",
+      "location": "Corso Canalgrande 6",
+      "tags": [],
+      "isRefundable": false
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which downtown Modena hotels offer complimentary breakfast?",
+      "answer": "Some popular options include Hotel Canalgrande and Hotel Astor, both located in the city center. These hotels provide a variety of breakfast items that cater to different dietary preferences, ensuring a pleasant start to your day."
+    },
+    {
+      "question": "What is the average price range for hotels in downtown Modena that include breakfast?",
+      "answer": "You can expect to pay between 100 to 200 euros per night for hotels offering breakfast in downtown Modena. Prices may vary based on the season, so booking in advance or during off-peak times can help secure better rates."
+    },
+    {
+      "question": "Are there any hotels in downtown Modena known for their breakfast variety?",
+      "answer": "Yes, Hotel Europa is well-regarded for its extensive breakfast buffet, which includes local specialties and fresh pastries. Guests have noted the quality of both the food and the coffee, making it a highlight of their stay."
+    },
+    {
+      "question": "What should I know about breakfast hours at downtown Modena hotels?",
+      "answer": "Most hotels in downtown Modena serve breakfast from 7:00 AM to 10:00 AM. However, it's a good idea to confirm with the hotel directly, as some may offer extended hours on weekends or holidays."
+    },
+    {
+      "question": "Can I find hotels in downtown Modena that allow flexible booking options?",
+      "answer": "Certainly, many hotels such as Hotel Principe offer flexible cancellation policies and the option to book without a deposit. Always check the specific terms when booking, as policies can vary widely between establishments."
+    }
+  ],
+  "slug": "best-downtown-modena-hotels-with-free-breakfast",
+  "generatedAt": "2025-12-19T19:02:44.740Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}

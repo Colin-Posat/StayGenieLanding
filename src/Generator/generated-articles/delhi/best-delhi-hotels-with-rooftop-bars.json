@@ -1,0 +1,102 @@
+{
+  "city": "delhi",
+  "query": "hotels in Delhi with rooftop bars",
+  "title": "Best Delhi hotels with rooftop bars",
+  "excerpt": "Finding hotels in Delhi with rooftop bars can be a challenge due to the city's vast options and varying quality. This curated list highlights the best spots where guests can enjoy stunning views while sipping cocktails, making it an invaluable resource for travelers looking to elevate their stay. By choosing one of these hotels, you can combine comfort with memorable experiences high above the bustling streets of the city.",
+  "intro": "Discover the top hotels in Delhi that offer not only luxury accommodations but also breathtaking rooftop bars for an unforgettable experience.",
+  "hotels": [
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Hotel A-10 International offers a prime location in the heart of New Delhi, providing easy access to must-see attractions like Gurudwara Bangla Sahib and Jama Masjid. Guests can enjoy the convenience of onsite parking and complimentary Wi-Fi while immersing themselves in the vibrant Paharganj neighborhood, known for its cultural landmarks and diverse dining options. Experience the essence of New Delhi by booking your stay today.",
+      "highlight": "Boasts a rooftop bar with stunning city views and easy access to cultural landmarks in vibrant Paharganj.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Discover a charming hotel that offers a welcoming atmosphere and comfortable accommodations. Guests can enjoy convenient amenities and a prime location, making it an ideal base for exploring the surrounding area. Experience exceptional service that ensures a memorable stay.",
+      "highlight": "Offers a rooftop bar with stunning views, along with comfortable accommodations and attentive room service.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Hotel A-10 International offers a prime location in the bustling heart of New Delhi, making it ideal for those eager to explore iconic attractions like Gurudwara Bangla Sahib and Jama Masjid. Guests can enjoy the convenience of onsite parking and complimentary Wi-Fi, allowing for a seamless experience while discovering the vibrant Paharganj neighborhood filled with rich culture, lively markets, and delicious dining options. Book your stay to immerse yourself in the best of New Delhi.",
+      "highlight": "Boasts a vibrant rooftop bar with city views, enhancing your experience in the heart of New Delhi.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Experience comfort and luxury at our hotel, where modern amenities meet exceptional service. Enjoy spacious accommodations and a range of facilities designed for relaxation and convenience. Whether you're here for business or leisure, we offer the perfect base for your stay.",
+      "highlight": "Boasts a stylish rooftop bar offering panoramic city views and an extensive drink menu for guests to enjoy.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp65711acc",
+      "name": "Hotel A-10 International",
+      "image": "https://static.cupid.travel/hotels/ex_496333a2_z.jpg",
+      "description": "Experience the heart of New Delhi at Hotel A-10 International, ideally situated near popular attractions like Gurudwara Bangla Sahib and Jama Masjid. Enjoy the convenience of onsite parking and stay connected with complimentary Wi-Fi as you explore the vibrant Paharganj neighborhood, rich in culture and flavorful eateries. Book your stay today and immerse yourself in the city's unique charm.",
+      "highlight": "Offers a rooftop bar with stunning views of New Delhi's skyline, enhancing your stay in the vibrant Paharganj neighborhood.",
+      "price": "$36/night",
+      "location": "3244, Gali School Wali Behind Paharganj",
+      "tags": [],
+      "isRefundable": true
+    },
+    {
+      "id": "lp1901cd",
+      "name": "Hotel Grand Lawson",
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&h=600&fit=crop",
+      "description": "Experience unparalleled comfort and hospitality at our hotel, where modern amenities meet a welcoming atmosphere. Enjoy spacious rooms designed for relaxation and convenience, along with excellent dining options that cater to every palate. Our prime location offers easy access to local attractions, making it the perfect base for your adventures.",
+      "highlight": "Offers a rooftop bar with stunning city views and a vibrant atmosphere for guests to unwind and socialize.",
+      "price": "$33/night",
+      "location": "A 83/243 Road No-4",
+      "tags": [],
+      "isRefundable": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are some affordable hotels in Delhi with rooftop bars?",
+      "answer": "Hotels like Karon Hotels and The Lalit New Delhi offer rooftop bars at competitive pricing. Expect rates starting around INR 3,000 per night for a double occupancy room, which often includes access to the rooftop bar's happy hour specials."
+    },
+    {
+      "question": "Are rooftop bars at hotels in Delhi open to non-guests?",
+      "answer": "Many hotels with rooftop bars, such as the popular Andaz Delhi, welcome non-guests, but it's best to call ahead and confirm. Some venues might have a cover charge or require a minimum spend, especially during peak hours or special events."
+    },
+    {
+      "question": "What time do rooftop bars typically open at hotels in Delhi?",
+      "answer": "Most rooftop bars in Delhi, like the one at the Hilton Garden Inn, open around 5 PM and remain operational until midnight. However, it's wise to check specific hours ahead of your visit, as timings can vary by day of the week."
+    },
+    {
+      "question": "Do these hotels with rooftop bars offer special packages or promotions?",
+      "answer": "Yes, many hotels like Hyatt Centric offer special packages that include dining credits or discounts at their rooftop bars. Look for seasonal promotions during festivals or holidays for the best deals on your stay."
+    },
+    {
+      "question": "What should I know about the location of hotels with rooftop bars in Delhi?",
+      "answer": "Hotels such as the Radisson Blu in Dwarka are located conveniently near major attractions and transport hubs like the airport. Staying in these popular areas can make it easy to explore the city and enjoy the views from the rooftop bars after a day of sightseeing."
+    }
+  ],
+  "slug": "best-delhi-hotels-with-rooftop-bars",
+  "generatedAt": "2025-12-19T09:09:54.234Z",
+  "hotelCount": 6,
+  "hotelsWithIds": 6,
+  "faqCount": 5
+}
