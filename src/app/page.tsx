@@ -397,7 +397,7 @@ export default function Home() {
           {/* Footer */}
           <footer className="border-t border-gray-200 py-12 text-center">
             <p className="text-sm text-gray-600">
-              © {new Date().getFullYear()} StayGenie · Making hotel search magical ✨
+              © {new Date().getFullYear()} StayGenie · Making hotel search magical
             </p>
           </footer>
         </main>
