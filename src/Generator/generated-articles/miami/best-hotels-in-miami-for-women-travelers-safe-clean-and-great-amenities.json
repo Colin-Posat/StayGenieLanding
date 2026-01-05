@@ -14,7 +14,9 @@
       "price": "$782/night",
       "location": "1109 Brickell Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.762228,
+      "lng": -80.191117
     },
     {
       "id": "lp340c9",
@@ -25,7 +27,9 @@
       "price": "$1834/night",
       "location": "1435 Brickell Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.75934,
+      "lng": -80.19192
     },
     {
       "id": "lp2f326",
@@ -36,7 +40,9 @@
       "price": "$1613/night",
       "location": "455 Grand Bay Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.691517,
+      "lng": -80.158388
     },
     {
       "id": "lp42e7e",
@@ -47,7 +53,9 @@
       "price": "$571/night",
       "location": "270 Biscayne Blvd Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.770634,
+      "lng": -80.188933
     },
     {
       "id": "lp4b5f5",
@@ -58,7 +66,9 @@
       "price": "$1078/night",
       "location": "485 Brickell Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.76844,
+      "lng": -80.190025
     },
     {
       "id": "lpc9a9a",
@@ -69,7 +79,9 @@
       "price": "$634/night",
       "location": "1102 Brickell Bay Dr, Downtown Miami",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.762577,
+      "lng": -80.191854
     }
   ],
   "slug": "best-hotels-in-miami-for-women-travelers-safe-clean-and-great-amenities",

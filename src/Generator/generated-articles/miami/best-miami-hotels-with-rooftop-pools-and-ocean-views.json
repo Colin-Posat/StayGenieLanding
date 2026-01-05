@@ -14,7 +14,9 @@
       "price": "$801/night",
       "location": "270 Biscayne Blvd Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.770634,
+      "lng": -80.188933
     },
     {
       "id": "lp19c0d",
@@ -25,7 +27,9 @@
       "price": "$503/night",
       "location": "3000 Florida Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.728982,
+      "lng": -80.241232
     },
     {
       "id": "lp84ad1",
@@ -36,7 +40,9 @@
       "price": "$689/night",
       "location": "788 Brickell Plaza",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.766836,
+      "lng": -80.192076
     },
     {
       "id": "lpdff68",
@@ -47,7 +53,9 @@
       "price": "$561/night",
       "location": "805 S Miami avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.76564,
+      "lng": -80.19307
     },
     {
       "id": "lp8a284",
@@ -58,7 +66,9 @@
       "price": "$383/night",
       "location": "1500 SW 1st Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.75995,
+      "lng": -80.19662
     },
     {
       "id": "lp1d78f",
@@ -69,7 +79,9 @@
       "price": "$317/night",
       "location": "1717 N Bayshore Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.791283,
+      "lng": -80.18706
     }
   ],
   "slug": "best-miami-hotels-with-rooftop-pools-and-ocean-views",

@@ -14,7 +14,9 @@
       "price": "$229/night",
       "location": "Aviadores Del Chaco 2066",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -25.284409,
+      "lng": -57.565658
     },
     {
       "id": "lp883da",
@@ -25,7 +27,9 @@
       "price": "$163/night",
       "location": "Eulogio Estigarribia esquina Tte. Zotti",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -25.295198,
+      "lng": -57.582554
     },
     {
       "id": "lp8a9bc",
@@ -36,7 +40,9 @@
       "price": "$210/night",
       "location": "Avenida Aviadores Del Chaco 1761",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -25.284712,
+      "lng": -57.569096
     },
     {
       "id": "lpdf396",
@@ -47,7 +53,9 @@
       "price": "$102/night",
       "location": "Avenida Aviadores del Chaco N. 2935/55",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -25.279625,
+      "lng": -57.557791
     },
     {
       "id": "lp8aabb",
@@ -58,7 +66,9 @@
       "price": "$177/night",
       "location": "Avenidad Aviadores del Chaco 1392",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -25.2846,
+      "lng": -57.568295
     },
     {
       "id": "lp657d6d5b",
@@ -69,7 +79,9 @@
       "price": "$209/night",
       "location": "Av. Sudamerica 3104 - Luque",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -25.261827,
+      "lng": -57.515477
     }
   ],
   "faqs": [

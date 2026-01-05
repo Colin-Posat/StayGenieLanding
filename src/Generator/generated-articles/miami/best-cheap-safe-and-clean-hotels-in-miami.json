@@ -14,7 +14,9 @@
       "price": "$101/night",
       "location": "115 S Deacan Turner Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.88271,
+      "lng": -94.85521
     },
     {
       "id": "lp22d62",
@@ -25,7 +27,9 @@
       "price": "$89/night",
       "location": "2120 E Steve Owens Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.870955,
+      "lng": -94.854748
     },
     {
       "id": "lp84f54",
@@ -36,7 +40,9 @@
       "price": "$134/night",
       "location": "4251 NW 11th St.",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.782641,
+      "lng": -80.265033
     },
     {
       "id": "lp2cba2",
@@ -47,7 +53,9 @@
       "price": "$129/night",
       "location": "7330 NW 36th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.808879,
+      "lng": -80.316238
     },
     {
       "id": "lp1b4d8",
@@ -58,7 +66,9 @@
       "price": "$126/night",
       "location": "3401 NW Lejeune Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.805126,
+      "lng": -80.263903
     },
     {
       "id": "lp65594432",
@@ -69,7 +79,9 @@
       "price": "$147/night",
       "location": "730 South Dixie Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.721971,
+      "lng": -80.26747
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-miami",

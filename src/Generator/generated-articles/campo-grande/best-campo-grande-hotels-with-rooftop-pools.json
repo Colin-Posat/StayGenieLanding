@@ -14,7 +14,9 @@
       "price": "$119/night",
       "location": "Avenida Mato Grosso 5555",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -20.447251,
+      "lng": -54.568008
     },
     {
       "id": "lp656237ff",
@@ -25,7 +27,9 @@
       "price": "$109/night",
       "location": "51 Travessa Ana Vani Edifício Vertigo, Ap. 703",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -20.461709,
+      "lng": -54.59956
     },
     {
       "id": "lp200747",
@@ -36,7 +40,9 @@
       "price": "$84/night",
       "location": "Av Afonso Pena 354",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -20.46781,
+      "lng": -54.632057
     },
     {
       "id": "lp88167",
@@ -47,7 +53,9 @@
       "price": "$76/night",
       "location": "Rua Barão do Rio Branco, 1271",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -20.462344,
+      "lng": -54.616393
     },
     {
       "id": "lp658492e4",
@@ -58,7 +66,9 @@
       "price": "$64/night",
       "location": "Rua Alan Kardec, 174",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -20.463204,
+      "lng": -54.625658
     },
     {
       "id": "lp84995",
@@ -69,7 +79,9 @@
       "price": "$53/night",
       "location": "Av. Afonso Pena, 743",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -20.466028,
+      "lng": -54.629141
     }
   ],
   "faqs": [

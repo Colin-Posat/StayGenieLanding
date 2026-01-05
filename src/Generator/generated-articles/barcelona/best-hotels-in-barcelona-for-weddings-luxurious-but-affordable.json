@@ -14,7 +14,9 @@
       "price": "$287/night",
       "location": "Paseo de Garcia Faria, 69",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.40371,
+      "lng": 2.213729
     },
     {
       "id": "lp2057a",
@@ -25,7 +27,9 @@
       "price": "$275/night",
       "location": "Avinguda del Paral-lel, 64",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.375121,
+      "lng": 2.169183
     },
     {
       "id": "lp34bbc",
@@ -36,7 +40,9 @@
       "price": "$274/night",
       "location": "Consell De Cent, 444",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.398389,
+      "lng": 2.175714
     },
     {
       "id": "lp3af86",
@@ -47,7 +53,9 @@
       "price": "$260/night",
       "location": "Balmes 103-105",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.391711,
+      "lng": 2.159257
     },
     {
       "id": "lp2f317",
@@ -58,7 +66,9 @@
       "price": "$225/night",
       "location": "Via Laietana, 61",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.387879,
+      "lng": 2.173456
     },
     {
       "id": "lp232e2",
@@ -69,7 +79,9 @@
       "price": "$252/night",
       "location": "Carrer de Arago, 256",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.39071,
+      "lng": 2.16298
     }
   ],
   "slug": "best-hotels-in-barcelona-for-weddings-luxurious-but-affordable",

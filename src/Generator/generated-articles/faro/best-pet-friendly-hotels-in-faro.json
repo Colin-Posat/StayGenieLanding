@@ -14,7 +14,9 @@
       "price": "$111/night",
       "location": "rua batista severino lote 104 MONTENEGRO",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.0351,
+      "lng": -7.958001
     },
     {
       "id": "lp1f2ceb",
@@ -25,7 +27,9 @@
       "price": "$100/night",
       "location": "Rua Batista Lopes 50",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.018076,
+      "lng": -7.933447
     },
     {
       "id": "lp45956",
@@ -36,7 +40,9 @@
       "price": "$95/night",
       "location": "Estrada Senhora Saude, 24",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.022555,
+      "lng": -7.938703
     },
     {
       "id": "lp3ec56",
@@ -47,7 +53,9 @@
       "price": "$89/night",
       "location": "Rua General Teofilo Da Trindade 20",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.020685,
+      "lng": -7.932735
     },
     {
       "id": "lp6567ae44",
@@ -58,7 +66,9 @@
       "price": "$226/night",
       "location": "Praia de Faro Avenida Nascente Nº2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.007427,
+      "lng": -7.99392
     },
     {
       "id": "lp655fffc9",
@@ -69,7 +79,9 @@
       "price": "$208/night",
       "location": "Rua Miguel Bombarda lote A, 2o Frente",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.020548,
+      "lng": -7.940537
     }
   ],
   "faqs": [

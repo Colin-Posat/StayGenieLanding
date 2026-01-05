@@ -14,7 +14,9 @@
       "price": "$97/night",
       "location": "7006 S Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.976136,
+      "lng": -118.278106
     },
     {
       "id": "lpa5271",
@@ -25,7 +27,9 @@
       "price": "$86/night",
       "location": "12012 S Figueroa St.",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.9233,
+      "lng": -118.2823
     },
     {
       "id": "lp420f4",
@@ -36,7 +40,9 @@
       "price": "$105/night",
       "location": "5435 W Sunset Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.09813,
+      "lng": -118.3083
     },
     {
       "id": "lp312f3",
@@ -47,7 +53,9 @@
       "price": "$100/night",
       "location": "1536 N Western Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.099111,
+      "lng": -118.309126
     },
     {
       "id": "lpc69cc",
@@ -58,7 +66,9 @@
       "price": "$100/night",
       "location": "7400 S Figueroa st",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.972589,
+      "lng": -118.282285
     },
     {
       "id": "lp655d4bf9",
@@ -69,7 +79,9 @@
       "price": "$107/night",
       "location": "4321 Sepulveda Boulevard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.004136,
+      "lng": -118.409407
     }
   ],
   "slug": "what-are-the-best-hotels-in-los-angeles-under-100-and-clean",

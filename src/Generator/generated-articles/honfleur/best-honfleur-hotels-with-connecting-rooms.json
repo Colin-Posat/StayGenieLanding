@@ -14,7 +14,9 @@
       "price": "$344/night",
       "location": "8, place du Puits",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 49.42039,
+      "lng": 0.22866
     },
     {
       "id": "lp65690cf0",
@@ -25,7 +27,9 @@
       "price": "$512/night",
       "location": "7 Rue Notre Dame",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 49.4183,
+      "lng": 0.2338
     },
     {
       "id": "lp656a5c6c",
@@ -36,7 +40,9 @@
       "price": "$303/night",
       "location": "14 Chemin du Petit Galvani",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 49.41132,
+      "lng": 0.25018
     },
     {
       "id": "lp65686cfb",
@@ -47,7 +53,9 @@
       "price": "$396/night",
       "location": "34 Rue Bucaille",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 49.42135,
+      "lng": 0.2288
     },
     {
       "id": "lp655b8fbe",
@@ -58,7 +66,9 @@
       "price": "$306/night",
       "location": "44 Rue Des Capucins",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 49.421753,
+      "lng": 0.22969
     },
     {
       "id": "lpce56d",
@@ -69,7 +79,9 @@
       "price": "$255/night",
       "location": "51 Rue Haute",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 49.4227,
+      "lng": 0.23146
     }
   ],
   "faqs": [

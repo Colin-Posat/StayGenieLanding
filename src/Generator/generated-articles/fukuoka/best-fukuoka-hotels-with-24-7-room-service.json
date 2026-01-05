@@ -14,7 +14,9 @@
       "price": "$228/night",
       "location": "3-5-7 Tenjin, Chuo-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.592164,
+      "lng": 130.395779
     },
     {
       "id": "lp2285f",
@@ -25,7 +27,9 @@
       "price": "$298/night",
       "location": "3-2 Shimokawabata-machi Hakata-ku",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.595676,
+      "lng": 130.40484
     },
     {
       "id": "lp56271",
@@ -36,7 +40,9 @@
       "price": "$249/night",
       "location": "2-2-3 Jigyohama Chuo-Ku",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.594474,
+      "lng": 130.359773
     },
     {
       "id": "lp1f42e",
@@ -47,7 +53,9 @@
       "price": "$345/night",
       "location": "1- 2- 82 Sumiyoshi, Hakata- Ku",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.589766,
+      "lng": 130.410435
     },
     {
       "id": "lp65558f23",
@@ -58,7 +66,9 @@
       "price": "$286/night",
       "location": "3-4-13 Watanabedori, Chuo-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.584849,
+      "lng": 130.404577
     },
     {
       "id": "lp6555af4c",
@@ -69,7 +79,9 @@
       "price": "$179/night",
       "location": "6-6-5 Teriha, Higashi-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.669234,
+      "lng": 130.413912
     }
   ],
   "faqs": [

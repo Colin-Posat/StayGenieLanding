@@ -14,7 +14,9 @@
       "price": "$89/night",
       "location": "Borssenburgstraat 5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.348916,
+      "lng": 4.908609
     },
     {
       "id": "lpbbeb8",
@@ -25,7 +27,9 @@
       "price": "$84/night",
       "location": "Meeuwenlaan 120",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.386441,
+      "lng": 4.92333
     },
     {
       "id": "lp379db",
@@ -36,7 +40,9 @@
       "price": "$76/night",
       "location": "John M. Keynesplein 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.341706,
+      "lng": 4.825039
     },
     {
       "id": "lp8e21c",
@@ -47,7 +53,9 @@
       "price": "$73/night",
       "location": "Osdorpplein 372A",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.359363,
+      "lng": 4.804029
     },
     {
       "id": "lpa7e1b",
@@ -58,7 +66,9 @@
       "price": "$90/night",
       "location": "Jan Pieter Heijestraat 130",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.362285,
+      "lng": 4.864125
     },
     {
       "id": "lp820a1",
@@ -69,7 +79,9 @@
       "price": "$78/night",
       "location": "Heathrowstraat 3-5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.38548,
+      "lng": 4.832859
     }
   ],
   "slug": "what-are-the-best-hotels-in-amsterdam-under-100-and-clean",

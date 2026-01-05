@@ -14,7 +14,9 @@
       "price": "$95/night",
       "location": "116 Sussex Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515975,
+      "lng": -0.171916
     },
     {
       "id": "lp74e68",
@@ -25,7 +27,9 @@
       "price": "$97/night",
       "location": "195 - 197 Sumatra Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.54886,
+      "lng": -0.192326
     },
     {
       "id": "lp51d1c",
@@ -36,7 +40,9 @@
       "price": "$81/night",
       "location": "19 Argyle Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.528996,
+      "lng": -0.121684
     },
     {
       "id": "lp7310e",
@@ -47,7 +53,9 @@
       "price": "$79/night",
       "location": "368-370 Green Lanes",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.574183,
+      "lng": -0.097766
     },
     {
       "id": "lp6c58c",
@@ -58,7 +66,9 @@
       "price": "$83/night",
       "location": "167 Horn Lane",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.513976,
+      "lng": -0.269777
     },
     {
       "id": "lp4b29b",
@@ -69,7 +79,9 @@
       "price": "$74/night",
       "location": "104 Turnham Green Terrace",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.494872,
+      "lng": -0.255139
     }
   ],
   "slug": "what-are-the-best-hotels-in-london-under-100-and-clean",

@@ -14,7 +14,9 @@
       "price": "$575/night",
       "location": "2, Wallenberg Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515173,
+      "lng": -0.159457
     },
     {
       "id": "lp2286f",
@@ -25,7 +27,9 @@
       "price": "$689/night",
       "location": "222 Marylebone Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.521428,
+      "lng": -0.162601
     },
     {
       "id": "lp2c662",
@@ -36,7 +40,9 @@
       "price": "$1181/night",
       "location": "Hyde Park Corner",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.502497,
+      "lng": -0.152366
     },
     {
       "id": "lp1f858",
@@ -47,7 +53,9 @@
       "price": "$555/night",
       "location": "1 Kensington Court",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.502188,
+      "lng": -0.186714
     },
     {
       "id": "lp3944f",
@@ -58,7 +66,9 @@
       "price": "$629/night",
       "location": "South Quay, Marsh Wall",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.501118,
+      "lng": -0.019873
     },
     {
       "id": "lp2a32f",
@@ -69,7 +79,9 @@
       "price": "$1156/night",
       "location": "Strand",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.510298,
+      "lng": -0.12086
     }
   ],
   "faqs": [

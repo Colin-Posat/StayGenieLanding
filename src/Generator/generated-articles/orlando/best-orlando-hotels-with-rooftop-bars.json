@@ -14,7 +14,9 @@
       "price": "$216/night",
       "location": "60 South Ivanhoe Boulevard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 28.559198,
+      "lng": -81.379168
     },
     {
       "id": "lp2938b0",
@@ -25,7 +27,9 @@
       "price": "$674/night",
       "location": "14900 Chelonia Parkway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 28.360428,
+      "lng": -81.52775
     },
     {
       "id": "lp4b194",
@@ -36,7 +40,9 @@
       "price": "$338/night",
       "location": "6001 Destination Parkway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.424864,
+      "lng": -81.457805
     },
     {
       "id": "lp4b194",
@@ -47,7 +53,9 @@
       "price": "$338/night",
       "location": "6001 Destination Parkway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.424864,
+      "lng": -81.457805
     },
     {
       "id": "lp82565",
@@ -58,7 +66,9 @@
       "price": "$405/night",
       "location": "6601 Adventure Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.467107,
+      "lng": -81.471659
     },
     {
       "id": "lp2cc73",
@@ -69,7 +79,9 @@
       "price": "$1487/night",
       "location": "4012 Central Florida Parkway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 28.405257,
+      "lng": -81.429052
     }
   ],
   "faqs": [

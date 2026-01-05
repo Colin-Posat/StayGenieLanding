@@ -14,7 +14,9 @@
       "price": "$164/night",
       "location": "Via Flaminia 520",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.9396,
+      "lng": 12.469509
     },
     {
       "id": "lp47354",
@@ -25,7 +27,9 @@
       "price": "$233/night",
       "location": "Largo S. Alfonso, 5",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.895907,
+      "lng": 12.499878
     },
     {
       "id": "lp2b699",
@@ -36,7 +40,9 @@
       "price": "$125/night",
       "location": "Via Torquato Taramelli 7",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.92259,
+      "lng": 12.48314
     },
     {
       "id": "lp2a23a",
@@ -47,7 +53,9 @@
       "price": "$164/night",
       "location": "Via Marghera 51",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.903568,
+      "lng": 12.505349
     },
     {
       "id": "lp1dc98",
@@ -58,7 +66,9 @@
       "price": "$131/night",
       "location": "Via Leonina 14",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.89481,
+      "lng": 12.49179
     },
     {
       "id": "lp36305",
@@ -69,7 +79,9 @@
       "price": "$87/night",
       "location": "Via Aurelia 734/8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.892303,
+      "lng": 12.41338
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-rome",

@@ -14,7 +14,9 @@
       "price": "$360/night",
       "location": "807 Clark Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.155753,
+      "lng": -86.78017
     },
     {
       "id": "lp655766eb",
@@ -25,7 +27,9 @@
       "price": "$347/night",
       "location": "708 Demonbreun Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.157572,
+      "lng": -86.78041
     },
     {
       "id": "lp655766eb",
@@ -36,7 +40,9 @@
       "price": "$347/night",
       "location": "708 Demonbreun Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.157572,
+      "lng": -86.78041
     },
     {
       "id": "lp1c618",
@@ -47,7 +53,9 @@
       "price": "$213/night",
       "location": "315 4th Avenue N",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.165584,
+      "lng": -86.780357
     },
     {
       "id": "lp3e4b7",
@@ -58,7 +66,9 @@
       "price": "$192/night",
       "location": "310 4th Avenue South",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.157887,
+      "lng": -86.774587
     },
     {
       "id": "lp19eca7",
@@ -69,7 +79,9 @@
       "price": "$411/night",
       "location": "210 4th Avenue North",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.164202,
+      "lng": -86.778967
     }
   ],
   "slug": "best-nashville-hotels-with-live-music",

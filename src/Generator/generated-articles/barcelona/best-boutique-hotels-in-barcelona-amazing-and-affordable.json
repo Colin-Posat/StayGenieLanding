@@ -14,7 +14,9 @@
       "price": "$170/night",
       "location": "Carrer de Laforja, 98",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.396477,
+      "lng": 2.145284
     },
     {
       "id": "lp6501b",
@@ -25,7 +27,9 @@
       "price": "$199/night",
       "location": "Carrer de Bruc 117",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.396415,
+      "lng": 2.166552
     },
     {
       "id": "lp7bb7a",
@@ -36,7 +40,9 @@
       "price": "$138/night",
       "location": "Balmes 83, 1-2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391014,
+      "lng": 2.160125
     },
     {
       "id": "lp6e9c7",
@@ -47,7 +53,9 @@
       "price": "$212/night",
       "location": "Avd. Diagonal, 578, piso 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.393841,
+      "lng": 2.148262
     },
     {
       "id": "lp5bc6c",
@@ -58,7 +66,9 @@
       "price": "$250/night",
       "location": "La Rambla, 79",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.38146,
+      "lng": 2.17289
     },
     {
       "id": "lp63301",
@@ -69,7 +79,9 @@
       "price": "$166/night",
       "location": "Ronda De Sant Antoni, 61",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.384756,
+      "lng": 2.163772
     }
   ],
   "slug": "best-boutique-hotels-in-barcelona-amazing-and-affordable",

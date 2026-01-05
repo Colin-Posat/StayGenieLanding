@@ -14,7 +14,9 @@
       "price": "$88/night",
       "location": "Molenwerf 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.385625,
+      "lng": 4.847168
     },
     {
       "id": "lp53b3d",
@@ -25,7 +27,9 @@
       "price": "$89/night",
       "location": "Borssenburgstraat 5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.348916,
+      "lng": 4.908609
     },
     {
       "id": "lp6a51c",
@@ -36,7 +40,9 @@
       "price": "$88/night",
       "location": "Warmoesstraat 22",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.375912,
+      "lng": 4.898863
     },
     {
       "id": "lp6ed67",
@@ -47,7 +53,9 @@
       "price": "$94/night",
       "location": "Leidsegracht 111",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.365217,
+      "lng": 4.880681
     },
     {
       "id": "lpa7e1b",
@@ -58,7 +66,9 @@
       "price": "$90/night",
       "location": "Jan Pieter Heijestraat 130",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.362285,
+      "lng": 4.864125
     },
     {
       "id": "lp5434c",
@@ -69,7 +79,9 @@
       "price": "$198/night",
       "location": "Spuistraat 52",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.376151,
+      "lng": 4.892467
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-amsterdam",

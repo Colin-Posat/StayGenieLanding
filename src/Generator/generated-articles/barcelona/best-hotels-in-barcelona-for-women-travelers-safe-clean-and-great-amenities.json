@@ -14,7 +14,9 @@
       "price": "$566/night",
       "location": "Carrer de Sant Sever, 5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.383216,
+      "lng": 2.175277
     },
     {
       "id": "lp42c97",
@@ -25,7 +27,9 @@
       "price": "$405/night",
       "location": "Avinguda del Tibidabo, 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.410717,
+      "lng": 2.136294
     },
     {
       "id": "lp1f5ed",
@@ -36,7 +40,9 @@
       "price": "$697/night",
       "location": "Avenida Ruis I Taulet 1-3",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.372787,
+      "lng": 2.154922
     },
     {
       "id": "lp1ed9f",
@@ -47,7 +53,9 @@
       "price": "$744/night",
       "location": "Marina 19–21",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.387217,
+      "lng": 2.196072
     },
     {
       "id": "lp357f1",
@@ -58,7 +66,9 @@
       "price": "$342/night",
       "location": "Avenida Bogatell, 64-68",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.392888,
+      "lng": 2.192607
     },
     {
       "id": "lp67658",
@@ -69,7 +79,9 @@
       "price": "$1645/night",
       "location": "Gran Via de las Corts Catalanes, 629",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391223,
+      "lng": 2.170377
     }
   ],
   "slug": "best-hotels-in-barcelona-for-women-travelers-safe-clean-and-great-amenities",

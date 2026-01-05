@@ -14,7 +14,9 @@
       "price": "$32/night",
       "location": "1032/26-28 Phaholyotin 18/1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.803715,
+      "lng": 100.556466
     },
     {
       "id": "lp578f1",
@@ -25,7 +27,9 @@
       "price": "$35/night",
       "location": "514 Ramkhamhaeng 39, Prachautit Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.768229,
+      "lng": 100.597404
     },
     {
       "id": "lp7602a",
@@ -36,7 +40,9 @@
       "price": "$49/night",
       "location": "300/1, Srivara Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.773126,
+      "lng": 100.608563
     },
     {
       "id": "lp6a489",
@@ -47,7 +53,9 @@
       "price": "$40/night",
       "location": "113,117 Samsen Road, Samphraya",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.764362,
+      "lng": 100.499528
     },
     {
       "id": "lp5e6d1",
@@ -58,7 +66,9 @@
       "price": "$62/night",
       "location": "22 Sukhumvit Soi 13",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.742777,
+      "lng": 100.557802
     },
     {
       "id": "lp6975c",
@@ -69,7 +79,9 @@
       "price": "$50/night",
       "location": "298/3-7 Soi Silom 28",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.72427,
+      "lng": 100.521123
     }
   ],
   "slug": "what-are-the-best-hotels-in-bangkok-under-100-and-clean",

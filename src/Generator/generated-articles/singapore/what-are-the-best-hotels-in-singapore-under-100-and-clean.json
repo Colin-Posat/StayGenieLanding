@@ -14,7 +14,9 @@
       "price": "$57/night",
       "location": "23 Lorong 20 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311944,
+      "lng": 103.881373
     },
     {
       "id": "lp59dcd",
@@ -25,7 +27,9 @@
       "price": "$57/night",
       "location": "20 Lorong 16 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311848,
+      "lng": 103.879761
     },
     {
       "id": "lp5f62d",
@@ -36,7 +40,9 @@
       "price": "$65/night",
       "location": "61 Lorong 8 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.310896,
+      "lng": 103.876923
     },
     {
       "id": "lp59d80",
@@ -47,7 +53,9 @@
       "price": "$71/night",
       "location": "181 Joo Chiat Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.312258,
+      "lng": 103.900433
     },
     {
       "id": "lp59ddb",
@@ -58,7 +66,9 @@
       "price": "$76/night",
       "location": "161 Selegie Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.303656,
+      "lng": 103.849978
     },
     {
       "id": "lp59dce",
@@ -69,7 +79,9 @@
       "price": "$62/night",
       "location": "31 Lorong 18 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311561,
+      "lng": 103.880748
     }
   ],
   "slug": "what-are-the-best-hotels-in-singapore-under-100-and-clean",

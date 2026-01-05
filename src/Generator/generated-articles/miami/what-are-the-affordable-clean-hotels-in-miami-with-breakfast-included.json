@@ -14,7 +14,9 @@
       "price": "$101/night",
       "location": "115 S Deacan Turner Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.88271,
+      "lng": -94.85521
     },
     {
       "id": "lp69a1b",
@@ -25,7 +27,9 @@
       "price": "$202/night",
       "location": "6750 Nw 7th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.776888,
+      "lng": -80.307512
     },
     {
       "id": "lp20170",
@@ -36,7 +40,9 @@
       "price": "$255/night",
       "location": "8436 NW 36th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.809299,
+      "lng": -80.334028
     },
     {
       "id": "lp29976",
@@ -47,7 +53,9 @@
       "price": "$197/night",
       "location": "777 Nw 57th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.778822,
+      "lng": -80.288184
     },
     {
       "id": "lp40939",
@@ -58,7 +66,9 @@
       "price": "$188/night",
       "location": "509 Hendley Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.868455,
+      "lng": -94.852953
     },
     {
       "id": "lp33a21a",
@@ -69,7 +79,9 @@
       "price": "$202/night",
       "location": "665 Mokena Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.808659,
+      "lng": -80.273998
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-miami-with-breakfast-included",

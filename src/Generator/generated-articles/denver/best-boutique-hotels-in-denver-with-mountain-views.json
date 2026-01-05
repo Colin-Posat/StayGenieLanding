@@ -14,7 +14,9 @@
       "price": "$311/night",
       "location": "1600 Wewatta St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.75361,
+      "lng": -105.002154
     },
     {
       "id": "lp39a0b",
@@ -25,7 +27,9 @@
       "price": "$1511/night",
       "location": "650 15th St.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.743721,
+      "lng": -104.993232
     },
     {
       "id": "lp19e88",
@@ -36,7 +40,9 @@
       "price": "$389/night",
       "location": "1701 California St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.746914,
+      "lng": -104.990322
     },
     {
       "id": "lp769ee",
@@ -47,7 +53,9 @@
       "price": "$209/night",
       "location": "1201 Broadway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.735583,
+      "lng": -104.98756
     },
     {
       "id": "lp201e2",
@@ -58,7 +66,9 @@
       "price": "$167/night",
       "location": "1450 Glenarm Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.742484,
+      "lng": -104.991843
     },
     {
       "id": "lp655747a2",
@@ -69,7 +79,9 @@
       "price": "$226/night",
       "location": "3770 Walnut St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.76971,
+      "lng": -104.972336
     }
   ],
   "slug": "best-boutique-hotels-in-denver-with-mountain-views",

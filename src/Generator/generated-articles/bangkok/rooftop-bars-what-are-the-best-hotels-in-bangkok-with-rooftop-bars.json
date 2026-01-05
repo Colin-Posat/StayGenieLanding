@@ -14,7 +14,9 @@
       "price": "$206/night",
       "location": "State Tower 1055/111 Silom Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.721837,
+      "lng": 100.516904
     },
     {
       "id": "lp1f491",
@@ -25,7 +27,9 @@
       "price": "$231/night",
       "location": "21/100 South Sathon Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.723637,
+      "lng": 100.539692
     },
     {
       "id": "lp6375c",
@@ -36,7 +40,9 @@
       "price": "$244/night",
       "location": "Park Venture Ecoplex",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.742729,
+      "lng": 100.54775
     },
     {
       "id": "lp5c2f6",
@@ -47,7 +53,9 @@
       "price": "$157/night",
       "location": "55/555 Langsuan Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.740189,
+      "lng": 100.543248
     },
     {
       "id": "lp5f19e",
@@ -58,7 +66,9 @@
       "price": "$192/night",
       "location": "2 North Sathorn Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.726227,
+      "lng": 100.543192
     },
     {
       "id": "lp5a22b",
@@ -69,7 +79,9 @@
       "price": "$455/night",
       "location": "159 Rajadamri Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.739343,
+      "lng": 100.540266
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-bangkok-with-rooftop-bars",

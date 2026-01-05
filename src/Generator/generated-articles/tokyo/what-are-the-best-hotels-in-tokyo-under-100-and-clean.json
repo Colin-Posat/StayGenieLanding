@@ -14,7 +14,9 @@
       "price": "$69/night",
       "location": "3-7-3 Kayabacho, Nihombashi, Chuo-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.677753,
+      "lng": 139.778567
     },
     {
       "id": "lp8748a",
@@ -25,7 +27,9 @@
       "price": "$46/night",
       "location": "1-20-15 Higashi Gotanda",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.626253,
+      "lng": 139.72573
     },
     {
       "id": "lp8b362",
@@ -36,7 +40,9 @@
       "price": "$70/night",
       "location": "1-7-19 Funabori",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.684653,
+      "lng": 139.863055
     },
     {
       "id": "lpa7ca7",
@@ -47,7 +53,9 @@
       "price": "$73/night",
       "location": "Shiomi 2-8-8, Koto-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.65833,
+      "lng": 139.818342
     },
     {
       "id": "lp8b710",
@@ -58,7 +66,9 @@
       "price": "$70/night",
       "location": "1-10-4 Narihira",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.708719,
+      "lng": 139.810301
     },
     {
       "id": "lpb84ed",
@@ -69,7 +79,9 @@
       "price": "$76/night",
       "location": "2-11-18 Higashikojiya, Ota-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.554402,
+      "lng": 139.741302
     }
   ],
   "slug": "what-are-the-best-hotels-in-tokyo-under-100-and-clean",

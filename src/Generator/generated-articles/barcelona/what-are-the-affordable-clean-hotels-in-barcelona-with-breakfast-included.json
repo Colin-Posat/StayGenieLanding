@@ -14,7 +14,9 @@
       "price": "$84/night",
       "location": "La Rambla, 86",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.381652,
+      "lng": 2.173063
     },
     {
       "id": "lp5cb12",
@@ -25,7 +27,9 @@
       "price": "$170/night",
       "location": "Carrer de Laforja, 98",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.396477,
+      "lng": 2.145284
     },
     {
       "id": "lp63301",
@@ -36,7 +40,9 @@
       "price": "$166/night",
       "location": "Ronda De Sant Antoni, 61",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.384756,
+      "lng": 2.163772
     },
     {
       "id": "lp463fa",
@@ -47,7 +53,9 @@
       "price": "$298/night",
       "location": "Calle Girona 24",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391918,
+      "lng": 2.175151
     },
     {
       "id": "lp5bc6c",
@@ -58,7 +66,9 @@
       "price": "$250/night",
       "location": "La Rambla, 79",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.38146,
+      "lng": 2.17289
     },
     {
       "id": "lp6e9c7",
@@ -69,7 +79,9 @@
       "price": "$212/night",
       "location": "Avd. Diagonal, 578, piso 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.393841,
+      "lng": 2.148262
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-barcelona-with-breakfast-included",

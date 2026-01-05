@@ -14,7 +14,9 @@
       "price": "$559/night",
       "location": "Gran Via de les Corts Catalanes 668",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391439,
+      "lng": 2.171449
     },
     {
       "id": "lp1f869",
@@ -25,7 +27,9 @@
       "price": "$598/night",
       "location": "La Rambla, La 111",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.38355,
+      "lng": 2.170577
     },
     {
       "id": "lp3cf1c",
@@ -36,7 +40,9 @@
       "price": "$263/night",
       "location": "Pl de Palau 17",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.382826,
+      "lng": 2.184606
     },
     {
       "id": "lp364e0",
@@ -47,7 +53,9 @@
       "price": "$549/night",
       "location": "Ronda Universitat, 21",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.386836,
+      "lng": 2.16672
     },
     {
       "id": "lp6b924",
@@ -58,7 +66,9 @@
       "price": "$278/night",
       "location": "Calle Hospital, 155",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.379459,
+      "lng": 2.166622
     },
     {
       "id": "lp357f1",
@@ -69,7 +79,9 @@
       "price": "$342/night",
       "location": "Avenida Bogatell, 64-68",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.392888,
+      "lng": 2.192607
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-barcelona",

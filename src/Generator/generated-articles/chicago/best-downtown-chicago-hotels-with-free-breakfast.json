@@ -14,7 +14,9 @@
       "price": "$427/night",
       "location": "720 S Michigan Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.872504,
+      "lng": -87.624426
     },
     {
       "id": "lp80742",
@@ -25,7 +27,9 @@
       "price": "$269/night",
       "location": "68 E. Wacker Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.886865,
+      "lng": -87.625524
     },
     {
       "id": "lp656bc994",
@@ -36,7 +40,9 @@
       "price": "$228/night",
       "location": "710 S Seeley Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.87304,
+      "lng": -87.6783
     },
     {
       "id": "lp9897e",
@@ -47,7 +53,9 @@
       "price": "$330/night",
       "location": "118 North Jefferson Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.883803,
+      "lng": -87.642957
     },
     {
       "id": "lp1c515d",
@@ -58,7 +66,9 @@
       "price": "$241/night",
       "location": "59 E. 11th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.869097,
+      "lng": -87.62566
     },
     {
       "id": "lp1c5194",
@@ -69,7 +79,9 @@
       "price": "$259/night",
       "location": "55 E 11th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.869097,
+      "lng": -87.62566
     }
   ],
   "slug": "best-downtown-chicago-hotels-with-free-breakfast",

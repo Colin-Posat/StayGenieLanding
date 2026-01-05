@@ -14,7 +14,9 @@
       "price": "$190/night",
       "location": "5485 Financial Plaza",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.453556,
+      "lng": -93.846183
     },
     {
       "id": "lp1c20e",
@@ -25,7 +27,9 @@
       "price": "$171/night",
       "location": "6700 Financial Cir",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.449512,
+      "lng": -93.861992
     },
     {
       "id": "lp251a8",
@@ -36,7 +40,9 @@
       "price": "$187/night",
       "location": "6001 Financial Plaza",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.451022,
+      "lng": -93.858606
     },
     {
       "id": "lp2f885",
@@ -47,7 +53,9 @@
       "price": "$164/night",
       "location": "4910 W Monkhouse Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.46338,
+      "lng": -93.82808
     },
     {
       "id": "lp82f1d",
@@ -58,7 +66,9 @@
       "price": "$124/night",
       "location": "201 Lake Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.510837,
+      "lng": -93.743757
     },
     {
       "id": "lp4b13e",
@@ -69,7 +79,9 @@
       "price": "$190/night",
       "location": "5485 Financial Plaza",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.453556,
+      "lng": -93.846183
     }
   ],
   "faqs": [

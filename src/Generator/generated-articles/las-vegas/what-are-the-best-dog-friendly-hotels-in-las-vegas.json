@@ -14,7 +14,9 @@
       "price": "$197/night",
       "location": "4288 N Nellis Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.237796,
+      "lng": -115.061708
     },
     {
       "id": "lp21d89",
@@ -25,7 +27,9 @@
       "price": "$220/night",
       "location": "4315 University Center Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.110886,
+      "lng": -115.150776
     },
     {
       "id": "lp257ea",
@@ -36,7 +40,9 @@
       "price": "$172/night",
       "location": "7250 Pollock Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.058508,
+      "lng": -115.144878
     },
     {
       "id": "lpafe16",
@@ -47,7 +53,9 @@
       "price": "$141/night",
       "location": "1741 N. Boulder Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.062463,
+      "lng": -115.008362
     },
     {
       "id": "lp1b913",
@@ -58,7 +66,9 @@
       "price": "$115/night",
       "location": "3000 Paradise Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.136032,
+      "lng": -115.15471
     },
     {
       "id": "lp655533e6",
@@ -69,7 +79,9 @@
       "price": "$178/night",
       "location": "7850 Giles Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.046757,
+      "lng": -115.16974
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-las-vegas",

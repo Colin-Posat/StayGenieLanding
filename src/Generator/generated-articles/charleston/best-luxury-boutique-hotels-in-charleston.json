@@ -14,7 +14,9 @@
       "price": "$1039/night",
       "location": "334 Meeting Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.787769,
+      "lng": -79.934729
     },
     {
       "id": "lp52dd7",
@@ -25,7 +27,9 @@
       "price": "$863/night",
       "location": "75 Wentworth Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.7824,
+      "lng": -79.934052
     },
     {
       "id": "lp3f7cb",
@@ -36,7 +40,9 @@
       "price": "$462/night",
       "location": "40 Pinckney St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.782302,
+      "lng": -79.929892
     },
     {
       "id": "lp6574d4f9",
@@ -47,7 +53,9 @@
       "price": "$486/night",
       "location": "19 Vendue Range and 26 Vendue Range",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.778541,
+      "lng": -79.926501
     },
     {
       "id": "lpc2243",
@@ -58,7 +66,9 @@
       "price": "$698/night",
       "location": "117 Calhoun Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.787006,
+      "lng": -79.932878
     },
     {
       "id": "lp6574d4f9",
@@ -69,7 +79,9 @@
       "price": "$486/night",
       "location": "19 Vendue Range and 26 Vendue Range",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.778541,
+      "lng": -79.926501
     }
   ],
   "faqs": [

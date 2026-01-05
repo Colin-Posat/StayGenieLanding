@@ -14,7 +14,9 @@
       "price": "$25/night",
       "location": "52 Chakrapong Road, Banglampoo",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.759513,
+      "lng": 100.49554
     },
     {
       "id": "lp4cd4f",
@@ -25,7 +27,9 @@
       "price": "$29/night",
       "location": "1892/1 Ladkabang District Ladkabang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.716912,
+      "lng": 100.77629
     },
     {
       "id": "lp5c73e",
@@ -36,7 +40,9 @@
       "price": "$34/night",
       "location": "33 Soi Petchburi 11, Petchburi Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.754969,
+      "lng": 100.535562
     },
     {
       "id": "lp655c1",
@@ -47,7 +53,9 @@
       "price": "$33/night",
       "location": "90/41-44,90/79-81 Ratchaprarop Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.7556,
+      "lng": 100.54094
     },
     {
       "id": "lp6f8a8",
@@ -58,7 +66,9 @@
       "price": "$31/night",
       "location": "68 Soi Intamara 45 (Ratchada 17)",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.786164,
+      "lng": 100.569548
     },
     {
       "id": "lp64e98",
@@ -69,7 +79,9 @@
       "price": "$33/night",
       "location": "88 Ladkrabang Soi 7",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.723377,
+      "lng": 100.753582
     }
   ],
   "slug": "best-hotels-in-bangkok-for-weddings-luxurious-but-affordable",

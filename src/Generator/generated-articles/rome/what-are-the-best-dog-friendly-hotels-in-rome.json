@@ -14,7 +14,9 @@
       "price": "$276/night",
       "location": "Via Vittorio Veneto 70",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.906915,
+      "lng": 12.490148
     },
     {
       "id": "lp44621",
@@ -25,7 +27,9 @@
       "price": "$162/night",
       "location": "Viale Medaglie d'Oro, 51",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.910583,
+      "lng": 12.446012
     },
     {
       "id": "lp2a1ce",
@@ -36,7 +40,9 @@
       "price": "$217/night",
       "location": "Via Giuseppe Moscati 7",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.926527,
+      "lng": 12.428105
     },
     {
       "id": "lp3a6c4",
@@ -47,7 +53,9 @@
       "price": "$153/night",
       "location": "Via Principe Amedeo 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.900706,
+      "lng": 12.497345
     },
     {
       "id": "lp46c37",
@@ -58,7 +66,9 @@
       "price": "$108/night",
       "location": "Via Principe Amedeo 77/c",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.89834,
+      "lng": 12.500724
     },
     {
       "id": "lp445f0",
@@ -69,7 +79,9 @@
       "price": "$118/night",
       "location": "Via Angelo Poliziano, 75",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.89079,
+      "lng": 12.500005
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-rome",

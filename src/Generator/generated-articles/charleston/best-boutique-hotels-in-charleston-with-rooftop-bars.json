@@ -14,7 +14,9 @@
       "price": "$261/night",
       "location": "19 Vendue Range",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.77891,
+      "lng": -79.92621
     },
     {
       "id": "lp9d47b",
@@ -25,7 +27,9 @@
       "price": "$577/night",
       "location": "334 Meeting Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.787769,
+      "lng": -79.934729
     },
     {
       "id": "lpa3d00",
@@ -36,7 +40,9 @@
       "price": "$649/night",
       "location": "86 Cannon Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.789731,
+      "lng": -79.946028
     },
     {
       "id": "lp655896ad",
@@ -47,7 +53,9 @@
       "price": "$134/night",
       "location": "3245 Rivers Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.853206,
+      "lng": -79.972621
     },
     {
       "id": "lp7512d",
@@ -58,7 +66,9 @@
       "price": "$223/night",
       "location": "21 Hasell Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.783855,
+      "lng": -79.928099
     },
     {
       "id": "lp3f7cb",
@@ -69,7 +79,9 @@
       "price": "$220/night",
       "location": "40 Pinckney St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.782302,
+      "lng": -79.929892
     }
   ],
   "slug": "best-boutique-hotels-in-charleston-with-rooftop-bars",

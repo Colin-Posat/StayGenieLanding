@@ -14,7 +14,9 @@
       "price": "$342/night",
       "location": "2nd Zabeel Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.22681,
+      "lng": 55.28908
     },
     {
       "id": "lp60fdc",
@@ -25,7 +27,9 @@
       "price": "$120/night",
       "location": "60th Street, Al Barsha 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.111729,
+      "lng": 55.203126
     },
     {
       "id": "lp34e0a",
@@ -36,7 +40,9 @@
       "price": "$93/night",
       "location": "45C St, Al Rigga Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.26035,
+      "lng": 55.326695
     },
     {
       "id": "lp2a16d",
@@ -47,7 +53,9 @@
       "price": "$144/night",
       "location": "Al Garhoud Road, Deira City Centre",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.25401,
+      "lng": 55.33606
     },
     {
       "id": "lp3f75c",
@@ -58,7 +66,9 @@
       "price": "$265/night",
       "location": "Sheikh Zayed Road, Exit 36",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.100979,
+      "lng": 55.177677
     },
     {
       "id": "lp730c4",
@@ -69,7 +79,9 @@
       "price": "$201/night",
       "location": "Armada Towers, Jumeira Lake Towers",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.074958,
+      "lng": 55.144951
     }
   ],
   "slug": "best-hotels-in-dubai-for-women-travelers-safe-clean-and-great-amenities",

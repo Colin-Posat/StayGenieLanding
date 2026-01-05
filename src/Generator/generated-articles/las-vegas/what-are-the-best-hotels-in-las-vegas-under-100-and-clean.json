@@ -14,7 +14,9 @@
       "price": "$57/night",
       "location": "200 Fremont St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.171463,
+      "lng": -115.143555
     },
     {
       "id": "lp683d6",
@@ -25,7 +27,9 @@
       "price": "$58/night",
       "location": "165 E Tropicana Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.099954,
+      "lng": -115.16522
     },
     {
       "id": "lp25475",
@@ -36,7 +40,9 @@
       "price": "$91/night",
       "location": "1 Main Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.171893,
+      "lng": -115.146643
     },
     {
       "id": "lp1cf19",
@@ -47,7 +53,9 @@
       "price": "$88/night",
       "location": "5075 Koval Ln",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.098269,
+      "lng": -115.164063
     },
     {
       "id": "lp85dcc",
@@ -58,7 +66,9 @@
       "price": "$64/night",
       "location": "5288 Boulder Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.107646,
+      "lng": -115.059943
     },
     {
       "id": "lp348b6",
@@ -69,7 +79,9 @@
       "price": "$58/night",
       "location": "2121 E Craig Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.23854,
+      "lng": -115.1198
     }
   ],
   "slug": "what-are-the-best-hotels-in-las-vegas-under-100-and-clean",

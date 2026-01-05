@@ -14,7 +14,9 @@
       "price": "$112/night",
       "location": "1087 Market Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.780645,
+      "lng": -122.411739
     },
     {
       "id": "lp8777c",
@@ -25,7 +27,9 @@
       "price": "$93/night",
       "location": "608 O'Farrell Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.785577,
+      "lng": -122.415
     },
     {
       "id": "lp36ada",
@@ -36,7 +40,9 @@
       "price": "$105/night",
       "location": "2505 Lombard Steet",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.798959,
+      "lng": -122.442859
     },
     {
       "id": "lp2812b",
@@ -47,7 +53,9 @@
       "price": "$102/night",
       "location": "610 Polk St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.78241,
+      "lng": -122.41876
     },
     {
       "id": "lp6be77",
@@ -58,7 +66,9 @@
       "price": "$112/night",
       "location": "610 Fillmore St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.775084,
+      "lng": -122.430942
     },
     {
       "id": "lp37a9c",
@@ -69,7 +79,9 @@
       "price": "$122/night",
       "location": "4211 Judah Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.760254,
+      "lng": -122.507406
     }
   ],
   "slug": "best-hotels-in-san-francisco-for-weddings-luxurious-but-affordable",

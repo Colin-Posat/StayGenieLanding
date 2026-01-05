@@ -14,7 +14,9 @@
       "price": "$95/night",
       "location": "157 West 47th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.758992,
+      "lng": -73.983869
     },
     {
       "id": "lp2266f",
@@ -25,7 +27,9 @@
       "price": "$137/night",
       "location": "273 W 38th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.75464,
+      "lng": -73.991164
     },
     {
       "id": "lp65d13",
@@ -36,7 +40,9 @@
       "price": "$125/night",
       "location": "5 Allen St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.714874,
+      "lng": -73.993005
     },
     {
       "id": "lpb5622",
@@ -47,7 +53,9 @@
       "price": "$128/night",
       "location": "400 W 42nd Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.758563,
+      "lng": -73.992993
     },
     {
       "id": "lp42c3a",
@@ -58,7 +66,9 @@
       "price": "$143/night",
       "location": "337 West 39th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.75618,
+      "lng": -73.992965
     },
     {
       "id": "lp27d7a",
@@ -69,7 +79,9 @@
       "price": "$110/night",
       "location": "234 48Th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.760619,
+      "lng": -73.986259
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-new-york",

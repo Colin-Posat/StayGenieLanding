@@ -14,7 +14,9 @@
       "price": "$701/night",
       "location": "41 Avenue Pierre 1er de Serbie",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.86809,
+      "lng": 2.30049
     },
     {
       "id": "lp2b87a",
@@ -25,7 +27,9 @@
       "price": "$169/night",
       "location": "11 bis rue de Mazagran",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.87084,
+      "lng": 2.35183
     },
     {
       "id": "lp3ba49",
@@ -36,7 +40,9 @@
       "price": "$1316/night",
       "location": "46 Avenue George V",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.871516,
+      "lng": 2.301113
     },
     {
       "id": "lp1c508",
@@ -47,7 +53,9 @@
       "price": "$499/night",
       "location": "12 Rue De Marignan",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.868508,
+      "lng": 2.306517
     },
     {
       "id": "lp1b77b",
@@ -58,7 +66,9 @@
       "price": "$2150/night",
       "location": "10 Place de la Concorde",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.86771,
+      "lng": 2.32112
     },
     {
       "id": "lp2d774",
@@ -69,7 +79,9 @@
       "price": "$369/night",
       "location": "21 rue des Pretres",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.859375,
+      "lng": 2.340747
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-paris",

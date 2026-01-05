@@ -14,7 +14,9 @@
       "price": "$103/night",
       "location": "5 Ross Smith Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.932928,
+      "lng": 151.187426
     },
     {
       "id": "lp9220d",
@@ -25,7 +27,9 @@
       "price": "$65/night",
       "location": "327 Beamish St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.914181,
+      "lng": 151.104418
     },
     {
       "id": "lp80658",
@@ -36,7 +40,9 @@
       "price": "$82/night",
       "location": "482-484 Princes Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.951601,
+      "lng": 151.138344
     },
     {
       "id": "lpf7ebd",
@@ -47,7 +53,9 @@
       "price": "$85/night",
       "location": "350 Forest Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.965824,
+      "lng": 151.101622
     },
     {
       "id": "lp86725",
@@ -58,7 +66,9 @@
       "price": "$91/night",
       "location": "67-75 Georges Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.922114,
+      "lng": 151.067508
     },
     {
       "id": "lp5adb0",
@@ -69,7 +79,9 @@
       "price": "$98/night",
       "location": "42 Parramatta Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.888033,
+      "lng": 151.142116
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-sydney",

@@ -14,7 +14,9 @@
       "price": "$389/night",
       "location": "47 Welbeck Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.51774,
+      "lng": -0.149694
     },
     {
       "id": "lp1b9f6",
@@ -25,7 +27,9 @@
       "price": "$473/night",
       "location": "22 Park Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.505478,
+      "lng": -0.150538
     },
     {
       "id": "lp1d45f",
@@ -36,7 +40,9 @@
       "price": "$188/night",
       "location": "8-10 Queensberry Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.494843,
+      "lng": -0.177557
     },
     {
       "id": "lp4d84b",
@@ -47,7 +53,9 @@
       "price": "$334/night",
       "location": "Belgrove Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.529829,
+      "lng": -0.123765
     },
     {
       "id": "lp339fc",
@@ -58,7 +66,9 @@
       "price": "$575/night",
       "location": "Langham Place, Regent Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.51794,
+      "lng": -0.142502
     },
     {
       "id": "lp41a14",
@@ -69,7 +79,9 @@
       "price": "$149/night",
       "location": "437 Hackney Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.531963,
+      "lng": -0.061938
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-london",

@@ -14,7 +14,9 @@
       "price": "$81/night",
       "location": "Via Di Porta Maggiore 83",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.891792,
+      "lng": 12.514155
     },
     {
       "id": "lp4cb2d",
@@ -25,7 +27,9 @@
       "price": "$79/night",
       "location": "Via Degli Scipioni 71",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.908558,
+      "lng": 12.45769
     },
     {
       "id": "lp48933",
@@ -36,7 +40,9 @@
       "price": "$78/night",
       "location": "Via Francesco Caracciolo 10",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.90847,
+      "lng": 12.45054
     },
     {
       "id": "lp4a2e5",
@@ -47,7 +53,9 @@
       "price": "$98/night",
       "location": "Via Palestro 30",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.906031,
+      "lng": 12.502935
     },
     {
       "id": "lp36d84",
@@ -58,7 +66,9 @@
       "price": "$84/night",
       "location": "Via Andrea Alciato 14-16",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.904314,
+      "lng": 12.426728
     },
     {
       "id": "lp32ceb",
@@ -69,7 +79,9 @@
       "price": "$80/night",
       "location": "Via Clemente Alessandrino 9",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.894914,
+      "lng": 12.452492
     }
   ],
   "slug": "what-are-the-best-hotels-in-rome-under-100-and-clean",

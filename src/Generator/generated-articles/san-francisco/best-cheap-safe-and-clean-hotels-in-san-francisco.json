@@ -14,7 +14,9 @@
       "price": "$112/night",
       "location": "1087 Market Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.780645,
+      "lng": -122.411739
     },
     {
       "id": "lp37a9c",
@@ -25,7 +27,9 @@
       "price": "$122/night",
       "location": "4211 Judah Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.760254,
+      "lng": -122.507406
     },
     {
       "id": "lp225dd",
@@ -36,7 +40,9 @@
       "price": "$134/night",
       "location": "111 Mason St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.784517,
+      "lng": -122.409479
     },
     {
       "id": "lp224881",
@@ -47,7 +53,9 @@
       "price": "$90/night",
       "location": "312 Mason Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.786499,
+      "lng": -122.409634
     },
     {
       "id": "lp767c0",
@@ -58,7 +66,9 @@
       "price": "$100/night",
       "location": "1234 Great Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.763531,
+      "lng": -122.509712
     },
     {
       "id": "lpa3af6",
@@ -69,7 +79,9 @@
       "price": "$137/night",
       "location": "118 Taylor St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.783561,
+      "lng": -122.410695
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-san-francisco",

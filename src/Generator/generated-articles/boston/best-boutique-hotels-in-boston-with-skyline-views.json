@@ -14,7 +14,9 @@
       "price": "$179/night",
       "location": "65 Seaport Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.352074,
+      "lng": -71.047064
     },
     {
       "id": "lp1c695e",
@@ -25,7 +27,9 @@
       "price": "$335/night",
       "location": "170 Charles Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.36063,
+      "lng": -71.071458
     },
     {
       "id": "lp1c899",
@@ -36,7 +40,9 @@
       "price": "$888/night",
       "location": "70 Rowes Wharf",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.35618,
+      "lng": -71.050562
     },
     {
       "id": "lp65571f33",
@@ -47,7 +53,9 @@
       "price": "$327/night",
       "location": "450 Summer Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.34705,
+      "lng": -71.042162
     },
     {
       "id": "lp2d11e",
@@ -58,7 +66,9 @@
       "price": "$275/night",
       "location": "1 Seaport Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.349062,
+      "lng": -71.04116
     },
     {
       "id": "lp1f57c",
@@ -69,7 +79,9 @@
       "price": "$266/night",
       "location": "120 Huntington Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.34552,
+      "lng": -71.08107
     }
   ],
   "slug": "best-boutique-hotels-in-boston-with-skyline-views",

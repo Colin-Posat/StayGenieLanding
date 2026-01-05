@@ -14,7 +14,9 @@
       "price": "$1078/night",
       "location": "485 Brickell Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.76844,
+      "lng": -80.190025
     },
     {
       "id": "lp84ad1",
@@ -25,7 +27,9 @@
       "price": "$572/night",
       "location": "788 Brickell Plaza",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.766836,
+      "lng": -80.192076
     },
     {
       "id": "lp8a284",
@@ -36,7 +40,9 @@
       "price": "$371/night",
       "location": "1500 SW 1st Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.75995,
+      "lng": -80.19662
     },
     {
       "id": "lp42e7e",
@@ -47,7 +53,9 @@
       "price": "$772/night",
       "location": "270 Biscayne Blvd Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.770634,
+      "lng": -80.188933
     },
     {
       "id": "lp3b8da",
@@ -58,7 +66,9 @@
       "price": "$957/night",
       "location": "3300 Southwest 27th Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.730364,
+      "lng": -80.23744
     },
     {
       "id": "lp35259",
@@ -69,7 +79,9 @@
       "price": "$525/night",
       "location": "1395 Brickell Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.760648,
+      "lng": -80.191706
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-miami-with-rooftop-bars",

@@ -14,7 +14,9 @@
       "price": "$500/night",
       "location": "1055 Second Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.716172,
+      "lng": -117.162103
     },
     {
       "id": "lp65589577",
@@ -25,7 +27,9 @@
       "price": "$763/night",
       "location": "743 FIFTH AVENUE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.713469,
+      "lng": -117.159907
     },
     {
       "id": "lp3fa38",
@@ -36,7 +40,9 @@
       "price": "$315/night",
       "location": "1110 Prospect St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.84816,
+      "lng": -117.27397
     },
     {
       "id": "lp369ef",
@@ -47,7 +53,9 @@
       "price": "$531/night",
       "location": "435 6th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.709735,
+      "lng": -117.159088
     },
     {
       "id": "lp8adb5",
@@ -58,7 +66,9 @@
       "price": "$569/night",
       "location": "2137 Pacific Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.725906,
+      "lng": -117.171778
     },
     {
       "id": "lp9aa02",
@@ -69,7 +79,9 @@
       "price": "$676/night",
       "location": "550 J Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.709395,
+      "lng": -117.159466
     }
   ],
   "slug": "best-san-diego-boutique-hotels-with-rooftop-bars",

@@ -14,7 +14,9 @@
       "price": "$151/night",
       "location": "425 West Prospect Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.566384,
+      "lng": -105.082501
     },
     {
       "id": "lp102fdc",
@@ -25,7 +27,9 @@
       "price": "$183/night",
       "location": "3520 Timberwood Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.521819,
+      "lng": -105.014308
     },
     {
       "id": "lp2f391",
@@ -36,7 +40,9 @@
       "price": "$118/night",
       "location": "601 SW Frontage Rd.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.580153,
+      "lng": -105.004511
     },
     {
       "id": "lp3f123",
@@ -47,7 +53,9 @@
       "price": "$122/night",
       "location": "2821 E Harmony Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.522004,
+      "lng": -105.024785
     },
     {
       "id": "lp40845",
@@ -58,7 +66,9 @@
       "price": "$116/night",
       "location": "1426 Oakridge Dr",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.52293,
+      "lng": -105.052777
     },
     {
       "id": "lp79d6c",
@@ -69,7 +79,9 @@
       "price": "$127/night",
       "location": "1638 E Mulberry Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.581604,
+      "lng": -105.046977
     }
   ],
   "faqs": [

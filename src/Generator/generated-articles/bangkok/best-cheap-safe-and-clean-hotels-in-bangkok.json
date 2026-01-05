@@ -14,7 +14,9 @@
       "price": "$25/night",
       "location": "88 Ratpattana Road, Sapansong",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.787279,
+      "lng": 100.704475
     },
     {
       "id": "lp6e72c",
@@ -25,7 +27,9 @@
       "price": "$32/night",
       "location": "54/9 Chaengwattana Soi15",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.890505,
+      "lng": 100.561475
     },
     {
       "id": "lp52dbb",
@@ -36,7 +40,9 @@
       "price": "$30/night",
       "location": "204-208 Soi Charoenkrung 14",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.743215,
+      "lng": 100.508122
     },
     {
       "id": "lp70c9c",
@@ -47,7 +53,9 @@
       "price": "$25/night",
       "location": "52 Chakrapong Road, Banglampoo",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.759513,
+      "lng": 100.49554
     },
     {
       "id": "lp62295",
@@ -58,7 +66,9 @@
       "price": "$31/night",
       "location": "31/1 South Sathorn Road, Thungmahamek",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.723997,
+      "lng": 100.538257
     },
     {
       "id": "lp51683",
@@ -69,7 +79,9 @@
       "price": "$44/night",
       "location": "37 Soi Sri Ayuthaya 12",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.760207,
+      "lng": 100.536868
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-bangkok",

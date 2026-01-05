@@ -14,7 +14,9 @@
       "price": "$116/night",
       "location": "500 N Sierra St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.531757,
+      "lng": -119.815958
     },
     {
       "id": "lp3a3e7",
@@ -25,7 +27,9 @@
       "price": "$172/night",
       "location": "10599 Professional Circle",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.428241,
+      "lng": -119.754827
     },
     {
       "id": "lp4261e",
@@ -36,7 +40,9 @@
       "price": "$220/night",
       "location": "2375 Market Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.513974,
+      "lng": -119.782541
     },
     {
       "id": "lp34a5a",
@@ -47,7 +53,9 @@
       "price": "$101/night",
       "location": "660 N. Virginia Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.533156,
+      "lng": -119.81501
     },
     {
       "id": "lp923bf",
@@ -58,7 +66,9 @@
       "price": "$199/night",
       "location": "1 Ballpark Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.527722,
+      "lng": -119.808508
     },
     {
       "id": "lp1a561",
@@ -69,7 +79,9 @@
       "price": "$75/night",
       "location": "1000 E 6th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.53451,
+      "lng": -119.799728
     }
   ],
   "faqs": [

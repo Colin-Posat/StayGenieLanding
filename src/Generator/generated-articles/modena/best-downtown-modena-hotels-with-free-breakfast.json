@@ -14,7 +14,9 @@
       "price": "$129/night",
       "location": "Via Gaetano Moreali, 41",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 44.640853,
+      "lng": 10.93287
     },
     {
       "id": "lp656b80e4",
@@ -25,7 +27,9 @@
       "price": "$206/night",
       "location": "Stradello Romano 8",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 44.625853,
+      "lng": 10.977648
     },
     {
       "id": "lp8434d",
@@ -36,7 +40,9 @@
       "price": "$196/night",
       "location": "Via Cervetta, 5",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 44.645446,
+      "lng": 10.924569
     },
     {
       "id": "lp449a9",
@@ -47,7 +53,9 @@
       "price": "$239/night",
       "location": "Via Blasia 10",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 44.64722,
+      "lng": 10.927637
     },
     {
       "id": "lp50a5c",
@@ -58,7 +66,9 @@
       "price": "$129/night",
       "location": "Corso Vittorio Emanuele 52",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 44.650978,
+      "lng": 10.931419
     },
     {
       "id": "lp19c009",
@@ -69,7 +79,9 @@
       "price": "$197/night",
       "location": "Corso Canalgrande 6",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 44.643296,
+      "lng": 10.927466
     }
   ],
   "faqs": [

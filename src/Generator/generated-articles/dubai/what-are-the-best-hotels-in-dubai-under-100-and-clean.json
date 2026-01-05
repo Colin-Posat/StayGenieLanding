@@ -14,7 +14,9 @@
       "price": "$69/night",
       "location": "Omar Bin Al-Khattab Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.26766,
+      "lng": 55.3158
     },
     {
       "id": "lp4ca41",
@@ -25,7 +27,9 @@
       "price": "$69/night",
       "location": "Salahuddin Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.270587,
+      "lng": 55.319878
     },
     {
       "id": "lp75cc0",
@@ -36,7 +40,9 @@
       "price": "$64/night",
       "location": "Al Riqqa Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.26437,
+      "lng": 55.32215
     },
     {
       "id": "lp3eed9",
@@ -47,7 +53,9 @@
       "price": "$67/night",
       "location": "Between Al Rigga and Al Maktoum Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.260147,
+      "lng": 55.324649
     },
     {
       "id": "lp730a4",
@@ -58,7 +66,9 @@
       "price": "$82/night",
       "location": "Al Riqqa road, Deira",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.264758,
+      "lng": 55.31881
     },
     {
       "id": "lp7c32d",
@@ -69,7 +79,9 @@
       "price": "$91/night",
       "location": "34 B Street, Deira",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.264665,
+      "lng": 55.318918
     }
   ],
   "slug": "what-are-the-best-hotels-in-dubai-under-100-and-clean",

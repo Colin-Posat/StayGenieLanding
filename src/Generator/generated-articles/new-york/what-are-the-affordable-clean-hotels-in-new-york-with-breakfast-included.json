@@ -14,7 +14,9 @@
       "price": "$143/night",
       "location": "337 West 39th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.75618,
+      "lng": -73.992965
     },
     {
       "id": "lp670d7",
@@ -25,7 +27,9 @@
       "price": "$167/night",
       "location": "538 West 48th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.764109,
+      "lng": -73.994506
     },
     {
       "id": "lp68168",
@@ -36,7 +40,9 @@
       "price": "$183/night",
       "location": "231 E 43rd St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.750828,
+      "lng": -73.972296
     },
     {
       "id": "lp690e2",
@@ -47,7 +53,9 @@
       "price": "$194/night",
       "location": "50 W 36th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.750326,
+      "lng": -73.985664
     },
     {
       "id": "lp58011",
@@ -58,7 +66,9 @@
       "price": "$161/night",
       "location": "8 Stone St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.703943,
+      "lng": -74.012379
     },
     {
       "id": "lp644af",
@@ -69,7 +79,9 @@
       "price": "$171/night",
       "location": "150 Delancey St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.718168,
+      "lng": -73.986232
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-new-york-with-breakfast-included",

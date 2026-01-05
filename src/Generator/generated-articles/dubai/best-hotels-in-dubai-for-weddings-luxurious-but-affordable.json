@@ -14,7 +14,9 @@
       "price": "$64/night",
       "location": "Al Riqqa Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.26437,
+      "lng": 55.32215
     },
     {
       "id": "lp78cfa",
@@ -25,7 +27,9 @@
       "price": "$75/night",
       "location": "Nasser Square, Near Baniyas",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.268981,
+      "lng": 55.305822
     },
     {
       "id": "lp766a2",
@@ -36,7 +40,9 @@
       "price": "$83/night",
       "location": "Naif Road, Naif, Deira",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.273206,
+      "lng": 55.310449
     },
     {
       "id": "lp836a5",
@@ -47,7 +53,9 @@
       "price": "$90/night",
       "location": "Near karama Metro Station",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.242501,
+      "lng": 55.297876
     },
     {
       "id": "lp759b5",
@@ -58,7 +66,9 @@
       "price": "$94/night",
       "location": "Al Fahidi Street, Bur Dubai",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.262613,
+      "lng": 55.291941
     },
     {
       "id": "lp8e0d7",
@@ -69,7 +79,9 @@
       "price": "$61/night",
       "location": "Frij Al Murar",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.278315,
+      "lng": 55.309925
     }
   ],
   "slug": "best-hotels-in-dubai-for-weddings-luxurious-but-affordable",

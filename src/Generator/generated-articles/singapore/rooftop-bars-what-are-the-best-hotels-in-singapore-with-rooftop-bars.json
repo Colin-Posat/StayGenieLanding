@@ -14,7 +14,9 @@
       "price": "$1164/night",
       "location": "7 Raffles Boulevard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.292012,
+      "lng": 103.858609
     },
     {
       "id": "lp226ac",
@@ -25,7 +27,9 @@
       "price": "$413/night",
       "location": "41 Seah Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.295834,
+      "lng": 103.855136
     },
     {
       "id": "lp1b795",
@@ -36,7 +40,9 @@
       "price": "$287/night",
       "location": "1 Tanglin Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.306881,
+      "lng": 103.827839
     },
     {
       "id": "lpaf0dc",
@@ -47,7 +53,9 @@
       "price": "$159/night",
       "location": "3 King George's Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.30711,
+      "lng": 103.858944
     },
     {
       "id": "lp73e7b",
@@ -58,7 +66,9 @@
       "price": "$346/night",
       "location": "277 Orchard Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.300542,
+      "lng": 103.839192
     },
     {
       "id": "lp52e1e",
@@ -69,7 +79,9 @@
       "price": "$936/night",
       "location": "BAYFRONT AVENUE,10",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.283973,
+      "lng": 103.860819
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-singapore-with-rooftop-bars",

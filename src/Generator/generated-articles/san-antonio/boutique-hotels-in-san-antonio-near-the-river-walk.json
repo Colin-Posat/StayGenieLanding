@@ -14,7 +14,9 @@
       "price": "$911/night",
       "location": "136 E Grayson",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.442684,
+      "lng": -98.48113
     },
     {
       "id": "lp40542",
@@ -25,7 +27,9 @@
       "price": "$416/night",
       "location": "600 E Market St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.421739,
+      "lng": -98.483804
     },
     {
       "id": "lp1b62a",
@@ -36,7 +40,9 @@
       "price": "$289/night",
       "location": "112 College St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.425764,
+      "lng": -98.490436
     },
     {
       "id": "lp254cb",
@@ -47,7 +53,9 @@
       "price": "$314/night",
       "location": "420 W Market St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.423584,
+      "lng": -98.490707
     },
     {
       "id": "lp1f10b",
@@ -58,7 +66,9 @@
       "price": "$259/night",
       "location": "204 Alamo Plaza",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.425007,
+      "lng": -98.485764
     },
     {
       "id": "lp5335e",
@@ -69,7 +79,9 @@
       "price": "$241/night",
       "location": "105 N Alamo",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.426787,
+      "lng": -98.48681
     }
   ],
   "slug": "boutique-hotels-in-san-antonio-near-the-river-walk",

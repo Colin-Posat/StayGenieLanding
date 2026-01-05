@@ -14,7 +14,9 @@
       "price": "$213/night",
       "location": "555 Universal Hollywood Dr",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.136735,
+      "lng": -118.358647
     },
     {
       "id": "lp21348",
@@ -25,7 +27,9 @@
       "price": "$281/night",
       "location": "7025 Franklin Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.104272,
+      "lng": -118.342483
     },
     {
       "id": "lp1b5dd",
@@ -36,7 +40,9 @@
       "price": "$471/night",
       "location": "1020 N San Vicente Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.090004,
+      "lng": -118.384807
     },
     {
       "id": "lp72e28",
@@ -47,7 +53,9 @@
       "price": "$272/night",
       "location": "939 S Figueroa St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.045484,
+      "lng": -118.263925
     },
     {
       "id": "lp41dfa",
@@ -58,7 +66,9 @@
       "price": "$1360/night",
       "location": "225 North Canon Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.068163,
+      "lng": -118.398638
     },
     {
       "id": "lp1a9fa",
@@ -69,7 +79,9 @@
       "price": "$366/night",
       "location": "4222 Vineland Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.145127,
+      "lng": -118.369727
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-los-angeles",

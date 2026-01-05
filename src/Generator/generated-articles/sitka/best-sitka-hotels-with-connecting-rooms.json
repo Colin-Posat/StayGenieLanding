@@ -14,7 +14,9 @@
       "price": "$218/night",
       "location": "210 Lake St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 57.052183,
+      "lng": -135.333535
     }
   ],
   "faqs": [

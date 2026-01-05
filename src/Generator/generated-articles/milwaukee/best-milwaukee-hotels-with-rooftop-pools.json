@@ -14,7 +14,9 @@
       "price": "$268/night",
       "location": "411 E Mason St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.039869,
+      "lng": -87.906207
     },
     {
       "id": "lp8ddb6",
@@ -25,7 +27,9 @@
       "price": "$266/night",
       "location": "310 E Chicago St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.032707,
+      "lng": -87.906677
     },
     {
       "id": "lp1d102",
@@ -36,7 +40,9 @@
       "price": "$218/night",
       "location": "139 E Kilbourn Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.041961,
+      "lng": -87.910892
     },
     {
       "id": "lp41f9d",
@@ -47,7 +53,9 @@
       "price": "$267/night",
       "location": "500 W Florida Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.027444,
+      "lng": -87.917279
     },
     {
       "id": "lp1b63f",
@@ -58,7 +66,9 @@
       "price": "$212/night",
       "location": "424 E Wisconsin Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.039193,
+      "lng": -87.905432
     },
     {
       "id": "lp1a6c6",
@@ -69,7 +79,9 @@
       "price": "$151/night",
       "location": "611 W Wisconsin Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.03825,
+      "lng": -87.919231
     }
   ],
   "faqs": [

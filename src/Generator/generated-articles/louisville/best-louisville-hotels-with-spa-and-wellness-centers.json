@@ -14,7 +14,9 @@
       "price": "$180/night",
       "location": "140 North Fourth Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 38.25754,
+      "lng": -85.75616
     },
     {
       "id": "lp6576eecb",
@@ -25,7 +27,9 @@
       "price": "$226/night",
       "location": "140 North 4th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 38.25781,
+      "lng": -85.756184
     },
     {
       "id": "lp3b5a6",
@@ -36,7 +40,9 @@
       "price": "$276/night",
       "location": "700 W Main Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 38.257055,
+      "lng": -85.761675
     },
     {
       "id": "lpbee81",
@@ -47,7 +53,9 @@
       "price": "$264/night",
       "location": "400 S. 2nd Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 38.252724,
+      "lng": -85.754791
     },
     {
       "id": "lp1b648",
@@ -58,7 +66,9 @@
       "price": "$219/night",
       "location": "500 S 4th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 38.250812,
+      "lng": -85.757616
     },
     {
       "id": "lp75300",
@@ -69,7 +79,9 @@
       "price": "$126/night",
       "location": "350 West Chestnut Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 38.248732,
+      "lng": -85.757624
     }
   ],
   "faqs": [

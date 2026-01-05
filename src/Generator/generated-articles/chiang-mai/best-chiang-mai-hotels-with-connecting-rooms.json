@@ -14,7 +14,9 @@
       "price": "$226/night",
       "location": "108 Chang Klan Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 18.784513,
+      "lng": 98.999702
     },
     {
       "id": "lp1e23d",
@@ -25,7 +27,9 @@
       "price": "$88/night",
       "location": "112 Chang Klan Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 18.783477,
+      "lng": 99.000147
     },
     {
       "id": "lp4b5c0",
@@ -36,7 +40,9 @@
       "price": "$149/night",
       "location": "46-48 Charoenprathet Road, Changklan",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 18.785377,
+      "lng": 99.00287
     },
     {
       "id": "lp4b5be",
@@ -47,7 +53,9 @@
       "price": "$68/night",
       "location": "199/42, Chang Klan Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 18.775518,
+      "lng": 99.000187
     },
     {
       "id": "lp4b624",
@@ -58,7 +66,9 @@
       "price": "$37/night",
       "location": "211 Huay Kaew Road, Tambon Sutep",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 18.804225,
+      "lng": 98.962178
     },
     {
       "id": "lp3e90f",
@@ -69,7 +79,9 @@
       "price": "$196/night",
       "location": "33 Changklan Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 18.76307,
+      "lng": 99.001622
     }
   ],
   "faqs": [

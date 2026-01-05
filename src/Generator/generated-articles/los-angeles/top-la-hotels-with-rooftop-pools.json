@@ -14,7 +14,9 @@
       "price": "$332/night",
       "location": "6250 Hollywood Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.100794,
+      "lng": -118.325906
     },
     {
       "id": "lp1db2ba",
@@ -25,7 +27,9 @@
       "price": "$267/night",
       "location": "1400 Cahuenga Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.096443,
+      "lng": -118.329141
     },
     {
       "id": "lp5027b",
@@ -36,7 +40,9 @@
       "price": "$349/night",
       "location": "900 W Olympic Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.04515,
+      "lng": -118.267305
     },
     {
       "id": "lp913cb",
@@ -47,7 +53,9 @@
       "price": "$292/night",
       "location": "6417 Selma Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.099919,
+      "lng": -118.330173
     },
     {
       "id": "lp1b628",
@@ -58,7 +66,9 @@
       "price": "$1435/night",
       "location": "701 Stone Canyon Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.08674,
+      "lng": -118.44605
     },
     {
       "id": "lp1b619",
@@ -69,7 +79,9 @@
       "price": "$382/night",
       "location": "1819 Ocean Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.008067,
+      "lng": -118.490652
     }
   ],
   "slug": "top-la-hotels-with-rooftop-pools",

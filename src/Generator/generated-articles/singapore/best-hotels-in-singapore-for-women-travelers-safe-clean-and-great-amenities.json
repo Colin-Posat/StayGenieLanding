@@ -14,7 +14,9 @@
       "price": "$482/night",
       "location": "10 Scotts Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.306603,
+      "lng": 103.833018
     },
     {
       "id": "lp1a41a",
@@ -25,7 +27,9 @@
       "price": "$250/night",
       "location": "11 Cavenagh Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.30239,
+      "lng": 103.841006
     },
     {
       "id": "lp19c11",
@@ -36,7 +40,9 @@
       "price": "$391/night",
       "location": "270 Orchard Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.30344,
+      "lng": 103.83624
     },
     {
       "id": "lp1c7d5",
@@ -47,7 +53,9 @@
       "price": "$522/night",
       "location": "320 Orchard Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.305222,
+      "lng": 103.832635
     },
     {
       "id": "lp8fd4d",
@@ -58,7 +66,9 @@
       "price": "$312/night",
       "location": "100 Peck Seah Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.275875,
+      "lng": 103.84427
     },
     {
       "id": "lpb584a",
@@ -69,7 +79,9 @@
       "price": "$374/night",
       "location": "99 Irrawaddy Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.320614,
+      "lng": 103.84324
     }
   ],
   "slug": "best-hotels-in-singapore-for-women-travelers-safe-clean-and-great-amenities",

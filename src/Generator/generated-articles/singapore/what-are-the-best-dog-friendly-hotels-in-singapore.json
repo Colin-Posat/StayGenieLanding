@@ -14,7 +14,9 @@
       "price": "$324/night",
       "location": "2 Bukit Manis Road Sentosa Island",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.244973,
+      "lng": 103.827887
     },
     {
       "id": "lp4b708",
@@ -25,7 +27,9 @@
       "price": "$1093/night",
       "location": "1 The Knolls, Sentosa Island",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.249751,
+      "lng": 103.824449
     },
     {
       "id": "lp656db2d5",
@@ -36,7 +40,9 @@
       "price": "$431/night",
       "location": "1 Cuscaden Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.304868,
+      "lng": 103.825286
     },
     {
       "id": "lp19c06",
@@ -47,7 +53,9 @@
       "price": "$611/night",
       "location": "22 Orange Grove Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.311244,
+      "lng": 103.826519
     },
     {
       "id": "lp73e7b",
@@ -58,7 +66,9 @@
       "price": "$346/night",
       "location": "277 Orchard Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.300542,
+      "lng": 103.839192
     },
     {
       "id": "lp23603",
@@ -69,7 +79,9 @@
       "price": "$348/night",
       "location": "333 Orchard Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.301856,
+      "lng": 103.836009
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-singapore",

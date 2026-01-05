@@ -14,7 +14,9 @@
       "price": "$146/night",
       "location": "201 E. Locust Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.588537,
+      "lng": -93.614363
     },
     {
       "id": "lp1b941",
@@ -25,7 +27,9 @@
       "price": "$179/night",
       "location": "6111 Fleur Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.529086,
+      "lng": -93.644347
     },
     {
       "id": "lp2b175",
@@ -36,7 +40,9 @@
       "price": "$161/night",
       "location": "929 3rd St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.59444,
+      "lng": -93.620811
     },
     {
       "id": "lp88f9f",
@@ -47,7 +53,9 @@
       "price": "$178/night",
       "location": "333 SW 11th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.579404,
+      "lng": -93.628827
     },
     {
       "id": "lp6b616",
@@ -58,7 +66,9 @@
       "price": "$159/night",
       "location": "100 SW Water Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.58397,
+      "lng": -93.617552
     },
     {
       "id": "lp1e69e",
@@ -69,7 +79,9 @@
       "price": "$161/night",
       "location": "101 E Locust St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.588101,
+      "lng": -93.61594
     }
   ],
   "faqs": [

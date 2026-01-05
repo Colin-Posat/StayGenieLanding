@@ -14,7 +14,9 @@
       "price": "$559/night",
       "location": "Gran Via de les Corts Catalanes 668",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391439,
+      "lng": 2.171449
     },
     {
       "id": "lp36670",
@@ -25,7 +27,9 @@
       "price": "$342/night",
       "location": "Passeig de Gràcia, 132",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.39787,
+      "lng": 2.15788
     },
     {
       "id": "lp59013",
@@ -36,7 +40,9 @@
       "price": "$301/night",
       "location": "Hospital 11",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.38031,
+      "lng": 2.169931
     },
     {
       "id": "lp39039",
@@ -47,7 +53,9 @@
       "price": "$599/night",
       "location": "La Rambla, 109; (entrance on the street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.383502,
+      "lng": 2.171197
     },
     {
       "id": "lp357f1",
@@ -58,7 +66,9 @@
       "price": "$342/night",
       "location": "Avenida Bogatell, 64-68",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.392888,
+      "lng": 2.192607
     },
     {
       "id": "lp45036",
@@ -69,7 +79,9 @@
       "price": "$297/night",
       "location": "Via Augusta 5",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.396176,
+      "lng": 2.155182
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-barcelona",

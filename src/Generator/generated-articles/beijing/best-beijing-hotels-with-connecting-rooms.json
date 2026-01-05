@@ -14,7 +14,9 @@
       "price": "$285/night",
       "location": "48 Liang Ma Qiao Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.95016,
+      "lng": 116.466646
     },
     {
       "id": "lp3d4ce",
@@ -25,7 +27,9 @@
       "price": "$193/night",
       "location": "99 Jinbao St Dongcheng Dstrct",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.916229,
+      "lng": 116.418934
     },
     {
       "id": "lp39fe9",
@@ -36,7 +40,9 @@
       "price": "$142/night",
       "location": "97 Jinbao St., Dongcheng District",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.91697,
+      "lng": 116.419576
     },
     {
       "id": "lp417b5",
@@ -47,7 +53,9 @@
       "price": "$118/night",
       "location": "168 Guang An Men Wai Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.889225,
+      "lng": 116.34028
     },
     {
       "id": "lp5d038",
@@ -58,7 +66,9 @@
       "price": "$229/night",
       "location": "36 North Third Ring Road East",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.96696,
+      "lng": 116.40925
     },
     {
       "id": "lp72aee",
@@ -69,7 +79,9 @@
       "price": "$129/night",
       "location": "B12, Chaoyangmenwai Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.923052,
+      "lng": 116.442542
     }
   ],
   "faqs": [

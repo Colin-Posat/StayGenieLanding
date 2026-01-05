@@ -14,7 +14,9 @@
       "price": "$393/night",
       "location": "605 Davis Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.260244,
+      "lng": -97.738831
     },
     {
       "id": "lp791ef",
@@ -25,7 +27,9 @@
       "price": "$613/night",
       "location": "310 East 5th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.266355,
+      "lng": -97.740453
     },
     {
       "id": "lp66dad",
@@ -36,7 +40,9 @@
       "price": "$163/night",
       "location": "1701 Lavaca St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.279555,
+      "lng": -97.741035
     },
     {
       "id": "lpa8006",
@@ -47,7 +53,9 @@
       "price": "$373/night",
       "location": "101 Red River St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.261818,
+      "lng": -97.738322
     },
     {
       "id": "lp1c649",
@@ -58,7 +66,9 @@
       "price": "$309/night",
       "location": "700 San Jacinto Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.269048,
+      "lng": -97.740289
     },
     {
       "id": "lpd3a74",
@@ -69,7 +79,9 @@
       "price": "$424/night",
       "location": "111 East Cesar Chavez Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.262665,
+      "lng": -97.743622
     }
   ],
   "slug": "best-austin-hotels-with-rooftop-pools",

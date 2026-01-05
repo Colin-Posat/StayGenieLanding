@@ -14,7 +14,9 @@
       "price": "$138/night",
       "location": "127 West Huron, at LaSalle",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.89482,
+      "lng": -87.632142
     },
     {
       "id": "lp36cee",
@@ -25,7 +27,9 @@
       "price": "$228/night",
       "location": "12 South Michigan Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.881625,
+      "lng": -87.624942
     },
     {
       "id": "lp89105",
@@ -36,7 +40,9 @@
       "price": "$194/night",
       "location": "85 East Wacker Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.888036,
+      "lng": -87.625037
     },
     {
       "id": "lp74544",
@@ -47,7 +53,9 @@
       "price": "$198/night",
       "location": "455 North Park Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.890172,
+      "lng": -87.619599
     },
     {
       "id": "lpaad95",
@@ -58,7 +66,9 @@
       "price": "$234/night",
       "location": "1118 North State Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.90246,
+      "lng": -87.628446
     },
     {
       "id": "lp1dda15",
@@ -69,7 +79,9 @@
       "price": "$316/night",
       "location": "200 N Green Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.885976,
+      "lng": -87.648727
     }
   ],
   "slug": "best-boutique-hotels-in-chicago-with-rooftop-lounges",

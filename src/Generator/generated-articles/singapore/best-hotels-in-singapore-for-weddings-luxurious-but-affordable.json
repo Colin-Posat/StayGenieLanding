@@ -14,7 +14,9 @@
       "price": "$62/night",
       "location": "31 Lorong 18 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311561,
+      "lng": 103.880748
     },
     {
       "id": "lp92feb",
@@ -25,7 +27,9 @@
       "price": "$68/night",
       "location": "269 Balestier Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.322287,
+      "lng": 103.852735
     },
     {
       "id": "lp59dcc",
@@ -36,7 +40,9 @@
       "price": "$80/night",
       "location": "21 Lorong 8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311047,
+      "lng": 103.877231
     },
     {
       "id": "lpa529f",
@@ -47,7 +53,9 @@
       "price": "$91/night",
       "location": "428 Changi Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.318726,
+      "lng": 103.911752
     },
     {
       "id": "lp59ddb",
@@ -58,7 +66,9 @@
       "price": "$76/night",
       "location": "161 Selegie Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.303656,
+      "lng": 103.849978
     },
     {
       "id": "lp62418",
@@ -69,7 +79,9 @@
       "price": "$79/night",
       "location": "71 Jalan Sultan",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.3028,
+      "lng": 103.86142
     }
   ],
   "slug": "best-hotels-in-singapore-for-weddings-luxurious-but-affordable",

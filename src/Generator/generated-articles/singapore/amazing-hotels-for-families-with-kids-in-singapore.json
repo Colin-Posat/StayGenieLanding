@@ -14,7 +14,9 @@
       "price": "$311/night",
       "location": "101 Siloso Road Sentosa",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.257761,
+      "lng": 103.809726
     },
     {
       "id": "lp9b7e8",
@@ -25,7 +27,9 @@
       "price": "$141/night",
       "location": "1 Pasir Ris Close",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.379905,
+      "lng": 103.955039
     },
     {
       "id": "lp79831",
@@ -36,7 +40,9 @@
       "price": "$1388/night",
       "location": "8 Sentosa Gateway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.259442,
+      "lng": 103.816702
     },
     {
       "id": "lp59dce",
@@ -47,7 +53,9 @@
       "price": "$62/night",
       "location": "31 Lorong 18 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311561,
+      "lng": 103.880748
     },
     {
       "id": "lp226a0",
@@ -58,7 +66,9 @@
       "price": "$250/night",
       "location": "317 Outram Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.288808,
+      "lng": 103.83433
     },
     {
       "id": "lp1c49d",
@@ -69,7 +79,9 @@
       "price": "$355/night",
       "location": "22 Scotts Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.308708,
+      "lng": 103.834228
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-singapore",

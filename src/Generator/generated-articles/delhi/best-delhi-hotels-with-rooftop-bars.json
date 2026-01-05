@@ -14,7 +14,9 @@
       "price": "$36/night",
       "location": "3244, Gali School Wali Behind Paharganj",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.644134,
+      "lng": 77.214333
     },
     {
       "id": "lp1901cd",
@@ -25,7 +27,9 @@
       "price": "$33/night",
       "location": "A 83/243 Road No-4",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.52516,
+      "lng": 77.07786
     },
     {
       "id": "lp65711acc",
@@ -36,7 +40,9 @@
       "price": "$36/night",
       "location": "3244, Gali School Wali Behind Paharganj",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.644134,
+      "lng": 77.214333
     },
     {
       "id": "lp1901cd",
@@ -47,7 +53,9 @@
       "price": "$33/night",
       "location": "A 83/243 Road No-4",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.52516,
+      "lng": 77.07786
     },
     {
       "id": "lp65711acc",
@@ -58,7 +66,9 @@
       "price": "$36/night",
       "location": "3244, Gali School Wali Behind Paharganj",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.644134,
+      "lng": 77.214333
     },
     {
       "id": "lp1901cd",
@@ -69,7 +79,9 @@
       "price": "$33/night",
       "location": "A 83/243 Road No-4",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 28.52516,
+      "lng": 77.07786
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$92/night",
       "location": "2029 North Grand Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.614927,
+      "lng": -105.209692
     },
     {
       "id": "lp22667",
@@ -25,7 +27,9 @@
       "price": "$68/night",
       "location": "200 Fremont St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.171463,
+      "lng": -115.143555
     },
     {
       "id": "lp2f2c0",
@@ -36,7 +40,9 @@
       "price": "$47/night",
       "location": "600 Fremont St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.16915,
+      "lng": -115.13839
     },
     {
       "id": "lp1e0c1",
@@ -47,7 +53,9 @@
       "price": "$66/night",
       "location": "206 North 3rd Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.17146,
+      "lng": -115.142086
     },
     {
       "id": "lp85dcc",
@@ -58,7 +66,9 @@
       "price": "$66/night",
       "location": "5288 Boulder Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.107646,
+      "lng": -115.059943
     },
     {
       "id": "lp2f2bc",
@@ -69,7 +79,9 @@
       "price": "$68/night",
       "location": "12 E Ogden Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.172626,
+      "lng": -115.14499
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-las-vegas",

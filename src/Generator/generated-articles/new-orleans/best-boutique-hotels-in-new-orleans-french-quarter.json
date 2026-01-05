@@ -14,7 +14,9 @@
       "price": "$187/night",
       "location": "800 Iberville Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.954667,
+      "lng": -90.069167
     },
     {
       "id": "lp1f5d2",
@@ -25,7 +27,9 @@
       "price": "$147/night",
       "location": "911 Burgundy St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.961688,
+      "lng": -90.065949
     },
     {
       "id": "lp2f89b",
@@ -36,7 +40,9 @@
       "price": "$178/night",
       "location": "1234 Chartres St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.961964,
+      "lng": -90.059745
     },
     {
       "id": "lp9e452",
@@ -47,7 +53,9 @@
       "price": "$212/night",
       "location": "717 Barracks St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.963172,
+      "lng": -90.060797
     },
     {
       "id": "lp1c54f",
@@ -58,7 +66,9 @@
       "price": "$211/night",
       "location": "621 Saint Louis St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.955943,
+      "lng": -90.065471
     },
     {
       "id": "lp655667f0",
@@ -69,7 +79,9 @@
       "price": "$242/night",
       "location": "405 Esplanade Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.96185,
+      "lng": -90.05709
     }
   ],
   "slug": "best-boutique-hotels-in-new-orleans-french-quarter",

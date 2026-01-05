@@ -14,7 +14,9 @@
       "price": "$199/night",
       "location": "40 East Grand Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.891797,
+      "lng": -87.626351
     },
     {
       "id": "lp2f138",
@@ -25,7 +27,9 @@
       "price": "$222/night",
       "location": "511 North Columbus Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.891323,
+      "lng": -87.619993
     },
     {
       "id": "lp27d87",
@@ -36,7 +40,9 @@
       "price": "$199/night",
       "location": "40 East Grand Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.891797,
+      "lng": -87.626351
     },
     {
       "id": "lp74544",
@@ -47,7 +53,9 @@
       "price": "$361/night",
       "location": "455 North Park Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.890172,
+      "lng": -87.619599
     },
     {
       "id": "lp1a7cf",
@@ -58,7 +66,9 @@
       "price": "$203/night",
       "location": "300 E Ohio St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.89263,
+      "lng": -87.619707
     },
     {
       "id": "lp1c5194",
@@ -69,7 +79,9 @@
       "price": "$228/night",
       "location": "55 E 11th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.869097,
+      "lng": -87.62566
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-chicago",

@@ -14,7 +14,9 @@
       "price": "$321/night",
       "location": "Zone Touristique El Ghandouri BP 11616",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.790265,
+      "lng": -5.757941
     },
     {
       "id": "lpac06a",
@@ -25,7 +27,9 @@
       "price": "$89/night",
       "location": "42, Rue de Hollande",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.78196,
+      "lng": -5.81406
     },
     {
       "id": "lpa38a2",
@@ -36,7 +40,9 @@
       "price": "$77/night",
       "location": "168 Avenue Mohamed VI",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.778985,
+      "lng": -5.802428
     },
     {
       "id": "lp7cf2f",
@@ -47,7 +53,9 @@
       "price": "$50/night",
       "location": "Rue de la Marine N°74",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.785686,
+      "lng": -5.810383
     },
     {
       "id": "lp65650eb7",
@@ -58,7 +66,9 @@
       "price": "$87/night",
       "location": "Boulevard Malabata Résidence la Tulip bloc B 8 ème étage apprt 275",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.774838,
+      "lng": -5.785912
     },
     {
       "id": "lp65631a35",
@@ -69,7 +79,9 @@
       "price": "$192/night",
       "location": "Residence iris Bd Mohmed 6 malabata tanger",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.775584,
+      "lng": -5.786961
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$248/night",
       "location": "338 West 36th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.754011,
+      "lng": -73.993972
     },
     {
       "id": "lp76811",
@@ -25,7 +27,9 @@
       "price": "$344/night",
       "location": "170 Broadway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.7097,
+      "lng": -74.009853
     },
     {
       "id": "lp7bc39",
@@ -36,7 +40,9 @@
       "price": "$332/night",
       "location": "70 Pine Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.706389,
+      "lng": -74.007778
     },
     {
       "id": "lp58420",
@@ -47,7 +53,9 @@
       "price": "$232/night",
       "location": "233 West 49th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.761267,
+      "lng": -73.98565
     },
     {
       "id": "lpbda92",
@@ -58,7 +66,9 @@
       "price": "$269/night",
       "location": "33 Peck Slip",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.707981,
+      "lng": -74.001452
     },
     {
       "id": "lp6982b",
@@ -69,7 +79,9 @@
       "price": "$227/night",
       "location": "95 Henry St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.713186,
+      "lng": -73.992893
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-new-york",

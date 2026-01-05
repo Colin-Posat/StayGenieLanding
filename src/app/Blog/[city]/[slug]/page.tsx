@@ -50,21 +50,30 @@ function applyTieredDiscount(price: string): string {
 
 function generateExpediaDeepLink(
   hotelName: string,
+  city: string,
+  lat: number,
+  lng: number
 ): string {
-  const expediaUrl = new URL("https://www.expedia.com/Hotel-Search");
+  // Base Expedia search URL
+  const search = new URL("https://www.expedia.com/Hotel-Search");
 
-  expediaUrl.searchParams.set("destination", hotelName);
-  expediaUrl.searchParams.set("hotelName", hotelName);
-  expediaUrl.searchParams.set("sort", "RECOMMENDED");
+  // Use the destination as city, and hotelName as separate parameter
+  search.searchParams.set("destination", city);
+  search.searchParams.set("hotelName", hotelName);
+  search.searchParams.set("latLong", `${lat},${lng}`);
+  search.searchParams.set("radius", "1"); // miles
+  search.searchParams.set("sort", "RECOMMENDED");
+  search.searchParams.set("flexibility", "0_DAY");
 
-  const affiliateUrl = new URL("https://expedia.com/affiliate");
-  affiliateUrl.searchParams.set("siteid", EXPEDIA_SITE_ID);
-  affiliateUrl.searchParams.set("landingPage", expediaUrl.toString());
-  affiliateUrl.searchParams.set("camref", EXPEDIA_CAMREF);
-  affiliateUrl.searchParams.set("creativeref", EXPEDIA_CREATIVE_REF);
-  affiliateUrl.searchParams.set("adref", EXPEDIA_AD_REF);
+  // Affiliate wrapper
+  const affiliate = new URL("https://expedia.com/affiliate");
+  affiliate.searchParams.set("siteid", EXPEDIA_SITE_ID);
+  affiliate.searchParams.set("landingPage", search.toString());
+  affiliate.searchParams.set("camref", EXPEDIA_CAMREF);
+  affiliate.searchParams.set("creativeref", EXPEDIA_CREATIVE_REF);
+  affiliate.searchParams.set("adref", EXPEDIA_AD_REF);
 
-  return affiliateUrl.toString();
+  return affiliate.toString();
 }
 
 /** Metadata */
@@ -234,6 +243,8 @@ interface HotelCardProps {
     tags?: string[]
     placeId?: string
     isRefundable?: boolean
+    lat?: number
+    lng?: number
   }
   city: string
 }
@@ -242,7 +253,13 @@ function HotelCard({ index, hotel, city }: HotelCardProps) {
   const isExternalUrl =
     hotel.image.startsWith('http://') || hotel.image.startsWith('https://')
 
-  const hotelDeepLink = generateExpediaDeepLink(hotel.name)
+  // Use actual lat/lng from hotel data, fallback to 0,0 if missing
+  const hotelDeepLink = generateExpediaDeepLink(
+    hotel.name,
+    city,
+    hotel.lat ?? 0,
+    hotel.lng ?? 0
+  )
 
   const shouldPriorityLoad = index < 2
 

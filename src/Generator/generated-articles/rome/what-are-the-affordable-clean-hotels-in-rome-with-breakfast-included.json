@@ -14,7 +14,9 @@
       "price": "$83/night",
       "location": "Via del Viminale, 58",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.900022,
+      "lng": 12.495566
     },
     {
       "id": "lp2d0a0",
@@ -25,7 +27,9 @@
       "price": "$99/night",
       "location": "Via Cristoforo Colombo 710",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.816905,
+      "lng": 12.461876
     },
     {
       "id": "lp4510b",
@@ -36,7 +40,9 @@
       "price": "$103/night",
       "location": "Via Urbana 10",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.897866,
+      "lng": 12.495751
     },
     {
       "id": "lp44641",
@@ -47,7 +53,9 @@
       "price": "$127/night",
       "location": "Via San Martino Ai Monti 18",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.895534,
+      "lng": 12.498216
     },
     {
       "id": "lp30b89",
@@ -58,7 +66,9 @@
       "price": "$109/night",
       "location": "Via Bernardo Celentano 11",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.925133,
+      "lng": 12.469901
     },
     {
       "id": "lp44bb6",
@@ -69,7 +79,9 @@
       "price": "$182/night",
       "location": "Via Oristano 14",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.886151,
+      "lng": 12.522953
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-rome-with-breakfast-included",

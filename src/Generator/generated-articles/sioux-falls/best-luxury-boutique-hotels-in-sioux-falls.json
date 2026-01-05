@@ -14,7 +14,9 @@
       "price": "$262/night",
       "location": "120 E. 4th Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.55388,
+      "lng": -96.7247
     },
     {
       "id": "lp364d1",
@@ -25,7 +27,9 @@
       "price": "$361/night",
       "location": "2320 South Louise Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.526033,
+      "lng": -96.773842
     },
     {
       "id": "lp2141cb",
@@ -36,7 +40,9 @@
       "price": "$267/night",
       "location": "100 N Phillips Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.547471,
+      "lng": -96.726361
     },
     {
       "id": "lp38088",
@@ -47,7 +53,9 @@
       "price": "$98/night",
       "location": "3200 W. Russell",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.57061,
+      "lng": -96.7691
     },
     {
       "id": "lp6b608",
@@ -58,7 +66,9 @@
       "price": "$261/night",
       "location": "201 E 8th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.548342,
+      "lng": -96.724889
     },
     {
       "id": "lp40ff5",
@@ -69,7 +79,9 @@
       "price": "$163/night",
       "location": "4304 W Empire Pl",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.513899,
+      "lng": -96.778771
     }
   ],
   "faqs": [

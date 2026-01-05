@@ -14,7 +14,9 @@
       "price": "$380/night",
       "location": "109-113 Queens Gate",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.492475,
+      "lng": -0.178202
     },
     {
       "id": "lp1bfdf",
@@ -25,7 +27,9 @@
       "price": "$165/night",
       "location": "380 Kensington High Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.496598,
+      "lng": -0.206414
     },
     {
       "id": "lp1bf57",
@@ -36,7 +40,9 @@
       "price": "$406/night",
       "location": "Aldwych",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.512478,
+      "lng": -0.118853
     },
     {
       "id": "lp1a252",
@@ -47,7 +53,9 @@
       "price": "$316/night",
       "location": "100 Cromwell Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.495086,
+      "lng": -0.183754
     },
     {
       "id": "lp1be07",
@@ -58,7 +66,9 @@
       "price": "$464/night",
       "location": "Half Moon Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.506756,
+      "lng": -0.146062
     },
     {
       "id": "lp2a32d",
@@ -69,7 +79,9 @@
       "price": "$1164/night",
       "location": "Wilton Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.501719,
+      "lng": -0.155844
     }
   ],
   "slug": "best-family-hotels-in-london-with-kids-activities",

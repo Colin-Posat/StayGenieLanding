@@ -14,7 +14,9 @@
       "price": "$157/night",
       "location": "905 California Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.792019,
+      "lng": -122.40963
     },
     {
       "id": "lp1d5b3",
@@ -25,7 +27,9 @@
       "price": "$397/night",
       "location": "780 Mission Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.785075,
+      "lng": -122.404821
     },
     {
       "id": "lp40a4e",
@@ -36,7 +40,9 @@
       "price": "$284/night",
       "location": "888 Howard Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.782065,
+      "lng": -122.404478
     },
     {
       "id": "lp2fd56",
@@ -47,7 +53,9 @@
       "price": "$203/night",
       "location": "55 5th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.783342,
+      "lng": -122.407184
     },
     {
       "id": "lp1a2df",
@@ -58,7 +66,9 @@
       "price": "$205/night",
       "location": "2700 JONES STREET",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.807026,
+      "lng": -122.417118
     },
     {
       "id": "lp1be2b",
@@ -69,7 +79,9 @@
       "price": "$243/night",
       "location": "50 3rd St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.786709,
+      "lng": -122.402829
     }
   ],
   "faqs": [

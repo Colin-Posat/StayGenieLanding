@@ -14,7 +14,9 @@
       "price": "$429/night",
       "location": "64 Avenue Marceau",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.870618,
+      "lng": 2.297961
     },
     {
       "id": "lp3a10e",
@@ -25,7 +27,9 @@
       "price": "$223/night",
       "location": "19 rue d'Austerlitz",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.847312,
+      "lng": 2.371049
     },
     {
       "id": "lp1aece",
@@ -36,7 +40,9 @@
       "price": "$305/night",
       "location": "36-38 Rue Du Moulin",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.82702,
+      "lng": 2.291296
     },
     {
       "id": "lp1b892",
@@ -47,7 +53,9 @@
       "price": "$300/night",
       "location": "12 Boulevard de Denain",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.8798,
+      "lng": 2.354986
     },
     {
       "id": "lp1c8f6",
@@ -58,7 +66,9 @@
       "price": "$318/night",
       "location": "61 Quai De Grenelle",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.850009,
+      "lng": 2.283278
     },
     {
       "id": "lp31b32",
@@ -69,7 +79,9 @@
       "price": "$289/night",
       "location": "8 Avenue Rapp",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.860388,
+      "lng": 2.300745
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-paris",

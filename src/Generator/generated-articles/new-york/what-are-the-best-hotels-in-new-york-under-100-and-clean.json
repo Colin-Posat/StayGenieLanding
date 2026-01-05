@@ -14,7 +14,9 @@
       "price": "$95/night",
       "location": "157 West 47th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.758992,
+      "lng": -73.983869
     },
     {
       "id": "lp6585c",
@@ -25,7 +27,9 @@
       "price": "$105/night",
       "location": "145 East 39th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.749309,
+      "lng": -73.976639
     },
     {
       "id": "lpb5622",
@@ -36,7 +40,9 @@
       "price": "$109/night",
       "location": "400 W 42nd Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.758563,
+      "lng": -73.992993
     },
     {
       "id": "lp42c3a",
@@ -47,7 +53,9 @@
       "price": "$143/night",
       "location": "337 West 39th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.75618,
+      "lng": -73.992965
     },
     {
       "id": "lp32922",
@@ -58,7 +66,9 @@
       "price": "$184/night",
       "location": "108 W 24th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.743735,
+      "lng": -73.993047
     },
     {
       "id": "lp65d13",
@@ -69,7 +79,9 @@
       "price": "$125/night",
       "location": "5 Allen St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.714874,
+      "lng": -73.993005
     }
   ],
   "slug": "what-are-the-best-hotels-in-new-york-under-100-and-clean",

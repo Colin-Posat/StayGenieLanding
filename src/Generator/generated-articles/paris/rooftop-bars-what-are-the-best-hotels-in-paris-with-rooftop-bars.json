@@ -14,7 +14,9 @@
       "price": "$394/night",
       "location": "18 avenue de Suffren",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.855953,
+      "lng": 2.292917
     },
     {
       "id": "lp370e8",
@@ -25,7 +27,9 @@
       "price": "$701/night",
       "location": "41 Avenue Pierre 1er de Serbie",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.86809,
+      "lng": 2.30049
     },
     {
       "id": "lp430fc",
@@ -36,7 +40,9 @@
       "price": "$429/night",
       "location": "64 Avenue Marceau",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.870618,
+      "lng": 2.297961
     },
     {
       "id": "lp1b44a",
@@ -47,7 +53,9 @@
       "price": "$580/night",
       "location": "2 Place Des Pyramides",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.863842,
+      "lng": 2.332416
     },
     {
       "id": "lp1f12b",
@@ -58,7 +66,9 @@
       "price": "$193/night",
       "location": "166, Boulevard Berthier",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.886394,
+      "lng": 2.294946
     },
     {
       "id": "lp2f831",
@@ -69,7 +79,9 @@
       "price": "$207/night",
       "location": "34 Rue Bergere",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.872684,
+      "lng": 2.343599
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-paris-with-rooftop-bars",

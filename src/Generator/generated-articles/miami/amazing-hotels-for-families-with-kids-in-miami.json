@@ -14,7 +14,9 @@
       "price": "$1611/night",
       "location": "455 Grand Bay Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.691517,
+      "lng": -80.158388
     },
     {
       "id": "lp1f084",
@@ -25,7 +27,9 @@
       "price": "$195/night",
       "location": "3974 NW South River Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.807401,
+      "lng": -80.261832
     },
     {
       "id": "lp24762",
@@ -36,7 +40,9 @@
       "price": "$187/night",
       "location": "3255 NW 87th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.803868,
+      "lng": -80.335993
     },
     {
       "id": "lp87d94",
@@ -47,7 +53,9 @@
       "price": "$332/night",
       "location": "1695 NW 111th Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.78942,
+      "lng": -80.376005
     },
     {
       "id": "lp24bd5",
@@ -58,7 +66,9 @@
       "price": "$247/night",
       "location": "8855 Nw 27th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.800311,
+      "lng": -80.340614
     },
     {
       "id": "lp20170",
@@ -69,7 +79,9 @@
       "price": "$255/night",
       "location": "8436 NW 36th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.809299,
+      "lng": -80.334028
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-miami",

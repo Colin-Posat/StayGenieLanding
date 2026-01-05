@@ -14,7 +14,9 @@
       "price": "$135/night",
       "location": "Azikiwe Street/ Upanga Road Jct",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -6.813054,
+      "lng": 39.286857
     },
     {
       "id": "lp1b2b64",
@@ -25,7 +27,9 @@
       "price": "$91/night",
       "location": "Magore St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -6.8103,
+      "lng": 39.2853
     },
     {
       "id": "lp5e153",
@@ -36,7 +40,9 @@
       "price": "$261/night",
       "location": "Toure Drive, Msasani Peninsula",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -6.739963,
+      "lng": 39.284288
     },
     {
       "id": "lpb0578",
@@ -47,7 +53,9 @@
       "price": "$70/night",
       "location": "Africana Road, Mbezi Beach",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -6.68617,
+      "lng": 39.223259
     },
     {
       "id": "lp656d92fc",
@@ -58,7 +66,9 @@
       "price": "$232/night",
       "location": "Slipway Road, Msasani Peninsula",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -6.7544,
+      "lng": 39.273583
     },
     {
       "id": "lp395d8",
@@ -69,7 +79,9 @@
       "price": "$186/night",
       "location": "Kivukoni Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -6.817496,
+      "lng": 39.293156
     }
   ],
   "faqs": [

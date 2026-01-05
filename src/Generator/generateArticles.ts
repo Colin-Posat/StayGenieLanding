@@ -25,6 +25,8 @@ interface Hotel {
   location?: string;
   tags?: string[];
   isRefundable?: boolean;
+  lat?: number;
+  lng?: number;
 }
 
 interface FAQ {
@@ -396,7 +398,12 @@ async function generateAndPushArticle(
     const validIds = article.hotels.length - missingIds;
     console.log(`🔍 Hotel IDs: ${validIds} valid, ${missingIds} missing`);
 
-    // Step 2.5: Validate FAQs
+    // Step 2.5: Validate coordinates
+    const missingCoordinates = article.hotels.filter(h => !h.lat || !h.lng).length;
+    const validCoordinates = article.hotels.length - missingCoordinates;
+    console.log(`📍 Coordinates: ${validCoordinates} valid, ${missingCoordinates} missing`);
+
+    // Step 2.75: Validate FAQs
     const faqCount = article.faqs?.length || 0;
     console.log(`❓ FAQs: ${faqCount} generated`);
 
@@ -417,6 +424,7 @@ async function generateAndPushArticle(
       generatedAt: new Date().toISOString(),
       hotelCount: article.hotels.length,
       hotelsWithIds: article.hotels.filter((h: Hotel) => h.id).length,
+      hotelsWithCoordinates: article.hotels.filter((h: Hotel) => h.lat && h.lng).length,
       faqCount: faqCount,
     };
 
@@ -447,7 +455,7 @@ async function generateArticles() {
   if (TEST_MODE) {
     console.log(`   🧪 TEST MODE: Using ${TEST_CITIES.length} test cities`);
   }
-  console.log(`   Each article will include hotels + FAQs and be saved locally`);
+  console.log(`   Each article will include hotels + coordinates + FAQs and be saved locally`);
   console.log(`${'='.repeat(80)}\n`);
 
   const results: Article[] = [];
@@ -498,10 +506,13 @@ async function generateArticles() {
 
   // Validate hotel IDs across all articles
   let totalMissingIds = 0;
+  let totalMissingCoordinates = 0;
   let totalFAQs = 0;
   results.forEach((article: Article) => {
-    const missing = article.hotels.filter(h => !h.id).length;
-    totalMissingIds += missing;
+    const missingIds = article.hotels.filter(h => !h.id).length;
+    const missingCoords = article.hotels.filter(h => !h.lat || !h.lng).length;
+    totalMissingIds += missingIds;
+    totalMissingCoordinates += missingCoords;
     totalFAQs += article.faqs?.length || 0;
   });
 
@@ -509,6 +520,12 @@ async function generateArticles() {
     console.warn(`\n⚠️  Warning: ${totalMissingIds} hotels are missing IDs across all articles`);
   } else {
     console.log(`\n✅ All hotels have valid IDs`);
+  }
+
+  if (totalMissingCoordinates > 0) {
+    console.warn(`⚠️  Warning: ${totalMissingCoordinates} hotels are missing coordinates across all articles`);
+  } else {
+    console.log(`✅ All hotels have coordinates`);
   }
 
   console.log(`✅ Total FAQs generated: ${totalFAQs} (avg ${(totalFAQs / results.length).toFixed(1)} per article)`);
@@ -523,11 +540,13 @@ async function generateArticles() {
     durationMinutes: parseFloat(duration),
     totalFAQs: totalFAQs,
     avgFAQsPerArticle: parseFloat((totalFAQs / results.length).toFixed(1)),
+    totalMissingCoordinates: totalMissingCoordinates,
     successfulArticles: results.map(a => ({
       city: a.city,
       title: a.title,
       slug: createSlug(a.title),
       hotelCount: a.hotels.length,
+      hotelsWithCoordinates: a.hotels.filter(h => h.lat && h.lng).length,
       faqCount: a.faqs?.length || 0
     })),
     failedArticles: errors.map(e => ({
@@ -541,7 +560,7 @@ async function generateArticles() {
   console.log(`\n📊 Summary saved to: ${summaryPath}`);
 
   console.log(`\n${'='.repeat(80)}`);
-  console.log(`✅ All done! ${results.length} articles generated with hotels + FAQs.`);
+  console.log(`✅ All done! ${results.length} articles generated with hotels + coordinates + FAQs.`);
   console.log(`${'='.repeat(80)}\n`);
 }
 

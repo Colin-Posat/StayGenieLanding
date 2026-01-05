@@ -14,7 +14,9 @@
       "price": "$83/night",
       "location": "197-199 King Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -37.815711,
+      "lng": 144.955223
     },
     {
       "id": "lp75530",
@@ -25,7 +27,9 @@
       "price": "$94/night",
       "location": "97-103 Elizabeth Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -37.815866,
+      "lng": 144.963782
     },
     {
       "id": "lp99fa9",
@@ -36,7 +40,9 @@
       "price": "$83/night",
       "location": "310-314 Queen Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -37.811404,
+      "lng": 144.95936
     },
     {
       "id": "lp85a48",
@@ -47,7 +53,9 @@
       "price": "$79/night",
       "location": "490-494 Elizabeth Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -37.807349,
+      "lng": 144.960151
     },
     {
       "id": "lp405f1",
@@ -58,7 +66,9 @@
       "price": "$84/night",
       "location": "378 Little Bourke Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -37.813601,
+      "lng": 144.961473
     },
     {
       "id": "lp365b7",
@@ -69,7 +79,9 @@
       "price": "$66/night",
       "location": "13 Hawke Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -37.806048,
+      "lng": 144.948336
     }
   ],
   "faqs": [

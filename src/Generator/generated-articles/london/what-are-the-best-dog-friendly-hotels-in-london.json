@@ -14,7 +14,9 @@
       "price": "$275/night",
       "location": "3 - 7 Stamford Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.507096,
+      "lng": -0.1049
     },
     {
       "id": "lp30cd0",
@@ -25,7 +27,9 @@
       "price": "$545/night",
       "location": "6 Waterloo Place",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.507524,
+      "lng": -0.132447
     },
     {
       "id": "lp35cf8",
@@ -36,7 +40,9 @@
       "price": "$1383/night",
       "location": "100 Shoreditch High Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.525664,
+      "lng": -0.077537
     },
     {
       "id": "lp1ff72",
@@ -47,7 +53,9 @@
       "price": "$364/night",
       "location": "15 Cromwell Place, South Kensington",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.494515,
+      "lng": -0.174897
     },
     {
       "id": "lp2f448",
@@ -58,7 +66,9 @@
       "price": "$586/night",
       "location": "1-8 Russell Square",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.522773,
+      "lng": -0.125178
     },
     {
       "id": "lp22345",
@@ -69,7 +79,9 @@
       "price": "$173/night",
       "location": "29 St. Georges Dr.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.49082,
+      "lng": -0.144145
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-london",

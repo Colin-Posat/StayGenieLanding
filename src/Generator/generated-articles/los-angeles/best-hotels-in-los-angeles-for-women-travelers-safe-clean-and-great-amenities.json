@@ -14,7 +14,9 @@
       "price": "$399/night",
       "location": "8430 Sunset Boulevard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.094854,
+      "lng": -118.373511
     },
     {
       "id": "lp1b905",
@@ -25,7 +27,9 @@
       "price": "$423/night",
       "location": "9876 Wilshire Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.066556,
+      "lng": -118.412946
     },
     {
       "id": "lp1fd65",
@@ -36,7 +40,9 @@
       "price": "$315/night",
       "location": "10740 Wilshire Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.060264,
+      "lng": -118.437402
     },
     {
       "id": "lp65573b92",
@@ -47,7 +53,9 @@
       "price": "$497/night",
       "location": "8801 Washington Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.02822,
+      "lng": -118.38656
     },
     {
       "id": "lp72e28",
@@ -58,7 +66,9 @@
       "price": "$272/night",
       "location": "939 S Figueroa St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.045484,
+      "lng": -118.263925
     },
     {
       "id": "lp25778",
@@ -69,7 +79,9 @@
       "price": "$806/night",
       "location": "1910 Ocean Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.006646,
+      "lng": -118.491074
     }
   ],
   "slug": "best-hotels-in-los-angeles-for-women-travelers-safe-clean-and-great-amenities",

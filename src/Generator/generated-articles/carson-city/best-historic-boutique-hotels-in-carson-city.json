@@ -14,7 +14,9 @@
       "price": "$114/night",
       "location": "917 N Carson St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.169537,
+      "lng": -119.766775
     },
     {
       "id": "lp657a264c",
@@ -25,7 +27,9 @@
       "price": "$145/night",
       "location": "801 South Carson Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.159003,
+      "lng": -119.766769
     },
     {
       "id": "lp657a264c",
@@ -36,7 +40,9 @@
       "price": "$145/night",
       "location": "801 South Carson Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.159003,
+      "lng": -119.766769
     },
     {
       "id": "lp3306c",
@@ -47,7 +53,9 @@
       "price": "$77/night",
       "location": "1300 N Carson St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.171862,
+      "lng": -119.767142
     },
     {
       "id": "lp1f487",
@@ -58,7 +66,9 @@
       "price": "$85/night",
       "location": "3103 North Carson Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.187219,
+      "lng": -119.770565
     },
     {
       "id": "lp38ab0",
@@ -69,7 +79,9 @@
       "price": "$227/night",
       "location": "10 Hospitality Way",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.198775,
+      "lng": -119.777235
     }
   ],
   "faqs": [

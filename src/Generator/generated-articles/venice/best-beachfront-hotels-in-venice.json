@@ -14,7 +14,9 @@
       "price": "$281/night",
       "location": "Castello 2135/A",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.432374,
+      "lng": 12.350076
     },
     {
       "id": "lp1c26a",
@@ -25,7 +27,9 @@
       "price": "$1358/night",
       "location": "Calle Vallaresso",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.432277,
+      "lng": 12.336979
     },
     {
       "id": "lp41eb2",
@@ -36,7 +40,9 @@
       "price": "$96/night",
       "location": "Piazzale S.M. Elisabetta ang.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.4174,
+      "lng": 12.36882
     },
     {
       "id": "lp2d62e",
@@ -47,7 +53,9 @@
       "price": "$101/night",
       "location": "Sestiere Santa Croce 553",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.439208,
+      "lng": 12.320966
     },
     {
       "id": "lp3e317",
@@ -58,7 +66,9 @@
       "price": "$267/night",
       "location": "Dorsoduro 2792",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.433167,
+      "lng": 12.326901
     },
     {
       "id": "lp37165",
@@ -69,7 +79,9 @@
       "price": "$159/night",
       "location": "Corte Ferrando 409 C",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.425008,
+      "lng": 12.326731
     }
   ],
   "faqs": [

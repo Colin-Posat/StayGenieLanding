@@ -14,7 +14,9 @@
       "price": "$321/night",
       "location": "6417 Selma Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.099919,
+      "lng": -118.330173
     },
     {
       "id": "lp1db2ba",
@@ -25,7 +27,9 @@
       "price": "$216/night",
       "location": "1400 Cahuenga Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.096443,
+      "lng": -118.329141
     },
     {
       "id": "lp6556ac53",
@@ -36,7 +40,9 @@
       "price": "$438/night",
       "location": "1100 South Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.039315,
+      "lng": -118.258852
     },
     {
       "id": "lp26f5a5",
@@ -47,7 +53,9 @@
       "price": "$204/night",
       "location": "1060 South Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.039722,
+      "lng": -118.258525
     },
     {
       "id": "lp22ae6",
@@ -58,7 +66,9 @@
       "price": "$549/night",
       "location": "8358 W Sunset Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.095221,
+      "lng": -118.372171
     },
     {
       "id": "lp1f93b",
@@ -69,7 +79,9 @@
       "price": "$205/night",
       "location": "3515 Wilshire Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.061875,
+      "lng": -118.300898
     }
   ],
   "slug": "best-boutique-hotels-in-los-angeles-with-rooftop-bars",

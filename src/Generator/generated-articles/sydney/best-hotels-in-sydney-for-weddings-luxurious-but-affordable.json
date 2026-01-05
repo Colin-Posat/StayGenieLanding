@@ -14,7 +14,9 @@
       "price": "$137/night",
       "location": "102 Erskineville Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.899093,
+      "lng": 151.183435
     },
     {
       "id": "lp3ba68",
@@ -25,7 +27,9 @@
       "price": "$136/night",
       "location": "472 Pacific Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.808776,
+      "lng": 151.178371
     },
     {
       "id": "lp2f450",
@@ -36,7 +40,9 @@
       "price": "$143/night",
       "location": "205-213 O'Riordan Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.928274,
+      "lng": 151.186686
     },
     {
       "id": "lp7a93f",
@@ -47,7 +53,9 @@
       "price": "$102/night",
       "location": "44 New South Head Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.876777,
+      "lng": 151.233011
     },
     {
       "id": "lp84bed",
@@ -58,7 +66,9 @@
       "price": "$144/night",
       "location": "256 Glebe Point Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.874271,
+      "lng": 151.18261
     },
     {
       "id": "lp80658",
@@ -69,7 +79,9 @@
       "price": "$83/night",
       "location": "482-484 Princes Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.951601,
+      "lng": 151.138344
     }
   ],
   "slug": "best-hotels-in-sydney-for-weddings-luxurious-but-affordable",

@@ -14,7 +14,9 @@
       "price": "$245/night",
       "location": "5 West Jones Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.072393,
+      "lng": -81.094784
     },
     {
       "id": "lp4f850",
@@ -25,7 +27,9 @@
       "price": "$394/night",
       "location": "330 Abercorn St.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.072676,
+      "lng": -81.091206
     },
     {
       "id": "lp656b98f2",
@@ -36,7 +40,9 @@
       "price": "$280/night",
       "location": "118 East Waldburg Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.065282,
+      "lng": -81.095218
     },
     {
       "id": "lp501b7",
@@ -47,7 +53,9 @@
       "price": "$281/night",
       "location": "102 W Hall Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.068706,
+      "lng": -81.097204
     },
     {
       "id": "lpa2218",
@@ -58,7 +66,9 @@
       "price": "$264/night",
       "location": "304 East Huntingdon Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.068581,
+      "lng": -81.09185
     },
     {
       "id": "lp6d1fb",
@@ -69,7 +79,9 @@
       "price": "$217/night",
       "location": "126 West Bay Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.08136,
+      "lng": -81.094097
     }
   ],
   "slug": "most-charming-boutique-hotels-in-savannah-s-historic-district",

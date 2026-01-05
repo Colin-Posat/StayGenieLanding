@@ -14,7 +14,9 @@
       "price": "$225/night",
       "location": "939 S Figueroa St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.045484,
+      "lng": -118.263925
     },
     {
       "id": "lp1b8e6",
@@ -25,7 +27,9 @@
       "price": "$157/night",
       "location": "5711 W Century Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.945654,
+      "lng": -118.381843
     },
     {
       "id": "lp20486",
@@ -36,7 +40,9 @@
       "price": "$234/night",
       "location": "6161 W Centinela Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.981911,
+      "lng": -118.396303
     },
     {
       "id": "lp7d265",
@@ -47,7 +53,9 @@
       "price": "$304/night",
       "location": "888 S. Olive St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.043794,
+      "lng": -118.257711
     },
     {
       "id": "lp1aeae0",
@@ -58,7 +66,9 @@
       "price": "$140/night",
       "location": "6364 Yucca St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.103851,
+      "lng": -118.328828
     },
     {
       "id": "lp5b836",
@@ -69,7 +79,9 @@
       "price": "$179/night",
       "location": "3411 W Olympic Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.052807,
+      "lng": -118.312551
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-los-angeles",

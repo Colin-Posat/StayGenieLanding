@@ -14,7 +14,9 @@
       "price": "$390/night",
       "location": "58 BATHURST STREET",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.873889,
+      "lng": 151.204444
     },
     {
       "id": "lpac2ef",
@@ -25,7 +27,9 @@
       "price": "$502/night",
       "location": "12 Darling Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.872908,
+      "lng": 151.198704
     },
     {
       "id": "lp1c741",
@@ -36,7 +40,9 @@
       "price": "$221/night",
       "location": "27 Park Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.873305,
+      "lng": 151.208623
     },
     {
       "id": "lp21469",
@@ -47,7 +53,9 @@
       "price": "$219/night",
       "location": "111 Goulburn Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.878557,
+      "lng": 151.209514
     },
     {
       "id": "lp65536",
@@ -58,7 +66,9 @@
       "price": "$408/night",
       "location": "80 Pyrmont Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.868863,
+      "lng": 151.194808
     },
     {
       "id": "lp2157c",
@@ -69,7 +79,9 @@
       "price": "$263/night",
       "location": "55 George Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.857999,
+      "lng": 151.208883
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-sydney-with-rooftop-bars",

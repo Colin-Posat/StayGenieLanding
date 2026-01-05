@@ -14,7 +14,9 @@
       "price": "$57/night",
       "location": "20 Lorong 16 Geylang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311848,
+      "lng": 103.879761
     },
     {
       "id": "lp59ddb",
@@ -25,7 +27,9 @@
       "price": "$76/night",
       "location": "161 Selegie Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.303656,
+      "lng": 103.849978
     },
     {
       "id": "lp59dcc",
@@ -36,7 +40,9 @@
       "price": "$80/night",
       "location": "21 Lorong 8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.311047,
+      "lng": 103.877231
     },
     {
       "id": "lp59d7c",
@@ -47,7 +53,9 @@
       "price": "$76/night",
       "location": "3 Dickson Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.305018,
+      "lng": 103.854505
     },
     {
       "id": "lp59d80",
@@ -58,7 +66,9 @@
       "price": "$71/night",
       "location": "181 Joo Chiat Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.312258,
+      "lng": 103.900433
     },
     {
       "id": "lp8523d",
@@ -69,7 +79,9 @@
       "price": "$91/night",
       "location": "8 Jiak Chuan Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.27986,
+      "lng": 103.841853
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-singapore",

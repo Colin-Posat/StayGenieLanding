@@ -14,7 +14,9 @@
       "price": "$415/night",
       "location": "61 Mauritskade",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.362194,
+      "lng": 4.919684
     },
     {
       "id": "lp2fd20",
@@ -25,7 +27,9 @@
       "price": "$889/night",
       "location": "Dam 9",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.372696,
+      "lng": 4.894262
     },
     {
       "id": "lpd0511",
@@ -36,7 +40,9 @@
       "price": "$133/night",
       "location": "Overtoom 13-17",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.363379,
+      "lng": 4.878213
     },
     {
       "id": "lp1b874",
@@ -47,7 +53,9 @@
       "price": "$228/night",
       "location": "Damrak 93-94",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.373683,
+      "lng": 4.893625
     },
     {
       "id": "lp65f24",
@@ -58,7 +66,9 @@
       "price": "$1023/night",
       "location": "Vossiusstraat 8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.361206,
+      "lng": 4.8816
     },
     {
       "id": "lp73b73",
@@ -69,7 +79,9 @@
       "price": "$131/night",
       "location": "Prins Hendrikkade 120",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.374225,
+      "lng": 4.90482
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-amsterdam",

@@ -14,7 +14,9 @@
       "price": "$1736/night",
       "location": "Marunouchi Trust Tower Main",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.682564,
+      "lng": 139.769268
     },
     {
       "id": "lp3e709",
@@ -25,7 +27,9 @@
       "price": "$1207/night",
       "location": "1-8-1 Yuraku-cho",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.674786,
+      "lng": 139.760374
     },
     {
       "id": "lp50272",
@@ -36,7 +40,9 @@
       "price": "$176/night",
       "location": "1-30 Jimbou-cho, Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.697085,
+      "lng": 139.758521
     },
     {
       "id": "lp5031d",
@@ -47,7 +53,9 @@
       "price": "$124/night",
       "location": "1-8-8 Uchi Kanda, Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.690549,
+      "lng": 139.766961
     },
     {
       "id": "lp50322",
@@ -58,7 +66,9 @@
       "price": "$182/night",
       "location": "2-4-4 Nishi Kanda Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.697726,
+      "lng": 139.754529
     },
     {
       "id": "lp50217",
@@ -69,7 +79,9 @@
       "price": "$98/night",
       "location": "1-7-6 Nihonbashi Honcho",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.686177,
+      "lng": 139.777342
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-tokyo",

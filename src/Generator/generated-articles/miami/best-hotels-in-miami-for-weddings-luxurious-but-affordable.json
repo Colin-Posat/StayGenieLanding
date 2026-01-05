@@ -14,7 +14,9 @@
       "price": "$103/night",
       "location": "4767 Nw 36th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.808092,
+      "lng": -80.275
     },
     {
       "id": "lp20da0",
@@ -25,7 +27,9 @@
       "price": "$119/night",
       "location": "3501 NW Le Jeune Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.806092,
+      "lng": -80.263072
     },
     {
       "id": "lp31fdc",
@@ -36,7 +40,9 @@
       "price": "$111/night",
       "location": "5959 SW 71st Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.705318,
+      "lng": -80.290976
     },
     {
       "id": "lp65594728",
@@ -47,7 +53,9 @@
       "price": "$163/night",
       "location": "661 East Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.80882,
+      "lng": -80.272591
     },
     {
       "id": "lp36402",
@@ -58,7 +66,9 @@
       "price": "$136/night",
       "location": "3959 NW 79th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.810788,
+      "lng": -80.322621
     },
     {
       "id": "lp41b12",
@@ -69,7 +79,9 @@
       "price": "$143/night",
       "location": "3550 Nw 74th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.80824,
+      "lng": -80.318061
     }
   ],
   "slug": "best-hotels-in-miami-for-weddings-luxurious-but-affordable",

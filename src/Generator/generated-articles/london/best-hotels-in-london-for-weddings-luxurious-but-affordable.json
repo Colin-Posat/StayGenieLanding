@@ -14,7 +14,9 @@
       "price": "$95/night",
       "location": "96 Sussex Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.516384,
+      "lng": -0.171079
     },
     {
       "id": "lp534d5",
@@ -25,7 +27,9 @@
       "price": "$97/night",
       "location": "32-34 Norfolk Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.516136,
+      "lng": -0.173413
     },
     {
       "id": "lp567a6",
@@ -36,7 +40,9 @@
       "price": "$89/night",
       "location": "30 Norfolk Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.516371,
+      "lng": -0.172724
     },
     {
       "id": "lp45d3e",
@@ -47,7 +53,9 @@
       "price": "$171/night",
       "location": "139 Sussex Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515177,
+      "lng": -0.172154
     },
     {
       "id": "lp1f65c",
@@ -58,7 +66,9 @@
       "price": "$106/night",
       "location": "23-33 Lillie Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.48647,
+      "lng": -0.198196
     },
     {
       "id": "lp348ca",
@@ -69,7 +79,9 @@
       "price": "$136/night",
       "location": "142-152 Cricklewood Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.556234,
+      "lng": -0.214693
     }
   ],
   "slug": "best-hotels-in-london-for-weddings-luxurious-but-affordable",

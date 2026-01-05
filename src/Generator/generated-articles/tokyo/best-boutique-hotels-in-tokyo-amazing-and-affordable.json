@@ -14,7 +14,9 @@
       "price": "$73/night",
       "location": "29 Nihonbashihakozakicho Chuo-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.679611,
+      "lng": 139.787555
     },
     {
       "id": "lp69d85",
@@ -25,7 +27,9 @@
       "price": "$53/night",
       "location": "2-15-3 Kiyokawa, Taito-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.726716,
+      "lng": 139.800725
     },
     {
       "id": "lp72531",
@@ -36,7 +40,9 @@
       "price": "$65/night",
       "location": "5-10-15, Shirogane, Minato-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.644688,
+      "lng": 139.724453
     },
     {
       "id": "lp50271",
@@ -47,7 +53,9 @@
       "price": "$92/night",
       "location": "20-10 Nihombashi Hakozaki-cho, Chuo-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.680466,
+      "lng": 139.786097
     },
     {
       "id": "lp50217",
@@ -58,7 +66,9 @@
       "price": "$98/night",
       "location": "1-7-6 Nihonbashi Honcho",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.686177,
+      "lng": 139.777342
     },
     {
       "id": "lp40261",
@@ -69,7 +79,9 @@
       "price": "$92/night",
       "location": "11-2 Kanda Higashimatsushita-cho",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.693544,
+      "lng": 139.774458
     }
   ],
   "slug": "best-boutique-hotels-in-tokyo-amazing-and-affordable",

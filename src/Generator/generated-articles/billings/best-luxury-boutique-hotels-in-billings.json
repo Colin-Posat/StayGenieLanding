@@ -14,7 +14,9 @@
       "price": "$262/night",
       "location": "19 North Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.781924,
+      "lng": -108.505437
     },
     {
       "id": "lp71a2e",
@@ -25,7 +27,9 @@
       "price": "$213/night",
       "location": "3420 Ember Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.735272,
+      "lng": -108.607278
     },
     {
       "id": "lp19cdd",
@@ -36,7 +40,9 @@
       "price": "$203/night",
       "location": "27 N 27th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.782579,
+      "lng": -108.504049
     },
     {
       "id": "lp34aa8",
@@ -47,7 +53,9 @@
       "price": "$188/night",
       "location": "1223 Mullowney Ln",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.747074,
+      "lng": -108.554817
     },
     {
       "id": "lp2b0e5",
@@ -58,7 +66,9 @@
       "price": "$152/night",
       "location": "2511 1st Ave N",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.783651,
+      "lng": -108.502972
     },
     {
       "id": "lp35846",
@@ -69,7 +79,9 @@
       "price": "$214/night",
       "location": "1818 King Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.754919,
+      "lng": -108.562134
     }
   ],
   "faqs": [

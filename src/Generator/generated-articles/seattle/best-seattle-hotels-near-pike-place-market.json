@@ -14,7 +14,9 @@
       "price": "$162/night",
       "location": "1101 4th Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.60703,
+      "lng": -122.33398
     },
     {
       "id": "lp18c997",
@@ -25,7 +27,9 @@
       "price": "$282/night",
       "location": "1501 2nd Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.609405,
+      "lng": -122.339345
     },
     {
       "id": "lp21466",
@@ -36,7 +40,9 @@
       "price": "$306/night",
       "location": "86 Pine St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.60982,
+      "lng": -122.34109
     },
     {
       "id": "lp1c180",
@@ -47,7 +53,9 @@
       "price": "$296/night",
       "location": "411 University St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.60825,
+      "lng": -122.334105
     },
     {
       "id": "lp1eeb4",
@@ -58,7 +66,9 @@
       "price": "$218/night",
       "location": "1007 1st Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 47.604913,
+      "lng": -122.336613
     },
     {
       "id": "lp1a20c",
@@ -69,7 +79,9 @@
       "price": "$119/night",
       "location": "1113 6th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 47.60809,
+      "lng": -122.332113
     }
   ],
   "slug": "best-seattle-hotels-near-pike-place-market",

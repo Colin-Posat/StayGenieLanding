@@ -14,7 +14,9 @@
       "price": "$431/night",
       "location": "Avinguda Diagonal 201",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.404122,
+      "lng": 2.190831
     },
     {
       "id": "lp357f1",
@@ -25,7 +27,9 @@
       "price": "$342/night",
       "location": "Avenida Bogatell, 64-68",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.392888,
+      "lng": 2.192607
     },
     {
       "id": "lp2fbc9",
@@ -36,7 +40,9 @@
       "price": "$509/night",
       "location": "Del Paral.lel, Del 76-78",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.375154,
+      "lng": 2.16835
     },
     {
       "id": "lp3593b",
@@ -47,7 +53,9 @@
       "price": "$448/night",
       "location": "Pelayo 3",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.386018,
+      "lng": 2.165722
     },
     {
       "id": "lp474d3",
@@ -58,7 +66,9 @@
       "price": "$332/night",
       "location": "Calle Bruc 33",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391606,
+      "lng": 2.172994
     },
     {
       "id": "lp45087",
@@ -69,7 +79,9 @@
       "price": "$351/night",
       "location": "C/ Pelai, 22-24",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.385702,
+      "lng": 2.166426
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-barcelona-with-rooftop-bars",

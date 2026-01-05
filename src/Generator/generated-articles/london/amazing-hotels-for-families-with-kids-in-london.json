@@ -14,7 +14,9 @@
       "price": "$409/night",
       "location": "2 Spring Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.507434,
+      "lng": -0.129143
     },
     {
       "id": "lp23128",
@@ -25,7 +27,9 @@
       "price": "$280/night",
       "location": "113 Lambeth Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.494752,
+      "lng": -0.118736
     },
     {
       "id": "lp49047",
@@ -36,7 +40,9 @@
       "price": "$83/night",
       "location": "27-29 Longmoore Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.492416,
+      "lng": -0.140933
     },
     {
       "id": "lp3c218",
@@ -47,7 +53,9 @@
       "price": "$161/night",
       "location": "626 Chiswick High Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.492297,
+      "lng": -0.278423
     },
     {
       "id": "lp1eba0",
@@ -58,7 +66,9 @@
       "price": "$159/night",
       "location": "172 Gloucester Place",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.524605,
+      "lng": -0.160816
     },
     {
       "id": "lp45d3e",
@@ -69,7 +79,9 @@
       "price": "$171/night",
       "location": "139 Sussex Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515177,
+      "lng": -0.172154
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-london",

@@ -14,7 +14,9 @@
       "price": "$342/night",
       "location": "2nd Zabeel Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.22681,
+      "lng": 55.28908
     },
     {
       "id": "lp6c79d",
@@ -25,7 +27,9 @@
       "price": "$604/night",
       "location": "Jumeirah Beach Residence - The Walk",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.072777,
+      "lng": 55.128426
     },
     {
       "id": "lp2f22d",
@@ -36,7 +40,9 @@
       "price": "$310/night",
       "location": "Tower A The Walk",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.078556,
+      "lng": 55.133965
     },
     {
       "id": "lpa6a35",
@@ -47,7 +53,9 @@
       "price": "$300/night",
       "location": "Wadi Al Safa 5, Emirates Road 611",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.079519,
+      "lng": 55.366395
     },
     {
       "id": "lp4300a",
@@ -58,7 +66,9 @@
       "price": "$111/night",
       "location": "Jumeirah Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.242968,
+      "lng": 55.271603
     },
     {
       "id": "lp424fd",
@@ -69,7 +79,9 @@
       "price": "$189/night",
       "location": "Al Wasl District",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.188839,
+      "lng": 55.255248
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-dubai",

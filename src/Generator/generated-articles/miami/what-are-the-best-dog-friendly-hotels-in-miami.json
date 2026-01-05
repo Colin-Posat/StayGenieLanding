@@ -14,7 +14,9 @@
       "price": "$297/night",
       "location": "7220 Northwest 36th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.804449,
+      "lng": -80.288913
     },
     {
       "id": "lpbc022",
@@ -25,7 +27,9 @@
       "price": "$187/night",
       "location": "3651 NW 25th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.799019,
+      "lng": -80.255164
     },
     {
       "id": "lp28489",
@@ -36,7 +40,9 @@
       "price": "$249/night",
       "location": "8720 Nw 33rd St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.805037,
+      "lng": -80.338809
     },
     {
       "id": "lp7780a",
@@ -47,7 +53,9 @@
       "price": "$178/night",
       "location": "3549 NW Le Jeune Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.806539,
+      "lng": -80.26326
     },
     {
       "id": "lp1efb3",
@@ -58,7 +66,9 @@
       "price": "$582/night",
       "location": "4400 N.W. 87th Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.81333,
+      "lng": -80.33883
     },
     {
       "id": "lp19e21",
@@ -69,7 +79,9 @@
       "price": "$775/night",
       "location": "400 Se 2nd Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.771489,
+      "lng": -80.191247
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-miami",

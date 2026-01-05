@@ -14,7 +14,9 @@
       "price": "$222/night",
       "location": "2000 4th Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 47.613308,
+      "lng": -122.340185
     },
     {
       "id": "lp21466",
@@ -25,7 +27,9 @@
       "price": "$306/night",
       "location": "86 Pine St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.60982,
+      "lng": -122.34109
     },
     {
       "id": "lp1f074",
@@ -36,7 +40,9 @@
       "price": "$318/night",
       "location": "2411 Alaskan Way, Pier 67",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.612586,
+      "lng": -122.352655
     },
     {
       "id": "lp6a367",
@@ -47,7 +53,9 @@
       "price": "$478/night",
       "location": "5216 Ballard Ave NW",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.666562,
+      "lng": -122.383197
     },
     {
       "id": "lp8ff96",
@@ -58,7 +66,9 @@
       "price": "$343/night",
       "location": "110 Stewart St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 47.610354,
+      "lng": -122.341264
     },
     {
       "id": "lp53836",
@@ -69,7 +79,9 @@
       "price": "$155/night",
       "location": "300 Roy St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 47.625515,
+      "lng": -122.350737
     }
   ],
   "slug": "best-boutique-hotels-in-seattle-with-rooftop-views",

@@ -14,7 +14,9 @@
       "price": "$470/night",
       "location": "12 Marina View",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.278347,
+      "lng": 103.851196
     },
     {
       "id": "lp21530",
@@ -25,7 +27,9 @@
       "price": "$451/night",
       "location": "Two Temasek Boulevard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.293434,
+      "lng": 103.858432
     },
     {
       "id": "lp235eb",
@@ -36,7 +40,9 @@
       "price": "$367/night",
       "location": "6 Raffles Boulevard Marina Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.291465,
+      "lng": 103.857389
     },
     {
       "id": "lp1dac2",
@@ -47,7 +53,9 @@
       "price": "$574/night",
       "location": "7 Raffles Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.290401,
+      "lng": 103.860031
     },
     {
       "id": "lp19b97",
@@ -58,7 +66,9 @@
       "price": "$434/night",
       "location": "80 Bras Basah Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 1.293536,
+      "lng": 103.854028
     },
     {
       "id": "lp23603",
@@ -69,7 +79,9 @@
       "price": "$322/night",
       "location": "333 Orchard Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 1.301856,
+      "lng": 103.836009
     }
   ],
   "faqs": [

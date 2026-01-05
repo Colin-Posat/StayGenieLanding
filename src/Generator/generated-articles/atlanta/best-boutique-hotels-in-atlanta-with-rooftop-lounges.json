@@ -14,7 +14,9 @@
       "price": "$613/night",
       "location": "3377 Peachtree Rd NE",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.847389,
+      "lng": -84.366039
     },
     {
       "id": "lp1feb1",
@@ -25,7 +27,9 @@
       "price": "$207/night",
       "location": "659 Peachtree St NE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.772789,
+      "lng": -84.384694
     },
     {
       "id": "lp1b903",
@@ -36,7 +40,9 @@
       "price": "$305/night",
       "location": "255 Courtland St NE",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.76152,
+      "lng": -84.383819
     },
     {
       "id": "lp676e5",
@@ -47,7 +53,9 @@
       "price": "$186/night",
       "location": "97 10th Street NW",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.782253,
+      "lng": -84.390487
     },
     {
       "id": "lpbda9c",
@@ -58,7 +66,9 @@
       "price": "$208/night",
       "location": "789 Ponce De Leon Ave NE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.77345,
+      "lng": -84.36136
     },
     {
       "id": "lp27d45",
@@ -69,7 +79,9 @@
       "price": "$253/night",
       "location": "188 14th Street NE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.786723,
+      "lng": -84.381644
     }
   ],
   "slug": "best-boutique-hotels-in-atlanta-with-rooftop-lounges",

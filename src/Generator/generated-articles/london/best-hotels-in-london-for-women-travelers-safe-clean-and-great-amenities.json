@@ -14,7 +14,9 @@
       "price": "$820/night",
       "location": "1 Suffolk Place",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.508283,
+      "lng": -0.131401
     },
     {
       "id": "lp30cd0",
@@ -25,7 +27,9 @@
       "price": "$545/night",
       "location": "6 Waterloo Place",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.507524,
+      "lng": -0.132447
     },
     {
       "id": "lp19f23",
@@ -36,7 +40,9 @@
       "price": "$702/night",
       "location": "44 Grosvenor Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.510804,
+      "lng": -0.151054
     },
     {
       "id": "lp45e17",
@@ -47,7 +53,9 @@
       "price": "$256/night",
       "location": "31-34 Queens Gate",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.498246,
+      "lng": -0.179727
     },
     {
       "id": "lp2ad20",
@@ -58,7 +66,9 @@
       "price": "$527/night",
       "location": "Caxton Street 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.499019,
+      "lng": -0.134454
     },
     {
       "id": "lp1bea4",
@@ -69,7 +79,9 @@
       "price": "$308/night",
       "location": "15 Montague Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.520143,
+      "lng": -0.125725
     }
   ],
   "slug": "best-hotels-in-london-for-women-travelers-safe-clean-and-great-amenities",

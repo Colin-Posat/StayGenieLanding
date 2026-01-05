@@ -14,7 +14,9 @@
       "price": "$92/night",
       "location": "2120 E Steve Owens Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.870955,
+      "lng": -94.854748
     },
     {
       "id": "lp41f8e",
@@ -25,7 +27,9 @@
       "price": "$101/night",
       "location": "115 S Deacan Turner Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.88271,
+      "lng": -94.85521
     },
     {
       "id": "lp41f8e",
@@ -36,7 +40,9 @@
       "price": "$101/night",
       "location": "115 S Deacan Turner Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.88271,
+      "lng": -94.85521
     },
     {
       "id": "lp22d62",
@@ -47,7 +53,9 @@
       "price": "$92/night",
       "location": "2120 E Steve Owens Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.870955,
+      "lng": -94.854748
     },
     {
       "id": "lp358fa5",
@@ -58,7 +66,9 @@
       "price": "$76/night",
       "location": "1307 E Steve Owens Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.871584,
+      "lng": -94.864016
     },
     {
       "id": "lp31fdc",
@@ -69,7 +79,9 @@
       "price": "$111/night",
       "location": "5959 SW 71st Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.705318,
+      "lng": -80.290976
     }
   ],
   "slug": "what-are-the-best-hotels-in-miami-under-100-and-clean",

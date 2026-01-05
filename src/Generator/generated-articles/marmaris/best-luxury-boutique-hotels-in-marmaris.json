@@ -14,7 +14,9 @@
       "price": "$473/night",
       "location": "Tepe mah. barbaros cad. no:171 Marmaris/muğla",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.852145,
+      "lng": 28.275228
     },
     {
       "id": "lp6db9c",
@@ -25,7 +27,9 @@
       "price": "$173/night",
       "location": "Kargi mah. No: 51",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.68543,
+      "lng": 28.050116
     },
     {
       "id": "lp41168",
@@ -36,7 +40,9 @@
       "price": "$3576/night",
       "location": "Siteler mah. Cumhuriyet Blv. No:59",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.8305,
+      "lng": 28.24278
     },
     {
       "id": "lp655ccc39",
@@ -47,7 +53,9 @@
       "price": "$101/night",
       "location": "Kemeraltı Marmaris 89 sokak no 23 marmaris",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.857481,
+      "lng": 28.267374
     },
     {
       "id": "lp9ce4a",
@@ -58,7 +66,9 @@
       "price": "$83/night",
       "location": "Kemeralti Mah Hasan isik Cad No 6",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.851474,
+      "lng": 28.265121
     },
     {
       "id": "lp6554ef1b",
@@ -69,7 +79,9 @@
       "price": "$104/night",
       "location": "Tepe Mahallesi",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.850081,
+      "lng": 28.274075
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$31/night",
       "location": "No. 12 Sukhumvit 62/3",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.688739,
+      "lng": 100.608254
     },
     {
       "id": "lp6f847",
@@ -25,7 +27,9 @@
       "price": "$21/night",
       "location": "11 soi Ngamwongwan 47 Yak 41",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.870288,
+      "lng": 100.5549
     },
     {
       "id": "lp5b613",
@@ -36,7 +40,9 @@
       "price": "$31/night",
       "location": "67/2 Soi Chareonsak",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.78961,
+      "lng": 100.578423
     },
     {
       "id": "lp4cd4f",
@@ -47,7 +53,9 @@
       "price": "$29/night",
       "location": "1892/1 Ladkabang District Ladkabang",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.716912,
+      "lng": 100.77629
     },
     {
       "id": "lp70ae0",
@@ -58,7 +66,9 @@
       "price": "$39/night",
       "location": "245 South Sathorn Road, Yannawa, Sathorn",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.718884,
+      "lng": 100.521094
     },
     {
       "id": "lp64e98",
@@ -69,7 +79,9 @@
       "price": "$33/night",
       "location": "88 Ladkrabang Soi 7",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.723377,
+      "lng": 100.753582
     }
   ],
   "slug": "affordable-hotels-in-bangkok-with-free-parking",

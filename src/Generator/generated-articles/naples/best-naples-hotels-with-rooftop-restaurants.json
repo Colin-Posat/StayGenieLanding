@@ -14,7 +14,9 @@
       "price": "$263/night",
       "location": "Via Partenope 38-44",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.830019,
+      "lng": 14.247648
     },
     {
       "id": "lp59130",
@@ -25,7 +27,9 @@
       "price": "$290/night",
       "location": "Via P.E. Imbriani 30",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.839839,
+      "lng": 14.250799
     },
     {
       "id": "lp1bd47",
@@ -36,7 +40,9 @@
       "price": "$566/night",
       "location": "Via Ponte Di Tappia 25",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.841194,
+      "lng": 14.250615
     },
     {
       "id": "lp594a7",
@@ -47,7 +53,9 @@
       "price": "$701/night",
       "location": "Via Partenope, 45",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.830043,
+      "lng": 14.248205
     },
     {
       "id": "lpaf01e",
@@ -58,7 +66,9 @@
       "price": "$104/night",
       "location": "Via dei Fiorentini 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.842563,
+      "lng": 14.251193
     },
     {
       "id": "lp4472d",
@@ -69,7 +79,9 @@
       "price": "$253/night",
       "location": "Via Partenope 48",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.829862,
+      "lng": 14.249593
     }
   ],
   "faqs": [

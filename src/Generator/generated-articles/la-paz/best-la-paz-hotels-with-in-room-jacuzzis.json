@@ -14,7 +14,9 @@
       "price": "$194/night",
       "location": "Av Ballivian 369 Esquina Calle",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -16.540834,
+      "lng": -68.08956
     },
     {
       "id": "lp82d99",
@@ -25,7 +27,9 @@
       "price": "$113/night",
       "location": "C. Potosí Nro. 920",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -16.49573,
+      "lng": -68.135962
     },
     {
       "id": "lp65557f0a",
@@ -36,7 +40,9 @@
       "price": "$135/night",
       "location": "1626 Avenida de la Fuerza Naval",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -16.537005,
+      "lng": -68.07493
     },
     {
       "id": "lp671fb",
@@ -47,7 +53,9 @@
       "price": "$170/night",
       "location": "Calle 16 No.8009, Calacoto",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -16.540453,
+      "lng": -68.082722
     },
     {
       "id": "lp6573b587",
@@ -58,7 +66,9 @@
       "price": "$123/night",
       "location": "Avenida Arce, 2631",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -16.511636,
+      "lng": -68.121945
     },
     {
       "id": "lp1ee98",
@@ -69,7 +79,9 @@
       "price": "$121/night",
       "location": "Plaza Isabel La Catolica Nro. 2478",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -16.509308,
+      "lng": -68.124716
     }
   ],
   "faqs": [

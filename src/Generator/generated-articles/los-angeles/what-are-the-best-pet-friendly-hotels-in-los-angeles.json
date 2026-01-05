@@ -14,7 +14,9 @@
       "price": "$357/night",
       "location": "12200 W Sunset Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.058155,
+      "lng": -118.478295
     },
     {
       "id": "lp1fd65",
@@ -25,7 +27,9 @@
       "price": "$315/night",
       "location": "10740 Wilshire Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.060264,
+      "lng": -118.437402
     },
     {
       "id": "lp22ae6",
@@ -36,7 +40,9 @@
       "price": "$549/night",
       "location": "8358 W Sunset Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.095221,
+      "lng": -118.372171
     },
     {
       "id": "lp1a2c1",
@@ -47,7 +53,9 @@
       "price": "$409/night",
       "location": "120 Colorado Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.011992,
+      "lng": -118.493888
     },
     {
       "id": "lp19e51",
@@ -58,7 +66,9 @@
       "price": "$286/night",
       "location": "711 S Hope St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.047753,
+      "lng": -118.258153
     },
     {
       "id": "lp5f05c",
@@ -69,7 +79,9 @@
       "price": "$299/night",
       "location": "6317 Wilshire Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.063803,
+      "lng": -118.366058
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-los-angeles",

@@ -14,7 +14,9 @@
       "price": "$134/night",
       "location": "31, Bahodir Yalangtush Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.657123,
+      "lng": 66.952403
     },
     {
       "id": "lp6558c33f",
@@ -25,7 +27,9 @@
       "price": "$106/night",
       "location": "So'zangaron ko'chasi",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.648289,
+      "lng": 66.976552
     },
     {
       "id": "lpadacc",
@@ -36,7 +40,9 @@
       "price": "$104/night",
       "location": "Corner of Shohi Zinda and Dagbed Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.668785,
+      "lng": 66.969592
     },
     {
       "id": "lp655b4552",
@@ -47,7 +53,9 @@
       "price": "$201/night",
       "location": "Umarova Street 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.65242,
+      "lng": 66.9724
     },
     {
       "id": "lp655b4a7b",
@@ -58,7 +66,9 @@
       "price": "$110/night",
       "location": "University Boulvard 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.64933,
+      "lng": 66.96698
     },
     {
       "id": "lp5a111",
@@ -69,7 +79,9 @@
       "price": "$127/night",
       "location": "38, Bakhodir Yalangtush str.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.657127,
+      "lng": 66.952419
     }
   ],
   "faqs": [

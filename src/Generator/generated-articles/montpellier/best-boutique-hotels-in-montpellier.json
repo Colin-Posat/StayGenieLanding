@@ -14,7 +14,9 @@
       "price": "$67/night",
       "location": "1211 Rue de la Vieille Poste",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.616336,
+      "lng": 3.910366
     },
     {
       "id": "lp3d675",
@@ -25,7 +27,9 @@
       "price": "$81/night",
       "location": "105 rue Gilles Martinet",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.59069,
+      "lng": 3.856131
     },
     {
       "id": "lp76dfd",
@@ -36,7 +40,9 @@
       "price": "$74/night",
       "location": "41 Rue Gilles Martinet",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 43.591162,
+      "lng": 3.855042
     },
     {
       "id": "lp18b006",
@@ -47,7 +53,9 @@
       "price": "$61/night",
       "location": "164 avenue de Palavas",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.5893,
+      "lng": 3.89178
     },
     {
       "id": "lp27940a",
@@ -58,7 +66,9 @@
       "price": "$78/night",
       "location": "58 Rue Georges Denizot",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.642227,
+      "lng": 3.844924
     },
     {
       "id": "lp527f7",
@@ -69,7 +79,9 @@
       "price": "$82/night",
       "location": "25 rue Puech Radier",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 43.578765,
+      "lng": 3.880266
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$785/night",
       "location": "1910 Ocean Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.006646,
+      "lng": -118.491074
     },
     {
       "id": "lp20555",
@@ -25,7 +27,9 @@
       "price": "$973/night",
       "location": "1 Pico Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.007242,
+      "lng": -118.491699
     },
     {
       "id": "lp1e227",
@@ -36,7 +40,9 @@
       "price": "$705/night",
       "location": "4375 Admiralty Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.984324,
+      "lng": -118.450588
     },
     {
       "id": "lp6a4e6",
@@ -47,7 +53,9 @@
       "price": "$303/night",
       "location": "2 Breeze Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.990093,
+      "lng": -118.476134
     },
     {
       "id": "lp316aa",
@@ -58,7 +66,9 @@
       "price": "$384/night",
       "location": "1697 Pacific Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.987155,
+      "lng": -118.472048
     },
     {
       "id": "lp1b619",
@@ -69,7 +79,9 @@
       "price": "$431/night",
       "location": "1819 Ocean Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.008067,
+      "lng": -118.490652
     }
   ],
   "faqs": [

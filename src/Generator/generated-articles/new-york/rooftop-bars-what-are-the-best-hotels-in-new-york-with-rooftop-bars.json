@@ -14,7 +14,9 @@
       "price": "$230/night",
       "location": "6 Times Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.755583,
+      "lng": -73.98627
     },
     {
       "id": "lpe1931",
@@ -25,7 +27,9 @@
       "price": "$196/night",
       "location": "310 W. 40th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.756123,
+      "lng": -73.991741
     },
     {
       "id": "lp58f9b",
@@ -36,7 +40,9 @@
       "price": "$206/night",
       "location": "30 W 31st St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.747101,
+      "lng": -73.987595
     },
     {
       "id": "lp73e9e",
@@ -47,7 +53,9 @@
       "price": "$273/night",
       "location": "123 W. 28th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.74667,
+      "lng": -73.991598
     },
     {
       "id": "lp5db5a",
@@ -58,7 +66,9 @@
       "price": "$465/night",
       "location": "355 W 16th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.742027,
+      "lng": -74.003623
     },
     {
       "id": "lp299fa",
@@ -69,7 +79,9 @@
       "price": "$303/night",
       "location": "365 Park Ave S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.742197,
+      "lng": -73.984704
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-new-york-with-rooftop-bars",

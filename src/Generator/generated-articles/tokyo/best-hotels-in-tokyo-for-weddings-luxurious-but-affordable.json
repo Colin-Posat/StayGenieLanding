@@ -14,7 +14,9 @@
       "price": "$67/night",
       "location": "4-27-8, Futaba, Shinagawa-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.601806,
+      "lng": 139.713618
     },
     {
       "id": "lp560fc",
@@ -25,7 +27,9 @@
       "price": "$70/night",
       "location": "4-8-5 Kosuge Katsushika-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.761282,
+      "lng": 139.824522
     },
     {
       "id": "lp5e1fe",
@@ -36,7 +40,9 @@
       "price": "$93/night",
       "location": "2-4-7 Sugamo",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.734658,
+      "lng": 139.739141
     },
     {
       "id": "lp69582",
@@ -47,7 +53,9 @@
       "price": "$96/night",
       "location": "2-19-1 Ryogoku, Sumida-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.695468,
+      "lng": 139.792021
     },
     {
       "id": "lp5c68e",
@@ -58,7 +66,9 @@
       "price": "$98/night",
       "location": "2-4-6, Komagata",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.705593,
+      "lng": 139.794526
     },
     {
       "id": "lp50322",
@@ -69,7 +79,9 @@
       "price": "$182/night",
       "location": "2-4-4 Nishi Kanda Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.697726,
+      "lng": 139.754529
     }
   ],
   "slug": "best-hotels-in-tokyo-for-weddings-luxurious-but-affordable",

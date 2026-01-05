@@ -14,7 +14,9 @@
       "price": "$49/night",
       "location": "Address not available",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.155214,
+      "lng": -115.149544
     },
     {
       "id": "lp2f2c0",
@@ -25,7 +27,9 @@
       "price": "$47/night",
       "location": "600 Fremont St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.16915,
+      "lng": -115.13839
     },
     {
       "id": "lp84133",
@@ -36,7 +40,9 @@
       "price": "$59/night",
       "location": "129 North 8th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.168807,
+      "lng": -115.137019
     },
     {
       "id": "lp3273a",
@@ -47,7 +53,9 @@
       "price": "$44/night",
       "location": "217 Las Vegas Blvd North",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.170915,
+      "lng": -115.139673
     },
     {
       "id": "lp1f4b0",
@@ -58,7 +66,9 @@
       "price": "$115/night",
       "location": "455 E Harmon Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.107811,
+      "lng": -115.154054
     },
     {
       "id": "lp8bc5c",
@@ -69,7 +79,9 @@
       "price": "$68/night",
       "location": "1809 North Grand Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.611142,
+      "lng": -105.209969
     }
   ],
   "slug": "best-boutique-hotels-in-las-vegas-amazing-and-affordable",

@@ -14,7 +14,9 @@
       "price": "$68/night",
       "location": "27 Soi Charoe Nakhon 17",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.7178,
+      "lng": 100.508986
     },
     {
       "id": "lp6e210",
@@ -25,7 +27,9 @@
       "price": "$147/night",
       "location": "230/5 Sukhumvit Soi 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.74507,
+      "lng": 100.552754
     },
     {
       "id": "lp1dc7f",
@@ -36,7 +40,9 @@
       "price": "$109/night",
       "location": "477 Si Ayuthaya Road Phayathai",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.757732,
+      "lng": 100.536275
     },
     {
       "id": "lp42298",
@@ -47,7 +53,9 @@
       "price": "$52/night",
       "location": "77/7 Sukhumvit 8, Sukhumvit Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.735753,
+      "lng": 100.556064
     },
     {
       "id": "lp4f084",
@@ -58,7 +66,9 @@
       "price": "$65/night",
       "location": "27/3 Soi Rajawithi 3 Rangnam Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.761194,
+      "lng": 100.540022
     },
     {
       "id": "lp3b278",
@@ -69,7 +79,9 @@
       "price": "$116/night",
       "location": "50/5 Sukhumvit Soi 19",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.741511,
+      "lng": 100.560316
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-bangkok",

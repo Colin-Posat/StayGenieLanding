@@ -14,7 +14,9 @@
       "price": "$258/night",
       "location": "155 Rajadamri Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.740917,
+      "lng": 100.540121
     },
     {
       "id": "lp1c0bc",
@@ -25,7 +27,9 @@
       "price": "$225/night",
       "location": "89 Soi Wat Suan Plu, New Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.721266,
+      "lng": 100.514565
     },
     {
       "id": "lp202a7",
@@ -36,7 +40,9 @@
       "price": "$248/night",
       "location": "199 Sukhumvit Soi 22",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.730365,
+      "lng": 100.565834
     },
     {
       "id": "lp4bfd9",
@@ -47,7 +53,9 @@
       "price": "$177/night",
       "location": "28 Charoenkrung Soi 70",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.710795,
+      "lng": 100.510011
     },
     {
       "id": "lp5a22b",
@@ -58,7 +66,9 @@
       "price": "$456/night",
       "location": "159 Rajadamri Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.739343,
+      "lng": 100.540266
     },
     {
       "id": "lp38fc3",
@@ -69,7 +79,9 @@
       "price": "$306/night",
       "location": "4 Sukhumvit Road Soi 2",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.742142,
+      "lng": 100.552146
     }
   ],
   "slug": "best-hotels-in-bangkok-for-women-travelers-safe-clean-and-great-amenities",

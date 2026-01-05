@@ -14,7 +14,9 @@
       "price": "$143/night",
       "location": "100 Marsden St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.819679,
+      "lng": 150.999882
     },
     {
       "id": "lpb2b5b",
@@ -25,7 +27,9 @@
       "price": "$185/night",
       "location": "60 Robey Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.931209,
+      "lng": 151.190151
     },
     {
       "id": "lp5308e",
@@ -36,7 +40,9 @@
       "price": "$196/night",
       "location": "383-389 Bulwara Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.880325,
+      "lng": 151.198713
     },
     {
       "id": "lp65574117",
@@ -47,7 +53,9 @@
       "price": "$117/night",
       "location": "6-8 Cross Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.965842,
+      "lng": 151.103959
     },
     {
       "id": "lp651ce",
@@ -58,7 +66,9 @@
       "price": "$177/night",
       "location": "37 Rae Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.91266,
+      "lng": 151.246019
     },
     {
       "id": "lp3a52c",
@@ -69,7 +79,9 @@
       "price": "$528/night",
       "location": "61 Macquarie Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.86073,
+      "lng": 151.213105
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-sydney",

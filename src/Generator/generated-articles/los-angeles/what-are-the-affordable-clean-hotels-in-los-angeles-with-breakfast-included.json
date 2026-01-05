@@ -14,7 +14,9 @@
       "price": "$117/night",
       "location": "6700 West Sunset Blvd.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.097694,
+      "lng": -118.336633
     },
     {
       "id": "lp3f9b6",
@@ -25,7 +27,9 @@
       "price": "$166/night",
       "location": "5625 W Sunset Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.098208,
+      "lng": -118.312307
     },
     {
       "id": "lp32f86",
@@ -36,7 +40,9 @@
       "price": "$156/night",
       "location": "1730 Centinela Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.977413,
+      "lng": -118.369376
     },
     {
       "id": "lp1ddca",
@@ -47,7 +53,9 @@
       "price": "$136/night",
       "location": "10300 S La Cienega Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.942424,
+      "lng": -118.369874
     },
     {
       "id": "lp1a071",
@@ -58,7 +66,9 @@
       "price": "$153/night",
       "location": "7272 E Gage Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.974605,
+      "lng": -118.126058
     },
     {
       "id": "lp27ce0",
@@ -69,7 +79,9 @@
       "price": "$143/night",
       "location": "603 S New Hampshire Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.063365,
+      "lng": -118.293002
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-los-angeles-with-breakfast-included",

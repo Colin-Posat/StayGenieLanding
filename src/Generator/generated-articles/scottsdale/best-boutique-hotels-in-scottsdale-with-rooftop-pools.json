@@ -14,7 +14,9 @@
       "price": "$922/night",
       "location": "4925 N Scottsdale Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.508241,
+      "lng": -111.92599
     },
     {
       "id": "lp656bc16d",
@@ -25,7 +27,9 @@
       "price": "$704/night",
       "location": "4747 N Goldwater Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.50534,
+      "lng": -111.929371
     },
     {
       "id": "lp65567285",
@@ -36,7 +40,9 @@
       "price": "$784/night",
       "location": "7142 East 1st St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.492452,
+      "lng": -111.928116
     },
     {
       "id": "lp21ee3",
@@ -47,7 +53,9 @@
       "price": "$668/night",
       "location": "34631 N Tom Darlington Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.803183,
+      "lng": -111.926453
     },
     {
       "id": "lp35724",
@@ -58,7 +66,9 @@
       "price": "$886/night",
       "location": "37220 Mule Train Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.822993,
+      "lng": -111.908948
     },
     {
       "id": "lp22771",
@@ -69,7 +79,9 @@
       "price": "$1571/night",
       "location": "6000 E Camelback Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.507707,
+      "lng": -111.94979
     }
   ],
   "slug": "best-boutique-hotels-in-scottsdale-with-rooftop-pools",

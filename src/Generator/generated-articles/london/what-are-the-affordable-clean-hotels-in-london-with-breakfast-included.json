@@ -14,7 +14,9 @@
       "price": "$97/night",
       "location": "32-34 Norfolk Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.516136,
+      "lng": -0.173413
     },
     {
       "id": "lp39df0",
@@ -25,7 +27,9 @@
       "price": "$95/night",
       "location": "116 Sussex Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515975,
+      "lng": -0.171916
     },
     {
       "id": "lp54a50",
@@ -36,7 +40,9 @@
       "price": "$256/night",
       "location": "28 Harrison Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.527593,
+      "lng": -0.120513
     },
     {
       "id": "lp2a0d6",
@@ -47,7 +53,9 @@
       "price": "$346/night",
       "location": "45 St Martin's Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.510403,
+      "lng": -0.126862
     },
     {
       "id": "lp327e4",
@@ -58,7 +66,9 @@
       "price": "$118/night",
       "location": "196 High Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.536201,
+      "lng": -0.00464
     },
     {
       "id": "lp41f59",
@@ -69,7 +79,9 @@
       "price": "$80/night",
       "location": "155-159 Golders Green Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.575472,
+      "lng": -0.203745
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-london-with-breakfast-included",

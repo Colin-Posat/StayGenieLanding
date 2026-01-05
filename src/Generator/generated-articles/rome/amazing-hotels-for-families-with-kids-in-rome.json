@@ -14,7 +14,9 @@
       "price": "$146/night",
       "location": "Via Degli Orti Di Trastevere 3",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.882586,
+      "lng": 12.470382
     },
     {
       "id": "lp1c97a",
@@ -25,7 +27,9 @@
       "price": "$159/night",
       "location": "Via Nazionale 69",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.899282,
+      "lng": 12.491145
     },
     {
       "id": "lp1be00",
@@ -36,7 +40,9 @@
       "price": "$186/night",
       "location": "Viale Ippocrate 119",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.906206,
+      "lng": 12.517151
     },
     {
       "id": "lp322ae",
@@ -47,7 +53,9 @@
       "price": "$101/night",
       "location": "Via Aurelia 481",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.89845,
+      "lng": 12.425336
     },
     {
       "id": "lp44616",
@@ -58,7 +66,9 @@
       "price": "$88/night",
       "location": "Via Flavia 96",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.907688,
+      "lng": 12.49783
     },
     {
       "id": "lp445cf",
@@ -69,7 +79,9 @@
       "price": "$188/night",
       "location": "Via Vicenza 58",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.904993,
+      "lng": 12.505502
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-rome",

@@ -14,7 +14,9 @@
       "price": "$103/night",
       "location": "4767 Nw 36th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.808092,
+      "lng": -80.275
     },
     {
       "id": "lp656ca199",
@@ -25,7 +27,9 @@
       "price": "$123/night",
       "location": "6730 Biscayne Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.83794,
+      "lng": -80.184412
     },
     {
       "id": "lp1fa62",
@@ -36,7 +40,9 @@
       "price": "$124/night",
       "location": "5001 NW 36th St.",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.80817,
+      "lng": -80.277734
     },
     {
       "id": "lp226bd",
@@ -47,7 +53,9 @@
       "price": "$147/night",
       "location": "8730 Nw 27th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.799362,
+      "lng": -80.338356
     },
     {
       "id": "lp65594728",
@@ -58,7 +66,9 @@
       "price": "$163/night",
       "location": "661 East Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.80882,
+      "lng": -80.272591
     },
     {
       "id": "lp1b4d8",
@@ -69,7 +79,9 @@
       "price": "$126/night",
       "location": "3401 NW Lejeune Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.805126,
+      "lng": -80.263903
     }
   ],
   "slug": "best-boutique-hotels-in-miami-amazing-and-affordable",

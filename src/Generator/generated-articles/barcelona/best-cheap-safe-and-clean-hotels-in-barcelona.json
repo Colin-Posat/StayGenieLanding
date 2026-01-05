@@ -14,7 +14,9 @@
       "price": "$138/night",
       "location": "Balmes 83, 1-2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391014,
+      "lng": 2.160125
     },
     {
       "id": "lp63301",
@@ -25,7 +27,9 @@
       "price": "$166/night",
       "location": "Ronda De Sant Antoni, 61",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.384756,
+      "lng": 2.163772
     },
     {
       "id": "lp56bf3",
@@ -36,7 +40,9 @@
       "price": "$84/night",
       "location": "La Rambla, 86",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.381652,
+      "lng": 2.173063
     },
     {
       "id": "lp6fa86",
@@ -47,7 +53,9 @@
       "price": "$193/night",
       "location": "Avenida Josep Tarradellas, 114",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.389598,
+      "lng": 2.143679
     },
     {
       "id": "lp463fa",
@@ -58,7 +66,9 @@
       "price": "$298/night",
       "location": "Calle Girona 24",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.391918,
+      "lng": 2.175151
     },
     {
       "id": "lp6501b",
@@ -69,7 +79,9 @@
       "price": "$199/night",
       "location": "Carrer de Bruc 117",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.396415,
+      "lng": 2.166552
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-barcelona",

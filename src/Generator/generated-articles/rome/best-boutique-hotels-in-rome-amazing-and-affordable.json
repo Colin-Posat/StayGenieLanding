@@ -14,7 +14,9 @@
       "price": "$84/night",
       "location": "Via Cassia 1736",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.009422,
+      "lng": 12.37914
     },
     {
       "id": "lp44d3d",
@@ -25,7 +27,9 @@
       "price": "$98/night",
       "location": "Via Giovanni Amendola 95, 4th Floor",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.899295,
+      "lng": 12.500535
     },
     {
       "id": "lp3d8c4",
@@ -36,7 +40,9 @@
       "price": "$81/night",
       "location": "Via Siderno 37",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.834799,
+      "lng": 12.555504
     },
     {
       "id": "lp4522b",
@@ -47,7 +53,9 @@
       "price": "$87/night",
       "location": "Via Principe Amedeo 76",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.898938,
+      "lng": 12.50022
     },
     {
       "id": "lp42e8e",
@@ -58,7 +66,9 @@
       "price": "$97/night",
       "location": "Via Di Villa Serventi 9",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.885283,
+      "lng": 12.530762
     },
     {
       "id": "lp36305",
@@ -69,7 +79,9 @@
       "price": "$87/night",
       "location": "Via Aurelia 734/8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.892303,
+      "lng": 12.41338
     }
   ],
   "slug": "best-boutique-hotels-in-rome-amazing-and-affordable",

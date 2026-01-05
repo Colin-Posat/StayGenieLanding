@@ -14,7 +14,9 @@
       "price": "$129/night",
       "location": "7200 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.059669,
+      "lng": -115.1716
     },
     {
       "id": "lpb9a80",
@@ -25,7 +27,9 @@
       "price": "$171/night",
       "location": "7740 Las Vegas Blvd South",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.04827,
+      "lng": -115.17086
     },
     {
       "id": "lp2f454",
@@ -36,7 +40,9 @@
       "price": "$174/night",
       "location": "421 Astaire Dr.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.057519,
+      "lng": -115.03965
     },
     {
       "id": "lp21d89",
@@ -47,7 +53,9 @@
       "price": "$240/night",
       "location": "4315 University Center Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.110886,
+      "lng": -115.150776
     },
     {
       "id": "lp35366",
@@ -58,7 +66,9 @@
       "price": "$215/night",
       "location": "5845 Dean Martin Dr.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.084062,
+      "lng": -115.18301
     },
     {
       "id": "lp3f62e",
@@ -69,7 +79,9 @@
       "price": "$165/night",
       "location": "3700 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.110498,
+      "lng": -115.173401
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-las-vegas",

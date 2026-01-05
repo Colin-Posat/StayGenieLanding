@@ -14,7 +14,9 @@
       "price": "$119/night",
       "location": "2813 E President George Bush Hwy",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.001268,
+      "lng": -96.672756
     },
     {
       "id": "lp40aa7",
@@ -25,7 +27,9 @@
       "price": "$110/night",
       "location": "2301 E Pres George Bush Hwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.003761,
+      "lng": -96.684099
     },
     {
       "id": "lp70858",
@@ -36,7 +40,9 @@
       "price": "$287/night",
       "location": "5805 Granite Pkwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.088391,
+      "lng": -96.821305
     },
     {
       "id": "lp24b78",
@@ -47,7 +53,9 @@
       "price": "$115/night",
       "location": "18470 Dallas Pkwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.00121,
+      "lng": -96.82853
     },
     {
       "id": "lp2fbef",
@@ -58,7 +66,9 @@
       "price": "$72/night",
       "location": "4704 W Plano Pkwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.015233,
+      "lng": -96.790602
     },
     {
       "id": "lp24240",
@@ -69,7 +79,9 @@
       "price": "$120/night",
       "location": "4701 Legacy Dr",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.071429,
+      "lng": -96.792492
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-plano",

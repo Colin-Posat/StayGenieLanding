@@ -14,7 +14,9 @@
       "price": "$707/night",
       "location": "No. 1 The Palm",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.104575,
+      "lng": 55.148995
     },
     {
       "id": "lp57c45",
@@ -25,7 +27,9 @@
       "price": "$1482/night",
       "location": "Palm Island, The West Crescent",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.098813,
+      "lng": 55.132565
     },
     {
       "id": "lp8ae81",
@@ -36,7 +40,9 @@
       "price": "$312/night",
       "location": "Al Habtoor City, Sheikh Zayed Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.184513,
+      "lng": 55.255262
     },
     {
       "id": "lp418e6",
@@ -47,7 +53,9 @@
       "price": "$342/night",
       "location": "2nd Zabeel Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.22681,
+      "lng": 55.28908
     },
     {
       "id": "lp79edb",
@@ -58,7 +66,9 @@
       "price": "$243/night",
       "location": "20th Street, Dubai Healthcare City",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.23371,
+      "lng": 55.323696
     },
     {
       "id": "lp66e9c",
@@ -69,7 +79,9 @@
       "price": "$497/night",
       "location": "Sheikh Zayed Road, Business Bay",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.18557,
+      "lng": 55.258073
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-dubai-with-rooftop-bars",

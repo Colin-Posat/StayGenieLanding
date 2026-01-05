@@ -14,7 +14,9 @@
       "price": "$59/night",
       "location": "129 North 8th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.168807,
+      "lng": -115.137019
     },
     {
       "id": "lp2f2c0",
@@ -25,7 +27,9 @@
       "price": "$65/night",
       "location": "600 Fremont St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.16915,
+      "lng": -115.13839
     },
     {
       "id": "lp22667",
@@ -36,7 +40,9 @@
       "price": "$84/night",
       "location": "200 Fremont St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.171463,
+      "lng": -115.143555
     },
     {
       "id": "lp1cf37",
@@ -47,7 +53,9 @@
       "price": "$30/night",
       "location": "2880 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.136365,
+      "lng": -115.162247
     },
     {
       "id": "lp35699",
@@ -58,7 +66,9 @@
       "price": "$51/night",
       "location": "1213 South Las Vegas Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.156047,
+      "lng": -115.14895
     },
     {
       "id": "lp5fc43",
@@ -69,7 +79,9 @@
       "price": "$105/night",
       "location": "1152 Grand Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.603335,
+      "lng": -105.211844
     }
   ],
   "slug": "best-cheap-safe-clean-hotels-in-las-vegas",

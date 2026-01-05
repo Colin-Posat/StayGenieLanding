@@ -14,7 +14,9 @@
       "price": "$82/night",
       "location": "91 Parramatta Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.831205,
+      "lng": 151.014926
     },
     {
       "id": "lp9220d",
@@ -25,7 +27,9 @@
       "price": "$65/night",
       "location": "327 Beamish St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.914181,
+      "lng": 151.104418
     },
     {
       "id": "lp80658",
@@ -36,7 +40,9 @@
       "price": "$83/night",
       "location": "482-484 Princes Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.951601,
+      "lng": 151.138344
     },
     {
       "id": "lp86725",
@@ -47,7 +53,9 @@
       "price": "$91/night",
       "location": "67-75 Georges Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.922114,
+      "lng": 151.067508
     },
     {
       "id": "lp7af42",
@@ -58,7 +66,9 @@
       "price": "$88/night",
       "location": "340 Princes Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.91588,
+      "lng": 151.174406
     },
     {
       "id": "lpf7ebd",
@@ -69,7 +79,9 @@
       "price": "$85/night",
       "location": "350 Forest Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.965824,
+      "lng": 151.101622
     }
   ],
   "slug": "what-are-the-best-hotels-in-sydney-under-100-and-clean",

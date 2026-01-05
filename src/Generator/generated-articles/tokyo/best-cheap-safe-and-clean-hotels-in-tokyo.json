@@ -14,7 +14,9 @@
       "price": "$52/night",
       "location": "2-31-6",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.728285,
+      "lng": 139.799972
     },
     {
       "id": "lp8748a",
@@ -25,7 +27,9 @@
       "price": "$46/night",
       "location": "1-20-15 Higashi Gotanda",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.626253,
+      "lng": 139.72573
     },
     {
       "id": "lp69d85",
@@ -36,7 +40,9 @@
       "price": "$53/night",
       "location": "2-15-3 Kiyokawa, Taito-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.726716,
+      "lng": 139.800725
     },
     {
       "id": "lp5f260",
@@ -47,7 +53,9 @@
       "price": "$76/night",
       "location": "3-5-1 Motoasakusa Taito-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.706783,
+      "lng": 139.785501
     },
     {
       "id": "lp50274",
@@ -58,7 +66,9 @@
       "price": "$60/night",
       "location": "6-32-1 Kameido, Koto-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.694196,
+      "lng": 139.828547
     },
     {
       "id": "lp8b710",
@@ -69,7 +79,9 @@
       "price": "$70/night",
       "location": "1-10-4 Narihira",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.708719,
+      "lng": 139.810301
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-tokyo",

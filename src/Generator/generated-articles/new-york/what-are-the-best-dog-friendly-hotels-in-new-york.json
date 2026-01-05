@@ -14,7 +14,9 @@
       "price": "$583/night",
       "location": "2 E 61st St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.765144,
+      "lng": -73.971363
     },
     {
       "id": "lp92dad",
@@ -25,7 +27,9 @@
       "price": "$1469/night",
       "location": "27 Barclay St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.713038,
+      "lng": -74.008777
     },
     {
       "id": "lp59b2e",
@@ -36,7 +40,9 @@
       "price": "$255/night",
       "location": "16 E 46th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.755521,
+      "lng": -73.978064
     },
     {
       "id": "lp3ac49",
@@ -47,7 +53,9 @@
       "price": "$377/night",
       "location": "1000 template avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.718584,
+      "lng": -73.989748
     },
     {
       "id": "lp755a8",
@@ -58,7 +66,9 @@
       "price": "$188/night",
       "location": "171 Ludlow Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.721723,
+      "lng": -73.987496
     },
     {
       "id": "lp20d8c",
@@ -69,7 +79,9 @@
       "price": "$163/night",
       "location": "230 E 51st St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.75591,
+      "lng": -73.969078
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-new-york",

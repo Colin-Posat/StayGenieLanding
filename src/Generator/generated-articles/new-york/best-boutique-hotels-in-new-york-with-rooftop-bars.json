@@ -14,7 +14,9 @@
       "price": "$810/night",
       "location": "355 W 16th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.742027,
+      "lng": -74.003623
     },
     {
       "id": "lp76357",
@@ -25,7 +27,9 @@
       "price": "$646/night",
       "location": "6 Times Square",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.755583,
+      "lng": -73.98627
     },
     {
       "id": "lpe1931",
@@ -36,7 +40,9 @@
       "price": "$408/night",
       "location": "310 W. 40th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.756123,
+      "lng": -73.991741
     },
     {
       "id": "lp6b28a",
@@ -47,7 +53,9 @@
       "price": "$563/night",
       "location": "135 W 45th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.757429,
+      "lng": -73.984128
     },
     {
       "id": "lp67857",
@@ -58,7 +66,9 @@
       "price": "$665/night",
       "location": "63 W 38th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.75211,
+      "lng": -73.98546
     },
     {
       "id": "lp299fa",
@@ -69,7 +79,9 @@
       "price": "$590/night",
       "location": "365 Park Ave S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.742197,
+      "lng": -73.984704
     }
   ],
   "slug": "best-boutique-hotels-in-new-york-with-rooftop-bars",

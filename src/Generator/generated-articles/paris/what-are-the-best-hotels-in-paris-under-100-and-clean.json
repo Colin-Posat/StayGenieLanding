@@ -14,7 +14,9 @@
       "price": "$68/night",
       "location": "18 Rue Des Petits Hotels",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.877457,
+      "lng": 2.353746
     },
     {
       "id": "lp210cd",
@@ -25,7 +27,9 @@
       "price": "$98/night",
       "location": "152 Avenue Ledru Rollin",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.85538,
+      "lng": 2.378669
     },
     {
       "id": "lp4997a",
@@ -36,7 +40,9 @@
       "price": "$81/night",
       "location": "37 Rue Servan",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.861282,
+      "lng": 2.382663
     },
     {
       "id": "lp46262",
@@ -47,7 +53,9 @@
       "price": "$97/night",
       "location": "8 Rue Caillaux",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.822757,
+      "lng": 2.361497
     },
     {
       "id": "lp3d471",
@@ -58,7 +66,9 @@
       "price": "$110/night",
       "location": "72 Boulevard De Magenta",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.875389,
+      "lng": 2.357005
     },
     {
       "id": "lp46260",
@@ -69,7 +79,9 @@
       "price": "$103/night",
       "location": "4 Rue Jarry",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.873941,
+      "lng": 2.356248
     }
   ],
   "slug": "what-are-the-best-hotels-in-paris-under-100-and-clean",

@@ -14,7 +14,9 @@
       "price": "$218/night",
       "location": "Bubali 123G",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 12.54759,
+      "lng": -70.05061
     },
     {
       "id": "lp5e26f",
@@ -25,7 +27,9 @@
       "price": "$341/night",
       "location": "Paradera 203",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 12.542023,
+      "lng": -70.002665
     },
     {
       "id": "lp656db679",
@@ -36,7 +40,9 @@
       "price": "$305/night",
       "location": "Pos Abao 10",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 12.543175,
+      "lng": -70.04639
     },
     {
       "id": "lp10183a",
@@ -47,7 +53,9 @@
       "price": "$127/night",
       "location": "126 Caya G. F. Betico Croes",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 12.519029,
+      "lng": -70.030506
     },
     {
       "id": "lp658074c8",
@@ -58,7 +66,9 @@
       "price": "$125/night",
       "location": "Elleboogstraat 21",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 12.520621,
+      "lng": -70.035979
     },
     {
       "id": "lp2140b3",
@@ -69,7 +79,9 @@
       "price": "$309/night",
       "location": "Wayaca 6B",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 12.503428,
+      "lng": -70.00563
     }
   ],
   "faqs": [

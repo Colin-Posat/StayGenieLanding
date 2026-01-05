@@ -14,7 +14,9 @@
       "price": "$108/night",
       "location": "Via Tommaso Salvini 18",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.930215,
+      "lng": 12.492715
     },
     {
       "id": "lp1d2f0",
@@ -25,7 +27,9 @@
       "price": "$146/night",
       "location": "Via Degli Orti Di Trastevere 3",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.882586,
+      "lng": 12.470382
     },
     {
       "id": "lp2e131",
@@ -36,7 +40,9 @@
       "price": "$122/night",
       "location": "Via Barnaba Oriani 11",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.925527,
+      "lng": 12.485299
     },
     {
       "id": "lp470ea",
@@ -47,7 +53,9 @@
       "price": "$130/night",
       "location": "Via Principe Amedeo 85/a",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.898198,
+      "lng": 12.501253
     },
     {
       "id": "lp45bfa",
@@ -58,7 +66,9 @@
       "price": "$126/night",
       "location": "Via Bari 3",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.910789,
+      "lng": 12.513463
     },
     {
       "id": "lp2f2e5",
@@ -69,7 +79,9 @@
       "price": "$83/night",
       "location": "Via Marghera 15-17",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.902241,
+      "lng": 12.503671
     }
   ],
   "slug": "best-hotels-in-rome-for-women-travelers-safe-clean-and-great-amenities",

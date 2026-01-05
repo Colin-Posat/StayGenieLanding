@@ -14,7 +14,9 @@
       "price": "$78/night",
       "location": "10 Rue de Courtrai",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 50.642467,
+      "lng": 3.067745
     },
     {
       "id": "lp6554b3b5",
@@ -25,7 +27,9 @@
       "price": "$79/night",
       "location": "169 rue Berthe Morisot",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 50.628137,
+      "lng": 3.081424
     },
     {
       "id": "lp3cf9a",
@@ -36,7 +40,9 @@
       "price": "$75/night",
       "location": "20 Rue du Chateau d'Isenghein",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 50.653606,
+      "lng": 2.983988
     },
     {
       "id": "lp4f0d7",
@@ -47,7 +53,9 @@
       "price": "$86/night",
       "location": "69-71 Boulevard Vauban",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 50.632207,
+      "lng": 3.046686
     },
     {
       "id": "lpad977",
@@ -58,7 +66,9 @@
       "price": "$81/night",
       "location": "6 Rue Professeur Langevin",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 50.61956,
+      "lng": 3.08379
     },
     {
       "id": "lp7673d",
@@ -69,7 +79,9 @@
       "price": "$88/night",
       "location": "8 parvis Saint Maurice",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 50.635571,
+      "lng": 3.067833
     }
   ],
   "faqs": [

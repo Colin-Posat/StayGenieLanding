@@ -14,7 +14,9 @@
       "price": "$119/night",
       "location": "5-7 Rue D'Avron",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.851502,
+      "lng": 2.399021
     },
     {
       "id": "lp2bb6f",
@@ -25,7 +27,9 @@
       "price": "$146/night",
       "location": "57 Boulevard Saint Marcel",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.837867,
+      "lng": 2.355708
     },
     {
       "id": "lp3d471",
@@ -36,7 +40,9 @@
       "price": "$110/night",
       "location": "72 Boulevard De Magenta",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.875389,
+      "lng": 2.357005
     },
     {
       "id": "lp2b3f8",
@@ -47,7 +53,9 @@
       "price": "$123/night",
       "location": "12 Rue Leon Frot",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.85368,
+      "lng": 2.388094
     },
     {
       "id": "lp2e1ee",
@@ -58,7 +66,9 @@
       "price": "$200/night",
       "location": "69 Rue Meslay",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.868547,
+      "lng": 2.355633
     },
     {
       "id": "lp309de",
@@ -69,7 +79,9 @@
       "price": "$161/night",
       "location": "14 Rue Petel",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.840783,
+      "lng": 2.299355
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-paris",

@@ -14,7 +14,9 @@
       "price": "$326/night",
       "location": "2600 West Harmon Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.109133,
+      "lng": -115.177888
     },
     {
       "id": "lp591b8",
@@ -25,7 +27,9 @@
       "price": "$474/night",
       "location": "3708 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.109946,
+      "lng": -115.175391
     },
     {
       "id": "lp1e390",
@@ -36,7 +40,9 @@
       "price": "$197/night",
       "location": "3770 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.103912,
+      "lng": -115.1732
     },
     {
       "id": "lp1e5cb",
@@ -47,7 +53,9 @@
       "price": "$285/night",
       "location": "3570 Las Vegas Boulevard South",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.117197,
+      "lng": -115.173186
     },
     {
       "id": "lp2760d",
@@ -58,7 +66,9 @@
       "price": "$216/night",
       "location": "3655 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.11246,
+      "lng": -115.17071
     },
     {
       "id": "lp27e76",
@@ -69,7 +79,9 @@
       "price": "$210/night",
       "location": "3950 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.09196,
+      "lng": -115.173035
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-las-vegas-with-rooftop-bars",

@@ -14,7 +14,9 @@
       "price": "$198/night",
       "location": "Spuistraat 52",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.376151,
+      "lng": 4.892467
     },
     {
       "id": "lp461a3",
@@ -25,7 +27,9 @@
       "price": "$280/night",
       "location": "Raadhuisstraat 39",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.373535,
+      "lng": 4.885986
     },
     {
       "id": "lp5bfb6",
@@ -36,7 +40,9 @@
       "price": "$103/night",
       "location": "Van de Veldestraat 5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.359056,
+      "lng": 4.880149
     },
     {
       "id": "lpd0511",
@@ -47,7 +53,9 @@
       "price": "$133/night",
       "location": "Overtoom 13-17",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.363379,
+      "lng": 4.878213
     },
     {
       "id": "lp1b874",
@@ -58,7 +66,9 @@
       "price": "$228/night",
       "location": "Damrak 93-94",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.373683,
+      "lng": 4.893625
     },
     {
       "id": "lp6ed67",
@@ -69,7 +79,9 @@
       "price": "$94/night",
       "location": "Leidsegracht 111",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.365217,
+      "lng": 4.880681
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-amsterdam-with-breakfast-included",

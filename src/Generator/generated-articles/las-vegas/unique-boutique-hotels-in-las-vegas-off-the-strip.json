@@ -14,7 +14,9 @@
       "price": "$93/night",
       "location": "455 E Harmon Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.107811,
+      "lng": -115.154054
     },
     {
       "id": "lpa0c8d",
@@ -25,7 +27,9 @@
       "price": "$122/night",
       "location": "300 W Sahara Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.144152,
+      "lng": -115.160106
     },
     {
       "id": "lp3273a",
@@ -36,7 +40,9 @@
       "price": "$44/night",
       "location": "217 Las Vegas Blvd North",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.170915,
+      "lng": -115.139673
     },
     {
       "id": "lp84133",
@@ -47,7 +53,9 @@
       "price": "$59/night",
       "location": "129 North 8th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.168807,
+      "lng": -115.137019
     },
     {
       "id": "lp32a8e",
@@ -58,7 +66,9 @@
       "price": "$102/night",
       "location": "1501 W Sahara Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.143581,
+      "lng": -115.169772
     },
     {
       "id": "lp656d8344",
@@ -69,7 +79,9 @@
       "price": "$167/night",
       "location": "3961 S Las Vegas Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.091742,
+      "lng": -115.172288
     }
   ],
   "slug": "unique-boutique-hotels-in-las-vegas-off-the-strip",

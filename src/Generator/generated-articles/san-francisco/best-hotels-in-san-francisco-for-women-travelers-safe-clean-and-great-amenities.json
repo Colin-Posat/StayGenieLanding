@@ -14,7 +14,9 @@
       "price": "$479/night",
       "location": "222 Mason St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.786239,
+      "lng": -122.409343
     },
     {
       "id": "lp1c1be",
@@ -25,7 +27,9 @@
       "price": "$687/night",
       "location": "340 Stockton St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.789137,
+      "lng": -122.406845
     },
     {
       "id": "lp1d5b3",
@@ -36,7 +40,9 @@
       "price": "$1995/night",
       "location": "780 Mission Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.785075,
+      "lng": -122.404821
     },
     {
       "id": "lp19efc",
@@ -47,7 +53,9 @@
       "price": "$930/night",
       "location": "999 California Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.791698,
+      "lng": -122.410584
     },
     {
       "id": "lp23793",
@@ -58,7 +66,9 @@
       "price": "$1558/night",
       "location": "181 3rd St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.785403,
+      "lng": -122.400192
     },
     {
       "id": "lp1bfb5",
@@ -69,7 +79,9 @@
       "price": "$517/night",
       "location": "386 Geary Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.787259,
+      "lng": -122.409669
     }
   ],
   "slug": "best-hotels-in-san-francisco-for-women-travelers-safe-clean-and-great-amenities",

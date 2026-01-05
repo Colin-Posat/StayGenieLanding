@@ -14,7 +14,9 @@
       "price": "$241/night",
       "location": "Javakade 766",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.379111,
+      "lng": 4.922304
     },
     {
       "id": "lp98c9f",
@@ -25,7 +27,9 @@
       "price": "$184/night",
       "location": "Overhoeksplein 7",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.383784,
+      "lng": 4.902409
     },
     {
       "id": "lp225fcf",
@@ -36,7 +40,9 @@
       "price": "$155/night",
       "location": "Europaboulevard 2b",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.338489,
+      "lng": 4.891107
     },
     {
       "id": "lp8e5dd",
@@ -47,7 +53,9 @@
       "price": "$247/night",
       "location": "Weesperstraat 105",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.363763,
+      "lng": 4.906618
     },
     {
       "id": "lp3d54d",
@@ -58,7 +66,9 @@
       "price": "$156/night",
       "location": "Roemer Visscherstraat 10",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.361759,
+      "lng": 4.878007
     },
     {
       "id": "lp65f24",
@@ -69,7 +79,9 @@
       "price": "$1023/night",
       "location": "Vossiusstraat 8",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.361206,
+      "lng": 4.8816
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-amsterdam-with-rooftop-bars",

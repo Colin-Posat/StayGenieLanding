@@ -14,7 +14,9 @@
       "price": "$32/night",
       "location": "1221 Sukhumvit Soi 61, Wattana",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.721686,
+      "lng": 100.583085
     },
     {
       "id": "lp5873e",
@@ -25,7 +27,9 @@
       "price": "$37/night",
       "location": "Rama 9,27 Rama 9 Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.746654,
+      "lng": 100.608662
     },
     {
       "id": "lp5b613",
@@ -36,7 +40,9 @@
       "price": "$31/night",
       "location": "67/2 Soi Chareonsak",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.78961,
+      "lng": 100.578423
     },
     {
       "id": "lp4dd14",
@@ -47,7 +53,9 @@
       "price": "$23/night",
       "location": "666 Soi Ladprao 130 Ramkhamhaeng 81 Ladp",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.768663,
+      "lng": 100.63259
     },
     {
       "id": "lp3d1c0",
@@ -58,7 +66,9 @@
       "price": "$27/night",
       "location": "5 Soi Ramkamhaeng 15",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.753473,
+      "lng": 100.608545
     },
     {
       "id": "lp4b5ba",
@@ -69,7 +79,9 @@
       "price": "$38/night",
       "location": "588/1 Petchburi Road, Rajtaevee",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.751578,
+      "lng": 100.535663
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-bangkok-with-breakfast-included",

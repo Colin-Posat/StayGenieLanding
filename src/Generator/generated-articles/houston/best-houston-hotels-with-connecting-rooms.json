@@ -14,7 +14,9 @@
       "price": "$312/night",
       "location": "1515 Dallas St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.752749,
+      "lng": -95.361529
     },
     {
       "id": "lp3b6af",
@@ -25,7 +27,9 @@
       "price": "$200/night",
       "location": "2950 Sage Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.737111,
+      "lng": -95.46708
     },
     {
       "id": "lp4089d",
@@ -36,7 +40,9 @@
       "price": "$272/night",
       "location": "1225 Eldridge Enclave Pkwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.766855,
+      "lng": -95.624317
     },
     {
       "id": "lp83fbb",
@@ -47,7 +53,9 @@
       "price": "$215/night",
       "location": "5851 Rogerdale Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 29.714778,
+      "lng": -95.560237
     },
     {
       "id": "lp514b7",
@@ -58,7 +66,9 @@
       "price": "$205/night",
       "location": "16011 Katy Freeway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.784254,
+      "lng": -95.664168
     },
     {
       "id": "lp43033",
@@ -69,7 +79,9 @@
       "price": "$137/night",
       "location": "5190 Hidalgo St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 29.735519,
+      "lng": -95.466487
     }
   ],
   "faqs": [

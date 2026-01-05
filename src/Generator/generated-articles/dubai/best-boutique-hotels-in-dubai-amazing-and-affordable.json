@@ -14,7 +14,9 @@
       "price": "$63/night",
       "location": "Next to E NBD Bank Bldg, Al Ras",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.267556,
+      "lng": 55.29397
     },
     {
       "id": "lp90204",
@@ -25,7 +27,9 @@
       "price": "$95/night",
       "location": "Al Rigga Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.262574,
+      "lng": 55.322014
     },
     {
       "id": "lp5a560",
@@ -36,7 +40,9 @@
       "price": "$87/night",
       "location": "Khalid Bin Waleed Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.260223,
+      "lng": 55.28526
     },
     {
       "id": "lp5b9f5",
@@ -47,7 +53,9 @@
       "price": "$82/night",
       "location": "37th Street, Al Rigga Road, Clock Tower",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.260944,
+      "lng": 55.323925
     },
     {
       "id": "lp4ca41",
@@ -58,7 +66,9 @@
       "price": "$67/night",
       "location": "Salahuddin Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.270587,
+      "lng": 55.319878
     },
     {
       "id": "lp4125e",
@@ -69,7 +79,9 @@
       "price": "$145/night",
       "location": "the corner 24th and 9th street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.28022,
+      "lng": 55.3512
     }
   ],
   "slug": "best-boutique-hotels-in-dubai-amazing-and-affordable",

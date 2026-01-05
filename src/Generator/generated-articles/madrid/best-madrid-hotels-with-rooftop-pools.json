@@ -14,7 +14,9 @@
       "price": "$306/night",
       "location": "Goya 49",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.425139,
+      "lng": -3.682094
     },
     {
       "id": "lp1a97d",
@@ -25,7 +27,9 @@
       "price": "$334/night",
       "location": "Marqués de Casa Riera 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.417892,
+      "lng": -3.696159
     },
     {
       "id": "lp83041",
@@ -36,7 +40,9 @@
       "price": "$285/night",
       "location": "Gran Via 80",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.423303,
+      "lng": -3.710491
     },
     {
       "id": "lp4644c",
@@ -47,7 +53,9 @@
       "price": "$300/night",
       "location": "C/ Gran Vía 9",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.419407,
+      "lng": -3.699071
     },
     {
       "id": "lp47f29",
@@ -58,7 +66,9 @@
       "price": "$257/night",
       "location": "Calle Victoria, 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.41621,
+      "lng": -3.70166
     },
     {
       "id": "lp2d8c7",
@@ -69,7 +79,9 @@
       "price": "$242/night",
       "location": "Calle del Marques de Urquijo, 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.430643,
+      "lng": -3.716904
     }
   ],
   "faqs": [

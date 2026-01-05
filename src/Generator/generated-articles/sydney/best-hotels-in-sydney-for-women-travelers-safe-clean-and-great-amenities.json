@@ -14,7 +14,9 @@
       "price": "$533/night",
       "location": "61 Macquarie Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.86073,
+      "lng": 151.213105
     },
     {
       "id": "lp20142",
@@ -25,7 +27,9 @@
       "price": "$415/night",
       "location": "176 Cumberland Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.861298,
+      "lng": 151.206274
     },
     {
       "id": "lp1b9c4",
@@ -36,7 +40,9 @@
       "price": "$386/night",
       "location": "488 George Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.871598,
+      "lng": 151.207066
     },
     {
       "id": "lp20eb4",
@@ -47,7 +53,9 @@
       "price": "$229/night",
       "location": "359 Crown Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.883917,
+      "lng": 151.214169
     },
     {
       "id": "lp2e0ef",
@@ -58,7 +66,9 @@
       "price": "$138/night",
       "location": "4-10 Victor Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.760445,
+      "lng": 151.276942
     },
     {
       "id": "lp3b2f4",
@@ -69,7 +79,9 @@
       "price": "$172/night",
       "location": "9 Missenden Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.886883,
+      "lng": 151.179321
     }
   ],
   "slug": "best-hotels-in-sydney-for-women-travelers-safe-clean-and-great-amenities",

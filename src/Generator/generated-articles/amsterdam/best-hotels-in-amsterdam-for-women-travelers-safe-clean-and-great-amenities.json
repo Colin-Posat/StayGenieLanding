@@ -14,7 +14,9 @@
       "price": "$521/night",
       "location": "Prinsengracht 323",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.372824,
+      "lng": 4.883282
     },
     {
       "id": "lp4513f",
@@ -25,7 +27,9 @@
       "price": "$110/night",
       "location": "Willemsparkweg 205",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.355521,
+      "lng": 4.869137
     },
     {
       "id": "lp23657c",
@@ -36,7 +40,9 @@
       "price": "$138/night",
       "location": "Damrak 34",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.376054,
+      "lng": 4.89634
     },
     {
       "id": "lp64064",
@@ -47,7 +53,9 @@
       "price": "$108/night",
       "location": "Overtoom 57",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.36298,
+      "lng": 4.87636
     },
     {
       "id": "lp480ac",
@@ -58,7 +66,9 @@
       "price": "$111/night",
       "location": "Vondelstraat 44-46",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.362288,
+      "lng": 4.877116
     },
     {
       "id": "lp6ed67",
@@ -69,7 +79,9 @@
       "price": "$94/night",
       "location": "Leidsegracht 111",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.365217,
+      "lng": 4.880681
     }
   ],
   "slug": "best-hotels-in-amsterdam-for-women-travelers-safe-clean-and-great-amenities",

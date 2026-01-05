@@ -14,7 +14,9 @@
       "price": "$51/night",
       "location": "2625 Zelda Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.364237,
+      "lng": -86.269912
     },
     {
       "id": "lp656d04bb",
@@ -25,7 +27,9 @@
       "price": "$55/night",
       "location": "1401 Eastern Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.35815,
+      "lng": -86.215195
     },
     {
       "id": "lp851ac",
@@ -36,7 +40,9 @@
       "price": "$91/night",
       "location": "1771 Congressman West Dickinson Drive",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.407874,
+      "lng": -86.261973
     },
     {
       "id": "lp21305",
@@ -47,7 +53,9 @@
       "price": "$72/night",
       "location": "4180 Troy Hwy",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.318346,
+      "lng": -86.233277
     },
     {
       "id": "lp2951c",
@@ -58,7 +66,9 @@
       "price": "$94/night",
       "location": "4470 N Chase Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.420647,
+      "lng": -86.232721
     },
     {
       "id": "lp35359",
@@ -69,7 +79,9 @@
       "price": "$85/night",
       "location": "4273 Troy Hwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 32.315767,
+      "lng": -86.228088
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$109/night",
       "location": "Loosdrechtdreef 3",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.311096,
+      "lng": 4.985822
     },
     {
       "id": "lp399af",
@@ -25,7 +27,9 @@
       "price": "$121/night",
       "location": "Plantage Kerklaan 25",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.366619,
+      "lng": 4.91179
     },
     {
       "id": "lp1b874",
@@ -36,7 +40,9 @@
       "price": "$228/night",
       "location": "Damrak 93-94",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.373683,
+      "lng": 4.893625
     },
     {
       "id": "lp480ac",
@@ -47,7 +53,9 @@
       "price": "$96/night",
       "location": "Vondelstraat 44-46",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.362288,
+      "lng": 4.877116
     },
     {
       "id": "lp1c03c",
@@ -58,7 +66,9 @@
       "price": "$225/night",
       "location": "Vijzelstraat 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.366461,
+      "lng": 4.893084
     },
     {
       "id": "lp473eb",
@@ -69,7 +79,9 @@
       "price": "$138/night",
       "location": "AMSTEL 60",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.36685,
+      "lng": 4.896136
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-amsterdam",

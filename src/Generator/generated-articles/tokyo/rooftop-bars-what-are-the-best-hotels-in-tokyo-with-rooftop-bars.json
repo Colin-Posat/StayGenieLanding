@@ -14,7 +14,9 @@
       "price": "$949/night",
       "location": "1-23-4 Toranomon, Minato-ku",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.666375,
+      "lng": 139.749689
     },
     {
       "id": "lp1bd9c",
@@ -25,7 +27,9 @@
       "price": "$599/night",
       "location": "2-10-3 Nagata-cho",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.674158,
+      "lng": 139.741142
     },
     {
       "id": "lp33a25",
@@ -36,7 +40,9 @@
       "price": "$516/night",
       "location": "6-10-3 Roppongi",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.659831,
+      "lng": 139.728212
     },
     {
       "id": "lp37b85",
@@ -47,7 +53,9 @@
       "price": "$245/night",
       "location": "4-8-1 Shibakoen Minato-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.655189,
+      "lng": 139.747011
     },
     {
       "id": "lp85306",
@@ -58,7 +66,9 @@
       "price": "$793/night",
       "location": "4-1 Kioi-Cho",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.681196,
+      "lng": 139.733758
     },
     {
       "id": "lp1b8d5",
@@ -69,7 +79,9 @@
       "price": "$374/night",
       "location": "4-1 Kioi-cho Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.680895,
+      "lng": 139.733573
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-tokyo-with-rooftop-bars",

@@ -14,7 +14,9 @@
       "price": "$562/night",
       "location": "848 Washington St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.740679,
+      "lng": -74.007812
     },
     {
       "id": "lp9e1e8",
@@ -25,7 +27,9 @@
       "price": "$640/night",
       "location": "18 9th Avenue at 13th street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.740026,
+      "lng": -74.005664
     },
     {
       "id": "lp7baff",
@@ -36,7 +40,9 @@
       "price": "$634/night",
       "location": "180 Ludlow Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.721761,
+      "lng": -73.987218
     },
     {
       "id": "lp6d7a2",
@@ -47,7 +53,9 @@
       "price": "$354/night",
       "location": "525 Greenwich Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.726393,
+      "lng": -74.008946
     },
     {
       "id": "lp76357",
@@ -58,7 +66,9 @@
       "price": "$296/night",
       "location": "6 Times Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.755583,
+      "lng": -73.98627
     },
     {
       "id": "lpb564b",
@@ -69,7 +79,9 @@
       "price": "$801/night",
       "location": "335 Bowery",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.726037,
+      "lng": -73.991645
     }
   ],
   "slug": "top-boutique-hotels-in-new-york-city-with-skyline-views",

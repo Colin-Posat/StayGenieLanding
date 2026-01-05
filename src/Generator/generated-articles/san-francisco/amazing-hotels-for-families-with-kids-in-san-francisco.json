@@ -14,7 +14,9 @@
       "price": "$202/night",
       "location": "1599 Lombard St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.800787,
+      "lng": -122.427598
     },
     {
       "id": "lp19cb8",
@@ -25,7 +27,9 @@
       "price": "$638/night",
       "location": "2500 Mason St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.806866,
+      "lng": -122.41378
     },
     {
       "id": "lp1ddea",
@@ -36,7 +40,9 @@
       "price": "$265/night",
       "location": "1201 Columbus Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.805331,
+      "lng": -122.417454
     },
     {
       "id": "lp65585205",
@@ -47,7 +53,9 @@
       "price": "$372/night",
       "location": "33 Turk St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.783172,
+      "lng": -122.409673
     },
     {
       "id": "lp1e237",
@@ -58,7 +66,9 @@
       "price": "$495/night",
       "location": "55 Cyril Magnin St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.784739,
+      "lng": -122.408763
     },
     {
       "id": "lp1b53c",
@@ -69,7 +79,9 @@
       "price": "$552/night",
       "location": "28 Cyril Magnin Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.784878,
+      "lng": -122.407916
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-san-francisco",

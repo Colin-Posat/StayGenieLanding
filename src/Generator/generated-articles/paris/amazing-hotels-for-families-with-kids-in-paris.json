@@ -14,7 +14,9 @@
       "price": "$310/night",
       "location": "17 Rue Du Cotentin",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.838611,
+      "lng": 2.315005
     },
     {
       "id": "lp1fb4e",
@@ -25,7 +27,9 @@
       "price": "$197/night",
       "location": "74 Rue de Provence",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.874289,
+      "lng": 2.33204
     },
     {
       "id": "lp2cbec",
@@ -36,7 +40,9 @@
       "price": "$165/night",
       "location": "15 Rue Clauzel",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.879165,
+      "lng": 2.338285
     },
     {
       "id": "lp3c0b9",
@@ -47,7 +53,9 @@
       "price": "$151/night",
       "location": "98 Avenue d'Italie",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.825276,
+      "lng": 2.357252
     },
     {
       "id": "lp3a8d8",
@@ -58,7 +66,9 @@
       "price": "$133/night",
       "location": "36, rue de Londres",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.877743,
+      "lng": 2.327539
     },
     {
       "id": "lp2da0f",
@@ -69,7 +79,9 @@
       "price": "$134/night",
       "location": "4 Rue Rodier",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.877481,
+      "lng": 2.342382
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-paris",

@@ -14,7 +14,9 @@
       "price": "$453/night",
       "location": "20 Times Square, 701 7th Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.759164,
+      "lng": -73.984124
     },
     {
       "id": "lp530bc",
@@ -25,7 +27,9 @@
       "price": "$244/night",
       "location": "300 W 44th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.758696,
+      "lng": -73.989366
     },
     {
       "id": "lp5db5a",
@@ -36,7 +40,9 @@
       "price": "$465/night",
       "location": "355 W 16th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.742027,
+      "lng": -74.003623
     },
     {
       "id": "lp1ea45",
@@ -47,7 +53,9 @@
       "price": "$555/night",
       "location": "540 Park Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.764456,
+      "lng": -73.96897
     },
     {
       "id": "lp65431",
@@ -58,7 +66,9 @@
       "price": "$191/night",
       "location": "52 West 36th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.75051,
+      "lng": -73.98577
     },
     {
       "id": "lp5b86f",
@@ -69,7 +79,9 @@
       "price": "$269/night",
       "location": "517 Lexington Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 40.755184,
+      "lng": -73.97301
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-new-york",

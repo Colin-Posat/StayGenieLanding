@@ -14,7 +14,9 @@
       "price": "$96/night",
       "location": "8 Edwin Flack Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.849929,
+      "lng": 151.062225
     },
     {
       "id": "lp9220d",
@@ -25,7 +27,9 @@
       "price": "$65/night",
       "location": "327 Beamish St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.914181,
+      "lng": 151.104418
     },
     {
       "id": "lpf7ebd",
@@ -36,7 +40,9 @@
       "price": "$85/night",
       "location": "350 Forest Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.965824,
+      "lng": 151.101622
     },
     {
       "id": "lp76db7",
@@ -47,7 +53,9 @@
       "price": "$107/night",
       "location": "178 Princes Highway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.914655,
+      "lng": 151.177781
     },
     {
       "id": "lp75645",
@@ -58,7 +66,9 @@
       "price": "$88/night",
       "location": "626-628 Liverpool Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.887092,
+      "lng": 151.071486
     },
     {
       "id": "lp65878",
@@ -69,7 +79,9 @@
       "price": "$69/night",
       "location": "109 Cambridge Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.89574,
+      "lng": 151.167393
     }
   ],
   "slug": "best-boutique-hotels-in-sydney-amazing-and-affordable",

@@ -14,7 +14,9 @@
       "price": "$66/night",
       "location": "carmona, near union Bank , Goa",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.20903,
+      "lng": 73.95032
     },
     {
       "id": "lp65807d99",
@@ -25,7 +27,9 @@
       "price": "$12/night",
       "location": "HOUSE NO EHN 296, TEMBWADA MORJIM, PERNEM, NORTH GOA, GOA",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.61932,
+      "lng": 73.73676
     },
     {
       "id": "lp657aa799",
@@ -36,7 +40,9 @@
       "price": "$47/night",
       "location": "Lira Beach Place , Survey Number- 120/21-A-3, Village- Nagorcem, Palolem, Taluka-Canacona, Goa- 403702",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.01198,
+      "lng": 74.01989
     },
     {
       "id": "lp658070a0",
@@ -47,7 +53,9 @@
       "price": "$54/night",
       "location": "6/55C, Village Calangute Bardez",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.55116,
+      "lng": 73.75958
     },
     {
       "id": "lp6577e1e2",
@@ -58,7 +66,9 @@
       "price": "$54/night",
       "location": "Gauravaddo, Gaura Waddo, Goa",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.534433,
+      "lng": 73.760475
     },
     {
       "id": "lp65701235",
@@ -69,7 +79,9 @@
       "price": "$804/night",
       "location": "Bouta Waddo, Assagao, Goa 403519",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 15.596325,
+      "lng": 73.777338
     }
   ],
   "faqs": [

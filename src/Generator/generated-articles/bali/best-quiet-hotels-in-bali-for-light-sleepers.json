@@ -14,7 +14,9 @@
       "price": "$187/night",
       "location": "Jalan Raya Sebali, Banjar Sebali",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -8.477079,
+      "lng": 115.258676
     },
     {
       "id": "lpa9a00",
@@ -25,7 +27,9 @@
       "price": "$56/night",
       "location": "Br. Pengosekan Kaja Mas Ubud",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -8.528475,
+      "lng": 115.262392
     },
     {
       "id": "lp3f192",
@@ -36,7 +40,9 @@
       "price": "$73/night",
       "location": "Jalan Melayang",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -8.486215,
+      "lng": 115.284476
     },
     {
       "id": "lp71090",
@@ -47,7 +53,9 @@
       "price": "$40/night",
       "location": "Jl. Raya Tebongkang Singakerta Nyuh",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -8.528207,
+      "lng": 115.254624
     },
     {
       "id": "lpa3428",
@@ -58,7 +66,9 @@
       "price": "$264/night",
       "location": "Jl. Sriwedari No 48B",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -8.4867,
+      "lng": 115.266554
     },
     {
       "id": "lp66254",
@@ -69,7 +79,9 @@
       "price": "$97/night",
       "location": "Monkey Forest St.",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -8.512663,
+      "lng": 115.260827
     }
   ],
   "faqs": [

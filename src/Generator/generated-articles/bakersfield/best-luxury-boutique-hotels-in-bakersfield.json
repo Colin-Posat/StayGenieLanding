@@ -14,7 +14,9 @@
       "price": "$230/night",
       "location": "1702 18th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.375568,
+      "lng": -119.02133
     },
     {
       "id": "lp21e66",
@@ -25,7 +27,9 @@
       "price": "$128/night",
       "location": "5101 California Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.360242,
+      "lng": -119.059203
     },
     {
       "id": "lp2362d3",
@@ -36,7 +40,9 @@
       "price": "$157/night",
       "location": "310 Coffee Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.35519,
+      "lng": -119.0921
     },
     {
       "id": "lp6556b5d0",
@@ -47,7 +53,9 @@
       "price": "$242/night",
       "location": "8312 ESPRESSO DRIVE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.388858,
+      "lng": -119.094794
     },
     {
       "id": "lp1d2e8",
@@ -58,7 +66,9 @@
       "price": "$231/night",
       "location": "801 Truxtun Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.372743,
+      "lng": -119.011583
     },
     {
       "id": "lp36454",
@@ -69,7 +79,9 @@
       "price": "$188/night",
       "location": "1505 Mill Rock Way",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.341503,
+      "lng": -119.098494
     }
   ],
   "faqs": [

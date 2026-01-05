@@ -14,7 +14,9 @@
       "price": "$449/night",
       "location": "230 4th Avenue North",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.164729,
+      "lng": -86.779134
     },
     {
       "id": "lp214163",
@@ -25,7 +27,9 @@
       "price": "$264/night",
       "location": "101 20th Avenue North",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.15147,
+      "lng": -86.799766
     },
     {
       "id": "lp656bceaa",
@@ -36,7 +40,9 @@
       "price": "$367/night",
       "location": "920 Division Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.15123,
+      "lng": -86.7819
     },
     {
       "id": "lp440f1",
@@ -47,7 +53,9 @@
       "price": "$480/night",
       "location": "1808 West End Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.15287,
+      "lng": -86.797082
     },
     {
       "id": "lpb5fc3",
@@ -58,7 +66,9 @@
       "price": "$408/night",
       "location": "200 4th Avenue North",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.163963,
+      "lng": -86.778762
     },
     {
       "id": "lpb73da",
@@ -69,7 +79,9 @@
       "price": "$398/night",
       "location": "401 Union Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.16501,
+      "lng": -86.77986
     }
   ],
   "slug": "trendy-boutique-hotels-in-nashville-with-rooftop-bars",

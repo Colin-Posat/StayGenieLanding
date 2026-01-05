@@ -14,7 +14,9 @@
       "price": "$214/night",
       "location": "Stadhouderskade 7",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.363101,
+      "lng": 4.879509
     },
     {
       "id": "lp461a3",
@@ -25,7 +27,9 @@
       "price": "$286/night",
       "location": "Raadhuisstraat 39",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.373535,
+      "lng": 4.885986
     },
     {
       "id": "lp1dd2e",
@@ -36,7 +40,9 @@
       "price": "$140/night",
       "location": "Distelkade 21",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 52.392193,
+      "lng": 4.910897
     },
     {
       "id": "lp65555479",
@@ -47,7 +53,9 @@
       "price": "$198/night",
       "location": "Eduard van Beinumstraat 40",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.339985,
+      "lng": 4.871088
     },
     {
       "id": "lp65562a76",
@@ -58,7 +66,9 @@
       "price": "$178/night",
       "location": "Motorkade 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.384104,
+      "lng": 4.919524
     },
     {
       "id": "lp91f68",
@@ -69,7 +79,9 @@
       "price": "$116/night",
       "location": "Fizeaustraat 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.3454,
+      "lng": 4.925637
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-amsterdam",

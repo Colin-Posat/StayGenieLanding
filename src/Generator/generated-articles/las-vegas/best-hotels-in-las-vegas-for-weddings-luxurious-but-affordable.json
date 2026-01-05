@@ -14,7 +14,9 @@
       "price": "$97/night",
       "location": "206 North 3rd Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.17146,
+      "lng": -115.142086
     },
     {
       "id": "lp1a88f",
@@ -25,7 +27,9 @@
       "price": "$78/night",
       "location": "2000 N Grand Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.615273,
+      "lng": -105.208349
     },
     {
       "id": "lp33a1d1",
@@ -36,7 +40,9 @@
       "price": "$161/night",
       "location": "755 Sierra Vista Dr.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.126636,
+      "lng": -115.146712
     },
     {
       "id": "lp4b262",
@@ -47,7 +53,9 @@
       "price": "$173/night",
       "location": "2852 E Craig Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.24015,
+      "lng": -115.11065
     },
     {
       "id": "lp43826",
@@ -58,7 +66,9 @@
       "price": "$160/night",
       "location": "6575 S Eastern Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.070269,
+      "lng": -115.119338
     },
     {
       "id": "lp538f2",
@@ -69,7 +79,9 @@
       "price": "$200/night",
       "location": "3411 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.120318,
+      "lng": -115.172167
     }
   ],
   "slug": "best-hotels-in-las-vegas-for-weddings-luxurious-but-affordable",

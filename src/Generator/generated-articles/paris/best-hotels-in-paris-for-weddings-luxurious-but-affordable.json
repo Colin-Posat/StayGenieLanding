@@ -14,7 +14,9 @@
       "price": "$121/night",
       "location": "74 Rue Du Moulin Vert",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.831413,
+      "lng": 2.3197
     },
     {
       "id": "lp2eaaf",
@@ -25,7 +27,9 @@
       "price": "$161/night",
       "location": "82 Rue Saint Charles",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.847194,
+      "lng": 2.285942
     },
     {
       "id": "lp2eda6",
@@ -36,7 +40,9 @@
       "price": "$136/night",
       "location": "71 Rue De Charonne",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.853625,
+      "lng": 2.380605
     },
     {
       "id": "lp2b3f8",
@@ -47,7 +53,9 @@
       "price": "$123/night",
       "location": "12 Rue Leon Frot",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.85368,
+      "lng": 2.388094
     },
     {
       "id": "lp34675",
@@ -58,7 +66,9 @@
       "price": "$148/night",
       "location": "37 Rue De Maubeuge",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.87874,
+      "lng": 2.346059
     },
     {
       "id": "lp42680",
@@ -69,7 +79,9 @@
       "price": "$234/night",
       "location": "11 Bis, Rue Jules Chaplain",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.84271,
+      "lng": 2.330332
     }
   ],
   "slug": "best-hotels-in-paris-for-weddings-luxurious-but-affordable",

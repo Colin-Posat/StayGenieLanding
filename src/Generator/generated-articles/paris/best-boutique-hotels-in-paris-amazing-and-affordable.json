@@ -14,7 +14,9 @@
       "price": "$132/night",
       "location": "51 Boulevard Péreire",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.887498,
+      "lng": 2.307905
     },
     {
       "id": "lp352f0",
@@ -25,7 +27,9 @@
       "price": "$134/night",
       "location": "219 rue de Crimée",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.892499,
+      "lng": 2.374581
     },
     {
       "id": "lp2a1cb",
@@ -36,7 +40,9 @@
       "price": "$139/night",
       "location": "209/211 Rue De Charenton",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.83918,
+      "lng": 2.38906
     },
     {
       "id": "lp3d471",
@@ -47,7 +53,9 @@
       "price": "$110/night",
       "location": "72 Boulevard De Magenta",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.875389,
+      "lng": 2.357005
     },
     {
       "id": "lp1d031",
@@ -58,7 +66,9 @@
       "price": "$209/night",
       "location": "149 Avenue De Suffren",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.846813,
+      "lng": 2.307893
     },
     {
       "id": "lp32bc7",
@@ -69,7 +79,9 @@
       "price": "$247/night",
       "location": "5 Rue Tholoze",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.886224,
+      "lng": 2.335281
     }
   ],
   "slug": "best-boutique-hotels-in-paris-amazing-and-affordable",

@@ -14,7 +14,9 @@
       "price": "$85/night",
       "location": "350 Forest Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.965824,
+      "lng": 151.101622
     },
     {
       "id": "lp75645",
@@ -25,7 +27,9 @@
       "price": "$88/night",
       "location": "626-628 Liverpool Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.887092,
+      "lng": 151.071486
     },
     {
       "id": "lp72c68",
@@ -36,7 +40,9 @@
       "price": "$137/night",
       "location": "191 - 201 William Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.875141,
+      "lng": 151.220246
     },
     {
       "id": "lp76db9",
@@ -47,7 +53,9 @@
       "price": "$98/night",
       "location": "8 Edwin Flack Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.849929,
+      "lng": 151.062225
     },
     {
       "id": "lp1e32b0",
@@ -58,7 +66,9 @@
       "price": "$98/night",
       "location": "236 Kingsgrove Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.940937,
+      "lng": 151.101524
     },
     {
       "id": "lp7af42",
@@ -69,7 +79,9 @@
       "price": "$88/night",
       "location": "340 Princes Highway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.91588,
+      "lng": 151.174406
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-sydney-with-breakfast-included",

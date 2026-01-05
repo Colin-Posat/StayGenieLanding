@@ -14,7 +14,9 @@
       "price": "$124/night",
       "location": "1901 N Rainbow Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.19298,
+      "lng": -115.243219
     },
     {
       "id": "lp655780a0",
@@ -25,7 +27,9 @@
       "price": "$156/night",
       "location": "8906 W Deer Springs Way",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.28465,
+      "lng": -115.287981
     },
     {
       "id": "lpd8965",
@@ -36,7 +40,9 @@
       "price": "$70/night",
       "location": "1701 Fremont Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.163607,
+      "lng": -115.126359
     },
     {
       "id": "lp249f8",
@@ -47,7 +53,9 @@
       "price": "$172/night",
       "location": "8669 W Sahara Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.142824,
+      "lng": -115.280769
     },
     {
       "id": "lp1a88f",
@@ -58,7 +66,9 @@
       "price": "$78/night",
       "location": "2000 N Grand Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.615273,
+      "lng": -105.208349
     },
     {
       "id": "lp656ca11f",
@@ -69,7 +79,9 @@
       "price": "$366/night",
       "location": "2631 St. Rose Pkwy",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.010906,
+      "lng": -115.109456
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-las-vegas",

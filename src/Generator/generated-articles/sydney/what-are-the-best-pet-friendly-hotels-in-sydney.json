@@ -14,7 +14,9 @@
       "price": "$693/night",
       "location": "199 George St.",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.861654,
+      "lng": 151.207854
     },
     {
       "id": "lp1e2f2",
@@ -25,7 +27,9 @@
       "price": "$187/night",
       "location": "17 Blue Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.841334,
+      "lng": 151.208417
     },
     {
       "id": "lp8aeec",
@@ -36,7 +40,9 @@
       "price": "$127/night",
       "location": "10 Byfield St Macquarie Park",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.780904,
+      "lng": 151.120038
     },
     {
       "id": "lp9a3c5",
@@ -47,7 +53,9 @@
       "price": "$129/night",
       "location": "71 Epping Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.78796,
+      "lng": 151.127438
     },
     {
       "id": "lp7441e",
@@ -58,7 +66,9 @@
       "price": "$179/night",
       "location": "52-60 Enmore Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.898824,
+      "lng": 151.17634
     },
     {
       "id": "lp8b265",
@@ -69,7 +79,9 @@
       "price": "$309/night",
       "location": "84-86 Parramatta Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.885607,
+      "lng": 151.180464
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-sydney",

@@ -14,7 +14,9 @@
       "price": "$81/night",
       "location": "Via Siderno 37",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.834799,
+      "lng": 12.555504
     },
     {
       "id": "lp44d3d",
@@ -25,7 +27,9 @@
       "price": "$98/night",
       "location": "Via Giovanni Amendola 95, 4th Floor",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.899295,
+      "lng": 12.500535
     },
     {
       "id": "lp461a8",
@@ -36,7 +40,9 @@
       "price": "$109/night",
       "location": "Via Montebello 94",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.906122,
+      "lng": 12.501071
     },
     {
       "id": "lp4461e",
@@ -47,7 +53,9 @@
       "price": "$109/night",
       "location": "Via Buonarroti, 51",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.891845,
+      "lng": 12.500871
     },
     {
       "id": "lp31060",
@@ -58,7 +66,9 @@
       "price": "$108/night",
       "location": "Via Tommaso Salvini 18",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.930215,
+      "lng": 12.492715
     },
     {
       "id": "lp30abb",
@@ -69,7 +79,9 @@
       "price": "$114/night",
       "location": "Via Gioberti 30",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.89907,
+      "lng": 12.500937
     }
   ],
   "slug": "best-hotels-in-rome-for-weddings-luxurious-but-affordable",

@@ -14,7 +14,9 @@
       "price": "$55/night",
       "location": "122/44 Ratchaprarop Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.754163,
+      "lng": 100.539952
     },
     {
       "id": "lp6ecc4",
@@ -25,7 +27,9 @@
       "price": "$46/night",
       "location": "259 Khaosan Road, Phra Nakorn",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.758519,
+      "lng": 100.498375
     },
     {
       "id": "lp70a85",
@@ -36,7 +40,9 @@
       "price": "$43/night",
       "location": "46/1, Soi Ratchada 17",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.785492,
+      "lng": 100.56982
     },
     {
       "id": "lp502de",
@@ -47,7 +53,9 @@
       "price": "$47/night",
       "location": "150 Silom Soi 3",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.724424,
+      "lng": 100.530894
     },
     {
       "id": "lp3f13e",
@@ -58,7 +66,9 @@
       "price": "$54/night",
       "location": "33/3 Soi Naradhiwas 7 (Prapinij)",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.720331,
+      "lng": 100.532504
     },
     {
       "id": "lp59020",
@@ -69,7 +79,9 @@
       "price": "$69/night",
       "location": "140 Sukhumvit Soi 20",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.729183,
+      "lng": 100.563971
     }
   ],
   "slug": "best-boutique-hotels-in-bangkok-amazing-and-affordable",

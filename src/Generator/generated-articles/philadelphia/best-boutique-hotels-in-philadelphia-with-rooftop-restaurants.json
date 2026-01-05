@@ -14,7 +14,9 @@
       "price": "$206/night",
       "location": "433 Chestnut St.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.949108,
+      "lng": -75.149126
     },
     {
       "id": "lp1c188",
@@ -25,7 +27,9 @@
       "price": "$196/night",
       "location": "One Logan Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.956625,
+      "lng": -75.169514
     },
     {
       "id": "lp1d9a1",
@@ -36,7 +40,9 @@
       "price": "$148/night",
       "location": "237 S. Broad St.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.948025,
+      "lng": -75.164267
     },
     {
       "id": "lp3477b",
@@ -47,7 +53,9 @@
       "price": "$550/night",
       "location": "210 W Rittenhouse Sq",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.9498,
+      "lng": -75.173319
     },
     {
       "id": "lp28086",
@@ -58,7 +66,9 @@
       "price": "$278/night",
       "location": "1200 Market St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.951727,
+      "lng": -75.160327
     },
     {
       "id": "lp6555fd2e",
@@ -69,7 +79,9 @@
       "price": "$331/night",
       "location": "24 S 24th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.9536,
+      "lng": -75.178984
     }
   ],
   "slug": "best-boutique-hotels-in-philadelphia-with-rooftop-restaurants",

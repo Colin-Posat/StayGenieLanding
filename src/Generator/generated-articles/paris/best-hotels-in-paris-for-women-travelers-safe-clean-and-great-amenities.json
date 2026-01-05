@@ -14,7 +14,9 @@
       "price": "$457/night",
       "location": "19 Rue Vernet",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.871786,
+      "lng": 2.298456
     },
     {
       "id": "lp32bc7",
@@ -25,7 +27,9 @@
       "price": "$247/night",
       "location": "5 Rue Tholoze",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.886224,
+      "lng": 2.335281
     },
     {
       "id": "lp309de",
@@ -36,7 +40,9 @@
       "price": "$161/night",
       "location": "14 Rue Petel",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.840783,
+      "lng": 2.299355
     },
     {
       "id": "lp3d7b7",
@@ -47,7 +53,9 @@
       "price": "$286/night",
       "location": "1 rue Charles V",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.852428,
+      "lng": 2.363737
     },
     {
       "id": "lp44eaf",
@@ -58,7 +66,9 @@
       "price": "$295/night",
       "location": "5/7 rue Thérèse",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.865877,
+      "lng": 2.336085
     },
     {
       "id": "lp2da4c",
@@ -69,7 +79,9 @@
       "price": "$226/night",
       "location": "2 Rue Racine/bd St Michel",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.850326,
+      "lng": 2.342336
     }
   ],
   "slug": "best-hotels-in-paris-for-women-travelers-safe-clean-and-great-amenities",

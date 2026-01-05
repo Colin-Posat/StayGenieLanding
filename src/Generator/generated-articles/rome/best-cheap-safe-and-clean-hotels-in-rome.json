@@ -14,7 +14,9 @@
       "price": "$82/night",
       "location": "Via Palestro, 88",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.903365,
+      "lng": 12.506453
     },
     {
       "id": "lp47445",
@@ -25,7 +27,9 @@
       "price": "$83/night",
       "location": "Via Orazio 31",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.905812,
+      "lng": 12.467227
     },
     {
       "id": "lp2d0a0",
@@ -36,7 +40,9 @@
       "price": "$99/night",
       "location": "Via Cristoforo Colombo 710",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.816905,
+      "lng": 12.461876
     },
     {
       "id": "lp3d8c4",
@@ -47,7 +53,9 @@
       "price": "$81/night",
       "location": "Via Siderno 37",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.834799,
+      "lng": 12.555504
     },
     {
       "id": "lp46fcc",
@@ -58,7 +66,9 @@
       "price": "$107/night",
       "location": "Via Casal del Marmo 618",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.932009,
+      "lng": 12.376793
     },
     {
       "id": "lp461a8",
@@ -69,7 +79,9 @@
       "price": "$109/night",
       "location": "Via Montebello 94",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.906122,
+      "lng": 12.501071
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-rome",

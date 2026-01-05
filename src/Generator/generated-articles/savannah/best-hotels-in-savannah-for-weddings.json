@@ -14,7 +14,9 @@
       "price": "$89/night",
       "location": "393 Canebrake Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.001935,
+      "lng": -81.280814
     },
     {
       "id": "lp1a472",
@@ -25,7 +27,9 @@
       "price": "$99/night",
       "location": "7100 Abercorn St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.011426,
+      "lng": -81.113065
     },
     {
       "id": "lp1d011",
@@ -36,7 +40,9 @@
       "price": "$171/night",
       "location": "7500 Abercorn St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.00835,
+      "lng": -81.114697
     },
     {
       "id": "lp3c3f7",
@@ -47,7 +53,9 @@
       "price": "$99/night",
       "location": "4005 Ogeechee Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.050478,
+      "lng": -81.153608
     },
     {
       "id": "lp8fdaa",
@@ -58,7 +66,9 @@
       "price": "$97/night",
       "location": "347 Main Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 32.105146,
+      "lng": -81.145387
     },
     {
       "id": "lp6556a2a9",
@@ -69,7 +79,9 @@
       "price": "$133/night",
       "location": "1695 Pickwick Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.202758,
+      "lng": -88.245192
     }
   ],
   "faqs": [

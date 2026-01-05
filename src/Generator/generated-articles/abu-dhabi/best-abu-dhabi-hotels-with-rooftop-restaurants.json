@@ -14,7 +14,9 @@
       "price": "$1011/night",
       "location": "Between The Bridges",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.40665,
+      "lng": 54.49143
     },
     {
       "id": "lp5ba5e",
@@ -25,7 +27,9 @@
       "price": "$227/night",
       "location": "Corniche Road East",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.499548,
+      "lng": 54.367234
     },
     {
       "id": "lp4fda1",
@@ -36,7 +40,9 @@
       "price": "$348/night",
       "location": "Between The Bridges, Khor Al Maqta",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.417685,
+      "lng": 54.49317
     },
     {
       "id": "lp500a3",
@@ -47,7 +53,9 @@
       "price": "$473/night",
       "location": "Yas Island",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.467384,
+      "lng": 54.605022
     },
     {
       "id": "lp8ffa8",
@@ -58,7 +66,9 @@
       "price": "$432/night",
       "location": "Al Maryah Island",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.501127,
+      "lng": 54.38988
     },
     {
       "id": "lp5c6f5",
@@ -69,7 +79,9 @@
       "price": "$277/night",
       "location": "West Corniche",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 24.458853,
+      "lng": 54.321552
     }
   ],
   "faqs": [

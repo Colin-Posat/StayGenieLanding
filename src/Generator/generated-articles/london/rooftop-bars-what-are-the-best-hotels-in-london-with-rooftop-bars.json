@@ -14,7 +14,9 @@
       "price": "$304/night",
       "location": "100 Shoreditch High Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.525664,
+      "lng": -0.077537
     },
     {
       "id": "lp2fa49",
@@ -25,7 +27,9 @@
       "price": "$409/night",
       "location": "2 Spring Gardens",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.507434,
+      "lng": -0.129143
     },
     {
       "id": "lp5146f",
@@ -36,7 +40,9 @@
       "price": "$544/night",
       "location": "10 Wardour Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.510738,
+      "lng": -0.131636
     },
     {
       "id": "lp2152d",
@@ -47,7 +53,9 @@
       "price": "$232/night",
       "location": "Chelsea Harbour",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.475401,
+      "lng": -0.182186
     },
     {
       "id": "lp1bea4",
@@ -58,7 +66,9 @@
       "price": "$308/night",
       "location": "15 Montague Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.520143,
+      "lng": -0.125725
     },
     {
       "id": "lp36a51",
@@ -69,7 +79,9 @@
       "price": "$950/night",
       "location": "4 Richmond Mews",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.513966,
+      "lng": -0.133772
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-london-with-rooftop-bars",

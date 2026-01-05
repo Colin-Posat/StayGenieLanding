@@ -14,7 +14,9 @@
       "price": "$90/night",
       "location": "312 Mason Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.786499,
+      "lng": -122.409634
     },
     {
       "id": "lp77106",
@@ -25,7 +27,9 @@
       "price": "$98/night",
       "location": "749 Taylor Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.789424,
+      "lng": -122.412152
     },
     {
       "id": "lp2812b",
@@ -36,7 +40,9 @@
       "price": "$102/night",
       "location": "610 Polk St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.78241,
+      "lng": -122.41876
     },
     {
       "id": "lp225dd",
@@ -47,7 +53,9 @@
       "price": "$134/night",
       "location": "111 Mason St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.784517,
+      "lng": -122.409479
     },
     {
       "id": "lpa3af6",
@@ -58,7 +66,9 @@
       "price": "$137/night",
       "location": "118 Taylor St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.783561,
+      "lng": -122.410695
     },
     {
       "id": "lp38558",
@@ -69,7 +79,9 @@
       "price": "$187/night",
       "location": "1475 Lombard Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.800917,
+      "lng": -122.425818
     }
   ],
   "slug": "what-are-the-best-hotels-in-san-francisco-under-100-and-clean",

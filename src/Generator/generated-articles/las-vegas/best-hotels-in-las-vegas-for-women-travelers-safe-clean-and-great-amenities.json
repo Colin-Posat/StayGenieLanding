@@ -14,7 +14,9 @@
       "price": "$379/night",
       "location": "160 E Flamingo Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.114912,
+      "lng": -115.165786
     },
     {
       "id": "lp51429",
@@ -25,7 +27,9 @@
       "price": "$855/night",
       "location": "3752 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.10594,
+      "lng": -115.17318
     },
     {
       "id": "lp27e66",
@@ -36,7 +40,9 @@
       "price": "$658/night",
       "location": "3667 Las Vegas Blvd S",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.110074,
+      "lng": -115.172542
     },
     {
       "id": "lp1f30d3",
@@ -47,7 +53,9 @@
       "price": "$391/night",
       "location": "135 E Harmon Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.106794,
+      "lng": -115.166557
     },
     {
       "id": "lp3fcbc",
@@ -58,7 +66,9 @@
       "price": "$164/night",
       "location": "145 E Harmon Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.108022,
+      "lng": -115.166245
     },
     {
       "id": "lp65575e0b",
@@ -69,7 +79,9 @@
       "price": "$336/night",
       "location": "2600 W Harmon Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.10928,
+      "lng": -115.177758
     }
   ],
   "slug": "best-hotels-in-las-vegas-for-women-travelers-safe-clean-and-great-amenities",

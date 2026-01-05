@@ -14,7 +14,9 @@
       "price": "$328/night",
       "location": "605 Davis Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.260244,
+      "lng": -97.738831
     },
     {
       "id": "lpd3a74",
@@ -25,7 +27,9 @@
       "price": "$332/night",
       "location": "111 East Cesar Chavez Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.262665,
+      "lng": -97.743622
     },
     {
       "id": "lp1e099",
@@ -36,7 +40,9 @@
       "price": "$525/night",
       "location": "604 Brazos Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.267942,
+      "lng": -97.74161
     },
     {
       "id": "lp6555443e",
@@ -47,7 +53,9 @@
       "price": "$367/night",
       "location": "1101 Music Lane",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 30.252381,
+      "lng": -97.747867
     },
     {
       "id": "lp77f82",
@@ -58,7 +66,9 @@
       "price": "$352/night",
       "location": "1603 South Congress Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.247406,
+      "lng": -97.750082
     },
     {
       "id": "lp1f31f6",
@@ -69,7 +79,9 @@
       "price": "$604/night",
       "location": "600 West 2nd Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 30.266284,
+      "lng": -97.750106
     }
   ],
   "slug": "cool-boutique-hotels-in-austin-with-live-music-and-rooftop-bars",

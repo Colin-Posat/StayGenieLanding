@@ -14,7 +14,9 @@
       "price": "$101/night",
       "location": "1341 W Sunset Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.072725,
+      "lng": -118.25094
     },
     {
       "id": "lp420f4",
@@ -25,7 +27,9 @@
       "price": "$105/night",
       "location": "5435 W Sunset Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.09813,
+      "lng": -118.3083
     },
     {
       "id": "lpf5f8d",
@@ -36,7 +40,9 @@
       "price": "$133/night",
       "location": "1030 W El Segundo Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.916074,
+      "lng": -118.292804
     },
     {
       "id": "lp89cfe",
@@ -47,7 +53,9 @@
       "price": "$138/night",
       "location": "1738 Whitley Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.102806,
+      "lng": -118.333227
     },
     {
       "id": "lp37f43",
@@ -58,7 +66,9 @@
       "price": "$134/night",
       "location": "901 W Manchester Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 33.961537,
+      "lng": -118.372081
     },
     {
       "id": "lp20b40",
@@ -69,7 +79,9 @@
       "price": "$188/night",
       "location": "3007 Santa Monica Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.03667,
+      "lng": -118.470493
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-los-angeles",

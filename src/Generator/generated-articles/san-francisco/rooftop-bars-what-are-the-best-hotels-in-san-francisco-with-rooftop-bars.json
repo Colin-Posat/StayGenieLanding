@@ -14,7 +14,9 @@
       "price": "$557/night",
       "location": "138 King St.",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.779198,
+      "lng": -122.390765
     },
     {
       "id": "lp1f958",
@@ -25,7 +27,9 @@
       "price": "$571/night",
       "location": "191 Sutter St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.789816,
+      "lng": -122.403542
     },
     {
       "id": "lp3c9d4",
@@ -36,7 +40,9 @@
       "price": "$646/night",
       "location": "466 Bush St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.790706,
+      "lng": -122.405246
     },
     {
       "id": "lp36e1d",
@@ -47,7 +53,9 @@
       "price": "$2611/night",
       "location": "8 Mission St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.793593,
+      "lng": -122.392932
     },
     {
       "id": "lp19efc",
@@ -58,7 +66,9 @@
       "price": "$930/night",
       "location": "999 California Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.791698,
+      "lng": -122.410584
     },
     {
       "id": "lp1c406",
@@ -69,7 +79,9 @@
       "price": "$398/night",
       "location": "342 Grant Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.790347,
+      "lng": -122.40545
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-san-francisco-with-rooftop-bars",

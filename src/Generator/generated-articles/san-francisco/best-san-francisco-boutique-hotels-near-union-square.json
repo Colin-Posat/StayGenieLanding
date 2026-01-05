@@ -14,7 +14,9 @@
       "price": "$484/night",
       "location": "55 5th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.783342,
+      "lng": -122.407184
     },
     {
       "id": "lp20cb6",
@@ -25,7 +27,9 @@
       "price": "$212/night",
       "location": "417 Stockton St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.789865,
+      "lng": -122.407196
     },
     {
       "id": "lp1f958",
@@ -36,7 +40,9 @@
       "price": "$700/night",
       "location": "191 Sutter St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.789816,
+      "lng": -122.403542
     },
     {
       "id": "lp47b63",
@@ -47,7 +53,9 @@
       "price": "$176/night",
       "location": "510 Bush Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.790644,
+      "lng": -122.405879
     },
     {
       "id": "lp28120",
@@ -58,7 +66,9 @@
       "price": "$472/night",
       "location": "235 O Farrell Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.786288,
+      "lng": -122.408686
     },
     {
       "id": "lp1bfb5",
@@ -69,7 +79,9 @@
       "price": "$345/night",
       "location": "386 Geary Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.787259,
+      "lng": -122.409669
     }
   ],
   "slug": "best-san-francisco-boutique-hotels-near-union-square",

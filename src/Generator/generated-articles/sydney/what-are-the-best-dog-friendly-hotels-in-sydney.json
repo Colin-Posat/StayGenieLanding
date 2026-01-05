@@ -14,7 +14,9 @@
       "price": "$387/night",
       "location": "58 BATHURST STREET",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.873889,
+      "lng": 151.204444
     },
     {
       "id": "lp89916",
@@ -25,7 +27,9 @@
       "price": "$298/night",
       "location": "339 Pitt Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.875077,
+      "lng": 151.207789
     },
     {
       "id": "lp2db0e",
@@ -36,7 +40,9 @@
       "price": "$148/night",
       "location": "14 Queen Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": -33.888887,
+      "lng": 151.233394
     },
     {
       "id": "lp65553d0e",
@@ -47,7 +53,9 @@
       "price": "$294/night",
       "location": "398 Pacific Highway",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.825692,
+      "lng": 151.19862
     },
     {
       "id": "lp1b887",
@@ -58,7 +66,9 @@
       "price": "$169/night",
       "location": "37 Victor Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.797463,
+      "lng": 151.182509
     },
     {
       "id": "lp1fcbe",
@@ -69,7 +79,9 @@
       "price": "$150/night",
       "location": "350 Church Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": -33.810013,
+      "lng": 151.005179
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-sydney",

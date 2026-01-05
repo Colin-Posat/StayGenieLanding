@@ -14,7 +14,9 @@
       "price": "$434/night",
       "location": "La Pansee",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 14.01399,
+      "lng": -60.98144
     }
   ],
   "faqs": [

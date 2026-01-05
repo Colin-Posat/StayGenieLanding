@@ -14,7 +14,9 @@
       "price": "$142/night",
       "location": "392-44 Siam Square Soi 6 Rama",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.744262,
+      "lng": 100.534843
     },
     {
       "id": "lp7105d",
@@ -25,7 +27,9 @@
       "price": "$269/night",
       "location": "789 Moo 14, Bangna-trad Road (Km 10.5)",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.656724,
+      "lng": 100.706021
     },
     {
       "id": "lp682dc",
@@ -36,7 +40,9 @@
       "price": "$179/night",
       "location": "1 Sukhumvit 22",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.733236,
+      "lng": 100.56531
     },
     {
       "id": "lp42298",
@@ -47,7 +53,9 @@
       "price": "$70/night",
       "location": "77/7 Sukhumvit 8, Sukhumvit Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.735753,
+      "lng": 100.556064
     },
     {
       "id": "lp1f3d5",
@@ -58,7 +66,9 @@
       "price": "$317/night",
       "location": "13/3 South Sathorn Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 13.724679,
+      "lng": 100.54047
     },
     {
       "id": "lp60885",
@@ -69,7 +79,9 @@
       "price": "$194/night",
       "location": "2, Sukhumvit Soi 19 (Wattana)",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 13.737552,
+      "lng": 100.560428
     }
   ],
   "slug": "amazing-hotels-for-families-with-kids-in-bangkok",

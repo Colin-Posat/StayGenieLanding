@@ -14,7 +14,9 @@
       "price": "$73/night",
       "location": "Osdorpplein 372A",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.359363,
+      "lng": 4.804029
     },
     {
       "id": "lp6555242f",
@@ -25,7 +27,9 @@
       "price": "$83/night",
       "location": "Hagedoornplein 2",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.38808,
+      "lng": 4.91425
     },
     {
       "id": "lp48296",
@@ -36,7 +40,9 @@
       "price": "$93/night",
       "location": "Prinsengracht 816",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.362039,
+      "lng": 4.899629
     },
     {
       "id": "lp4513f",
@@ -47,7 +53,9 @@
       "price": "$110/night",
       "location": "Willemsparkweg 205",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.355521,
+      "lng": 4.869137
     },
     {
       "id": "lp3ff96",
@@ -58,7 +66,9 @@
       "price": "$111/night",
       "location": "Weteringschans 136",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.359224,
+      "lng": 4.897873
     },
     {
       "id": "lp6ed67",
@@ -69,7 +79,9 @@
       "price": "$94/night",
       "location": "Leidsegracht 111",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 52.365217,
+      "lng": 4.880681
     }
   ],
   "slug": "best-boutique-hotels-in-amsterdam-amazing-and-affordable",

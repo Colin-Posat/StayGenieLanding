@@ -14,7 +14,9 @@
       "price": "$100/night",
       "location": "128 Jones St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.782534,
+      "lng": -122.412061
     },
     {
       "id": "lp656ca3bd",
@@ -25,7 +27,9 @@
       "price": "$178/night",
       "location": "112 7th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.778891,
+      "lng": -122.410959
     },
     {
       "id": "lp1b276",
@@ -36,7 +40,9 @@
       "price": "$289/night",
       "location": "2755 Lombard St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.79857,
+      "lng": -122.44673
     },
     {
       "id": "lp657e75f7",
@@ -47,7 +53,9 @@
       "price": "$224/night",
       "location": "620 Post Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.787915,
+      "lng": -122.412128
     },
     {
       "id": "lp2c66b",
@@ -58,7 +66,9 @@
       "price": "$181/night",
       "location": "415 O'Farrell Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.785912,
+      "lng": -122.411771
     },
     {
       "id": "lp8a263",
@@ -69,7 +79,9 @@
       "price": "$154/night",
       "location": "Address not available",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.783381,
+      "lng": -122.419033
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-san-francisco-with-breakfast-included",

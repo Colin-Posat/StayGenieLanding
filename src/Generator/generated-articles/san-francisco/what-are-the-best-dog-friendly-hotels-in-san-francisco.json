@@ -14,7 +14,9 @@
       "price": "$517/night",
       "location": "386 Geary Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.787259,
+      "lng": -122.409669
     },
     {
       "id": "lp1b331",
@@ -25,7 +27,9 @@
       "price": "$379/night",
       "location": "250 Beach St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 37.807763,
+      "lng": -122.413222
     },
     {
       "id": "lp182748",
@@ -36,7 +40,9 @@
       "price": "$1386/night",
       "location": "701 3rd St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.778856,
+      "lng": -122.39241
     },
     {
       "id": "lp2fb6f",
@@ -47,7 +53,9 @@
       "price": "$1107/night",
       "location": "299 2nd St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.785946,
+      "lng": -122.39685
     },
     {
       "id": "lp23753",
@@ -58,7 +66,9 @@
       "price": "$915/night",
       "location": "1800 Sutter St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.786569,
+      "lng": -122.430206
     },
     {
       "id": "lp1c406",
@@ -69,7 +79,9 @@
       "price": "$398/night",
       "location": "342 Grant Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 37.790347,
+      "lng": -122.40545
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-san-francisco",

@@ -14,7 +14,9 @@
       "price": "$62/night",
       "location": "Fira",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.417507,
+      "lng": 25.433947
     },
     {
       "id": "lp687b1",
@@ -25,7 +27,9 @@
       "price": "$63/night",
       "location": "Imerovigli",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.431783,
+      "lng": 25.424696
     },
     {
       "id": "lp574c4",
@@ -36,7 +40,9 @@
       "price": "$70/night",
       "location": "Fira",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.41715,
+      "lng": 25.433695
     },
     {
       "id": "lp3edd8",
@@ -47,7 +53,9 @@
       "price": "$45/night",
       "location": "Fira",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.423456,
+      "lng": 25.434594
     },
     {
       "id": "lp518a2",
@@ -58,7 +66,9 @@
       "price": "$39/night",
       "location": "Karterados",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.41018,
+      "lng": 25.44138
     },
     {
       "id": "lp528e7",
@@ -69,7 +79,9 @@
       "price": "$85/night",
       "location": "Karterados Square 1",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.4102,
+      "lng": 25.44657
     }
   ],
   "faqs": [

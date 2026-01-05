@@ -14,7 +14,9 @@
       "price": "$283/night",
       "location": "1-2-1 Yuraku-cho Chiyoda-ku",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.672563,
+      "lng": 139.759489
     },
     {
       "id": "lp50272",
@@ -25,7 +27,9 @@
       "price": "$176/night",
       "location": "1-30 Jimbou-cho, Chiyoda-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.697085,
+      "lng": 139.758521
     },
     {
       "id": "lp50320",
@@ -36,7 +40,9 @@
       "price": "$209/night",
       "location": "1-9-2 Higashi-shinbashi, Minato-ku",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.661938,
+      "lng": 139.759593
     },
     {
       "id": "lp394d6",
@@ -47,7 +53,9 @@
       "price": "$1081/night",
       "location": "2-1-1 Nihonbashi Muromachi",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.686786,
+      "lng": 139.773412
     },
     {
       "id": "lp9c35b",
@@ -58,7 +66,9 @@
       "price": "$114/night",
       "location": "2-7-8, Higashi-Shinbashi",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.661835,
+      "lng": 139.756605
     },
     {
       "id": "lp357ee",
@@ -69,7 +79,9 @@
       "price": "$225/night",
       "location": "1-2-6 Shimbashi, Minato",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.668588,
+      "lng": 139.757812
     }
   ],
   "slug": "best-hotels-in-tokyo-for-women-travelers-safe-clean-and-great-amenities",

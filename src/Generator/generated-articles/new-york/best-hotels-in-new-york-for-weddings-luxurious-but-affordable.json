@@ -14,7 +14,9 @@
       "price": "$95/night",
       "location": "157 West 47th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.758992,
+      "lng": -73.983869
     },
     {
       "id": "lp6585c",
@@ -25,7 +27,9 @@
       "price": "$101/night",
       "location": "145 East 39th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.749309,
+      "lng": -73.976639
     },
     {
       "id": "lp84012",
@@ -36,7 +40,9 @@
       "price": "$129/night",
       "location": "163 Orchard Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.721145,
+      "lng": -73.988783
     },
     {
       "id": "lp110e37",
@@ -47,7 +53,9 @@
       "price": "$127/night",
       "location": "337 W 36th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.754349,
+      "lng": -73.993907
     },
     {
       "id": "lp24b86",
@@ -58,7 +66,9 @@
       "price": "$123/night",
       "location": "215 W 94th St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.793235,
+      "lng": -73.972243
     },
     {
       "id": "lp70e33",
@@ -69,7 +79,9 @@
       "price": "$111/night",
       "location": "5 West 63rd Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 40.770845,
+      "lng": -73.980612
     }
   ],
   "slug": "best-hotels-in-new-york-for-weddings-luxurious-but-affordable",

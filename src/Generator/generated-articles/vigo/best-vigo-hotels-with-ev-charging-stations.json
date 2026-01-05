@@ -14,7 +14,9 @@
       "price": "$172/night",
       "location": "1 Rúa Dunas de Samil",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.213554,
+      "lng": -8.773121
     },
     {
       "id": "lp6958c",
@@ -25,7 +27,9 @@
       "price": "$83/night",
       "location": "C/ Lepanto, 18",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.234789,
+      "lng": -8.71544
     },
     {
       "id": "lp488e2",
@@ -36,7 +40,9 @@
       "price": "$118/night",
       "location": "Rua Lepanto, 10",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.234729,
+      "lng": -8.715837
     },
     {
       "id": "lp49a84",
@@ -47,7 +53,9 @@
       "price": "$306/night",
       "location": "Avenida Atlantida 106",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 42.221846,
+      "lng": -8.762546
     },
     {
       "id": "lp5dff4",
@@ -58,7 +66,9 @@
       "price": "$70/night",
       "location": "Avenida García Barbón 35",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.237117,
+      "lng": -8.71759
     },
     {
       "id": "lp4562a",
@@ -69,7 +79,9 @@
       "price": "$91/night",
       "location": "Calle de Concepción Arenal, 5",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 42.24024,
+      "lng": -8.720808
     }
   ],
   "faqs": [

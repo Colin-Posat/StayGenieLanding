@@ -14,7 +14,9 @@
       "price": "$100/night",
       "location": "Toshkent yo'li 45A",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.658815,
+      "lng": 66.979416
     },
     {
       "id": "lp655b334c",
@@ -25,7 +27,9 @@
       "price": "$96/night",
       "location": "126 Shohruh Mirzo ko'chasi",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.647679,
+      "lng": 66.967491
     },
     {
       "id": "lp8d86b",
@@ -36,7 +40,9 @@
       "price": "$134/night",
       "location": "31, Bahodir Yalangtush Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.657123,
+      "lng": 66.952403
     },
     {
       "id": "lp1020ac",
@@ -47,7 +53,9 @@
       "price": "$174/night",
       "location": "Tolmasova, 60",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.657332,
+      "lng": 66.985906
     },
     {
       "id": "lp655ae5c7",
@@ -58,7 +66,9 @@
       "price": "$131/night",
       "location": "Amira Temura Street 222",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 39.646882,
+      "lng": 66.92468
     },
     {
       "id": "lp655bb83a",
@@ -69,7 +79,9 @@
       "price": "$85/night",
       "location": "University Boulevard 19 A",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 39.64305,
+      "lng": 66.96029
     }
   ],
   "faqs": [

@@ -14,7 +14,9 @@
       "price": "$136/night",
       "location": "71 Rue De Charonne",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.853625,
+      "lng": 2.380605
     },
     {
       "id": "lp2b3f8",
@@ -25,7 +27,9 @@
       "price": "$123/night",
       "location": "12 Rue Leon Frot",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.85368,
+      "lng": 2.388094
     },
     {
       "id": "lp3d4d4",
@@ -36,7 +40,9 @@
       "price": "$121/night",
       "location": "67 Rue Philippe De Girard",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.887834,
+      "lng": 2.360718
     },
     {
       "id": "lp44d1d",
@@ -47,7 +53,9 @@
       "price": "$121/night",
       "location": "74 Rue Du Moulin Vert",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.831413,
+      "lng": 2.3197
     },
     {
       "id": "lp31e86",
@@ -58,7 +66,9 @@
       "price": "$145/night",
       "location": "65 Rue Blanche",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 48.88208,
+      "lng": 2.33179
     },
     {
       "id": "lp41a58",
@@ -69,7 +79,9 @@
       "price": "$857/night",
       "location": "52 bis, rue des Vinaigriers",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 48.873282,
+      "lng": 2.359912
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-paris-with-breakfast-included",

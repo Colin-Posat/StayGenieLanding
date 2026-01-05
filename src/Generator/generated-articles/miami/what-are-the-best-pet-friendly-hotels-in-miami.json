@@ -14,7 +14,9 @@
       "price": "$409/night",
       "location": "398 NE 5th Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.779071,
+      "lng": -80.189311
     },
     {
       "id": "lp19f0a",
@@ -25,7 +27,9 @@
       "price": "$835/night",
       "location": "100 Chopin Plz",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.772566,
+      "lng": -80.186259
     },
     {
       "id": "lp42e7e",
@@ -36,7 +40,9 @@
       "price": "$571/night",
       "location": "270 Biscayne Blvd Way",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.770634,
+      "lng": -80.188933
     },
     {
       "id": "lp655746a1",
@@ -47,7 +53,9 @@
       "price": "$352/night",
       "location": "11 SE 10th Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.764748,
+      "lng": -80.193057
     },
     {
       "id": "lp69b36",
@@ -58,7 +66,9 @@
       "price": "$282/night",
       "location": "1001 SW 2nd Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.764062,
+      "lng": -80.197208
     },
     {
       "id": "lp29c7d",
@@ -69,7 +79,9 @@
       "price": "$781/night",
       "location": "1109 Brickell Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.762228,
+      "lng": -80.191117
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-miami",

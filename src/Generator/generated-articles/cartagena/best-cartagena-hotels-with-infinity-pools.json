@@ -14,7 +14,9 @@
       "price": "$118/night",
       "location": "Address not available",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 10.39794,
+      "lng": -75.55686
     },
     {
       "id": "lpddb32",
@@ -25,7 +27,9 @@
       "price": "$117/night",
       "location": "Cra 1 No. 9-82",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 10.40641,
+      "lng": -75.55376
     },
     {
       "id": "lp22f648",
@@ -36,7 +40,9 @@
       "price": "$63/night",
       "location": "44 Cra. 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 10.434477,
+      "lng": -75.539524
     },
     {
       "id": "lpc0ace",
@@ -47,7 +53,9 @@
       "price": "$70/night",
       "location": "Cra. 1 #46-68",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 10.436541,
+      "lng": -75.536223
     },
     {
       "id": "lp5c53d",
@@ -58,7 +66,9 @@
       "price": "$75/night",
       "location": "Avenida San Martin # 7 - 126",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 10.40304,
+      "lng": -75.555275
     },
     {
       "id": "lp4f7e4",
@@ -69,7 +79,9 @@
       "price": "$119/night",
       "location": "Bocagrande Carrera 4th - Calle 4th",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 10.397514,
+      "lng": -75.559212
     }
   ],
   "faqs": [

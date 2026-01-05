@@ -14,7 +14,9 @@
       "price": "$180/night",
       "location": "3347 Cerrillos Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.649163,
+      "lng": -106.002512
     },
     {
       "id": "lp1e392d",
@@ -25,7 +27,9 @@
       "price": "$1804/night",
       "location": "150 East De Vargas St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.683789,
+      "lng": -105.938475
     },
     {
       "id": "lp2d5c1",
@@ -36,7 +40,9 @@
       "price": "$230/night",
       "location": "510 Cerrillos Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.682438,
+      "lng": -105.94545
     },
     {
       "id": "lp22658",
@@ -47,7 +53,9 @@
       "price": "$410/night",
       "location": "303 E. Alameda",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.68478,
+      "lng": -105.93273
     },
     {
       "id": "lp1b94a",
@@ -58,7 +66,9 @@
       "price": "$166/night",
       "location": "3625 Cerrillos Rd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 35.646147,
+      "lng": -106.007175
     },
     {
       "id": "lp22f0f",
@@ -69,7 +79,9 @@
       "price": "$107/night",
       "location": "8376 Cerrillos Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 35.612572,
+      "lng": -106.032328
     }
   ],
   "faqs": [

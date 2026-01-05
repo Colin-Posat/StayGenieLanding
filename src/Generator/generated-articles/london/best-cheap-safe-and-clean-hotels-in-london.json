@@ -14,7 +14,9 @@
       "price": "$82/night",
       "location": "49-51 Leinster Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.513553,
+      "lng": -0.192647
     },
     {
       "id": "lp41f59",
@@ -25,7 +27,9 @@
       "price": "$80/night",
       "location": "155-159 Golders Green Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.575472,
+      "lng": -0.203745
     },
     {
       "id": "lp52ca9",
@@ -36,7 +40,9 @@
       "price": "$90/night",
       "location": "20-22 Leinster Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.514296,
+      "lng": -0.191752
     },
     {
       "id": "lp53677",
@@ -47,7 +53,9 @@
       "price": "$97/night",
       "location": "22-28 Norfolk Square",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.515979,
+      "lng": -0.173735
     },
     {
       "id": "lp4f865",
@@ -58,7 +66,9 @@
       "price": "$85/night",
       "location": "35 Hoop Lane",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 51.575663,
+      "lng": -0.197397
     },
     {
       "id": "lp4b00b",
@@ -69,7 +79,9 @@
       "price": "$93/night",
       "location": "102 Sussex Gardens",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 51.516223,
+      "lng": -0.171301
     }
   ],
   "slug": "best-cheap-safe-and-clean-hotels-in-london",

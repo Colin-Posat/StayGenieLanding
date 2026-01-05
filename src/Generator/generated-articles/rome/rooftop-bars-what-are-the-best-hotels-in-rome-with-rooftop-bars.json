@@ -14,7 +14,9 @@
       "price": "$159/night",
       "location": "Via Giuseppe Zanardelli 28",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.900746,
+      "lng": 12.472362
     },
     {
       "id": "lp35fec",
@@ -25,7 +27,9 @@
       "price": "$161/night",
       "location": "Via di Capo Le Case 14",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.9039,
+      "lng": 12.484947
     },
     {
       "id": "lp31f37",
@@ -36,7 +40,9 @@
       "price": "$138/night",
       "location": "Viale 21 Aprile, 4",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.92098,
+      "lng": 12.51797
     },
     {
       "id": "lp20a07",
@@ -47,7 +53,9 @@
       "price": "$264/night",
       "location": "Via Vittorio Veneto 24",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.904916,
+      "lng": 12.487799
     },
     {
       "id": "lp2c23d",
@@ -58,7 +66,9 @@
       "price": "$221/night",
       "location": "Via Capo d'Africa 54",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.888397,
+      "lng": 12.497521
     },
     {
       "id": "lp44b99",
@@ -69,7 +79,9 @@
       "price": "$478/night",
       "location": "Via Del Boccaccio 25",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.902549,
+      "lng": 12.487285
     }
   ],
   "slug": "rooftop-bars-what-are-the-best-hotels-in-rome-with-rooftop-bars",

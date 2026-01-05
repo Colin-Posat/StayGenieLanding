@@ -14,7 +14,9 @@
       "price": "$100/night",
       "location": "1536 N Western Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 34.099111,
+      "lng": -118.309126
     },
     {
       "id": "lpc69cc",
@@ -25,7 +27,9 @@
       "price": "$100/night",
       "location": "7400 S Figueroa st",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.972589,
+      "lng": -118.282285
     },
     {
       "id": "lpf5f8d",
@@ -36,7 +40,9 @@
       "price": "$133/night",
       "location": "1030 W El Segundo Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 33.916074,
+      "lng": -118.292804
     },
     {
       "id": "lp864db",
@@ -47,7 +53,9 @@
       "price": "$120/night",
       "location": "1655 N Western Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.1007,
+      "lng": -118.3094
     },
     {
       "id": "lpdebdc",
@@ -58,7 +66,9 @@
       "price": "$118/night",
       "location": "1617 N Cahuenga Blvd",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.100378,
+      "lng": -118.329894
     },
     {
       "id": "lp1b43e",
@@ -69,7 +79,9 @@
       "price": "$198/night",
       "location": "1775 Orchid Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 34.10373,
+      "lng": -118.3402
     }
   ],
   "slug": "best-hotels-in-los-angeles-for-weddings-luxurious-but-affordable",

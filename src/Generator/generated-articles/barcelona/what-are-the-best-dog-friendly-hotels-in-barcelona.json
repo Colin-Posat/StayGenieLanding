@@ -14,7 +14,9 @@
       "price": "$294/night",
       "location": "Avinguda Diagonal 570",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.394123,
+      "lng": 2.149192
     },
     {
       "id": "lp40c11",
@@ -25,7 +27,9 @@
       "price": "$353/night",
       "location": "Calle Ramon Turó 196-198",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.399122,
+      "lng": 2.202065
     },
     {
       "id": "lp4502b",
@@ -36,7 +40,9 @@
       "price": "$333/night",
       "location": "Balmes 142-146",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.393781,
+      "lng": 2.156843
     },
     {
       "id": "lp357f1",
@@ -47,7 +53,9 @@
       "price": "$342/night",
       "location": "Avenida Bogatell, 64-68",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.392888,
+      "lng": 2.192607
     },
     {
       "id": "lp39719",
@@ -58,7 +66,9 @@
       "price": "$280/night",
       "location": "Carrer Ballester,77-81",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 41.408784,
+      "lng": 2.147999
     },
     {
       "id": "lp450b0",
@@ -69,7 +79,9 @@
       "price": "$208/night",
       "location": "Calle General Castaños 6",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 41.383207,
+      "lng": 2.184748
     }
   ],
   "slug": "what-are-the-best-dog-friendly-hotels-in-barcelona",

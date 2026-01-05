@@ -14,7 +14,9 @@
       "price": "$100/night",
       "location": "7250 Nw 11th St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.780948,
+      "lng": -80.313508
     },
     {
       "id": "lp33a21a",
@@ -25,7 +27,9 @@
       "price": "$153/night",
       "location": "665 Mokena Drive",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.808659,
+      "lng": -80.273998
     },
     {
       "id": "lp22828",
@@ -36,7 +40,9 @@
       "price": "$114/night",
       "location": "101 Fairway Dr",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.808493,
+      "lng": -80.283054
     },
     {
       "id": "lp19c0d",
@@ -47,7 +53,9 @@
       "price": "$372/night",
       "location": "3000 Florida Avenue",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.728982,
+      "lng": -80.241232
     },
     {
       "id": "lp65575bef",
@@ -58,7 +66,9 @@
       "price": "$142/night",
       "location": "1101 NW 57 Avenue",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.781497,
+      "lng": -80.287047
     },
     {
       "id": "lp36402",
@@ -69,7 +79,9 @@
       "price": "$86/night",
       "location": "3959 NW 79th Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.810788,
+      "lng": -80.322621
     }
   ],
   "slug": "best-family-friendly-hotels-in-miami-beach-with-pools",

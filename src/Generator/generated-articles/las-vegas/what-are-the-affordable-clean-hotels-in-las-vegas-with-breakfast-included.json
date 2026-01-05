@@ -14,7 +14,9 @@
       "price": "$47/night",
       "location": "600 Fremont St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 36.16915,
+      "lng": -115.13839
     },
     {
       "id": "lp22667",
@@ -25,7 +27,9 @@
       "price": "$68/night",
       "location": "200 Fremont St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.171463,
+      "lng": -115.143555
     },
     {
       "id": "lp1cf19",
@@ -36,7 +40,9 @@
       "price": "$88/night",
       "location": "5075 Koval Ln",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.098269,
+      "lng": -115.164063
     },
     {
       "id": "lp35699",
@@ -47,7 +53,9 @@
       "price": "$48/night",
       "location": "1213 South Las Vegas Blvd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.156047,
+      "lng": -115.14895
     },
     {
       "id": "lp43826",
@@ -58,7 +66,9 @@
       "price": "$160/night",
       "location": "6575 S Eastern Ave",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.070269,
+      "lng": -115.119338
     },
     {
       "id": "lp655533e6",
@@ -69,7 +79,9 @@
       "price": "$178/night",
       "location": "7850 Giles Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 36.046757,
+      "lng": -115.16974
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-las-vegas-with-breakfast-included",

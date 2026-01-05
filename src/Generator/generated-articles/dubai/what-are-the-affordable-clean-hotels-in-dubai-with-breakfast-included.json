@@ -14,7 +14,9 @@
       "price": "$87/night",
       "location": "Khalid Bin Waleed Rd",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.260223,
+      "lng": 55.28526
     },
     {
       "id": "lp34e0a",
@@ -25,7 +27,9 @@
       "price": "$108/night",
       "location": "45C St, Al Rigga Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.26035,
+      "lng": 55.326695
     },
     {
       "id": "lp90204",
@@ -36,7 +40,9 @@
       "price": "$95/night",
       "location": "Al Rigga Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.262574,
+      "lng": 55.322014
     },
     {
       "id": "lp60fdc",
@@ -47,7 +53,9 @@
       "price": "$120/night",
       "location": "60th Street, Al Barsha 1",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.111729,
+      "lng": 55.203126
     },
     {
       "id": "lp4b8e1",
@@ -58,7 +66,9 @@
       "price": "$127/night",
       "location": "Kuwait Street",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.24833,
+      "lng": 55.29685
     },
     {
       "id": "lp8a4e6",
@@ -69,7 +79,9 @@
       "price": "$121/night",
       "location": "Al Awir Road E44 on Hatta Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.17417,
+      "lng": 55.419704
     }
   ],
   "slug": "what-are-the-affordable-clean-hotels-in-dubai-with-breakfast-included",

@@ -14,7 +14,9 @@
       "price": "$18/night",
       "location": "Hurgada - Al Ismaileya",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 27.296328,
+      "lng": 33.749177
     },
     {
       "id": "lp655ed8a1",
@@ -25,7 +27,9 @@
       "price": "$23/night",
       "location": "شارع الشيراتون خلف جملة ماركت",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 27.221251,
+      "lng": 33.838674
     },
     {
       "id": "lp656152de",
@@ -36,7 +40,9 @@
       "price": "$41/night",
       "location": "Sheraton Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 27.205698,
+      "lng": 33.844549
     },
     {
       "id": "lp6561517c",
@@ -47,7 +53,9 @@
       "price": "$56/night",
       "location": "Sahl Hashish Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 27.05246,
+      "lng": 33.89821
     },
     {
       "id": "lp655db5d1",
@@ -58,7 +66,9 @@
       "price": "$20/night",
       "location": "Mubarak 7 305B",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 27.278156,
+      "lng": 33.763442
     },
     {
       "id": "lp759a9",
@@ -69,7 +79,9 @@
       "price": "$92/night",
       "location": "El Corniche Street",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 27.245887,
+      "lng": 33.844481
     }
   ],
   "faqs": [

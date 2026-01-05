@@ -14,7 +14,9 @@
       "price": "$279/night",
       "location": "910 E Burnside",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.522923,
+      "lng": -122.656654
     },
     {
       "id": "lp6556d7c8",
@@ -25,7 +27,9 @@
       "price": "$161/night",
       "location": "585 SW 10TH AVENUE",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.52094,
+      "lng": -122.681982
     },
     {
       "id": "lp1debf",
@@ -36,7 +40,9 @@
       "price": "$163/night",
       "location": "729 SW 15th Ave",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.520926,
+      "lng": -122.687497
     },
     {
       "id": "lpa5232",
@@ -47,7 +53,9 @@
       "price": "$154/night",
       "location": "545 SW Taylor St",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 45.517788,
+      "lng": -122.67905
     },
     {
       "id": "lp1dd5c",
@@ -58,7 +66,9 @@
       "price": "$132/night",
       "location": "400 SW Broadway",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.521101,
+      "lng": -122.678482
     },
     {
       "id": "lp20a14",
@@ -69,7 +79,9 @@
       "price": "$105/night",
       "location": "515 Southwest Clay St",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 45.513736,
+      "lng": -122.680745
     }
   ],
   "slug": "cool-boutique-hotels-in-portland-with-rooftop-bars",

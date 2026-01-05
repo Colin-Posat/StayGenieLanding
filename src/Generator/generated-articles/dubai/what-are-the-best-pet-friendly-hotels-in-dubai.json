@@ -14,7 +14,9 @@
       "price": "$450/night",
       "location": "Road Al Garhoud Deira",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.243,
+      "lng": 55.3398
     },
     {
       "id": "lp418e6",
@@ -25,7 +27,9 @@
       "price": "$342/night",
       "location": "2nd Zabeel Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.22681,
+      "lng": 55.28908
     },
     {
       "id": "lp6c79d",
@@ -36,7 +40,9 @@
       "price": "$482/night",
       "location": "Jumeirah Beach Residence - The Walk",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.072777,
+      "lng": 55.128426
     },
     {
       "id": "lp83714",
@@ -47,7 +53,9 @@
       "price": "$179/night",
       "location": "Al Mina Road",
       "tags": [],
-      "isRefundable": false
+      "isRefundable": false,
+      "lat": 25.24766,
+      "lng": 55.278454
     },
     {
       "id": "lpa6a35",
@@ -58,7 +66,9 @@
       "price": "$300/night",
       "location": "Wadi Al Safa 5, Emirates Road 611",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.079519,
+      "lng": 55.366395
     },
     {
       "id": "lp8371a",
@@ -69,7 +79,9 @@
       "price": "$149/night",
       "location": "Abu Baker Al Siddique Road",
       "tags": [],
-      "isRefundable": true
+      "isRefundable": true,
+      "lat": 25.26475,
+      "lng": 55.33
     }
   ],
   "slug": "what-are-the-best-pet-friendly-hotels-in-dubai",
