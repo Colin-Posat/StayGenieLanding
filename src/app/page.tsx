@@ -395,7 +395,12 @@ export default function Home() {
           </section>
 
           {/* Footer */}
-          <footer className="border-t border-gray-200 py-12 text-center">
+         <footer className="border-t border-gray-200 py-12 text-center space-y-3">
+  <div className="flex justify-center gap-6 text-sm text-gray-600">
+    <a href="/privacy-policy" className="hover:text-gray-900">Privacy Policy</a>
+    <a href="/terms" className="hover:text-gray-900">Terms of Service</a>
+  </div>
+
             <p className="text-sm text-gray-600">
               © {new Date().getFullYear()} StayGenie · Making hotel search magical
             </p>
