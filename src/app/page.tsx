@@ -397,6 +397,7 @@ export default function Home() {
           {/* Footer */}
          <footer className="border-t border-gray-200 py-12 text-center space-y-3">
   <div className="flex justify-center gap-6 text-sm text-gray-600">
+    <a href="/support" className="hover:text-gray-900">Support</a>
     <a href="/privacy-policy" className="hover:text-gray-900">Privacy Policy</a>
     <a href="/terms" className="hover:text-gray-900">Terms of Service</a>
   </div>
